@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Local outputs
+locality_profile_*.json
+policy_recommendations_*.json
+
+# OS/editor
+.DS_Store
+.vscode/
+
