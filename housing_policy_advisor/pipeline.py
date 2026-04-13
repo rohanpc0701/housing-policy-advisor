@@ -10,8 +10,12 @@ from typing import Any, List, Optional
 
 from housing_policy_advisor.data.locality_profile import build_full_input
 from housing_policy_advisor.llm import output_validator
+from housing_policy_advisor.llm.groq_client import complete_prefer_json
+from housing_policy_advisor.llm.policy_response_parser import parse_policy_recommendations_json
 from housing_policy_advisor.models.locality_input import FullLocalityInput
 from housing_policy_advisor.models.policy_output import PolicyRecommendation, PolicyRecommendationsResult
+from housing_policy_advisor.rag import retriever as rag_retriever
+from housing_policy_advisor.rag.prompt_builder import build_policy_prompt, default_retrieval_query
 
 
 def slugify_locality(locality_name: str, state_abbrev: str) -> str:
@@ -120,6 +124,45 @@ def run_recommendations_pipeline(
     return path
 
 
+def run_llm_recommendations_pipeline(
+    locality: FullLocalityInput,
+    *,
+    out_dir: Optional[Path] = None,
+    state_abbr: str = "va",
+    locality_name: str = "",
+    retrieval_k: int = 8,
+) -> Path:
+    """Retrieve RAG chunks, call Groq, parse JSON, validate, and write policy JSON."""
+    out_dir = out_dir or Path(".")
+    name = locality_name or locality.locality_name
+    q = default_retrieval_query(locality)
+    chunk_rows = rag_retriever.retrieve_chunks(q, k=retrieval_k, locality=locality)
+    texts = [str(c.get("text", "")) for c in chunk_rows if c.get("text")]
+    ids = [str(c.get("id", f"idx_{i}")) for i, c in enumerate(chunk_rows)]
+
+    prompt = build_policy_prompt(locality, texts, chunk_ids=ids)
+    raw = complete_prefer_json([{"role": "user", "content": prompt}])
+    parsed = parse_policy_recommendations_json(raw)
+    result: PolicyRecommendationsResult = output_validator.validate(
+        parsed.recommendations,
+        locality,
+        rag_chunks=texts,
+        batch_grounding_score=parsed.grounding_score,
+    )
+
+    slug = slugify_locality(name, state_abbr)
+    path = out_dir / f"policy_recommendations_{slug}.json"
+    payload = {
+        "locality": encode_json(locality),
+        "grounding_score": result.grounding_score,
+        "recommendations": encode_json(result.recommendations),
+        "llm_mode": "groq_rag",
+        "rag_chunk_count": len(texts),
+    }
+    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    return path
+
+
 def run_full(
     *,
     locality_name: str,
@@ -133,9 +176,11 @@ def run_full(
     building_permits_trend: Optional[str] = None,
     building_permits_annual: Optional[int] = None,
     input_only: bool = False,
+    use_llm: bool = False,
+    retrieval_k: int = 8,
     out_dir: Optional[Path] = None,
 ) -> List[Path]:
-    """Build input; optionally write locality JSON only; else write policy JSON with mock recs."""
+    """Build input; optionally write locality JSON only; else policy JSON (mock or Groq+RAG)."""
     fli = build_full_input(
         locality_name=locality_name,
         state_name=state_name,
@@ -165,6 +210,16 @@ def run_full(
             full_locality_input=fli,
         )
         paths.append(p)
+        return paths
+    if use_llm:
+        p2 = run_llm_recommendations_pipeline(
+            fli,
+            out_dir=out_dir,
+            state_abbr=state_abbr,
+            locality_name=locality_name,
+            retrieval_k=retrieval_k,
+        )
+        paths.append(p2)
         return paths
     p2 = run_recommendations_pipeline(
         fli,

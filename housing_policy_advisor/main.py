@@ -34,6 +34,17 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Only write locality_profile_{slug}.json (no mock recommendations)",
     )
+    p.add_argument(
+        "--use-llm",
+        action="store_true",
+        help="Use Chroma RAG + Groq to generate recommendations (requires CHROMA_PERSIST_DIR, GROQ_API_KEY)",
+    )
+    p.add_argument(
+        "--retrieval-k",
+        type=int,
+        default=8,
+        help="Number of RAG chunks to retrieve when using --use-llm",
+    )
     p.add_argument("--out-dir", type=Path, default=Path("."), help="Output directory")
 
     args = p.parse_args(argv)
@@ -41,6 +52,9 @@ def main(argv: list[str] | None = None) -> int:
     has_dept: bool | None = None
     if args.has_housing_dept is not None:
         has_dept = _bool_arg(args.has_housing_dept)
+
+    if args.input_only and args.use_llm:
+        print("Warning: --input-only takes precedence; --use-llm ignored.", file=sys.stderr)
 
     paths = run_full(
         locality_name=args.locality,
@@ -54,6 +68,8 @@ def main(argv: list[str] | None = None) -> int:
         building_permits_trend=args.building_permits_trend,
         building_permits_annual=args.building_permits_annual,
         input_only=args.input_only,
+        use_llm=args.use_llm and not args.input_only,
+        retrieval_k=args.retrieval_k,
         out_dir=args.out_dir,
     )
     for path in paths:

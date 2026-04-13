@@ -73,7 +73,7 @@ def fetch_laus_county_data(
         logger.warning("BLS API status: %s", payload.get("message"))
         return out
 
-    results_list = payload.get("Results") or {}
+    results_list = payload.get("Results") or payload.get("results") or {}
     series_list = results_list.get("series") or []
 
     for ser in series_list:
