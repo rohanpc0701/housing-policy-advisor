@@ -1,4 +1,4 @@
-"""CLI for Housing Policy Advisor — locality input and policy recommendation JSON."""
+"""CLI for Housing Policy Advisor."""
 
 from __future__ import annotations
 
@@ -14,48 +14,22 @@ def _bool_arg(s: str) -> bool:
 
 
 def main(argv: list[str] | None = None) -> int:
-    p = argparse.ArgumentParser(description="Housing Policy Advisor — fetch data and policy JSON")
+    p = argparse.ArgumentParser(description="Housing Policy Advisor")
     p.add_argument("--locality", required=True, help='e.g. "Montgomery County"')
     p.add_argument("--state", required=True, help='e.g. "Virginia"')
     p.add_argument("--state-fips", required=True, help="2-digit state FIPS")
     p.add_argument("--county-fips", required=True, help="3-digit county FIPS")
-    p.add_argument(
-        "--governance-form",
-        default="county",
-        choices=("county", "city", "town", "independent city"),
-    )
-    p.add_argument("--state-abbr", default="va", help="For output filename slug, e.g. va")
-    p.add_argument("--has-housing-dept", default=None, help="true/false")
-    p.add_argument("--housing-dept-name", default=None)
-    p.add_argument("--building-permits-trend", default=None, choices=("increasing", "decreasing", "stable"))
+    p.add_argument("--hud-fips", default=None, help="10-digit HUD FIPS override, e.g. 5112199999")
+    p.add_argument("--governance-form", required=True, help='e.g. "County"')
+    p.add_argument("--state-abbr", default="va")
+    p.add_argument("--housing-dept-present", default=None, help="true/false")
     p.add_argument("--building-permits-annual", type=int, default=None)
-    p.add_argument(
-        "--input-only",
-        action="store_true",
-        help="Only write locality_profile_{slug}.json (no mock recommendations)",
-    )
-    p.add_argument(
-        "--use-llm",
-        action="store_true",
-        help="Use Chroma RAG + Groq to generate recommendations (requires CHROMA_PERSIST_DIR, GROQ_API_KEY)",
-    )
-    p.add_argument(
-        "--retrieval-k",
-        type=int,
-        default=8,
-        help="Number of RAG chunks to retrieve when using --use-llm",
-    )
-    p.add_argument("--out-dir", type=Path, default=Path("."), help="Output directory")
-
+    p.add_argument("--retrieval-k", type=int, default=8)
+    p.add_argument("--format", choices=("json", "pdf", "docx", "all"), default="json")
+    p.add_argument("--out-dir", type=Path, default=Path("."))
     args = p.parse_args(argv)
 
-    has_dept: bool | None = None
-    if args.has_housing_dept is not None:
-        has_dept = _bool_arg(args.has_housing_dept)
-
-    if args.input_only and args.use_llm:
-        print("Warning: --input-only takes precedence; --use-llm ignored.", file=sys.stderr)
-
+    dept_present = _bool_arg(args.housing_dept_present) if args.housing_dept_present is not None else None
     paths = run_full(
         locality_name=args.locality,
         state_name=args.state,
@@ -63,14 +37,12 @@ def main(argv: list[str] | None = None) -> int:
         county_fips=args.county_fips,
         governance_form=args.governance_form,
         state_abbr=args.state_abbr,
-        has_housing_dept=has_dept,
-        housing_dept_name=args.housing_dept_name,
-        building_permits_trend=args.building_permits_trend,
+        hud_fips=args.hud_fips,
+        housing_dept_present=dept_present,
         building_permits_annual=args.building_permits_annual,
-        input_only=args.input_only,
-        use_llm=args.use_llm and not args.input_only,
         retrieval_k=args.retrieval_k,
         out_dir=args.out_dir,
+        output_format=args.format,
     )
     for path in paths:
         print(path.resolve())

@@ -11,10 +11,10 @@ def test_parse_il_nested_extremely_very_low_low():
         "low": {"il80_p4": 52000},
     }
     out = parse_income_limits_payload(payload)
-    assert out["area_median_income"] == 65900
-    assert out["il_30pct_ami_4person"] == 31000
-    assert out["il_50pct_ami_4person"] == 33000
-    assert out["il_80pct_ami_4person"] == 52000
+    assert out["ami_100pct"] == 65900
+    assert out["ami_30pct"] == 31000
+    assert out["ami_50pct"] == 33000
+    assert out["ami_80pct"] == 52000
 
 
 def test_parse_il_flat_fallback():
@@ -25,5 +25,5 @@ def test_parse_il_flat_fallback():
         "il80_p4": 56000,
     }
     out = parse_income_limits_payload(payload)
-    assert out["area_median_income"] == 70000
-    assert out["il_30pct_ami_4person"] == 21000
+    assert out["ami_100pct"] == 70000
+    assert out["ami_30pct"] == 21000

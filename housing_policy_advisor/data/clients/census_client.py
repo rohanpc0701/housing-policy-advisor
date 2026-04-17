@@ -94,7 +94,7 @@ def fetch_acs_county_data(
 
     Returns a dict with only populated keys (merge into FullLocalityInput in locality_profile).
     """
-    api_key = api_key or config.CENSUS_API_KEY
+    api_key = (api_key or config.CENSUS_API_KEY or "").strip() or None
     out: Dict[str, Any] = {}
 
     # One request for current year: demographics, units, tenure, structure, year built, rent, burden

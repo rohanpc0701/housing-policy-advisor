@@ -1,11 +1,4 @@
-"""
-BLS LAUS county series: unemployment rate and employment level.
-
-Series: LAUCN{SS}{CCC}00000000{measure}
-  SS = state FIPS 2 digits, CCC = county FIPS 3 digits
-  measure 3 = unemployment rate (percent, e.g. 3.2)
-  measure 5 = employment
-"""
+"""BLS LAUS county series: unemployment, employment, and labor force."""
 
 from __future__ import annotations
 
@@ -41,20 +34,19 @@ def fetch_laus_county_data(
     county_fips: str,
     api_key: Optional[str] = None,
 ) -> Dict[str, Any]:
-    """
-    Latest unemployment rate (0.0–1.0 fraction) and employment count for the county.
-    """
+    """Latest unemployment rate (fraction), employment level, and labor force."""
     api_key = api_key or config.BLS_API_KEY
     out: Dict[str, Any] = {}
     if not api_key:
         logger.warning("BLS_API_KEY not set; skipping BLS requests")
         return out
 
-    s3 = _laus_series_id(state_fips, county_fips, 3)
-    s5 = _laus_series_id(state_fips, county_fips, 5)
+    s3 = _laus_series_id(state_fips, county_fips, 3)  # unemployment rate (%)
+    s4 = _laus_series_id(state_fips, county_fips, 4)  # labor force
+    s5 = _laus_series_id(state_fips, county_fips, 5)  # employment
 
     body = {
-        "seriesid": [s3, s5],
+        "seriesid": [s3, s4, s5],
         "registrationKey": api_key,
         "calculations": False,
         "annualaverage": False,
@@ -90,7 +82,9 @@ def fetch_laus_county_data(
         if sid == s3:
             # BLS publishes unemployment as a percent (e.g. 3.2); store as fraction
             out["unemployment_rate"] = fval / 100.0
+        elif sid == s4:
+            out["labor_force"] = int(round(fval))
         elif sid == s5:
-            out["regional_employment_estimate"] = int(round(fval))
+            out["employment_level"] = int(round(fval))
 
     return out

@@ -1,7 +1,7 @@
-"""LLM policy recommendation output."""
+"""Structured policy advisor output models."""
 
 from dataclasses import dataclass, field
-from typing import List, Optional
+from typing import List
 
 
 @dataclass
@@ -9,18 +9,25 @@ class PolicyRecommendation:
     rank: int
     policy_name: str
     predicted_outcome: str
-    confidence_score: float  # 0.0 to 1.0
-    evidence_basis: List[str]  # RAG chunk citations
-    comparable_communities: List[str]  # Communities with similar profiles
+    confidence_score: float
+    evidence_basis: List[str]
     implementation_timeline: str
-    resource_requirements: str  # "Low" | "Medium" | "High"
-    risks: List[str]
-    validation_flags: List[str] = field(default_factory=list)  # Empty if all checks pass
+    resource_requirements: str
+    risks: str
+    validation_flags: List[str] = field(default_factory=list)
+
+
+@dataclass
+class ValidationSummary:
+    grounding_score: float
+    avg_confidence: float
+    completeness: float
+    passed: bool
 
 
 @dataclass
 class PolicyRecommendationsResult:
-    """Batch result from the policy advisor pipeline."""
-
+    locality: str
+    generated_date: str
     recommendations: List[PolicyRecommendation]
-    grounding_score: Optional[float] = None  # 0.0–1.0 when computed or supplied by LLM
+    validation_summary: ValidationSummary

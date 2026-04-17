@@ -26,9 +26,8 @@ def build_full_input(
     state_fips: str,
     county_fips: str,
     governance_form: str,
-    has_housing_dept: Optional[bool] = None,
-    housing_dept_name: Optional[str] = None,
-    building_permits_trend: Optional[str] = None,
+    hud_fips: Optional[str] = None,
+    housing_dept_present: Optional[bool] = None,
     building_permits_annual: Optional[int] = None,
     census_api_key: Optional[str] = None,
     hud_token: Optional[str] = None,
@@ -37,10 +36,10 @@ def build_full_input(
     """
     Call Census, HUD, and BLS clients and merge into FullLocalityInput.
 
-    Manual fields (housing dept, permits) override or fill gaps from APIs.
+    Manual fields override/fill gaps from APIs.
     """
     census = fetch_acs_county_data(state_fips, county_fips, census_api_key)
-    hud = fetch_hud_county_data(state_fips, county_fips, hud_token)
+    hud = fetch_hud_county_data(state_fips, county_fips, hud_fips=hud_fips, token=hud_token)
     bls = fetch_laus_county_data(state_fips, county_fips, bls_api_key)
 
     merged: Dict[str, Any] = {}
@@ -54,9 +53,8 @@ def build_full_input(
         state_fips=state_fips,
         county_fips=county_fips,
         governance_form=governance_form,
-        has_housing_dept=has_housing_dept,
-        housing_dept_name=housing_dept_name,
-        building_permits_trend=building_permits_trend,
+        hud_fips=hud_fips,
+        housing_dept_present=housing_dept_present,
         building_permits_annual=building_permits_annual,
     )
 
@@ -66,12 +64,8 @@ def build_full_input(
     result = _merge_dataclass(base, filtered)
 
     # Manual overrides (explicit non-None wins)
-    if has_housing_dept is not None:
-        result.has_housing_dept = has_housing_dept
-    if housing_dept_name is not None:
-        result.housing_dept_name = housing_dept_name
-    if building_permits_trend is not None:
-        result.building_permits_trend = building_permits_trend
+    if housing_dept_present is not None:
+        result.housing_dept_present = housing_dept_present
     if building_permits_annual is not None:
         result.building_permits_annual = building_permits_annual
 

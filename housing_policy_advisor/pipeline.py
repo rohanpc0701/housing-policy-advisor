@@ -1,166 +1,112 @@
-"""Orchestrate locality input build, optional mock recommendations, and validation."""
+"""End-to-end pipeline orchestration."""
 
 from __future__ import annotations
 
 import json
-import re
-from dataclasses import asdict, is_dataclass
+from dataclasses import asdict
 from pathlib import Path
-from typing import Any, List, Optional
+from typing import Any, Dict, List, Optional
 
 from housing_policy_advisor.data.locality_profile import build_full_input
-from housing_policy_advisor.llm import output_validator
-from housing_policy_advisor.llm.groq_client import complete_prefer_json
-from housing_policy_advisor.llm.policy_response_parser import parse_policy_recommendations_json
+from housing_policy_advisor.llm.policy_advisor import PolicyAdvisor
 from housing_policy_advisor.models.locality_input import FullLocalityInput
-from housing_policy_advisor.models.policy_output import PolicyRecommendation, PolicyRecommendationsResult
-from housing_policy_advisor.rag import retriever as rag_retriever
-from housing_policy_advisor.rag.prompt_builder import build_policy_prompt, default_retrieval_query
+from housing_policy_advisor.models.policy_output import PolicyRecommendationsResult
 
 
 def slugify_locality(locality_name: str, state_abbrev: str) -> str:
-    """Normalized filename slug: montgomery_county_va."""
-    return f"{re.sub(r'[^a-z0-9]+', '_', locality_name.lower()).strip('_')}_{state_abbrev.lower().strip()}"
+    cleaned = "".join(ch.lower() if ch.isalnum() else "_" for ch in locality_name).strip("_")
+    return f"{cleaned}_{state_abbrev.lower().strip()}"
 
 
-def encode_json(obj: Any) -> Any:
-    """JSON-serializable dict/list tree from dataclasses."""
-    if is_dataclass(obj):
-        return {k: encode_json(v) for k, v in asdict(obj).items()}
+def to_json_tree(obj: Any) -> Any:
     if isinstance(obj, dict):
-        return {k: encode_json(v) for k, v in obj.items()}
+        return {k: to_json_tree(v) for k, v in obj.items()}
     if isinstance(obj, list):
-        return [encode_json(x) for x in obj]
+        return [to_json_tree(v) for v in obj]
+    if hasattr(obj, "__dataclass_fields__"):
+        return to_json_tree(asdict(obj))
     return obj
 
 
-def run_input_only(
+def build_locality_profile(
     *,
     locality_name: str,
     state_name: str,
     state_fips: str,
     county_fips: str,
     governance_form: str,
-    has_housing_dept: Optional[bool] = None,
-    housing_dept_name: Optional[str] = None,
-    building_permits_trend: Optional[str] = None,
-    building_permits_annual: Optional[int] = None,
-    out_dir: Optional[Path] = None,
-    state_abbr: str = "va",
-    full_locality_input: Optional[FullLocalityInput] = None,
-) -> Path:
-    """Build FullLocalityInput (unless provided) and write locality_profile_{slug}.json."""
-    fli = full_locality_input or build_full_input(
+    hud_fips: Optional[str],
+    housing_dept_present: Optional[bool],
+    building_permits_annual: Optional[int],
+) -> FullLocalityInput:
+    return build_full_input(
         locality_name=locality_name,
         state_name=state_name,
         state_fips=state_fips,
         county_fips=county_fips,
         governance_form=governance_form,
-        has_housing_dept=has_housing_dept,
-        housing_dept_name=housing_dept_name,
-        building_permits_trend=building_permits_trend,
+        hud_fips=hud_fips,
+        housing_dept_present=housing_dept_present,
         building_permits_annual=building_permits_annual,
     )
-    out_dir = out_dir or Path(".")
-    slug = slugify_locality(locality_name, state_abbr)
-    path = out_dir / f"locality_profile_{slug}.json"
-    path.write_text(json.dumps(encode_json(fli), indent=2), encoding="utf-8")
-    return path
 
 
-def mock_policy_recommendations(locality: FullLocalityInput) -> List[PolicyRecommendation]:
-    """Placeholder recommendations to exercise output_validator without Groq."""
-    pop = locality.population_estimate or 0
-    inc = locality.median_household_income or 0
-    evidence = (
-        f"Local context: population ~{pop}, median household income ~{inc}. "
-        "Evidence chunk: inclusionary zoning case study (comparable mid-size county)."
-    )
-    return [
-        PolicyRecommendation(
-            rank=1,
-            policy_name="Inclusionary zoning or linkage fee",
-            predicted_outcome=(
-                "The inclusionary zoning case study (comparable mid-size county) supports moderate "
-                f"affordable unit production where population is near {pop} and median household income near {inc}. "
-                f"Local context: population ~{pop}, median household income ~{inc}."
-            ),
-            confidence_score=0.72,
-            evidence_basis=[evidence],
-            comparable_communities=[
-                f"Peer A, population {int(pop * 0.95)}, MHI {int(inc * 1.05)}",
-                f"Peer B, population {int(pop * 1.08)}, MHI {int(inc * 0.92)}",
-            ],
-            implementation_timeline="2–4 years for ordinance adoption and early pipeline",
-            resource_requirements="Medium",
-            risks=["Political opposition", "Legal review"],
-            validation_flags=[],
+def generate_policy_recommendations(
+    *,
+    locality: FullLocalityInput,
+    retrieval_k: int,
+) -> PolicyRecommendationsResult:
+    return PolicyAdvisor(retrieval_k=retrieval_k).generate(locality)
+
+
+def _legacy_report_adapter(result: PolicyRecommendationsResult, locality: FullLocalityInput) -> Dict[str, Any]:
+    rec_lines = []
+    for rec in result.recommendations:
+        rec_lines.append(
+            f"Recommendation {rec.rank}: {rec.policy_name}\n"
+            f"Outcome: {rec.predicted_outcome}\n"
+            f"Timeline: {rec.implementation_timeline}\n"
+            f"Resources: {rec.resource_requirements}\n"
+            f"Risks: {rec.risks}\n"
+            f"Evidence: {', '.join(rec.evidence_basis)}\n"
         )
-    ]
-
-
-def run_recommendations_pipeline(
-    locality: FullLocalityInput,
-    *,
-    recommendations: Optional[List[PolicyRecommendation]] = None,
-    rag_chunks: Optional[List[str]] = None,
-    out_dir: Optional[Path] = None,
-    state_abbr: str = "va",
-    locality_name: str = "",
-) -> Path:
-    """Validate recommendations and write policy_recommendations_{slug}.json."""
-    recs = recommendations if recommendations is not None else mock_policy_recommendations(locality)
-    name = locality_name or locality.locality_name
-    result: PolicyRecommendationsResult = output_validator.validate(recs, locality, rag_chunks=rag_chunks)
-    out_dir = out_dir or Path(".")
-    slug = slugify_locality(name, state_abbr)
-    path = out_dir / f"policy_recommendations_{slug}.json"
-    payload = {
-        "locality": encode_json(locality),
-        "grounding_score": result.grounding_score,
-        "recommendations": encode_json(result.recommendations),
+    return {
+        "locality_name": result.locality,
+        "state": locality.state_name,
+        "generated_date": result.generated_date,
+        "housing_challenges": "Derived from structured locality profile and retrieved evidence.",
+        "policy_recommendations": "\n\n".join(rec_lines),
+        "validation_summary": asdict(result.validation_summary),
     }
-    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    return path
 
 
-def run_llm_recommendations_pipeline(
-    locality: FullLocalityInput,
+def _try_render_legacy_outputs(
     *,
-    out_dir: Optional[Path] = None,
-    state_abbr: str = "va",
-    locality_name: str = "",
-    retrieval_k: int = 8,
-) -> Path:
-    """Retrieve RAG chunks, call Groq, parse JSON, validate, and write policy JSON."""
-    out_dir = out_dir or Path(".")
-    name = locality_name or locality.locality_name
-    q = default_retrieval_query(locality)
-    chunk_rows = rag_retriever.retrieve_chunks(q, k=retrieval_k, locality=locality)
-    texts = [str(c.get("text", "")) for c in chunk_rows if c.get("text")]
-    ids = [str(c.get("id", f"idx_{i}")) for i, c in enumerate(chunk_rows)]
+    output_format: str,
+    result: PolicyRecommendationsResult,
+    locality: FullLocalityInput,
+    out_dir: Path,
+    base_name: str,
+) -> List[Path]:
+    paths: List[Path] = []
+    if output_format not in ("pdf", "docx", "all"):
+        return paths
+    try:
+        from housing_policy_advisor.past_code.src.output.docx_generator import DOCXGenerator
+        from housing_policy_advisor.past_code.src.output.pdf_generator import PDFGenerator
+    except Exception:
+        return paths
 
-    prompt = build_policy_prompt(locality, texts, chunk_ids=ids)
-    raw = complete_prefer_json([{"role": "user", "content": prompt}])
-    parsed = parse_policy_recommendations_json(raw)
-    result: PolicyRecommendationsResult = output_validator.validate(
-        parsed.recommendations,
-        locality,
-        rag_chunks=texts,
-        batch_grounding_score=parsed.grounding_score,
-    )
-
-    slug = slugify_locality(name, state_abbr)
-    path = out_dir / f"policy_recommendations_{slug}.json"
-    payload = {
-        "locality": encode_json(locality),
-        "grounding_score": result.grounding_score,
-        "recommendations": encode_json(result.recommendations),
-        "llm_mode": "groq_rag",
-        "rag_chunk_count": len(texts),
-    }
-    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    return path
+    legacy_payload = _legacy_report_adapter(result, locality)
+    if output_format in ("pdf", "all"):
+        pdf_path = out_dir / f"{base_name}.pdf"
+        PDFGenerator().generate_pdf(legacy_payload, output_path=pdf_path)
+        paths.append(pdf_path)
+    if output_format in ("docx", "all"):
+        docx_path = out_dir / f"{base_name}.docx"
+        DOCXGenerator().generate_docx(legacy_payload, output_path=docx_path)
+        paths.append(docx_path)
+    return paths
 
 
 def run_full(
@@ -171,61 +117,41 @@ def run_full(
     county_fips: str,
     governance_form: str,
     state_abbr: str,
-    has_housing_dept: Optional[bool] = None,
-    housing_dept_name: Optional[str] = None,
-    building_permits_trend: Optional[str] = None,
+    hud_fips: Optional[str] = None,
+    housing_dept_present: Optional[bool] = None,
     building_permits_annual: Optional[int] = None,
-    input_only: bool = False,
-    use_llm: bool = False,
     retrieval_k: int = 8,
     out_dir: Optional[Path] = None,
+    output_format: str = "json",
 ) -> List[Path]:
-    """Build input; optionally write locality JSON only; else policy JSON (mock or Groq+RAG)."""
-    fli = build_full_input(
+    out_dir = out_dir or Path(".")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    slug = slugify_locality(locality_name, state_abbr)
+
+    locality = build_locality_profile(
         locality_name=locality_name,
         state_name=state_name,
         state_fips=state_fips,
         county_fips=county_fips,
         governance_form=governance_form,
-        has_housing_dept=has_housing_dept,
-        housing_dept_name=housing_dept_name,
-        building_permits_trend=building_permits_trend,
+        hud_fips=hud_fips,
+        housing_dept_present=housing_dept_present,
         building_permits_annual=building_permits_annual,
     )
-    paths: List[Path] = []
-    out_dir = out_dir or Path(".")
-    if input_only:
-        p = run_input_only(
-            locality_name=locality_name,
-            state_name=state_name,
-            state_fips=state_fips,
-            county_fips=county_fips,
-            governance_form=governance_form,
-            has_housing_dept=has_housing_dept,
-            housing_dept_name=housing_dept_name,
-            building_permits_trend=building_permits_trend,
-            building_permits_annual=building_permits_annual,
+    result = generate_policy_recommendations(locality=locality, retrieval_k=retrieval_k)
+    payload = to_json_tree(result)
+    payload["locality_profile"] = to_json_tree(locality)
+
+    json_path = out_dir / f"policy_recommendations_{slug}.json"
+    json_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    written = [json_path]
+    written.extend(
+        _try_render_legacy_outputs(
+            output_format=output_format,
+            result=result,
+            locality=locality,
             out_dir=out_dir,
-            state_abbr=state_abbr,
-            full_locality_input=fli,
+            base_name=f"policy_recommendations_{slug}",
         )
-        paths.append(p)
-        return paths
-    if use_llm:
-        p2 = run_llm_recommendations_pipeline(
-            fli,
-            out_dir=out_dir,
-            state_abbr=state_abbr,
-            locality_name=locality_name,
-            retrieval_k=retrieval_k,
-        )
-        paths.append(p2)
-        return paths
-    p2 = run_recommendations_pipeline(
-        fli,
-        out_dir=out_dir,
-        state_abbr=state_abbr,
-        locality_name=locality_name,
     )
-    paths.append(p2)
-    return paths
+    return written
