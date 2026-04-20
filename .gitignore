@@ -17,4 +17,11 @@ policy_recommendations_*.json
 
 # Tests
 .pytest_cache/
+.coverage
+
+# Vector store (built locally via ingest CLI)
+chroma_db/
+
+# Legacy scratch code (not part of active package)
+housing_policy_advisor/past_code/
 

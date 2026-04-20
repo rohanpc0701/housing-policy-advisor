@@ -15,9 +15,22 @@ CHROMA_COLLECTION_NAME = os.getenv("CHROMA_COLLECTION_NAME", "housing_policy_chu
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIM = 384
 
+# Ingestion defaults
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
+
+_REPO_ROOT = Path(__file__).parent.parent
+DEFAULT_PDF_SOURCES: dict = {
+    "academic": _REPO_ROOT / "corpus" / "academic",
+    "case_studies": _REPO_ROOT / "corpus" / "case_studies",
+    "fed_regulatory": _REPO_ROOT / "corpus" / "Fed_and_regulatory",
+    "implementation_toolkit": _REPO_ROOT / "corpus" / "implementation_toolkit",
+}
+
 
 def chroma_persist_path() -> Path:
     return Path(CHROMA_PERSIST_DIR).expanduser().resolve()
+
 
 # ACS dataset year (5-year estimates)
 ACS_YEAR = 2022
