@@ -41,7 +41,6 @@ def _persistent_client():
 
 def _get_collection():
     client = _persistent_client()
-    ef = _embedding_function()
     name = config.CHROMA_COLLECTION_NAME
     names = {c.name for c in client.list_collections()}
     if name not in names:
@@ -50,7 +49,10 @@ def _get_collection():
             f"Available collections: {sorted(names) or '(none)'}. "
             "Build or copy the vector DB, or set CHROMA_COLLECTION_NAME."
         )
-    return client.get_collection(name=name, embedding_function=ef)
+    # Do not pass a new embedding function when opening an existing collection.
+    # Newer Chroma versions enforce embedding-function consistency and will raise
+    # if the persisted collection already has an embedding function configured.
+    return client.get_collection(name=name)
 
 
 def retrieve_chunks(

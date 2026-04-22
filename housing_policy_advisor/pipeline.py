@@ -7,6 +7,7 @@ from dataclasses import asdict
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+from housing_policy_advisor import config
 from housing_policy_advisor.data.locality_profile import build_full_input
 from housing_policy_advisor.llm.policy_advisor import PolicyAdvisor
 from housing_policy_advisor.models.locality_input import FullLocalityInput
@@ -48,6 +49,9 @@ def build_locality_profile(
         hud_fips=hud_fips,
         housing_dept_present=housing_dept_present,
         building_permits_annual=building_permits_annual,
+        census_api_key=config.CENSUS_API_KEY,
+        hud_token=config.HUD_API_TOKEN,
+        bls_api_key=config.BLS_API_KEY,
     )
 
 

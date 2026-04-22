@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from typing import List
 
+from housing_policy_advisor import config
 from housing_policy_advisor.models.policy_output import PolicyRecommendation, ValidationSummary
 
 
@@ -39,15 +40,15 @@ def compute_validation_summary(
             complete_items += 1
         if not required_ok and "incomplete_fields" not in rec.validation_flags:
             rec.validation_flags.append("incomplete_fields")
-        if rec.confidence_score < 0.35 and "very_low_confidence" not in rec.validation_flags:
+        if rec.confidence_score < config.CONFIDENCE_THRESHOLD and "very_low_confidence" not in rec.validation_flags:
             rec.validation_flags.append("very_low_confidence")
 
     completeness = complete_items / len(recommendations)
     passed = (
         len(recommendations) >= 3
-        and clipped_grounding >= 0.5
-        and avg_confidence >= 0.45
-        and completeness >= 0.95
+        and clipped_grounding >= config.GROUNDING_THRESHOLD
+        and avg_confidence >= config.CONFIDENCE_THRESHOLD
+        and completeness >= 1.0
     )
     return ValidationSummary(
         grounding_score=clipped_grounding,

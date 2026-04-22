@@ -4,7 +4,8 @@ import os
 from pathlib import Path
 
 CENSUS_API_KEY = os.getenv("CENSUS_API_KEY")
-HUD_API_TOKEN = os.getenv("HUD_API_TOKEN")
+# Support both names; HUD_TOKEN appears in project docs and older setups.
+HUD_API_TOKEN = os.getenv("HUD_API_TOKEN") or os.getenv("HUD_TOKEN")
 BLS_API_KEY = os.getenv("BLS_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 

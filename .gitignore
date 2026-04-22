@@ -11,6 +11,10 @@ pip-wheel-metadata/
 locality_profile_*.json
 policy_recommendations_*.json
 
+# Secrets
+.env
+.env.*
+
 # OS/editor
 .DS_Store
 .vscode/
