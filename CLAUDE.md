@@ -20,7 +20,7 @@ python3 -m housing_policy_advisor \
   --state-fips 51 --county-fips 121 \
   --governance-form county --state-abbr va \
   --housing-dept-present true --building-permits-annual 250 \
-  --retrieval-k 8 --format json --out-dir .
+  --retrieval-k 8 --out-dir .
 
 # Build vector store from PDF corpus
 python3 -m housing_policy_advisor.rag.ingest \

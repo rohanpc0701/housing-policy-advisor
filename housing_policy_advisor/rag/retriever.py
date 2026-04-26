@@ -67,13 +67,13 @@ PROFILE_POLICY_QUERIES: Dict[str, List[str]] = {
         "landlord recruitment retention voucher",
     ],
     "SUBURBAN_GROWING": [
-        "mixed income housing development",
-        "land bank vacant property redevelopment",
-        "missing middle housing zoning reform",
-        "housing choice voucher landlord recruitment",
-        "workforce housing programs",
-        "down payment assistance moderate income",
-        "code enforcement rental registry",
+        "transit oriented development housing suburb",
+        "adequate public facilities ordinance growth management",
+        "accessory dwelling unit single family suburban zone",
+        "large lot zoning reform missing middle suburban",
+        "workforce housing fast growing county suburb",
+        "infrastructure capacity housing development impact fees",
+        "suburban infill redevelopment affordable housing",
     ],
 }
 
@@ -89,8 +89,13 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
     homeownership = locality.homeownership_rate
     governance_form = (locality.governance_form or "").lower()
 
-    # COLLEGE_TOWN: moderate population, low homeownership
-    if pop is not None and pop > 20_000 and homeownership is not None and homeownership < 0.45:
+    # COLLEGE_TOWN: moderate population (bounded to avoid large cities), low homeownership
+    if (
+        pop is not None
+        and 15_000 < pop < 120_000
+        and homeownership is not None
+        and homeownership < 0.45
+    ):
         return "COLLEGE_TOWN"
 
     # URBAN_HIGH_COST: large population AND high income

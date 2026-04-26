@@ -25,7 +25,6 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--housing-dept-present", default=None, help="true/false")
     p.add_argument("--building-permits-annual", type=int, default=None)
     p.add_argument("--retrieval-k", type=int, default=15)
-    p.add_argument("--format", choices=("json", "pdf", "docx", "all"), default="json")
     p.add_argument("--out-dir", type=Path, default=Path("."))
     args = p.parse_args(argv)
 
@@ -42,7 +41,6 @@ def main(argv: list[str] | None = None) -> int:
         building_permits_annual=args.building_permits_annual,
         retrieval_k=args.retrieval_k,
         out_dir=args.out_dir,
-        output_format=args.format,
     )
     for path in paths:
         print(path.resolve())
