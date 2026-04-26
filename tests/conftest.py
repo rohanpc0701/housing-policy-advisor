@@ -42,7 +42,7 @@ def sample_recommendation() -> PolicyRecommendation:
         evidence_basis=["HUD study 2021", "Local pilot data"],
         implementation_timeline="2 years",
         resource_requirements="Moderate staff capacity",
-        risks="Developer pushback",
+        risks=["Developer pushback"],
     )
 
 

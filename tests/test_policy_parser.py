@@ -19,7 +19,7 @@ def test_parse_policy_json_roundtrip():
                     "evidence_basis": ["[CHUNK_0] quote"],
                     "implementation_timeline": "1 year",
                     "resource_requirements": "Low",
-                    "risks": "Risk",
+                    "risks": ["Risk"],
                     "validation_flags": [],
                 }
             ],
@@ -35,11 +35,13 @@ def test_parse_policy_json_roundtrip():
     assert result.validation_summary.grounding_score == 0.9
     assert len(result.recommendations) == 1
     assert result.recommendations[0].policy_name == "Test policy"
+    assert result.recommendations[0].risks == ["Risk"]
 
 
 def test_parse_fenced_json():
     text = """```json
-{"locality": "L", "generated_date": "2026-04-16", "recommendations": [{"rank": 1, "policy_name": "P", "predicted_outcome": "O", "confidence_score": 0.6, "evidence_basis": ["e"], "implementation_timeline": "t", "resource_requirements": "Medium", "risks": "r", "validation_flags": []}], "validation_summary": {"grounding_score": 0.8, "avg_confidence": 0.6, "completeness": 1.0, "passed": true}}
+{"locality": "L", "generated_date": "2026-04-16", "recommendations": [{"rank": 1, "policy_name": "P", "predicted_outcome": "O", "confidence_score": 0.6, "evidence_basis": ["e"], "implementation_timeline": "t", "resource_requirements": "Medium", "risks": ["r"], "validation_flags": []}], "validation_summary": {"grounding_score": 0.8, "avg_confidence": 0.6, "completeness": 1.0, "passed": true}}
 ```"""
     result = parse_policy_recommendations_json(text)
     assert result.recommendations[0].policy_name == "P"
+    assert result.recommendations[0].risks == ["r"]

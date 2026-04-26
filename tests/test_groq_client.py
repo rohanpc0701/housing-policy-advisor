@@ -32,7 +32,8 @@ def test_complete_sends_bearer_token():
         captured_headers.update(headers)
         return _mock_success_response('{"result": "ok"}')
 
-    with patch.object(config, "GROQ_API_KEY", "test-key-123"), \
+    with patch.object(config, "LLM_PROVIDER", "groq"), \
+         patch.object(config, "GROQ_API_KEY", "test-key-123"), \
          patch("housing_policy_advisor.llm.groq_client.httpx.Client") as MockClient:
         instance = MockClient.return_value.__enter__.return_value
         instance.post.side_effect = fake_post
@@ -44,7 +45,8 @@ def test_complete_sends_bearer_token():
 
 
 def test_complete_no_api_key_raises():
-    with patch.object(config, "GROQ_API_KEY", None):
+    with patch.object(config, "LLM_PROVIDER", "groq"), \
+         patch.object(config, "GROQ_API_KEY", None):
         from housing_policy_advisor.llm.groq_client import complete
         with pytest.raises(RuntimeError, match="GROQ_API_KEY"):
             complete([{"role": "user", "content": "hello"}])
@@ -60,7 +62,8 @@ def test_complete_prefer_json_retries_on_400():
             raise _make_http_error(400)
         return _mock_success_response('{"ok": true}')
 
-    with patch.object(config, "GROQ_API_KEY", "key"), \
+    with patch.object(config, "LLM_PROVIDER", "groq"), \
+         patch.object(config, "GROQ_API_KEY", "key"), \
          patch("housing_policy_advisor.llm.groq_client.httpx.Client") as MockClient:
         instance = MockClient.return_value.__enter__.return_value
         instance.post.side_effect = fake_post
@@ -82,7 +85,8 @@ def test_complete_prefer_json_retries_on_422():
             raise _make_http_error(422)
         return _mock_success_response('{"ok": true}')
 
-    with patch.object(config, "GROQ_API_KEY", "key"), \
+    with patch.object(config, "LLM_PROVIDER", "groq"), \
+         patch.object(config, "GROQ_API_KEY", "key"), \
          patch("housing_policy_advisor.llm.groq_client.httpx.Client") as MockClient:
         instance = MockClient.return_value.__enter__.return_value
         instance.post.side_effect = fake_post
@@ -97,7 +101,8 @@ def test_complete_prefer_json_reraises_non_400():
     def fake_post(url, headers, json, timeout):
         raise _make_http_error(500)
 
-    with patch.object(config, "GROQ_API_KEY", "key"), \
+    with patch.object(config, "LLM_PROVIDER", "groq"), \
+         patch.object(config, "GROQ_API_KEY", "key"), \
          patch("housing_policy_advisor.llm.groq_client.httpx.Client") as MockClient:
         instance = MockClient.return_value.__enter__.return_value
         instance.post.side_effect = fake_post

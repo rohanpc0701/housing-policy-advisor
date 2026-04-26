@@ -32,7 +32,7 @@ def compute_validation_summary(
                 str(rec.predicted_outcome).strip(),
                 str(rec.implementation_timeline).strip(),
                 str(rec.resource_requirements).strip(),
-                str(rec.risks).strip(),
+                isinstance(rec.risks, list) and len(rec.risks) > 0 and all(str(r).strip() for r in rec.risks),
                 isinstance(rec.evidence_basis, list) and len(rec.evidence_basis) > 0,
             ]
         )

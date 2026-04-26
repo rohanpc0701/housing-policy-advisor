@@ -13,7 +13,7 @@ def test_summary_flags_low_confidence():
         evidence_basis=["evidence"],
         implementation_timeline="1y",
         resource_requirements="Low",
-        risks="Risk",
+        risks=["Risk"],
     )
     summary = compute_validation_summary([rec], grounding_score=0.8)
     assert any("very_low_confidence" in f for f in rec.validation_flags)
@@ -30,7 +30,7 @@ def test_summary_requires_minimum_three_recommendations():
             evidence_basis=["evidence"],
             implementation_timeline="1y",
             resource_requirements="Low",
-            risks="Risk",
+            risks=["Risk"],
         )
         for i in range(2)
     ]

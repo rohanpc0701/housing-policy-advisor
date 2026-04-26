@@ -74,6 +74,10 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
     if not isinstance(evidence_basis, list):
         raise ValueError("evidence_basis must be a list")
 
+    risks = item["risks"]
+    if not isinstance(risks, list):
+        raise ValueError("risks must be a list")
+
     flags = item.get("validation_flags") or []
     if not isinstance(flags, list):
         raise ValueError("validation_flags must be a list")
@@ -89,7 +93,7 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
         evidence_basis=[str(x) for x in evidence_basis],
         implementation_timeline=str(item["implementation_timeline"]),
         resource_requirements=str(item["resource_requirements"]),
-        risks=str(item["risks"]),
+        risks=[str(x) for x in risks],
         state_of_implementation=state_of_implementation,
         validation_flags=[str(x) for x in flags],
     )
@@ -109,7 +113,7 @@ def policy_json_schema_instructions() -> str:
       "evidence_basis": ["<RAG citation strings>"],
       "implementation_timeline": "<string>",
       "resource_requirements": "Low" | "Medium" | "High",
-      "risks": "<string>",
+      "risks": ["<string>"],
       "state_of_implementation": "<state name or null>",
       "validation_flags": []
     }

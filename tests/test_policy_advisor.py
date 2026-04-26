@@ -22,7 +22,7 @@ _MINIMAL_RESPONSE = json.dumps({
             "evidence_basis": ["Study A"],
             "implementation_timeline": "2 years",
             "resource_requirements": "Moderate",
-            "risks": "Developer resistance",
+            "risks": ["Developer resistance"],
             "validation_flags": [],
         },
         {
@@ -33,7 +33,7 @@ _MINIMAL_RESPONSE = json.dumps({
             "evidence_basis": ["Study B"],
             "implementation_timeline": "1 year",
             "resource_requirements": "Low",
-            "risks": "Neighborhood opposition",
+            "risks": ["Neighborhood opposition"],
             "validation_flags": [],
         },
         {
@@ -44,7 +44,7 @@ _MINIMAL_RESPONSE = json.dumps({
             "evidence_basis": ["Report C"],
             "implementation_timeline": "6 months",
             "resource_requirements": "Low",
-            "risks": "Revenue loss",
+            "risks": ["Revenue loss"],
             "validation_flags": [],
         },
     ],

@@ -13,7 +13,7 @@ class PolicyRecommendation:
     evidence_basis: List[str]
     implementation_timeline: str
     resource_requirements: str
-    risks: str
+    risks: List[str]
     state_of_implementation: Optional[str] = None
     validation_flags: List[str] = field(default_factory=list)
 

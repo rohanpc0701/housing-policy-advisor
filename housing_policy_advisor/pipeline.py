@@ -72,7 +72,7 @@ def _legacy_report_adapter(result: PolicyRecommendationsResult, locality: FullLo
             f"Outcome: {rec.predicted_outcome}\n"
             f"Timeline: {rec.implementation_timeline}\n"
             f"Resources: {rec.resource_requirements}\n"
-            f"Risks: {rec.risks}\n"
+            f"Risks: {', '.join(rec.risks)}\n"
             f"Evidence: {', '.join(rec.evidence_basis)}\n"
         )
     return {
