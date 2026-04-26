@@ -1,0 +1,122 @@
+Title: Demolition of neglected properties
+Source: https://www.localhousingsolutions.org/housing-policy-library/demolition-of-neglected-properties/
+
+Some localities focus on demolitions of individual blighted properties to mitigate the likelihood of property value declines in surrounding properties, demolitions to make room for green infrastructure or other reuse options, or demolitions as a part of planned shrinkages to save costs on public services. This brief provides information on setting objectives for a local demolition strategy, establishing the procedures and legal mechanisms to carry-out demolitions effectively, securing the funding required for demolition, and repurposing sites after demolition.
+Approach
+This brief focuses on demolitions conducted by local governments in areas with weaker housing markets that have experienced sustained population loss and economic decline such that demolitions do not impact the availability of affordable housing.  Demolitions can also occur in other economic conditions. Demolitions in strong housing markets are often done by private developers in order to replace older or deteriorating housing stock with higher priced housing or commercial developments. Since demolitions in a strong housing market may decrease the supply of naturally-occurring affordable housing, some jurisdictions have adopted
+demolition taxes
+to reduce incentives for demolition in these circumstances and to fund affordable housing construction elsewhere.
+Setting objectives and decision-making processes for demolition
+In developing a demolition strategy, it is important to first identify the locality’s objectives. Potential demolition objectives include, among others:
+Removing individual blighted properties to eliminate health and safety hazards while mitigating neighborhood property value decline.
+Making room for green spaces or public facilities such as a library, community center, or recreation center.
+Large-scale demolitions as part of a “smart decline” strategy, with planned shrinkages of city blocks to save costs of infrastructure (road maintenance, electricity, water) and services (police, fire, code enforcement) and help cities adjust to the realities of sustained population decline.
+With a general framework for the demolition strategy in place, it is important to establish a transparent decision-making process for deciding whether to demolish specific properties. As a starting point, local governments can use a
+vacant property inventory
+to identify candidates for demolition. For each property, consider and evaluate:
+Building safety and quality.
+Does the building pose safety concerns to its inhabitants or neighbors? Does it have any historical or architectural value that merits preservation?
+Nuisance level.
+Is the property an eyesore? Does it have a pest infestation? Is it a fire hazard? Have there been complaints by neighboring residents?
+Neighborhood and adjacent property context.
+Will the demolition help to reduce the potential for declines in the property values of adjacent properties? Or will the demolition harm the fabric of the neighborhood and potentially contribute to further property value decline?
+Property reuse potential.
+What types of re-use of the property could contribute to a stronger neighborhood? Can it be rehabbed and sold to new owners or a developer? Are there environmental or other barriers to converting the property into a non-residential community asset such as a park, public garden, or pool? How does the potential reuse for the site link to any
+neighborhood-level housing and community-development strategy
+?
+Resident relocation.
+Will the demolition require the relocation of any residents, including unlawful occupants of the property (e.g. squatters)? Large-scale demolitions as part of a “smart decline” strategy will usually involve resident relocation.
+Since demolition is costly, many localities prioritize demolitions that achieve the greatest progress towards identified community goals. For example, if the goal is to create space for parks or other neighborhood amenities while reducing property blight, a larger block-wide initiative with multiple demolitions may produce better results for the community than scattered, individual demolitions. The City of Baltimore
+prioritizes demolitions that “stabilize areas of moderate or high homeownership, minimize relocation, and create opportunities for green space and other reuse.”
+It is also important to engage relevant stakeholders and gather community input before making demolition decisions. For example, some localities create a working group or committee on demolitions that includes representatives from city departments such as housing and planning, housing developers, and neighborhood associations and residents. Questions for local governments and working groups to consider include:
+How will long-term residents be engaged and informed throughout the process?
+How does the racial and ethnic composition of neighborhoods where demolitions are taking place differ from the overall racial and ethnic composition of the locality?  If there are disparities, what are the causes?
+What other investments could be made in the neighborhoods experiencing demolitions to strengthen the community fabric?
+Pre-demolition
+A municipality must obtain the proper legal approvals before a particular property or set of properties can be demolished. This pre-demolition process usually involves (1) identifying the ownership and tax status of the property, and (2) getting approval for demolitions of non-city property in court or administrative hearings, or (3) acquiring the property via direct acquisition, tax foreclosure, or spot blight eminent domain. Depending on the property status and legal mechanisms in place in your jurisdiction, this pre-demolition process can take anywhere from a few months to a few years.
+A property’s ownership and tax status is the first thing to check when initiating the pre-demolition process. If the property has an identifiable owner who is paying property taxes,
+code enforcement
+actions can keep the building up to required health and safety standards in lieu of demolition. If the property the owner has not paid property taxes, the jurisdiction can pursue
+tax foreclosure
+and place liens on the property to recover the costs of demolition. Localities with
+land banks
+can use them to acquire and hold the property before or after demolition.
+Acquiring properties through tax foreclosure can be a slow and complex process. If enabling state-wide legislation (such as
+New Jersey’s law
+) is available, municipalities can use a spot blight eminent domain to acquire properties more rapidly. This process permits cities to use their eminent domain powers to take the title of abandoned and blighted properties and convey them to responsible owners who can demolish them. The municipality then pays the owner the fair market value of the property.
+Learn more about spot blight eminent domain from the Housing and Community Development Network of New Jersey
+.
+Jurisdictions can also establish “fast track” or expedite procedures for obtaining approval to demolish privately-owned vacant nuisance properties. For example, the
+City of Chicago’s Fast Track Abatement Program
+authorizes the City to demolish residential and commercial buildings (up to three stories) that are vacant, unsecured, and hazards to the community. The process is administrative rather than judicial, except when the owner objects to the demolition and the case is brought to the City’s housing court. A typical fast track demolition process in Chicago takes around ninety days to complete after initial notice to the property owner. Once the demolition is completed, the City attempts to recoup the demolition costs by getting a judgement against the owner, which allows the City to place a lien on other assets the property owner might have.
+It can be helpful for jurisdictions to have multiple legal and administrative tools to facilitate demolition. States such as Indiana, New Jersey, Ohio, and Pennsylvania have the most comprehensive state laws that establish multiple pathways to getting approval to demolish privately-owned buildings. Legislation from these states can be models for other states to follow to provide localities with flexibility to demolish properties when needed.
+Finally, it is important from a due process perspective that localities provide adequate protections and notices to owners and residents of properties facing demolition. In Decatur, Illinois, for example, inspectors check properties for code violations and add any buildings that are unsafe and unfit for human habitation to the City’s demolition list. The City then contacts and gives property owners 15 days to start addressing the code violations. If inspectors find no improvements after 30 days, the City can file cases in the County Circuit Court to seek a demolition. Portland, Oregon has an ordinance allowing for the appeal of proposed demolitions. However, appealers must present plans to save the structure and have the funds necessary to implement that plan. In Washington DC, the housing provider or authority must notify residents 180 days in advance of a demolition, and offer relocation assistance based on the number of rooms in the house or unit. A number of jurisdictions, including Santa Monica and San Francisco, California have banned no-fault evictions during the COVID-19 pandemic, which includes evictions due to planned demolitions.
+Financing demolitions
+Demolitions are costly,
+[1]
+and local governments will often need to find additional sources of funding to supplement locally appropriated funding for demolition. Localities can pursue a variety of cost-recovery strategies, such as placing liens on tax-delinquent property, and getting judgments against owners in cases where the city demolishes vacant private property.
+A number of federal and state funding sources can be used for demolition. CDBG funds may be used for demolition to meet the objective of addressing “slums and blight” or meet an “urgent need” (such as demolition required after a natural disaster). HOME funds may also be used to demolish properties if part of the development of non-luxury housing that serve low-income families. FEMA’s Hazard and Mitigation Grant Program provides grants to cover the costs of housing demolition in flood-prone areas. Such grants could help cities downsize or relocate housing due to the impacts of climate change. Some states also have demolition funds available for local governments. For example, Maryland’s
+Strategic Demolition Fund
+is available to local governments or nonprofits with projects that improve the economic viability of development on “grey field” areas (former retail and commercial shopping sites).
+Public demolition bonds are another option municipalities can pursue. While a proposed law establishing demolition bonds at the federal level has not been enacted,
+[2]
+jurisdictions with tax collecting powers can establish demolition bonds with voter approval. The City Council of Detroit placed a proposal on the City’s November 2020 ballot that, if approved, would authorize $160 million to demolish a planned 14,000 abandoned buildings. The proposal has been met with concern about the City’s track record of management and transparency with regard to demolition, but proponents say the initiative would create jobs and improve neighborhoods.
+[3]
+Additional support for demolitions could come from financial/lending institutions, private philanthropy, or anchor institutions such as hospitals or universities that have a stake in community well-being.
+Conducting demolitions
+Municipalities can reduce the time it takes to conduct the demolition by establishing standard procedures and timelines once demolition sites have been selected and approved. Typically, local governments contract out the work of the actual demolition, including surveying and permitting, to contractors and consultants. The Center for Community Progress created a sample
+a sample table that shows which party is responsible for each stage of the demolition, along with the steps in the process that can be standardized.
+Local governments may also want to consider using deconstruction and other green demolition practices. Deconstruction involves dismantling buildings such that individual components (wood, bricks, appliances, etc.) are separated and preserved for potential reuse. Deconstruction has the benefit of preventing usable material from going into landfills and creating additional job opportunities. However, the deconstruction process is much more time consuming and expensive than traditional knock-down demolitions, so each property should be evaluated for its deconstruction potential.
+Site use after demolitions
+Local governments using demolition in areas with many neglected properties often are not looking to construct new housing on the site. As mentioned above, it is important to have a reuse plan that aligns with community goals before demolitions occur. Reuse options other than residential housing include urban greening strategies (e.g. parks or community gardens), pedestrian and bike paths, and public buildings (e.g. a library or rec center). Local governments can even include the cost of more modest greening strategies in their contract with the entity conducting the demolition. Localities may also establish side lot programs to sell vacant lots created through demolitions to adjacent homeowners. The Calhoun County (Michigan) Land Bank Authority
+Side Lot Program
+, for example, has been in place since 2007 to aid in stabilizing neighborhoods and putting properties back onto the tax roll. Individuals interested in purchasing side lots can
+view available properties online
+and fill out an
+application to purchase the vacant side lots.
+Examples
+The
+City of Youngstown
+was one of the first cities in the U.S. to formalize a plan to “right-size” through demolitions and consolidations. The Youngstown 2010 Plan called for returning vacant urbanized areas into wetlands, conducting demolitions and rehabilitations of blighted structures, and land banking tax delinquent properties. From 2006 to 2010, the City re-zoned 161 parcels for green use, demolished 1,845 structures, rehabilitated 231 properties, and placed 286 properties in a land bank for future use. While aspects of the plan have been successful, the strategy of consolidating residents was not. No residents accepted the City’s $50,000 incentive to relocate into more stable communities; the City thus had to continue providing public services to those residents in sparsely populated areas.
+The
+City of Buffalo’s
+“5 in 5” plan sought to demolish 5,000 properties in five years. The plan targeted buildings needing immediate demolition due to safety hazards and buildings that posed safety risks near schools.  In addition, the plan identified and targeted transitional communities that planners felt were most conducive to improvement and revitalization via demolition. The plan also included components of a “smart decline” strategy such as redesigning and reducing infrastructure and the expansion of waterways. The plan was executed from 2007 to 2012 and resulted in 2,814 demolitions. While the number of demolitions was fewer than the target goal, it still marked a significant increase in demolitions for the City.
+The
+City of St. Louis’
+“Urban Greening Project” is a five-year, $13.5 million dollar collaborative project with the Metropolitan Sewer District, Missouri Department of Conservation, and a number of community-based organizations. The plan calls for the demolition of more than 1,000 vacant buildings in north St. Louis by 2023. The demolition sites, identified in discussions with residents and community leaders, will be repurposed as parks with green infrastructure that will aid in stormwater absorption and flood prevention. The project will pilot deconstruction program and modernized demolition practices to help improve air and soil quality post-demolition.
+Related resources
+Implementation resources and state/local examples
+The Center for Community Progress’
+Demolition Framework
+includes information on
+setting demolition priorities
+and a
+decision tree
+for selecting buildings to demolish.
+The EPA’s
+Greener Demolition Practices During Land Revitalization
+has information on deconstruction (including deconstruction assessment tools), recycling non-hazardous demolition materials and debris, and green infrastructure uses for sites post-demolition.
+The City of St. Louis
+Plan for Reducing Vacant Lots and Buildings
+uses data to drive decision-making. Includes strategies for increasing code enforcement, utilizing a land bank, modernizing demolition practices, and funding demolitions.
+This
+Municipal Lien Checklist
+modeled after Cook County, Illinois discusses different types of liens that municipalities may use to recover the expenses they incur during demolition and other costs of securing and maintaining vacant properties.
+Sources used in drafting the brief
+Mallach, Alan. 2012.
+Laying the Groundwork for Change: Demolition, Urban Strategy, and Policy Reform
+. Washington, DC: Brookings Institution.
+Demolition Framework
+, Center for Community Progress.
+Hummel, Daniel. 2015.
+Right‐Sizing Cities: A Look at Five Cities
+. Public Budgeting and Finance. 35. 1 – 18. 10.1111/pbaf.12056.
+[1] “Costs vary depending on the type of building, the type of construction, the presence of lead and asbestos, and location. According to a 2011 GAO study, the cost to demolish a single-family detached home typically ranges from $4,800 to $7,000. Rowhomes, particularly when built using brick in such cities as Baltimore and Philadelphia, can be more expensive to take down. In Baltimore, the price per home can range from $27,000 to $40,000.”
+From: Alan Mallach,
+Laying the Groundwork for Change: Demolition, Urban Strategy, and Policy Reform
+. (Brookings: September 2012), 18.
+[2] A 2012 bill was introduced but not passed in the House that would have authorized $4 billion in demolition bonds. “The interest on the bonds would be replaced by a federal tax credit to the bond buyers, so that issuers could borrow the funds at zero percent interest.” From: Mallach,
+Laying the Groundwork for Change
+, 37.
+[3] Elrick, M.L., and Joe Guillen. “Mayor Mike Duggan Urges Detroiters to Approve $250M Demolition Bond Plan – or Else.” Detroit Free Press, Detroit Free Press, 23 July 2020,
+https://www.freep.com/story/news/local/michigan/detroit/2020/07/22/duggan-blight-bond-proposal-carpenter-millwrights-traning-center/5485397002/

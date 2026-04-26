@@ -1,0 +1,68 @@
+Title: Expanded access to capital for owners of unsubsidized affordable rental properties
+Source: https://www.localhousingsolutions.org/housing-policy-library/expanded-access-to-capital-for-owners-of-unsubsidized-affordable-rental-properties/
+
+In markets with weak demand, programs to expand access to capital can help these owners finance necessary capital improvements and avoid abandonment or disinvestment. In strong rental markets, such programs may be able to slow the rate of growth in rents of properties by reducing the likelihood that the properties are substantially rehabilitated and repositioned to rent at much higher levels (or demolished to make way for luxury multifamily units). However, programs to assist owners in accessing capital alone will not stop owners from raising rents when the market conditions would allow them do so.
+Some owners may like the idea of maintaining the affordability of their units and will trade off the possibility of raising rents in return for financial subsidies, thus making it possible for current tenants to stay and minimizing turnover. In these cases, eligibility for the incentive may be made contingent on an agreement to maintain affordable rents for a specified period or to place the property under existing rent regulation programs that will limit the pace of any escalation of rents.
+In some cases, it may be more feasible to use the subsidies to facilitate the transfer of ownership to a new mission-driven entity that is committed to keeping the rents affordable. In this case, the units can be added to the stock of dedicated affordable housing.
+Click here for tools for creating and preserving subsidizing dedicated affordable housing.
+Approach
+Localities can help owners of affordable housing by providing low- or no-cost capital directly (e.g., through grants, low-cost loans, or tax credits funded through general tax revenues or
+general obligation bonds
+), or through the allocation of such federal tax benefits as those offered through the LIHTC and historic tax credit programs or the issuance of private activity bonds. Such assistance can help owners preserve affordable rental units without having to significantly raise rents.
+To determine the amount and form of the assistance, localities generally analyze the building’s economics using a real estate pro forma to see how much debt service the building can carry while meeting the on-going costs for its maintenance and operations. To take as much discretion as possible out the process for evaluating the extent of the capital need and the building’s economics, some localities issue “
+term sheets
+” that lay out the basic parameters for determining the extent and type of subsidies available as well the maximum amounts possible.
+Tax credits such as the
+Low Income Housing Tax Credits
+(LIHTCs) and Historic Tax Credits (HTCs) are often used in conjunction because one tax credit alone may be insufficient to finance a major development or rehabilitation project fully.
+In addition, some localities offer property tax relief both to help enhance the borrowing capacity of the property but also to ensure that
+expenditures on capital improvements do not result in increases in property taxes
+.
+To make loan programs more accessible to owners of unsubsidized affordable rental properties, jurisdictions may also provide technical assistance, either directly or through technical assistance providers such as a community development finance institution (CDFI) or community development corporation (CDC) with experience in owning and managing properties serving comparable clientele. Technical assistance providers can guide property owners through the loan application process, terms of eligibility, and additional resources available to them. Smaller localities without the capacity to provide these services or without a locally-based CDFI may be able to develop partnerships regionally or with the state to bring these services to their jurisdiction.
+CDFIs can also be good partners in helping expand access to capital for unsubsidized affordable rental properties. Many of these organizations have developed a specialization in underwriting the types of rental properties that have trouble accessing bank financing. Moreover, they often have access to low cost capital through government programs (e.g., the federal Capital Magnet Fund), concessionary funding from banks, and philanthropic dollars. With these funds and the additional tools provided by government subsidy programs, CDFIs can expand the number of owners of unsubsidized affordable rental properties who can access capital.
+Some localities work closely with CDFIs to design programs specifically to help those owners who would otherwise have trouble accessing the amount of credit they need to make their building economically sustainable, given rent revenue and the on-going costs of operating and maintaining the building. Two premier examples are the
+Community Preservation Corporation
+in New York City and the
+Community Investment Corporation
+in Chicago.
+Some property owners facing major rehabilitation costs but unwilling to work with government may nevertheless be interested in selling their property. In this case, the government can help mission-oriented organizations (for profit or not for profit) purchase the property. Organizations willing to keep the rents affordable will likely need government subsidies to compete with market rate buyers for the acquisition and to make any necessary repairs and system replacements to put the property on a physically acceptable and economically sustainable path.
+More information on acquisition subsidies is available in this policy brief
+.
+Coverage
+Expanded access to capital could be made available to all unsubsidized rental properties now renting at affordable rents or at certain rent levels, according to a particular jurisdiction’s affordability definition. Limiting the overall size of these programs are the resources available, including locally generated funds (e.g., local tax revenue, general obligation bonds) as well as dollars and tax credits flowing through federal and state programs that can be used to subsidize local housing efforts.
+To hold down costs and ensure funds go where they can be most effective, access can be limited to geographic areas with the most units that have affordable rents, those where market pressures are already reducing the stock of affordable units, and/or areas that have already gentrified but still contain some affordable units. Restrictions can also be set according to building type (e.g., focus just on rental units) or building size (e.g., single- or multi-family).
+Depending on the type of subsidy, programs may also limit the scope of work to be financed. For example, the removal of housing code violations and hazardous conditions may be prioritized, or rehabilitation projects may be limited to moderate replacement and repairs. Smaller localities and localities with
+soft housing market
+s should consider prioritizing projects or types of repairs that align with other affordability or community revitalization programs in order to maximize impact.
+Eligibility
+Localities may take applications on a rolling basis until they have committed all of the resources committed to the different subsidy programs or they may issue requests for participation (RFP’s) or requests for qualifications (RFQs), or requests for interest (RFIs).
+Particularly in areas where rents are rising or hold the promise of doing so, eligibility can be made contingent on the signing of a regulatory agreement that would limit for some period of time the ability of owners to raise rents increases and would restrict incomes allowed for new tenants. However, not all owners of these properties will willingly want to agree to additional government oversight even if they would like to keep their units affordable. To open up the program for these owners, it may make sense to waive any regulatory requirement for properties requiring only a small amount of support. For owners of properties requiring more substantial support (and thus getting more benefit), regulatory agreements would be required.
+Other considerations
+Jurisdictions must determine what affordable rent levels are to merit inclusion in the program. The source of the dollars may dictate certain restrictions as to what the money can be used for, including the level of affordability and the allowable income for new tenants.
+Subsidies can be used as leverage to require property owners to sign a regulatory agreement, which can ensure that these property owners maintain affordable rents for a specified period of time.
+Examples
+Vermont
+provides property owners of vacant or unused rental properties with up to a $30,000 grant per rental unit to renovate rental units. Grants are given by the Department of Housing and Community Development through the CARES Act funding (passed during the 2020 pandemic) to improve affordable rental housing throughout the state.
+More information is available at the program site.
+New York City’s
+Multifamily Housing Rehabilitation Program
+provides low-interest loans for replacing major building systems in multifamily buildings (defined as those with three apartments or more). The loans are for a term of 30 years, up to $35,000 per residential unit, with an interest rate of up to 3%, depending on project needs. Projects may also be eligible for a full or partial property tax exemption. Participants are required to sign a regulatory agreement which provides that rents may not exceed a level affordable to households earning 120% AMI.
+New York also aids owners of small- and medium-sized rental properties through their
+Landlord Ambassadors Program
+, which provides technical assistance regarding city financing such as the Multifamily Housing Rehabilitation Program
+Washington DC’s
+Department of Housing and Community Development offers a number of subsidy programs for rental housing including a special grant program for buildings with five to 20 units, called the
+Small Building Program
+. Repairs are expected to improve sub-standard housing conditions, including safety and environmental hazards in the District as required by the Department of Consumer and Regulatory Affairs (DCRA), and the Department of Energy and Environment (DOEE).
+In
+Chicago
+, the
+Community Investment Corporation and the Preservation Compact
+have put together a $35 million
+Opportunity Investment Fund
+to encourage the creation and preservation of affordable rental units in strong markets. The Fund provides low-cost mezzanine debt to developers who purchase exiting, functioning rental buildings in strong markets. In exchange, at least 20% of the units must be keep affordable to households at 50% Ami for at least 15 years. The program also comes with project-based vouchers.
+Related resources
+The Space Between: Realities and Possibilities in Preserving Unsubsidized Affordable Rental Housing
+, Minnesota Preservation Plus Initiative – report detailing the findings of a study conducted to explore the nature and challenges inherent in Minnesota’s stock of unsubsidized affordable rental housing, and make recommendations for specific policies and strategies to identify and preserve these units.
+Using the Historic Tax Credit for Affordable Housing
+, A number of states and localities include historic tax credits as a tool for preserving existing affordable units. The HUD Exchange provides an overview of how developers may use the federal historic tax credit to finance affordable housing development or rehabilitation projects.

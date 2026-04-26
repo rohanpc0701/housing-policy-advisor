@@ -1,0 +1,81 @@
+Title: The Rental Assistance Demonstration (RAD)
+Source: https://www.localhousingsolutions.org/housing-policy-library/the-rental-assistance-demonstration-rad/
+
+This conversion enables applicants to tap into a wider variety of financing sources, including private sources, to help meet long-standing capital improvement needs that threaten the ongoing viability of these properties.
+Participation in RAD by PHAs and private owners is voluntary, and the number of public housing units that may be converted is currently capped at 455,000—an increase of more than 200,000 units over the previous limit, authorized through passage of the FY 2018 omnibus appropriations act. The bill also extended eligibility for the RAD program to
+Section 202
+properties with Project Rental Assistance Contracts (PRAC) for the first time. There is no cap on conversion of Section 202 PRAC projects and other eligible privately-owned developments, which include those supported by “legacy” programs for which the U.S. Department of Housing and Urban Development (HUD) no longer authorizes new projects, including the Section 8 Moderate Rehabilitation, Rent Supplement, and Rental Assistance Payment programs.
+Approach
+The Rental Assistance Demonstration program aims to support the long-term availability of deeply affordable housing in two ways. The first is through the conversion of public housing to long-term project-based contracts. Public housing conversion is competitive and limited by statute to a total of 455,000 units, with successful applicants selected by HUD. (As of November 2024, just over
+82 percent of the 455,000 units had been converted or reserved
+, and roughly 82,000 units remained.) Proposals to redevelop physically or functionally obsolete public housing developments receive priority consideration, along with those that are part of a comprehensive neighborhood revitalization plan and properties in imminent danger of losing financing (as evidenced by a 9 percent credit award).
+The flexibility afforded by RAD also helps make it possible to preserve certain privately owned HUD-assisted housing developments. Unlike public housing redevelopment, this program component is offered to property owners on a non-competitive basis. Eligible developments participate in programs that have ended or been replaced or otherwise have limited options to renew their contracts or attract preservation financing. The new subsidy stream extends affordability by an initial term of up to 20 years (which must be renewed), and enables owners to access long-term financing to make needed capital improvements and continue providing affordable housing.
+Public housing agencies and private property owners may choose to convert their current assistance to Project-Based Vouchers (PBVs) administered by the local public housing agency or Project-Based Rental Assistance administered by HUD. For PHAs that choose to convert to PBVs, caps that limit the number of PBV-assisted units in a project to 25 percent are increased to 50 percent, and units occupied by elderly and/or disabled families and families receiving supportive services do not count against the cap. In addition, public housing assistance converted to PBVs under RAD does not count against the 20 percent limit on the amount of Housing Choice Voucher budget authority that may be project-based by a PHA.
+While conversion through RAD does not increase the subsidy level the property receives (which is based on pre-conversion operating and capital subsidy amounts), either option provides a predictable, long-term funding stream that expands the ability of PHAs and owners to borrow from private sources to address capital needs, as well as to tap into other funding sources such as
+Community Development Block Grant (CDBG) funding
+, Federal Housing Administration (FHA) insurance, and tax credit equity. This conversion is particularly important for public housing developments since they cannot easily access private financing while they remain public housing. To the extent that operating expenses are reduced following RAD conversion (through greater administrative efficiencies, upgrades that improve the efficiency of the property’s mechanical systems, or other mechanisms), additional operating income may be freed up to help cover additional improvements.
+PHAs and private owners interested in converting properties under RAD should consider the full range of available capital sources before determining which alternatives will be most feasible and effective for addressing project needs. Local jurisdictions can play an important role in facilitating access to complementary financing (see
+The local role
+, below). In many cases, multiple funding sources will be required to finance a property’s rehabilitation.
+Four percent Low Income Housing Tax Credit
+and tax-exempt
+bonds
+are particularly useful resources for covering the cost of rehabilitation since they are more easily accessed than 9 percent credits, which are highly competitive in many states. It may be possible to combine smaller properties in a single pooled portfolio to lower the relatively high fixed costs associated with tax-exempt bond transactions and streamline reporting requirements.
+Eligibility
+Eligibility for conversion under RAD is limited to a capped number of public housing units as well as multifamily properties that receive assistance through the Section 202 PRAC, Section 8 Moderate Rehabilitation, Rent Supplement, and Rental Assistance Payment programs. Several factors should be considered when determining whether individual properties are good candidates for conversion.
+Owner interest
+As noted above, private owners of affordable properties will likely be interested in the flexibility afforded by participation in the RAD program. However, communities may need to provide technical assistance to help owners successfully complete the conversion.
+Depth of unmet capital needs
+Without supplemental funding, properties with deep capital needs may not be the best candidates for RAD, particularly if they are located in high-cost markets. The funding generated through the program generally will not be sufficient to rehabilitate properties that would otherwise be candidates for demolition or disposition. Local jurisdictions can help make complementary financing available, either for direct investment or as gap financing to pursue
+Low Income Housing Tax Credits
+—see
+The local role
+below.
+Location
+An
+evaluation of RAD
+found that participating properties tend to be located in high-cost markets with lower poverty rates and higher housing cost burdens—that is, relatively stable areas with a greater need for affordable housing. Properties in these areas are more likely to be able to attract private financing after conversion. In addition, stable low-poverty neighborhoods tend to be resource-rich areas where communities seek opportunities to develop and preserve affordable housing.
+Resident engagement is also a key component of the RAD program. Concerns raised in connection with the program largely focus on tenant protections, including the potential for rent increases and the temporary or permanent displacement of existing tenants while properties are developed. Some also question whether the guarantee of a “right to return” will be fulfilled. In order to apply for participation in RAD, PHAs are required to conduct at least two tenant meetings. Residents’ comments, along with the PHA’s response, must be submitted in writing with the RAD application. PHAs are required to hold at least one more tenant meeting before HUD approves the conversion.
+The local role
+PHAs and private property owners are responsible for determining whether to convert existing assisted properties to a new subsidy program under RAD. Local jurisdictions can help facilitate these transactions by ensuring property owners know their options and by taking steps to make a RAD conversion more feasible. Cities, towns, and counties can:
+Conduct outreach to private owners of assisted housing eligible for conversion under RAD
+Owners of HUD-assisted properties may be aware of RAD but unfamiliar with eligibility requirements or program details. Local jurisdictions may wish to develop an initial list of properties that appear to be good candidates for conversion, including those where conversion would help support other community development goals. Outreach to owners of these properties may help stimulate interest in the program.
+Deliver technical assistance
+The RAD process can be very complicated, with multiple parties involved in structuring the transaction and significant requirements for temporary or permanent resident relocation. Once owners express interest in the program, a lack of expertise or knowledge in structuring the conversion can prevent them from taking the next steps. Local housing department staff can provide technical assistance to help property owners determine the financing structure that will work best for the development, given existing capital needs and available resources. In some cases, this may mean pooling smaller properties into a single transaction to lower fixed costs for individual owners. Local jurisdictions can help identify these opportunities and facilitate next steps.
+Make available complementary funding
+PHAs and private owners need to analyze whether conversion under RAD is feasible given their operating subsidy levels and the rents they would need to support debt. The availability of subsidies or other local financing can change this calculation. Local jurisdictions can reach out to PHAs and owners to discuss whether they can provide complementary funding through local sources that might make conversion under RAD feasible. Among other uses, local funding can serve as gap financing to help make a Low Income Housing Tax Credit project feasible. Smaller and distressed localities may need to work with county, regional, or state agencies to locate potential sources for gap financing.
+Other considerations
+Resident involvement
+RAD program regulations include a number of provisions intended to protect residents and involve them in the conversion process. Owners and PHAs will need to take steps to comply with these requirements and address resident concerns in advance of conversion under RAD. Communities will also need to consider whether they are able to provide robust mobility counseling to residents who exercise their “choice mobility” option to use a tenant-based voucher to find a new unit rather than staying in the converted development. They should also consider whether there is a local partner the PHA can work with to assist residents.
+Examples
+The city of
+Alexandria, Louisiana
+, began converting its public housing portfolio through RAD in 2016. One of the first projects in this transition was
+Harmony Garden Estates
+, a development with 172 units which had no central heating or air conditioning. The units were rehabilitated with sustainable HVAC systems and improved energy efficiency via the RAD program. The city has
+continued this effort
+, preserving hundreds of other units through RAD.
+By November 2014, the housing authority of
+Broward County, Florida
+, had converted its entire 373-unit public housing portfolio to project-based rental assistance through the RAD program. As part of this process, the housing authority installed energy-efficient and water-saving appliances and fixtures at all properties. It also created a life cycle replacement schedule that plans for the replacement of all major building components and systems within 20 years and funds reserves for this purpose from property operations. HUD has recognized Broward County for its
+effective resident engagement process
+, particularly at two senior housing developments where the RAD conversion process was discussed at monthly resident meetings. After two years, families can use available Housing Choice Vouchers to find other housing if they choose.
+In
+Lexington, Kentucky
+, a 206-unit affordable development formerly known as Pimlico Apartments had deteriorated significantly, with nearly 10 percent of units at risk of losing their federal subsidy due to their poor physical condition. The
+Lexington Housing Authority converted the property under Rental Assistance Demonstration
+to make physical improvements and keep the development, now known as Centre Meadows, available for occupancy. The financing package used to support the improvements included tax-exempt bonds and 4 percent Low Income Housing Tax Credits, as well as funds from the housing authority and from HUD’s HOME Investment Partnerships Program (HOME).
+Related resources
+General
+Rental Assistance Demonstration pages from
+HUD.gov
+and
+HUD Exchange
+. HUD maintains these web pages and includes links to program resources and the latest program developments.
+Implementation
+Evaluation of the Rental Assistance Demonstration (RAD) – Rental Affordability.
+This report published by HUD in 2023 outlines the experiences of households living in housing converted using RAD. The research focuses on changes in rent levels and affordability pre- and post-conversion.
+Rental Assistance Demonstration (RAD)
+. This webpage managed by the National Housing Law Project collects materials focused primarily on tenant protection at RAD sites. The site also links to a variety of resources on RAD implementation.
+Rental Assistance Demonstration: HUD Needs to Take Action to Improve Metrics and Ongoing Oversight
+. Published by the U.S. Government Accountability Office in 2018, this report outlines shortcomings in how HUD tracked and monitored properties after a RAD conversion. HUD has implemented the five recommendations featured in the report.

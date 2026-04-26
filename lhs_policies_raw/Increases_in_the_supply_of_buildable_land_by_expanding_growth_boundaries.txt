@@ -1,0 +1,54 @@
+Title: Increases in the supply of buildable land by expanding growth boundaries
+Source: https://www.localhousingsolutions.org/housing-policy-library/increases-in-the-supply-of-buildable-land-by-expanding-growth-boundaries/
+
+The boundary or perimeter of a service area delineates the zone within which development is encouraged and the municipality will provide public infrastructure and services such as schools, roads, and water and sewage. New development outside of the growth boundary or service area is possible, but discouraged by land use regulations and the difficulty of independently establishing critical infrastructure. Communities typically define these areas for a set period of time, after which they reevaluate the boundaries to determine if they are still appropriate. To respond to rising demand and avoid suppressing needed development, cities with growth boundaries or urban service areas can allow for the supply of housing to expand by ensuring the boundary lines and permissible density within the boundaries are adequate to efficiently accommodate new development.
+This section describes strategies to support the availability of sufficient land at density levels high enough to respond to demand for more housing units within growth boundaries and service areas.
+Approach
+Communities that adopt growth boundaries should do their best to accurately predict and accommodate the demand for new development over the planning period or boundary lifespan (commonly 20 to 30 years). In addition to this long-term projection, the adequacy of existing boundaries should be regularly re-assessed. In many places, interim assessments take place every 5 to 7 years. However, communities that have established growth boundaries or urban service areas and are also experiencing rapid escalation in home prices and rents may wish to increase the frequency with which boundaries are evaluated. While a review may not always result in an expansion, more frequent examination of the capacity within existing boundaries can help to ensure expansion keeps pace with increases in demand.
+Local jurisdictions may also want to assess the methodology and assumptions used to determine the limits of the boundary and, if needed, make adjustments to ensure that all drivers of demand for which data are available are accounted for. These data points may include not only projected population and commercial and industrial growth, but also current infrastructure capacity and patterns of land ownership inside and outside of the boundary. As part of this process, staff can look carefully at the vacant land inventory, a planning document that describes the available supply of buildable land inside the growth boundary, as well as at existing sites that are not vacant but could reasonably be expected to accommodate more housing. Rather than assuming that all vacant land is equally suited for housing development, this analysis should account for current land use regulations and the development potential of individual parcels as well as the existence of natural or environmental features that may impede development. Localities should also consider whether existing buildings that do not take full advantage of the density permitted by current zoning can reasonably be expanded to do so. Creating and refining the methodology that informs decisions about whether (and how much) to expand the growth boundary is a highly technical process that may require the involvement of a consultant or other professional with expertise in impact analysis and growth projections.
+Other considerations
+Land use regulations within the boundary
+The ability of a region to accommodate development within a growth boundary is a function of both the location of the geographical boundary and the density permitted by zoning rules within the boundary. Accordingly, as a complementary effort to the periodic reexamination of growth boundaries, local jurisdictions should also assess the potential to increase allowable density levels inside the boundary by amending land use policies and regulations. Underlying zoning that allows or even provides incentives for higher-density development will make it easier to respond to increases in demand within the existing limitations of a growth boundary or urban service area. Cities and counties should also examine permitting and approval times within the boundary to identify opportunities to
+streamline the development process
+and make the region a more favorable place to locate new development.
+Locality Size and Market
+Localities of all sizes and markets may benefit from the establishment of growth boundaries; however, the goals must be in tune with market conditions and size in order to create conditions conducive to accomplishing the intended development goals. Smaller localities may find value in developing regional boundaries in partnership with other localities, in order to stimulate housing development in specific locations, manage land development practices, infrastructure investments, and to protect agricultural or ecologically sensitive areas. Localities with
+softening housing markets
+or neighborhoods experiencing an oversupply of existing inventory may use growth boundaries to stimulate reinvestment in the existing building stock.
+Example
+The urban growth boundary that surrounds the
+Portland
+, Oregon metropolitan area was created in accordance with state law, which requires designation of such a boundary around the perimeter of each of the state’s cities and metropolitan areas to control development on adjacent farm and forest lands. The boundary was first drawn in 1979. Every six years, the Metro Council (the Portland area’s regional governance body) assesses land availability within the boundary against population and employment forecasts for the next 20 years, and determines whether the boundary needs to be adjusted to accommodate projected growth. Land outside of the boundary is designated as either “urban reserves” – within which urban development can be expected within the next 50 years – or “rural reserves,” which include working farms and forests that will be protected from development for at least 50 years.
+More information on the impact of growth boundaries on housing affordability in the Portland area
+, is available at the Oregon Metro website
+.
+King County,
+Washington created an urban growth boundary in a bid to curb congestion, reduce pollution, and contain sprawl. Approved through the
+Growth Management Act of 1990
+, the
+growth boundary
+shifted two-thirds of the country from areas designated as development to rural land, agriculture, and forests. Since then, the growth boundary has changed many times, and, in 2020, the region launched a plan called
+VISION 2050
+to prepare for growth in the coming decades. The strategy articulates a way to distribute growth around the region by focusing on high-capacity transit inside the designated urban growth area.
+Related resources
+Implementation
+Right-sizing Urban Growth Boundaries
+, Planning (February 2003) – This article presents a framework for establishing a “right-sized” urban growth boundary that accounts for primary factors (such as growth pressures, potential deflection, and fiscal strength) and secondary factors (including land ownership patterns inside and outside the potential boundaries and tertiary factors related to infrastructure and institutional capacity).
+Urban Growth Boundary
+, Pennsylvania Land Trust Association – This website provides a comprehensive introduction to urban growth boundaries, and includes a practical list of data to consider when determining the location and size of growth areas, as well as anticipated population growth and land use needs.
+State and local examples
+2014 Urban Growth Report
+, Oregon Metro (October 2015) – This report was prepared by the Portland area Metro Council to fulfill Oregon state law requirements that the Council evaluate the capacity of the region’s urban growth boundary every six years. The report assesses recent growth and expectations for the future.
+Coburg Urbanization Study Update
+, City of Coburg and Lane Council of Governments (April 2010) – This report for the City of
+Coburg
+, Oregon estimates land use needs to accommodate projected growth over a 20-year period, and illustrates the many factors to consider in defining an urban growth boundary.
+Impacts of growth boundaries
+Housing Policy Debate
+, various articles (1997, Vol. 8, Issue 1) – Articles in this edition of Housing Policy Debate focus on the approach to planning in Portland, Oregon, and the city’s success and challenges in implementing an urban growth boundary.
+How Land-Use Regulation Undermines Affordable Housing
+, Mercatus Center (November 2015) – This report makes the case for eliminating growth boundaries as part of a broader assessment of land-use regulations that finds they tend to restrict supply and lead to increases in housing costs.
+Related resources
+How Urban Growth Boundaries Strengthen communities and Protect Greenbelts
+, Greenbelt Alliance
+(May 2016) – This brief lays out the potential environmental benefits of urban growth boundaries.

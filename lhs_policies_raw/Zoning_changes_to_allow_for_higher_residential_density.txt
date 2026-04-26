@@ -1,0 +1,85 @@
+Title: Zoning changes to allow for higher residential density
+Source: https://www.localhousingsolutions.org/housing-policy-library/zoning-changes-to-allow-for-higher-residential-density/
+
+In existing residential areas, density levels may have been set well below what the market and infrastructure are capable of supporting. In other cases, zoning codes may prohibit residential development in areas where housing may now be appropriate. By modifying zoning policies to allow for residential development and higher-density residential uses, and by minimizing design approval processes for multifamily dwellings, local jurisdictions can help to increase the number of housing units that can be created to better align housing supply with demand.
+Approach
+Zoning codes limit the number of housing units that can be developed. Jurisdictions should  continually reassess those limits in light of what the market and infrastructure will bear, particularly in times of strong housing demand. In areas where demand for housing exceeds supply, existing limits make it difficult to correct the imbalance and thus contribute to higher rents and home purchase prices. While developers can sometimes request special permission for higher-density projects, they may be put off by the time, uncertainty, and increased costs required by the process to obtain the necessary permits and/or variances.
+Cities, towns, and counties seeking to increase their density will first need to determine which neighborhoods are most appropriate for zoning changes. Not all neighborhoods are suited for higher-density residential development, and some areas may need investment in infrastructure upgrades before they can accommodate more residents. In many cases, however, cities, towns, and counties can allow some increase in density without over-burdening the roads, sewers, or school system or changing the character of the neighborhood.
+Some areas are better suited than others to accommodate higher residential density. Areas near existing or planned transit stations or along bus routes are appropriate to target for areas of higher density because the additional residents contribute to usage levels required for transportation systems to succeed. (Development around transit stations that is compact, pedestrian-oriented, and offers a mix of residential and commercial uses is also known as “transit-oriented development” or “TOD.”) Cities, towns, and counties may also be able to identify parts of town that would benefit from being rezoned for residential purposes. In areas with long retail corridors, for example, many cities, towns, and counties have found that permitting mixed-use development allows the continuation of ground-floor retail but adds significant new multifamily housing in a manner that doesn’t disrupt adjacent neighborhoods. Underutilized industrial or commercial areas can present important opportunities for higher-density residential (or mixed-use) development with the further benefit of increasing the supply of land available for housing. In soft housing markets with significant vacant commercial or industrial space, there is also an opportunity to create affordable housing by adaptively reusing the shells of these structures as residential housing.
+Once the city, town, or county has identified neighborhoods that can be targeted for either increased residential density (a process called “upzoning”), or changes to the zoning to allow residential use (“rezoning”), the next step is to determine the appropriate density level. “Higher-density development” means different things in different places, and development patterns can be tailored to fit a variety of circumstances. Many options are available on the continuum between large-lot single-family homes and high-rise apartment buildings. These include:
+Allowing single-family homes on smaller size lots, which creates opportunities to subdivide existing large lots to build additional housing units
+Zoning for attached homes, including duplexes, triplexes, and townhomes that each have their own entryway but consume less land than detached single-family homes
+Zoning for medium-density multifamily buildings with rental apartments or condos
+Planned Unit Developments that allow a mixture of building forms but have minimum unit per acre requirements.
+In addition to creating conditions that enable expansion of the overall supply of units, by reducing per-unit land costs, upzoning may also increase the potential for the development of homes that are more affordable to rent or purchase. Zoning considerations such as parking minimums and lot coverage maximums can add significantly to the cost of development.
+Decisions about how much development capacity to add in a particular neighborhood will likely be the end result of a lengthy process that involves public hearings, environmental reviews, and engineering studies. Once the changes have been adopted, however, development of additional housing units can proceed as-of-right with fewer administrative obstacles and costs.
+Other considerations
+Occupancy considerations
+As part of this process, cities, towns, and counties may also wish to revisit occupancy limits for unrelated individuals. These limits determine the extent to which roommates may share a house or apartment, and typically do not apply if household members are related by blood or marriage.
+Overly stringent occupancy limits can limit opportunities to share existing units in order to create more unsubsidized affordable housing. In some cases, it may be possible to create zones in which housing is subject to higher limits – such as in neighborhoods near college campuses where homes are likely to be occupied by students. Alternatively, cities, towns, and counties can also increase occupancy limits but require homes to register as rentals and be subject to periodic inspections to ensure safe conditions.
+Impacts on other land use regulations
+Changes to one set of policies may require adjustments to others to be effective. For example, cities, towns, and counties that reduce the minimum lot size for single-family homes may also need to revisit minimum setback requirements that determine a structure’s placement on the lot (i.e., how far it has to be “set back” from the street and neighboring homes). If setback requirements are too large, then the remaining buildable land may be too small for an average-size home.
+Relationship with short-term rentals and home sharing regulations
+An emerging consideration, particularly in localities with seasonally-driven real estate markets, is the relationship between year-round housing affordability and the short-term rental and home sharing market. In economically distressed markets, short-term rentals can provide income that keeps homeowners in their homes. However, short-term rentals may also remove units from the year-round supply, driving up the cost of housing. Cities, towns, and counties may wish to consider revisions to short-term rental and home-sharing regulations to align with the housing goals facilitated through zoning.
+Potential for a “grand bargain.”
+Higher-density development often (but not always) means that developers can earn greater profits for construction on the same parcel of land. Recognizing this benefit, and the new opportunities for housing development created when neighborhoods are upzoned, some jurisdictions adopt upzoning and
+mandatory inclusionary zoning
+in tandem. This package deal requires a portion of the units be affordable in exchange for allowing higher density development. See the Seattle Housing Affordability and Livability Agenda example below for an example. (Cities, towns, and counties can also provide for upzoning by offering
+density bonuses
+in exchange for a commitment to set aside a share of the newly-created units as affordable housing.)
+Sample Ordinances
+Los Angeles, CA
+established the
+Small Lot Ordinance and Small Lot Design Guidelines
+to promote the development of higher density homes on single or small lots. The ordinance allows the subdivision of these lots for fee simple, infill development homes while the guidelines provide a design framework in accordance with the area’s General Plan Framework and Community Plans. For more information, see the HUD case study found
+here
+.
+In 2019,
+Oregon
+banned single-family zoning through
+House Bill 2001
+. In cities that contain more than 25,000 residents, multi-family developments such as duplexes, triplexes, fourplexes, and “cottage clusters” would be permitted on lots previously allotted for single-family homes. Cities with more than 10,000 residents would allow for duplexes.
+As part of its Future 2040 Comprehensive Plan, the city of
+Charlotte, NC
+adopted the
+Unified Development Ordinance
+(UDO) in 2022 which becomes effective in 2023. The UDO synthesizes into a single ordinance what was previously eight separate ordinances or sets of regulations pertaining to (1) zoning, (2) subdivisions, (3) trees, (4) streets and sidewalks, (5) floodplains, (6) soil erosion, (7) access and driveways, and (8) stormwater. Moreover, it upzones areas that were previously restricted to single-family homes for denser development, such as duplexes and townhome apartments.
+The City of
+Buffalo, NY,
+approved the
+Unified Development Ordinance
+in 2016, moving to a form-based code focused on contextual and sustainable development. The new code eliminated a burdensome obligation to provide unnecessary and expensive off-street parking for adaptive reuse and infill projects. Moving toward a market-based approach will better align housing development with actual parking needs and reduce the total cost of development.
+The City of
+Austin, TX
+has an
+occupancy policy
+that permits anywhere from three to six unrelated adults to share a dwelling, with the exact number depending on the housing type (such as a single-family home, duplex, or home with an
+accessory dwelling unit
+and location. Austin’s code also includes an exception that allows for cooperative living among seniors. Specifically, the code permits no more than ten unrelated adults, increased from the usual six, to live together if they are adults age 60 or older, self-caring and self-sufficient, and live together as part of a non-profit housekeeping unit.
+Other Examples
+To allow the housing supply to keep up with population growth—and avoid contributing to increased traffic congestion—
+Fairfax County, VA
+rezoned areas around Metro transit stations
+and certain commercial corridors to allow for higher-density residential development. The upzoning increased the permissible floor area ratio of new buildings in designated areas from 2.0 or 3.0 to 5.0. (Floor area ratios compare the total usable floor area of a building to the total area of the lot on which it is located.)
+Through
+Seattle, WA’s
+Housing Affordability and Livability agenda
+, the city has embarked on a major initiative to rezone areas in certain parts of town to include allowances for higher-density development as well as requirements for the inclusion of affordable housing. The proposal is the result of an extensive community engagement and planning process. In designated urban villages, developers of multifamily housing will be able to build at higher densities, but will also be required to either include affordable units on site or make an in lieu payment to the City’s Office of Housing for use in activities that promote housing affordability.
+The City of
+Minneapolis, MN
+approved the
+Minneapolis 2040 plan
+in January 2020, which upzones significant portions of land currently zoned for single-family. This plan will make way for multi-family housing such as triplexes and higher density transit-oriented development.
+Related resources
+General
+Higher-Density Development: Myth and Fact
+, Urban Land Institute (2005) – This pamphlet debunks eight of the major objections to higher-density housing, and includes profiles of developments from various communities.
+Visualizing Density,
+Lincoln Institute of Land Policy (2007) – This website includes an array of resources designed to help visitors see what different density levels look like in actual communities. The site includes an image gallery and interactive features to increase understanding of the benefits of higher-density development.
+Exploring Upzoning as a Tool to Increase California’s Housing Supply
+, Turner Center for Housing Innovation (2019) – This series of briefs from UC Berkley explores issues facing the upzoning bills passing through the state legislature. The resource utilizes maps and issue papers to analyze the local conditions and impacts on sensitive communities.
+Implementation
+The Roommate Gap: Your City’s Occupancy Limit
+, Sightline Institute (2013) – This article is part of a series on legalizing inexpensive housing, and provides insights into the variation in occupancy limits across cities and the obstacles these policies can pose to the creation of lower-cost housing.
+Wording Amendment for Small-Scale Residential Infill
+, City of Asheville, NC Department of Planning and Urban Design (2017) – This presentation describes the City’s process for considering zoning amendments that permit “missing middle” housing (i.e., duplexes, courtyard apartments, townhomes, etc.) and four proposals to achieve increases in density.

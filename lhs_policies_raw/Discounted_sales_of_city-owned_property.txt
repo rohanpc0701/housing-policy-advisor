@@ -1,0 +1,54 @@
+Title: Discounted sales of city-owned property
+Source: https://www.localhousingsolutions.org/housing-policy-library/discounted-sales-of-city-owned-property/
+
+Through the sale of publicly owned property at discounted prices, localities often seek to accomplish a number of goals, including: returning the property to productive use; preventing or reversing neighborhood decline; attracting moderate-income households to low-income neighborhoods; preventing further population loss; and strengthening the fabric of the community. To prevent property flipping and continued deterioration, localities typically require new owners of formerly public-owned property to rehab the home within a specified period of time and use the home as their primary residence.
+Approach
+Tax delinquent or abandoned property is not uncommon in many cities and counties. Localities typically place liens on
+tax-delinquent properties
+, which is the first step in the tax foreclosure process. The tax deed that results from this process is generally sold at auction, but in neighborhoods where demand for housing is low, the property may not attract a price high enough to cover the minimum bid. In these cases, ownership reverts to public ownership. The properties can be used in a variety of ways (see, for example,
+use of publicly owned property for affordable housing
+brief); one approach is to sell them at a deep discount to buyers who will make productive use of the properties. The properties may be sold through a land bank, a redevelopment authority, or a city housing agency. These agencies can attach conditions to the sale to deter purchase by absentee investors, who might otherwise allow the property to continue to deteriorate and further contribute to neighborhood decline, or by property flippers, who may make merely cosmetic improvements and sell the properties at inflated prices.
+Properties sold at discounted prices by cities typically have a building already on the property; in these cases, the new owner is responsible for renovating the home to city code requirements. In some cases, structures previously on the property have been demolished and the lot is vacant. When a locality’s goal is to reduce density to reflect population decline, the empty lot may be sold to an adjacent landowner for use as a side yard. In other cases, the lot may be sold to an individual for new construction. Alternatively, the property may be transferred to a local
+land bank
+that may combine parcels for the development of affordable housing or other needed neighborhood facilities, such as parks, libraries or recreation centers.
+Eligibility
+Localities establish requirements for the new owners, who are usually required to have a plan for renovating the property and commit to complete renovations within a specified period of time, often 18 months. Purchasers must generally also commit to reside in the property for a minimum length of time. If these conditions are not met, property ownership reverts back to the city. On a vacant lot, new construction typically must be completed within 18 months.
+Sales of properties are sometimes limited to current residents of the locality, but some programs have expanded to non-residents to increase demand for properties and attract buyers who can afford the substantial rehabilitation that is often required. Because required renovations can be extensive and costly, property sales are typically not limited to low- or moderate-income individuals. Purchasers have tended to be moderate-income individuals and families who would not otherwise be able to buy a house, and who often put “sweat equity” into the home, doing much of the gutting and rehabilitation work themselves. In fact, new owners often must either meet minimum income requirements (e.g., Gary, Indiana) or otherwise provide proof of employment and sufficient financial resources to complete the renovations (e.g., Buffalo, New York). Property sales are, however, often limited to first-time homebuyers.
+Coverage
+Deeply discounted sales of publicly owned properties are not uncommon, particularly in older industrial cities in the Northeast and Midwest, including Gary, Baltimore, Philadelphia, Detroit, and Milwaukee. When an explicit goal of the strategy is to strengthen communities, or when there are relatively few neighborhoods in the city with high vacancy rates, sales are sometimes concentrated in a particular neighborhood, sometimes even within a few blocks, to encourage neighborhood investment and improvement.
+Local role
+Programs to sell homes for one dollar and other discounted sales of publicly owned property are typically administered by an agency of the city government such as a land bank, a redevelopment authority, or a city housing agency. For example, in Gary, Indiana, the dollar home program is administered by the Department of Commerce Community Development Division; in St. Louis, MO, the program is administered by the Land Reutilization Authority. The local city council or other governing body is often required to approve each sale.
+Examples
+HUD’s Dollar Homes
+initiative was launched by Congress in 1998 to clear the
+Department of Housing and Urban Development
+’s books of foreclosures and provide affordable housing. Today, the initiative offers local governments the opportunity to purchase qualified HUD-owned homes for $1 each to increase housing for low- and moderate-income families and address specific community needs. Local governments can search
+HUD Homes
+to see if homes are available in their community for purchase.
+Gary, Indiana’s
+Dollar Home Program
+was introduced in 2013 to encourage homeownership while eliminating blight in the city. The city sells abandoned and tax foreclosed homes for $1 to applicants who agree to make the property habitable within one year of its purchase and live there for at least five years. After the five years, the property deed is transferred to the occupants. Applicants must also meet the minimum income requirement of $38,750, which is 80 percent of the area’s median income. The city estimates that rehab costs for each home range from about $20,000 to $30,000. A small number of homes are sold each year – around a dozen – and buyers are selected from among qualified applicants via a lottery. Homes sold are typically clustered in specific neighborhoods of the city where redevelopment efforts are concentrated.
+St. Louis, Missouri
+’s
+Mow to Own
+Program is a ‘sweat equity’ program that allows residents to take immediate ownership of a vacant lot that is located next to an occupied residential or commercial property that they own, for a nominal fee. The program is administered by the Land Reutilization Authority (LRA) and requires participants to agree to continually maintain the lot, including regular mows and debris removal, for twenty-four months. After twenty-four months, if there are no findings of violation from the City’s Forestry Division and no complaints, LRA will remove the maintenance lien and the owner will own the property.
+In
+Buffalo, New York,
+a city-owned property in a designated Urban Renewal area that does not have an interested buyer and does not serve the public is eligible for the
+Urban Homestead Program
+. The program sells properties for $1, plus closing costs. For homes intended for renovation, buyers must agree to live in the home for at least three years and fix any building code violations within 18 months. To be approved, applicants must also submit a rehabilitation proposal along with evidence of the financial resources necessary to complete the costs of the project. Vacant lots can be used as a side yard (eligible for sale to adjacent owner-occupants), or for new home construction. For new construction, applicants must provide plans and cost estimates for the proposed residence, and must provide evidence of their financial ability to meet the budget. The program is operated by the city’s Division of Real Estate and approved by the Land Use Planning Committee.
+Other examples include
+Philadelphia
+,
+Milwaukee
+, and the
+Detroit Land Bank
+.
+Related resources
+City website
+describing St. Louis, Missouri’s Mow to Own program.
+City website
+describing Buffalo, New York’s Urban Homestead Program.
+News articles describing Gary, Indiana’s Dollar homes program from the
+Times of Northwest Indiana
+.

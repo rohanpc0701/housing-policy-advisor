@@ -1,0 +1,163 @@
+Title: Just cause eviction policies
+Source: https://www.localhousingsolutions.org/housing-policy-library/just-cause-eviction-policies/
+
+These laws prohibit landlords from ending tenancies except for specified reasons and establish procedures that landlords must follow when ending a tenancy for those reasons.
+Approach
+Though often referred to as “just cause
+eviction
+laws,” these requirements generally apply to any effort to end a tenancy, including refusals to renew leases. Under just cause, a landlord can only end a tenancy when specific, enumerated conditions that are the fault of the tenant are met (“at-fault conditions”). Common examples of at-fault conditions include failing to pay rent, violating the lease terms, using the rental unit for illegal activity, and creating a nuisance. “No-fault” evictions, which occur when a landlord evicts a tenant for reasons unrelated to the tenant’s actions, also fall under the umbrella of just cause. Examples of no-fault conditions include withdrawing the unit from the rental market, owner move-in, and demolition or substantial remodeling. Just cause laws also establish notification processes for landlords and may impose penalties on owners for noncompliance.
+Localities looking to design an effective just cause regime must carefully consider their coverage, definition, procedural requirements, and enforcement mechanisms.
+Coverage and exceptions
+Localities generally apply just cause requirements to a broad range of rental properties while providing exceptions for certain types of units, landlords, and tenants. Below, we explore some common exceptions and provide details, examples, and considerations for localities when designing their own just cause laws:
+Small buildings, owner-occupied properties, or smaller landlords.
+These exemptions aim to avoid burdening smaller landlords who may lack the resources and administrative capacity. Legislators may also believe that an owner taking possession of units for their own use is more justified in these scenarios. In
+New Jersey
+, for example, owner-occupied premises with two or fewer units are exempt.
+Tenants who have not lived in their unit for a specified minimum period
+. This carve-out aims to give landlords a window to assess a tenant’s suitability (including in relation to other tenants), but may also put newer tenants, who may also be more vulnerable, at increased risk of eviction. In
+Oregon
+, just cause protections only begin after 12 months of occupancy. This requirement may also result in “churning,” where landlords cycle through tenants in order to avoid just cause requirements.
+Newer rental buildings
+. This exemption attempts to avoid discouraging rental housing development and investment. In
+California
+, for instance, units constructed within the previous 15 years are exempt, with the 15-year period rolling forward continuously. The exact length of this exemption—and whether it should exist at all—will depend on a financial analysis of whether the return on investment in rental buildings within a specific number of years is sufficient to attract investment.
+Rent-stabilized or rent-controlled units
+. This exemption stems from the idea that some tenants in regulated units already have specific limitations that resemble just cause eviction protections. For example, in
+New York
+, properties that are subject to certain kinds of regulation and require “good cause” for eviction are exempt from the 2024 Good Cause Eviction Law.
+Institutional units
+: Many states have exemptions for hospitals, educational buildings, and religious facilities because of their unique occupancy structure and regulatory framework.
+Condos and co-ops
+: Many jurisdictions have exemptions for co-ops and condominiums because their tenants are considered owners, not renters. These properties are subject to different regulations and often have independent governance structures and bylaws that regulate occupancy. By way of example,
+California
+specifically exempts single-family homes, townhomes, and condos from just cause requirements.
+Determining just cause
+In designing just cause requirements, localities must consider what should constitute a
+just
+cause. Most just cause laws focus on situations where the tenant is at fault, and outline specific conditions where landlords can seek eviction or refuse to renew a lease based on tenant behavior. Examples of at-fault causes include:
+Nonpayment of rent.
+Though almost universally used across just cause schemes, the mechanisms behind a nonpayment condition vary.
+Sometimes, frequency and notification requirements are stipulated. For example, in
+Seattle
+, ending a tenancy is permitted if the owner has notified the tenant in writing of late rent four or more times in a 12-month period.
+Other times, landlords cannot use the non-payment of rent as a reason for eviction if the rent increases were “unreasonable” (
+NY
+) or “unconscionable” (
+NJ
+).
+New York
+defines “unreasonable” as anything more than the rate of inflation plus 5 percent, or anything greater than 10 percent. Jurisdictions should consider that providing exceptions for specific rent increases effectively expands rent regulation to cover more rental properties, which we explore in greater detail below.
+Illegal behavior:
+Most jurisdictions include illegal behavior as just cause. Generally, this behavior must occur on the leased premises, and can include actions like drug use, drug distribution, and drug manufacturing; assaulting landlords or other residents; and property theft. In
+California
+, landlords can invoke this cause for any use of the premises for an unlawful purpose. In
+Oregon
+, tenants engaging in “outrageous in the extreme” acts, including threatening other tenants, intentionally damaging property, injuring someone, prostitution, or possession of a controlled substance” can be served with a 24-hour eviction notice.
+Nuisance, damage, disturbance, or waste.
+Localities using this standard will need to define the magnitude and frequency of these issues.
+Philadelphia
+defines nuisance as any activity that creates “substantial” interference with the “use, comfort, or enjoyment of the property by the landlord or other tenants,” while
+New Hampshire
+defines it as “behavior that adversely affects the health or safety of the other tenants or the landlord or his representatives.”
+Material violation of lease terms or rental agreement
+. This standard generally includes violations of any fundamental or essential lease or rental agreement term. As such, it can include nonpayment, damage to property, or unauthorized subletting if prohibited expressly in the lease or rental agreement.
+In defining just cause, jurisdictions must consider reasons other than the tenant’s fault for which a landlord can obtain an eviction or otherwise regain possession of their property. Examples of no-fault just causes include:
+Withdrawing the unit from the rental market
+. Many states allow landlords to initiate a no-fault eviction or nonrenewal if they seek to withdraw a unit from the rental market in order to sell it. This condition often requires extended notice, and many jurisdictions invoke penalties for landlords who do not eventually attempt to sell the rental property. In
+Seattle
+, for example, 90 days’ notice is required if the owner intends to sell the unit.
+Owner move-in
+. This condition typically allows landlords to end a tenancy if the landlord or a landlord’s family member plans to assume unit occupancy. In
+Colorado
+, 90 days’ notice must be given, and occupancy must begin within three months of the tenant vacating.
+Demolition or conversion
+. Many localities allow landlords to end tenancies if they seek to convert the property into condominiums or cooperatives. In
+Washington, D.C.
+, landlords can only end a tenancy after securing governmental approval for conversion.
+Substantial repairs or renovations
+. Ending tenancies for substantial repairs or renovations is typically only allowed if the repair or renovation cannot reasonably occur while the tenant is still in the unit. Many localities specify which types of repairs are permissible. For example, in
+New Hampshire
+, the only circumstances explicitly permitted are lead exposure hazards requiring more than 30 days to resolve and infestations of insects, rodents, or bed bugs.
+Compliance with a government order to vacate
+. Some states allow for eviction in cases where a landlord receives a health or safety notice from a government agency or court that necessitates vacating the residential property.
+Some jurisdictions also include a tenant’s refusal to sign a new lease at the end of their previous lease as just cause. Because it is difficult to universally assign responsibility to either the landlord or tenant in these instances, whether or not this condition is considered at-fault or no-fault varies by jurisdiction. Generally, the new lease must be deemed reasonable, though the definition of “reasonable” varies. In
+California
+, the new lease must be “similar” to the previous lease, while in
+New Jersey
+, it must be “reasonable” but can include “substantial” changes. In
+Philadelphia
+, landlords have good cause based on a tenant’s refusal to accept a new lease with “materially” similar terms, which can include rent increases, and if other conditions are met.
+Other considerations
+Notification processes
+Most just cause laws require that landlords provide advanced written notice of an impending eviction or nonrenewal to tenants. Notification requirements benefit tenants by allowing them to address infractions for at-fault evictions and increase predictability and transparency for no-fault evictions.
+Notification processes vary across localities, and many just cause schemes even outline different notification requirements and timelines for various violations. No-fault evictions generally carry lengthier notice requirements than at-fault evictions. In
+Oregon
+, for example, tenants must be given a 30-day notice for at-fault removal but a 90-day notice for a no-fault removal, with some exceptions.
+Enforcement and landlord-based relocation fees
+Localities will also set penalties for landlords who do not adhere to the standards established in their just cause laws. In
+Seattle
+, an owner who requests a no-fault eviction for a tenant but does not provide a reason for the eviction or lease nonrenewal is subject to a $2,000 fine. In many jurisdictions, landlords may have to pay attorneys’ fees to wrongfully evicted tenants. Localities may also consider generally requiring that landlords who seek a no-fault eviction pay relocation fees. Landlords in
+Oregon
+who own more than four units must pay a relocation fee equivalent to one month’s rent for no-fault evictions.
+Requiring landlords to compensate tenants proven to have been evicted without cause—or without fault—can discourage such actions and help mitigate the burden on displaced tenants.
+Limiting unreasonable rent increases through just cause requirements
+Some just cause policies prohibit a landlord from evicting a tenant for nonpayment of rent if any part of the rent due stems from an “unreasonable” or “unconscionable” rent increase.
+While advocates for these particular just cause requirements argue that they protect tenants from rent hikes, jurisdictions should also consider the fact that these laws effectively expand a system of
+rent regulation
+to a larger number of homes by limiting landlords’ ability to raise rent. Jurisdictions must also consider the potential that just cause eviction laws might incentivize landlords to raise rent up to the maximum “reasonable” amount each year, especially in jurisdictions where competition preventing dramatic price increases is limited.
+The impact of just cause protections on evictions
+By limiting the grounds upon which landlords can end tenancies, just cause eviction protections have the potential to limit the number of evictions in a jurisdiction. Indeed, a
+2019 study by Julietta Cuéllar
+confirmed this, finding that cities with just cause eviction laws experienced lower eviction rates by 0.808 percentage points and lower eviction filing rates by 0.780 percentage points compared to cities without such laws.
+The costs of just cause eviction protections
+Just cause protections can increase the cost and burden of ending a tenancy and also limit landlords’ control over an important aspect of their ownership rights. As such, some critics argue that these laws may make investment in the stock to which the protections apply less appealing, which may result in conversions away from rental properties and a decrease in the overall supply of rental housing. This has the potential to be especially harmful in jurisdictions where many rentals are in smaller buildings with non-professional landlords who may be ill-equipped to manage increasingly complicated and expensive legal battles.
+Additionally, because just cause requirements can potentially increase the time and expense of ending a lease, they may cause landlords to screen applicants more rigorously. Increased screening scrutiny will likely disproportionately impact smaller buildings and landlords, as most professional management companies already screen as rigorously as the law allows. If screening rigor increases, tenants with short or spotty rental records, low or variable incomes, or no access to guarantors may find it harder to secure homes in small buildings.
+Other forms of eviction protection
+Jurisdictions might consider other ways of protecting tenants from disruptions in their housing stability outside of just cause requirements.
+Most eviction filings are because of nonpayment
+, meaning that housing subsidies—including vouchers, direct cash assistance, or renters’ tax credits—targeted to lower-income households experiencing unexpected fluctuations in household income or expenses may be an effective way to increase stability and decrease evictions. Programs that provide tenants facing eviction with legal counsel and measures to reduce the time and cost of eviction proceedings can help make trials efficient, fair, and predictable. Alternative payment plans and creative mediation processes may provide lasting and cost-effective ways to avoid eviction filings and nonrenewals.
+Additionally,
+anti-gouging measures
+, which limit exceptionally high rent increases for a certain portion of the rental stock, can be implemented independently of any just cause requirement to support tenant stability. In Oregon, for example,
+SB 608 (2019)
+limits rent increase to no more than seven percent per year plus the annual change in the Consumer Price Index (CPI), with exemptions for rental properties built in the last 15 years. California’s
+AB 1482 (2019)
+sets annual rent increases to five percent plus annual cost-of-living based on locality, up to ten percent, with exceptions.
+Jurisdictions may also consider establishing substantive defenses to eviction, including retaliation, breach of the implied warranty of habitability, and violation of applicable consumer protection statutes.
+State preemption
+Localities considering adopting just cause eviction protections at the local level should review state law to determine whether preemption doctrine limits their ability to do so. In some states, eviction protections are considered a matter of state law, such that preemption doctrines partially or wholly restrict local governments’ ability to adopt their own protections.
+Examples
+California’s
+2019
+Assembly Bill 1482
+exempts residents who have not lived in a unit continuously for over 12 months, properties constructed in the last 15 years, and owner-occupied properties. The bill specifies ten reasons for at-fault evictions and four for no-fault reasons. It  requires landlords to give tenants on a fixed-term lease 60 days’ notice and those with  month-to-month tenancies 30 days’ notice. For no-fault evictions, landlords must either assist the tenant with relocation through direct payment or waive the final month’s rent in writing.
+In
+New Jersey
+,
+State Statute 2A: 18-61.1
+mandates that each cause, except nonpayment of rent, be described in detail by the landlord in a written notice to the tenant before issuing a Notice to Quit. It also includes specific conditions for eviction in public housing authority- or redevelopment agency-controlled housing. Uniquely, the statute only exempts owner-occupied properties with two or fewer units, hotels, motels, and certain units permanently occupied by immediate family members with developmental disabilities—either held in trust for them or owned by a relative.
+In
+Seattle, WA
+,
+Seattle Municipal Code 22.2205
+(SMC 22.2205) gives month-to-month renters, renters with verbal agreements, and those with expiring term leases coverage under just cause eviction laws. This code mandates that any owner who ends a tenancy without providing the stated reason be liable for damages up to $2,000, along with the costs of the lawsuit or arbitration and reasonable attorney fees. SMC 22.2205 also specifies that students and parents with school-age children can not be evicted during the school year using the just causes outlined, with some exceptions.
+Oregon’s
+2019
+Senate Bill 608
+specifies that to end a tenancy for a tenant on a fixed-term tenancy for lease violations, landlords must have notified the tenant of their violations at least three times in the past 12 months. It requires 90 days’ notice for no-fault evictions and 30 days’ notice for at-fault evictions and mandates that landlords owning more than four units pay a relocation fee equivalent to one month’s rent for no-fault evictions.
+In
+Washington, D.C
+.,
+§ 42–3505.01
+requires that notices for all reasons other than nonpayment be served to both the tenant and the Rent Administrator. It allows a landlord to recover possession of a rental unit if they have not corrected a violation of an obligation of their tenancy within 30 days of receiving notice. The code requires a 180-day notice to vacate to seek recovery of the unit for demolition or owner-occupancy. Landlords cannot evict a tenant using just cause on any day when precipitation is falling at the location of the rental unit or the National Weather Service predicts at 8:00 a.m. that the temperature at the National Airport weather station will drop below 32 degrees Fahrenheit.
+Related resources
+Effect of “Just Cause” Eviction Ordinances on Eviction in Four California Cities
+. Published by the Princeton Journal of Public & International Affairs in May 2019, this study found that cities that implemented just cause eviction laws experienced lower eviction by 0.808 percentage points and lower eviction filing rates by 0.780 percentage points than those that did not. ​​
+Balancing Act: Navigating the Tradeoffs of Good Cause Eviction Legislation
+. This brief by the NYU Furman Center, published in May 2024, analyzed a proposed piece of legislation in New York State and discussed the costs and benefits of just cause requirements.
+Just Cause Eviction Laws Toolkit
+. This toolkit by the National Low Income Housing Coalition (2024) synthesises research on just cause laws and details their structure and potential complementary policies.
+Just Cause Legislation: A Comparison Across Seven States
+. This tool by PolicyLink (2024) compares just cause policies across seven states and includes specific details on coverage, at-fault causes, and no-fault causes.
+Helping the Good Cause: Building a Better Anti-Eviction Scheme Through Local Innovation
+. This essay, published in the Journal of Affordable Housing & Community Development Law (2022), examined the specific mechanics of just cause laws across four jurisdictions, highlighting historical innovations and specific policy differences.

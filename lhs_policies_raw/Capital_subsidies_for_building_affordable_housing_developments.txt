@@ -1,0 +1,74 @@
+Title: Capital subsidies for building affordable housing developments
+Source: https://www.localhousingsolutions.org/housing-policy-library/capital-subsidies-for-building-affordable-housing-developments/
+
+Capital subsidies can take several forms, but generally are any funds provided from a source (generally a unit of local, state or the federal government) that reduces the amount of financing a borrower needs to obtain from a conventional lender. Because a capital subsidy does not need to be paid back, it reduces the amount that must be borrowed or obtained through an equity investment by a private party to develop a rental property. Lower debt service levels allow a project to charge lower rents and still be economically sustainable. Capital subsidies may take the form of grants, forgivable loans, or tax credits.
+Capital subsidies can come from a variety of sources, including
+LIHTC equity
+,
+HOME
+or
+Community Development Block Grants
+(CDBGs),
+general obligation bonds
+,
+housing trust funds
+, or funds raised through
+tax increment financing
+.
+This section provides more details on how local jurisdictions can make capital subsidies available to affordable housing developers.
+Approach
+Capital subsidies for affordable housing developments can come from a variety of federal, state, and local sources, including:
+Proceeds from the sale (also known as syndication) of federal or state Low-Income Housing Tax Credits
+HOME or CDBG grants
+Proceeds from the issuance of general obligation
+bonds
+Housing trust funds
+Special purpose state tax credits (e.g., historic tax credits)
+Funds raised through
+tax increment financing
+Federal Home Loan Banks’ Affordable Housing Program
+The
+Low Income Housing Tax Credit
+(LIHTC) is one type of capital subsidy (in essence, it provides dollars that do not need to be paid back by the project), but additional capital subsidies are often needed even for properties that receive LIHTC awards. While the equity raised by syndicating LIHTCs covers a substantial share of development costs, in many cases, the LIHTC equity plus the debt supportable by rents at the target level are insufficient to fully cover all development costs. In these cases, additional capital subsidies are needed to serve as “gap financing” to supplement the equity provided through the LIHTCs and enable a project to be economically viable.
+In an affordable homeownership development, a capital subsidy similarly reduces the borrowing needed to cover the costs of constructing or purchasing and rehabilitating a property. The subsidy allows homes to be sold to homebuyers for a lower, more affordable price.
+Depending on the intended affordability of units, it is likely that more than one source of gap financing will be needed. On a typical 9 percent LIHTC deal, for example, equity from the sale of tax credits may cover up to about 70 percent of total development costs (not counting the costs of land acquisition). In some cases, project rents can support debt that would cover the remaining 30 percent of costs plus the costs of land acquisition, but in most cases, there will still be a gap that needs to be filled. The lower the rents, the less cash flow the project will have to cover debt service payments. Indeed, projects that seek to offer rents affordable to the lowest-income households may not be able to service any debt at all out of current rental income.
+The additional capital subsidies needed to ensure a project is economically viable can come from a variety of sources, including HOME funds or a contribution from a state or local housing trust fund. For those capital subsidies that are controlled by the local government, staff need to make decisions about the form in which the subsidy is provided. Restrictions associated with existing financing programs should be considered when making these decisions.
+In the LIHTC program, for example, the “eligible basis” used to calculate the tax credit allocation for a project generally must be reduced by any additional federal subsidies the project receives. For this reason, it is advisable to structure gap financing for tax credit projects that comes from HOME funds or other federal sources as a loan rather than a grant. While structured as a below-market loan, payment is typically deferred such that this assistance more closely resembles grant assistance. (Following changes to the LIHTC program made as part of the Housing and Economic Recovery Act of 2008, direct or indirect federal loans issued at below-market interest rates are no longer classified as federal subsidies. See
+guidance from the Office of the Comptroller of the Currency
+for more details.) Developers will be concerned about the eligible activities associated with each layer of funding, as well as the timing of various payments to the property owner or “draws” during the construction period.
+Local jurisdictions can help to streamline the process of securing capital subsidies by creating a uniform application that allows project sponsors to apply for multiple sources of funding at the same time. This approach may initially require greater administrative coordination, but can help to ensure that the necessary funding is lined up and allow projects to proceed on schedule. Smaller jurisdictions may benefit from
+regional collaboration
+in order to share the administrative burden of a uniform capital subsidy application process.
+Eligibility
+In many cases, the terms under which capital subsidies can be used will depend on the source of the subsidy. For example,
+Low-Income Housing Tax Credit
+equity may only be used to support rental housing that meets federal income requirements, as well as other criteria established by issuing agencies in their Qualified Allocation Plans. Federal HOME funds can be used to build or rehabilitate housing for rent or homeownership, subject to rent and maximum purchase-price limits as well as caps on the amount of per-unit subsidy that may be provided and minimum time periods during which affordability must be assured. Many communities also set similar requirements and parameters for awards from a local housing trust fund.
+Where existing program regulations do not dictate eligibility criteria, local jurisdictions will need to determine the types of activities to support (e.g., rental housing and/or homeownership, new construction and/or acquisition and rehabilitation, etc.), the target income level(s) and/or population(s) to be served, and the duration of any affordability requirements. Some cities also restrict the geographic areas in which they will grant capital subsidies to avoid creating or contributing to existing concentrations of poverty and/or to promote greater access to amenities for low-income residents. Clear criteria regarding eligibility for capital subsidies gives developers who are interested in applying for funding the transparency and predictability they need to structure deals.
+Other considerations
+Protecting local investments
+Capital subsidies support developments that have not been built or rehabilitated. Compared to projects that have been completed and stabilized with tenants or owners, investments in these developments may carry a somewhat higher risk of failure. This risk can be mitigated by maintaining high standards and a careful applicant review process. However, where existing guidelines are not already in place (such as recapture policies for the Low-Income Housing Tax Credit program), cities should also establish clear procedures regarding the recapture of subsidies or other penalties in the event that a project fails to meet deadlines or comply with program requirements.
+Example
+The City of
+Chicago
+allocates proceeds from its Low-Income Housing Trust Fund to the Multi-year Affordability through Upfront Investment (MAUI) program. MAUI funds can be used to fund upfront development costs (capital investment) for multifamily rental projects as well as operating reserve funds. Developers who apply for a capital investment receive a non-interest bearing
+forgivable loan
+in an amount up to 50 percent of the first mortgage loan. In exchange, MAUI-funded units must be reserved for households that meet income restrictions – generally, half of the units must be set aside for households with incomes below 15 percent of the
+area median income
+, and half must be set aside for households with incomes up to 30 percent of the area median. In most cases, affordability restrictions remain in place for a term of 30 years. More information about the MAUI program and application can be found at the
+Chicago Low-Income Housing Trust Fund website
+.
+The city of
+Santa Cruz
+uses the Affordable Housing Trust Fund, (AHTF), is to assist in the creation and preservation of affordable housing for the benefit of low and moderate-income households. For more details,
+visit the City of Santa Cruz website
+.
+Related resources
+Basic HOME and CDBG: An Overview of Program Requirements, HUD Office of Community Planning and Development –
+This slide deck was prepared for a training session
+on using HOME and CDBG and combining the programs.
+HOME and the Low-Income Housing Tax Credit Guidebook, HUD Office of Community Planning and Development (2013) –
+This guidebook provides technical guidance
+to HOME participating jurisdictions on how to successfully combine funding from the LIHTC and HOME programs. Topics covered include financial feasibility, construction standards, and ensuring long-term compliance.
+Low-Income Housing Tax Credits: Affordable Housing Investment Opportunities for Banks, Office of the Comptroller of the Currency (2014) –
+This publication from the OCC’s Community Affairs Department provides background on the LIHTC program
+and how it may be used in conjunction with other funding sources.

@@ -1,0 +1,36 @@
+Title: Land value taxation
+Source: https://www.localhousingsolutions.org/housing-policy-library/land-value-taxation/
+
+In cities, towns and counties that use land value taxation, the owner of a vacant lot would owe the same amount of property taxes as the owner of an adjoining identically sized lot that includes a four-story apartment building. Under split-rate taxation, a variant on land value taxation, the land is taxed at a higher rate than improvements. While not widely used in the U.S., these approaches discourage speculation and holding of empty sites, and encourage owners of vacant or underutilized parcels to make improvements that increase their returns without having to worry about the tax consequences. The community benefits from increased investment that puts formerly vacant or underutilized properties to productive use. Depending on the context, land value taxation can contribute to an increased supply of housing and also to the revitalization of neighborhoods with large numbers of vacant properties. However, it is unlikely to lead to any further development of properties that are already at or near their maximum potential based on current zoning.
+Approach
+Cities, towns, and counties that choose to implement a land value taxation policy first need to assess the value of each parcel in the jurisdiction, without reference to any structures on the land. This valuation would be based on the market value of the land if it were vacant, which accounts for the site’s development potential under current land use regulations, as well as access to current and planned amenities and public infrastructure. These values then need to be regularly examined and adjusted, just as home values are under the current property tax system, with an option for landowners to appeal if they disagreed with the
+assessed value
+.
+Proponents of land value taxation argue that this approach would yield several benefits including:
+Discouraging speculation on vacant lots that have been zoned for development, as landowners would pay the same amount of taxes for vacant lots as those put to productive use
+Encouraging development and beneficial land uses in lower-cost and infill areas, as improvements would not be taxed and low taxes on low-value land could stimulate new construction
+Increasing the cost of land ownership, which in turn would moderate land prices and potentially reduce the cost of housing
+While more than 30 countries have adopted systems of land value taxation, it is difficult to find examples of localities in the U.S. that collect property taxes only on the value of the land. Instead, taxes on the underlying property are typically added to an assessment on any improvements. Split-rate taxation systems have been somewhat more popular, having been adopted in 20 jurisdictions in Pennsylvania and authorized in Roanoke and Fairfax County, Virginia and on a pilot basis for up to three municipalities in Connecticut. Pittsburgh, PA used split-rate taxation from 1913-2001. This variation on land value taxation, in which improvements on a site are taxed at a separate and lower rate than the underlying land, has been credited with helping to revitalize aging downtowns (see example below).
+Switching to a land value taxation system or even to split-rate taxation would require a major public education campaign, as well as adjustments to tax assessment and collection practices. This change would likely face significant opposition, as its effect would be felt unevenly and most acutely by owners of high-value property where land accounts for a relatively large share of the total value. For these users, the elimination of taxes on the value of buildings and other improvements on the property would only partially offset increased property tax liability and reductions in the price of their land. Some economists have also called into question the ability of a land value taxation system to generate sufficient revenue to support local government operations. This concern may be relevant for a system in which a land value tax would replace all taxation, but generally does not apply in a system where land value or split-rate taxation would simply replace the traditional property tax and raise a similar amount of revenue.
+Other considerations
+Tax-exempt land
+Localities that look to a system of land value or split-rate taxation to fund a substantial proportion of the local budget could face challenges if a relatively large portion is a
+publicly-owned land
+or owned by non-profit organizations and therefore is tax-exempt. Additional funding sources may be needed to fill the gap caused by the inability to assess taxes on these properties.
+Example
+In 1975,
+Harrisburg, PA
+adopted a
+split-rate tax system
+in which land was taxed at two times the rate of buildings on the land. Rates have been adjusted over time, and the difference has increased to a ratio of 6:1 (land tax rate to building tax rate). This approach has been credited by some with helping to revitalize the capital, resulting in new investment at higher densities, job growth and investment by employers, sharp reductions in the number of vacant structures, and increased tax revenue for the city.
+Related resources
+Assessing the Theory and Practice of Land Value Taxation
+, Lincoln Institute of Land Policy (2010) – This overview of the benefits of a land value approach to taxation includes a section on U.S. and international experience with land value and split-rate taxation. The brief also includes sections describing research on the market impacts of land value or split-rate taxation and detailing legal, administrative, and political challenges.
+Henry George’s Land Value Tax: An Idea Whose Time Has Come?
+American Affairs (February 2018) – This article traces the history of the land value tax and describes variations on the approach first advocated for by Henry George in the 1800s.
+Land Value Tax: An Alternative to the Property Tax
+, NAHB Eye On Housing Blog (November 2013) – This blog post provides a brief overview of the land value tax and how it has been implemented in the U.S.
+Land Value Taxation: Could it Work Today?
+Lincoln Institute of Land Policy (March 1998) – This article summarizes proceedings from a conference on land value taxation held by the Lincoln Institute, including discussion from papers submitted in conjunction with the conference.
+The Weeds: The Land Value Tax, Explained (Out Loud)
+, Vox (2016) – This podcast provides an introduction to the concept of land value taxation, including potential benefits and impediments to widespread adoption in the U.S.

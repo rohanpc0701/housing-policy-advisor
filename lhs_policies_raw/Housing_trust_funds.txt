@@ -1,0 +1,129 @@
+Title: Housing trust funds
+Source: https://www.localhousingsolutions.org/housing-policy-library/housing-trust-funds/
+
+The entity administering the fund determines eligible activities, which vary widely from community to community, from emergency rent assistance for families facing the threat of eviction or homelessness to gap financing for new construction of affordable housing to repairs and
+weatherization
+for older homeowners. Ideally, funding for the trust fund comes from a dedicated revenue source established with the support and approval of key stakeholders. While the actual amount of funding received each year may fluctuate, securing a dedicated revenue source allows some predictability and eliminates the need to go through the budget allocation process each year.
+
+Local jurisdictions interested in creating an affordable housing trust fund will need to make a series of decisions about where the revenue comes from, how the trust fund is administered, and eligible uses. In this section we walk through the primary considerations.
+Approach
+Cities, towns, and counties that are interested in creating a housing trust fund will need to determine whether the fund will be administered by an existing public office or nonprofit organization, or whether a new entity will be established to perform this function. Typically, trust funds are administered by existing public offices that have experience working with housing development partners, administering grants, and managing a competitive application process, such as the local department of housing or community development. In some cases, however, it may be expedient to identify a partner organization or to create a separate entity charged solely with managing trust fund operations.
+
+The entity responsible for managing the housing trust fund will need to make a variety of administrative decisions about the fund’s operation. Many of these decisions relate to housing trust fund awards, including:
+How will awards be structured—as grants, low-interest or
+forgivable loans
+, credit guarantees, or in some other form?
+This decision will be guided in large part by the activities to be funded.
+How will the application process be structured?
+Some cities, towns, and counties allow applications to be submitted on a rolling basis, while others issue an annual or semi-annual request for proposals, often in coordination with other funding programs. Alternatively, some jurisdictions automatically allocate housing trust fund proceeds to designated housing and services providers to fund existing programs.
+How will applications be evaluated?
+Will priority be given to any types of projects, or projects with certain characteristics?
+Local cities, towns, and counties will also need to establish other rules and guidelines regarding administration of the housing trust fund, including establishing the agency or department responsible for day-to-day management of the fund and expectations for reporting on housing trust fund activities. Many cities, towns, and counties also establish an advisory body composed of stakeholders from diverse backgrounds to help guide trust fund administration and provide program oversight. Smaller localities should consider the potential of partnerships with other localities, regional authorities, or the state to assist in the management of the administration of the housing trust fund.
+Funding
+There are many possible sources of revenue for a local housing trust fund. These sources often have some connection to the policy goal(s) of the trust fund—for example; many cities, towns, and counties deposit the revenue from
+linkage fees
+associated with new commercial development in the trust fund. The related section on
+dedicated revenue sources
+has more information on potential sources of funding for a housing trust fund.
+
+Decisions about which source(s) are most appropriate for a given community will depend on a number of factors. One key consideration is the revenue potential of a given source, and whether it is likely to generate sufficient funds to provide meaningful support for affordable housing activities. The
+reliability
+of that funding source from year to year is a closely related consideration. The trust fund infrastructure allows funds to be carried over from year to year, making it possible to provide an even level of support for affordable housing activities even as funding levels fluctuate over time. However, trust funds that are funded with government
+appropriations
+and similar sources receive only a one-time funding boost with little assurance of ongoing support. For this reason, some advocates limit the definition of housing trust funds to those funds that are linked to a dedicated revenue source that assures the availability of resources on a regular basis.
+[1]
+Localities with
+softening housing markets
+or experiencing economic contraction should ensure that funding will be sufficient for affordable housing needs and protected from appropriation for other uses.
+
+Cities, towns, and counties will also need to assess the practical and political feasibility of creating a new fee or re-directing an existing revenue stream for affordable housing purposes. These changes may require state approval or approval of a ballot measure in a public election. On a practical level, it is important to consider how funds are currently being used, and whether their use for affordable housing will create a funding gap for other key activities. Politically, support or approval from key stakeholders will be needed to designate a funding source for an affordable housing trust fund—whether working with elected officials to allocate a portion of
+document recording fees
+to the trust fund, for example, or asking community members to approve a
+bond
+issue.
+Eligibility
+One of the key decisions in designing a trust fund is identifying the activities that the trust fund will support. Cities, towns, and counties may choose to limit eligibility for trust fund expenditures to one high-priority activity, or allow a variety of possible uses. When deciding on eligible uses of trust fund expenditures, local jurisdictions should consider whether there are any high-priority housing needs that are difficult to fund with other sources, such as the creation of rental units for moderate-income households earning between 80 and 100 percent of
+area median income
+who aren’t eligible for federal housing programs. Trust fund revenue can also be used to fill gaps in other funding streams— for example, to provide deep rent subsidies that make
+Low Income Housing Tax Credit
+units affordable to extremely low-income households.
+
+Estimates of the amount of revenue likely to be raised in a given year should also inform this decision. For example, in cities, towns, and counties that expect to generate a very modest funding stream, it may be better to focus on small grants to support home safety modifications for senior homeowners, while cities, towns, and counties that anticipate a robust amount of revenue could choose to create a more costly program such as a local tenant-based rental assistance program.
+
+Depending on local priorities and subject to state regulations, essentially any housing-related activity can be funded with a housing trust fund. Examples of the types of activities that can be funded with housing trust fund proceeds include:
+Capital subsidies for affordable housing developments
+Below-market financing of affordable housing development
+Operating subsidies for affordable housing developments
+Acquisition and operation of moderate-cost rental units
+Targeted efforts to create and preserve dedicated affordable housing in resource-rich areas
+Targeted efforts to expand the supply of rental housing and lower-cost housing types in resource-rich areas
+Community land trusts
+Deed-restricted homeownership
+Limited equity cooperatives
+Use of publicly owned land for affordable housing
+Land banks
+Property acquisition fund
+State- or local-funded tenant-based rental assistance
+Security deposit and/or first and last month’s rent assistance
+Downpayment and closing cost assistance
+Shared appreciation mortgages
+Subsidized mortgages
+Energy-efficient retrofits
+Foreclosure prevention programs
+Assistance for home safety modifications
+Homeowner rehabilitation assistance programs
+Weatherization assistance
+All requirements regarding eligible applicants,
+income targeting
+, the required affordability period, and other limits on the use of housing trust fund awards should be clearly established in the program guidelines.
+Other considerations
+State requirements
+Some states restrict the powers of cities, towns, and counties, allowing only those local activities that are specifically authorized by the state government. These states are sometimes called Dillon’s Rule states, in reference to the Iowa Supreme Court justice who made a series of court decisions that affirmed a narrow interpretation of local authority in the Tenth Amendment to the U.S. Constitution.
+[2]
+In Dillon’s Rule states, state enabling legislation may be required to establish a housing trust fund or to use certain sources of funding.
+Examples
+The
+Somerville, MA Affordable Housing Trust
+focuses on preserving and creating affordable rental and homeownership units, as well as providing direct assistance to renters and homeowners. Funds may be used for a variety of activities that support these goals, including site development for new construction; rehabilitation subsidies and arson prevention for existing developments; and assistance with security deposits or down payments and closing costs for renters and homebuyers. Trust documents also allow for funds to be used to research other appropriate activities or to provide seed money for new programs or organizations. Funding for the Trust comes from a variety of sources, including
+linkage fees
+and in lieu payments from the city’s
+inclusionary zoning
+programs, as well as allocations from the city and from the federal Emergency Shelter Grant program. At least 20 percent of funds must be used to serve households with incomes below 50 percent of AMI, although the Trust “encourages deeper affordability” and the use of funds to serve people experiencing homelessness. Another 20 percent is reserved for households at 51 to 80 percent of AMI, and 10 percent must go towards those with incomes between 81 and 100 percent of AMI. The Trust is governed by a nine-member Board of Trustees that includes the Mayor, President of the Board of Aldermen, and Executive Director of the Somerville Housing Authority (or their designees), as well as six members appointed by the Mayor or approved by the Board of Aldermen including representatives from the housing or real estate and banking or finance sectors and at least one Somerville resident who is eligible for state or federal
+public housing
+programs.
+The Somerville Affordable Housing Trust Strategic Vision Plan & Guidelines provides more details.
+To support its housing trust fund,
+Austin, TX,
+dedicates property tax revenue from projects built on land that was previously owned by the city. When the city’s Affordable Housing Trust Fund was first created in FY 1999-2000, the City Council voted to direct 40 percent of property tax revenue generated by developments on former city-owned property to the fund; in 2016, they increased that share to 100 percent. The city’s Neighborhood Housing and Community Development Department administers the fund, which also receives support from the city’s
+tax increment financing
+program, property sales, and other local sources. Funds support rehabilitation and creation of new affordable housing, including in higher-income neighborhoods and Homestead Preservation Districts that have been targeted for reinvestment, among other activities.
+The State and Local Housing Trust Fund Database lists more details about Austin’s Housing Trust Fund.
+Related resources
+General
+The National Low Income Housing Coalition (NLIHC) maintains the
+Housing Trust Fund Project
+,  which is the most exhaustive source of information on housing trust funds. It includes the
+State and Local Housing Trust Fund Database
+, findings from a
+national survey of housing trust fund administrators
+in 2025, and
+detailed guidance
+on designing, establishing, and administering trust funds.
+Establishing a Local Housing Trust Fund: A Guide for California Officials
+, published by the Institute for Local Government in 2007, was prepared for local jurisdictions in California but provides guidance that will be of interest to all cities, towns, and counties interested in creating a housing trust fund, with special focus on program design, administration, and coordination.
+The Massachusetts Housing Partnership’s 2013 guidebook,
+Municipal Affordable Housing Trusts
+,  may be a useful reference point, with sections on defining the vision of the trust and strategies for gaining support and approval.
+State enabling legislation
+As part of the Housing Trust Fund Project, NLIHC tracks state-level housing trust funds as well as
+the various forms of legislation
+that have passed at the state level to advance local housing trust funds.
+Footnotes
+[1]
+See the National Low Income Housing Coalition’s write-up at
+https://nlihc.org/housing-trust-fund-project/revenue-sources
+.
+[2]
+For more detail, see the National League of Cities fact sheet
+Cities 101 – Delegation of Power
+.

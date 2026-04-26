@@ -1,0 +1,114 @@
+Title: Opportunity to purchase policies
+Source: https://www.localhousingsolutions.org/housing-policy-library/rights-of-first-refusal/
+
+Eligibility
+In general, two main groups are deemed eligible to purchase properties using T/COPA rights: tenant associations and qualified not-for-profit organizations.
+Tenant associations are legal entities formed by tenants in a building to exercise their purchasing rights. In most models, they must be representative of a majority of units or households in the property. In some cities, this number is higher — in Chicago’s Woodlawn Pilot, for example, more than 75 percent of units are represented in the tenant association.
+Some cities restrict eligibility to qualified not-for-profit organizations. The nonprofit must be
+certified by a government agency
+that is committed to affordability. In some jurisdictions, a qualified not-for-profit may partner with a for-profit sponsor.
+Community Land Trusts (CLTs)
+are a type of nonprofit organization that acquires, owns, and stewards land permanently for the common good. In New York City’s COPA, CLTs are specifically noted as eligible purchasers.
+In some communities, the list of eligible purchasers also includes the housing and community development department and/or the local housing agency.
+Criteria used to assess the strength of potential buyers often include demonstrated experience operating affordable housing developments and proof of readiness to purchase the property, such as access to financing through a commercial bank and/or subsidy program.
+Approach
+Communities that adopt an opportunity to purchase policy must establish the mechanism for making rental properties available to eligible purchasers. Approaches range in restrictiveness and include:
+Providing advance notification:
+The owner tells the city they plan to sell. The city can suggest a buyer or notify potential purchasers from a list of qualified entities, but the owner isn’t required to negotiate with them for a specified period.
+Establishing a “right to make an offer”:
+Before the property goes on the open market, the eligible buyer has a set amount of time to make an exclusive offer. If the eligible buyer can’t reach a deal with an owner, the property will go on the market. In some jurisdictions, the eligible buyer may also be able to exercise a “right of first refusal” option later.
+Offering a true “right of first refusal”:
+If a third-party buyer, such as a private developer, makes a bona fide offer to buy the building, the eligible buyer has the right to “match” that price, and the owner must take the deal instead.
+Opportunity to purchase process
+Typically, drafting a T/COPA process involves setting a timeline for each step in order for the ROFO or ROFR to be triggered. Importantly, notice provisions built into each of these approaches require owners to inform the eligible buyers of their intent to sell or convert the property. Notification periods can range from five days to several months. Advance notice gives tenant associations a chance to organize and, along with other potential buyers, secure financing in preparation for making a bona fide offer.
+In a
+ROFO
+, the process begins when the property owner informs the tenants of their intent to sell. Tenants typically have about 15 to 30 days after the notification to submit a statement of interest indicating that “they intend to consider making an offer.” Alternatively, tenants can waive the right to make an offer, and qualified purchasers, such as nonprofits, can submit their own statement of interest. This timeframe varies by city, with San Francisco having a much shorter window to respond. If interest is filed, the tenant(s) or qualified purchaser is granted a negotiation period of about 30 to 90 days to submit a formal offer. If the owner accepts the offer, the tenant organization or qualified purchaser is given time — sometimes several months — to secure financing. If the owner rejects the offer or the timeline expires, the owner may list the property.
+A
+ROFR
+process begins when a third-party buyer makes an offer to the owner. The building’s owner must provide a copy of the offer to the tenant(s) or qualified purchasers, including all prices and terms. In some jurisdictions, to ensure the offer is fair and not artificially inflated, the eligible buyer may request an appraisal from an independent party. Typically, the eligible purchaser has about 30 to 60 days to match the third-party buyer’s offer. If they match the offer and the owner accepts it, the owner must similarly give the tenant(s) or qualified purchaser time to secure financing and close. If rejected, a third party may enter into a contract with the owner, provided the offer of sale is not lower than the offer made by the tenant(s) or a qualified purchaser.
+Assignment of rights and cash considerations
+In some cases, tenants can assign their purchase right to third parties or the existing owner in exchange for another direct benefit. Under Washington, D.C.’s TOPA law, tenant associations often waive the purchase right and assign it to another entity in exchange for cash payments, rent concessions, or a promise of repairs. As of 2025,
+Washington, D.C., set limits
+on payouts.
+In other cities, such as San Francisco, tenants are not provided the right, and only “qualified” purchasers, namely nonprofits, may exercise the right.
+Scope and triggering conditions
+Communities will also need to specify the circumstances under which ROFO or ROFR will be triggered.
+Preservation of dedicated affordable rental housing.
+For dedicated affordable housing, the trigger points for T/COPA are often tied to the lifecycle of government subsidies.
+Most local jurisdictions have a robust supply of dedicated affordable rental units thanks to federal U.S. Department of Housing and Urban Development (HUD) programs launched from the late 1960s to the mid-1980s, as well as the Low Income Housing Tax Credit (LIHTC) introduced in the 1980s. As the expiration date for affordability restrictions approaches, owners are inclined to opt out of subsidy programs to convert the property to another use, whether residential (e.g., converting affordable rentals to market-rate units or condos) or nonresidential. A T/COPA program is one legal mechanism jurisdictions can use to
+preserve long-term affordable rental units
+by slowing down a sale when an investor, for example, is exiting their investment and requiring that a non-profit have the opportunity to purchase the property. The mechanism, however, could also discourage investment or make affordable housing transactions and recapitalizations more complex, thereby imposing costs on the affordable housing sector. In cities with T/COPA policies, the trigger point is often set when a property is proposed for sale or demolition.
+Preservation of rental housing in general.
+Some local jurisdictions establish broader T/COPA policies that cover unsubsidized rentals as well as dedicated affordable rental properties, and the trigger is designed to prevent displacement. Local jurisdictions need to establish clear guidance on which rental properties are subject to T/COPA requirements. In some cases, coverage is determined by the property’s year of construction (e.g., all rental properties built before 1995 are covered by the policy). This focus on older rental properties is intended to avoid deterring new residential construction. Some policies also include size thresholds that limit coverage to properties with a certain number of units, such as developments with 20 or more units.
+Examples
+San Francisco, California.
+San Francisco’s 2019 Community Opportunity to Purchase Act (COPA) allows
+city-certified non-profits
+, rather than tenants, the first chance to buy residential buildings with
+three or more units
+. Nonprofits have only five days after a viewing to express interest and 25 days to make an offer. The qualified not-for-profit that submitted an offer during the initial stage also has the chance to exercise a ROFR when the property is on the market. If the owner finds another buyer later, the nonprofit can match that offer within a five-day window.
+Purchased properties must remain permanently affordable, with average rents capped at 80 percent of the Area Median Income and strict income limits for new residents. While the city provides a one-time transfer tax exemption to encourage these deals, the program has seen limited scale.
+By late 2023, only 230 units had been preserved
+. The policy remains primarily focused on saving small buildings, where tenants face the highest risk of displacement or loss of rent protections.
+Washington, D.C.
+Washington, D.C.’s Tenant Opportunity to Purchase Act (TOPA), first enacted in 1980, is the oldest TOPA program in the country. TOPA gives D.C. tenants a
+right of first refusal
+should the owner decide to sell the property. There is no explicit role for not-for-profits. Tenants can match a third-party offer and can even sell or “assign” their rights to other buyers, though 2025 reforms now cap the compensation tenants can receive for these assignments. The process is time-intensive, allowing up to 120 days for negotiations and financing. Recent updates have narrowed the law’s scope: single-family homes, buildings newer than 15 years, and sales that preserve affordability are now exempt. While TOPA rarely leads to direct tenant ownership, with only
+771 co-op units created since 2006
+, it is frequently used to secure repairs, rent concessions, or cash payments.
+Most of the 19,170 units impacted since 2006 remained rentals
+, with tenants prioritizing building improvements and affordability over homeownership.
+Chicago, Illinois.
+Chicago’s 2020
+Woodlawn Housing Preservation Ordinance
+created a targeted pilot program to combat displacement near the Obama Presidential Center. In buildings with
+10 or more units
+, tenant associations representing at least 75 percent of residents hold a right of first refusal. Owners must provide a 30-day notice before listing the property and a second notice if a third-party offer is received. Tenants then have 90 days to match that offer. Acquired buildings must remain affordable for 30 years. Despite these protections and available community funds, the Woodlawn program saw
+zero participants
+by late 2023. Chicago also passed the
+Northwest Side Preservation Ordinance
+in 2024. This version applies to buildings of all sizes and simplifies the process of forming tenant associations. Effective through
+2029
+, this newer policy is a second attempt to use neighborhood-specific purchase rights to stabilize areas facing rapid price appreciation.
+Challenges and other considerations
+Applying T/COPA to distressed buildings.
+While policymakers may view T/COPA as a mechanism to move distressed properties into alternative ownership structures that could improve living conditions, in practice, distressed properties may be undergoing bankruptcy, foreclosure, or government-initiated action to enforce a tax lien. Most “opportunity to purchase” rights exempt these properties because they are not a traditional sale. Furthermore, owners of
+“
+underwater properties”
+(those owing more than the building is worth) may simply refuse to sell at a low valuation, and T/COPA laws generally can’t force a sale. Even if a sale is triggered, distressed buildings often require more capital investments to address hazardous conditions and years of deferred maintenance. If the goal is to target distressed properties, policymakers should ensure that affordable housing preservation funds and financing tools are capitalized to cover both acquisition and intensive repairs. The restrictive nature of T/COPA policies can also be self-defeating. By imposing long-term affordability caps and banning for-profit partners, the mechanism can unintentionally block the property from accessing private capital or subsidy programs used to finance major renovations. Successful T/COPA purchases for distressed buildings likely require strengthening programs that force the sale of neglected properties, increasing preservation funding, and creating specialized legal pathways for buildings stuck in bankruptcy or foreclosure.
+Applying T/COPA as a price control.
+Advocates often view the “opportunity to purchase” as a tool to curb displacement in neighborhoods facing rapid price appreciation. However,
+research suggests
+T/COPA policies may miss these high-risk areas. Because a property sale triggers the policy, it tends to operate most often in
+wealthier, stable neighborhoods
+where sales volumes are highest, or other neighborhoods where tenancies are longer and tenants are better organized. In contrast, neighborhoods with high turnover and market-rate units often lack the tenant association capacity needed to exercise these rights. For the mechanism to succeed in at-risk communities,
+experts argue
+it must be paired with dedicated nonprofit support and stable financing sources to ensure that community-led offers can actually compete and close in a fast-moving market.
+Support for tenant associations.
+Tenant associations seeking to exercise their opportunity to purchase will typically need substantial financial and technical support to make a successful offer. Some communities have created complementary programs that help tenant associations manage the purchase and operation of a housing development. Cities may also want to identify nonprofit organizations with experience conducting preservation transactions and that can serve as partners to support tenant associations throughout the process.
+Financing opportunity to purchase transactions.
+The most critical barrier to purchasing property is the availability of stable, permanent financing. While short-term acquisition loans can help tenants purchase a building, those loans must be repaid or refinanced with long-term financing. If this transition fails, revolving funds will be depleted, leaving no capital available for future transactions,
+as seen in D.C
+. Furthermore, properties stuck with short-term debt often lack the capital to address modernization or physical distress. Policymakers must create a predictable pipeline of preservation funding that covers both the initial purchase and the building’s long-term maintenance and affordability needs.
+Defining a “sale” that would trigger the “opportunity to purchase” is difficult.
+Precisely defining what constitutes a “sale” is difficult, and jurisdictions struggle to determine how they should treat recapitalizations, partnership investments, refinancings, or equity investments made through an affordable housing program, which may restructure ownership. In softer markets, defining a “sale” too broadly may make it challenging to bring new investment into a property.
+Timing requirements and litigation risk impose transaction costs
+.
+Implementing an “opportunity to purchase” can create delays and legal complexities. In Washington, D.C., TOPA negotiations typically last four to eight months, often pushing the sale process past the one-year mark. As a result, owners may stop investing in maintenance and changing interest rates, which can impact deals. TOPA in D.C. also imposes heavy litigation risk and attorneys are often navigating disputes over how to treat entity restructurings, tenant association validity, and other questions of statutory interpretation. Consequently, lenders and title companies often demand signed waivers from every tenant to close a deal.
+Related resources
+Surveying and Evaluating Tenant and Community “Opportunity to Purchase” Proposals
+, NYU Furman Center (November, 2025) – This brief examines T/COPA proposals at both the state and city level in New York through case studies in other U.S. cities and states, and provides a set of considerations for policymakers to advance such proposals.
+Stable Homes and Resident Empowerment – Implementing Effective Tenant and Community Opportunity to Purchase Programs
+,
+Local Initiatives Support Corporation (
+LISC) (October, 2023) –  This report explains how TOPA and COPA policies operate, examines the challenges and outcomes of these policies in D.C. and San Francisco, shares lessons learned from their implementation, and presents evidence on the impact of COPA and TOPA-like policies.
+TOPA’s Promise and Pitfalls: Balancing tenant rights, affordability, and housing investment in Washington, D.C.
+, DC Policy Center (March, 2025) – This report examines Washington D.C.’s TOPA to evaluate its effectiveness by analyzing a wide range of data sources.
+The Racial Justice Implications of TOPA: Seizing Preservation Opportunities
+,
+Local Initiatives Support Corporation (
+LISC) (May, 2024) – This brief posits that
+T/COPA policies can be a vital tool for racial equity and a defense against gentrification, especially in BIPOC neighborhoods.
+A
+combination of T/COPA rights and increased preservation investment, such as fast, flexible acquisition financing and grants for tenant organizing, can lead to significant quality-of-life improvements.

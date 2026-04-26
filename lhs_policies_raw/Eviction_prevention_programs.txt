@@ -1,0 +1,43 @@
+Title: Eviction prevention programs
+Source: https://www.localhousingsolutions.org/housing-policy-library/eviction-prevention-programs/
+
+These programs are generally designed for families who are being evicted due to nonpayment of rent during or following an unforeseen crisis, such as job loss or serious illness, rather than those who face more persistent affordability challenges. Jurisdictions may be interested in investing in eviction prevention to address concerns about displacement of low-income renters and also to avoid or reduce use of other more costly local services, like homeless shelters.
+Approach
+Eviction prevention programs typically provide short-term financial assistance that allows a household to maintain their housing during a difficult period. Programs provide assistance in the form of a grant that covers back rent owed, as well as court fees and late payment fees, where applicable. Programs may also provide caseworkers to eligible households to help them apply for government benefits and search for housing. Some also require or offer budgeting workshops and/or financial counseling for tenants receiving grants. These programs may be one tool of many that jurisdictions use to prevent evictions and encourage housing stability. Other eviction-prevention tools might include provision of legal services to tenants facing eviction, good cause eviction protections, or longer-term rental assistance. Local governments may choose to administer eviction prevention programs themselves, or they may provide support to non-profit agencies that provide these services.
+Coverage
+Eviction prevention programs often apply to eligible tenants living anywhere in a jurisdiction. However, a locality may choose to target or limit assistance to neighborhoods it deems particularly vulnerable to evictions, or to increase outreach around available assistance in these areas. Areas of focus may include neighborhoods where residents may be at risk of eviction because of redevelopment activity or zoning changes; areas that account for high rates of homelessness or homeless shelter entry; or areas that have historically had high eviction rates.
+Eligibility
+Eviction prevention programs sometimes impose eligibility requirements related to household income. They often limit the number of times a household can access the services within a certain period of time (e.g., once a year). They also typically have caps on how much money they will pay towards rent, the effect of which can be to exclude households with higher rents from the program. Programs often also require that the household show the ability to pay the rent going forward.
+In some cases, to establish risk of eviction for program eligibility, a household must have an eviction case pending against it in housing court. This requirement has been criticized because it means assistance comes relatively late, when stress, time and resources might have been saved if assistance were provided earlier. And, it may also mean that people who could have been stabilized by help from the program end up moving before those resources are available. On the other hand, without requiring proof of an eviction filing, it is hard to judge how to best direct limited resources.
+Examples
+Phoenix, AZ
+offers two different
+Emergency Rental Assistance programs
+using two different federal funding sources: one for households up to 80 percent AMI, and another for households between 80-120 percent AMI. Households must have experienced financial hardship as part of the COVID-19 pandemic.
+Grand Rapids, MI
+has an
+Eviction Prevention Program
+that connects households facing evictions with caseworkers who help them access state emergency relief funds. If funding is received, the city agency pays the landlord directly. The tenant and the landlord need to sign a “stipulation” which incorporates the terms of the settlement, and the tenant’s credit rating is not affected.
+Jacksonville, FL
+runs an
+Emergency Assistance Program
+that provides financial assistance to eligible households facing eviction due to unpaid rent, mortgage, or utilities because of an unexpected financial crisis. Participants in the program also complete a budgeting and money management workshop. Households are only eligible if they have incomes below 150 percent of the federal poverty line, and are not eligible for assistance if they received assistance from this program in the past 30 months.
+New York, NY
+passed legislation
+mandating that all low-income households facing eviction receive access to legal representation in housing court proceedings. The program is available throughout the city, regardless of immigration status.
+Detroit, MI
+recently passed a “Right to Counsel”
+ordinance
+which provides $18 million over three years through the American Rescue Plan Act to guarantee all city residents access to an attorney in housing court. Prior to this, only about 4 percent of tenants were represented by a lawyer in eviction  proceedings.
+Related resources
+The National Low Income Housing Coalition
+Database of City and State Funded Rental Housing Programs
+includes rental assistance programs.
+New York City has a range of eviction prevention resources, including financial assistance to avoid eviction.
+New York City Department of Homeless Services, Rent Issues
+lists city-supported services available for households who have fallen behind on rent.
+Home Start
+is a non-profit organization that provides services to help stabilize households and prevent homelessness in the Greater Boston Area. To prevent homelessness, they provide emergency grants, money management training, housing search help among many others. Both public and private landlords have seen the benefits of eviction prevention services and so have helped with funding.
+The NYU Furman Center released a
+Policy Brief
+describing lessons learned from New York City’s experience rolling out Universal Access to Counsel.

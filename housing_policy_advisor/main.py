@@ -24,7 +24,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--state-abbr", default="va")
     p.add_argument("--housing-dept-present", default=None, help="true/false")
     p.add_argument("--building-permits-annual", type=int, default=None)
-    p.add_argument("--retrieval-k", type=int, default=8)
+    p.add_argument("--retrieval-k", type=int, default=15)
     p.add_argument("--format", choices=("json", "pdf", "docx", "all"), default="json")
     p.add_argument("--out-dir", type=Path, default=Path("."))
     args = p.parse_args(argv)

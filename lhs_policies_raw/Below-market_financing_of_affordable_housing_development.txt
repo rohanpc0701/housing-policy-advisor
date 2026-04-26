@@ -1,0 +1,68 @@
+Title: Below-market financing of affordable housing development
+Source: https://www.localhousingsolutions.org/housing-policy-library/below-market-financing-of-affordable-housing-development/
+
+Below-market financing typically involves providing funds at a lower rate of interest (or with lower fees) than would be required from a market-rate funder. Compared with
+capital subsidies
+, below-market loans may have a much smaller impact on affordability on a dollar-for-dollar basis since the loans ultimately must be repaid. However, funds loaned out at a low-interest rate can be recycled to help subsequent borrowers as the funds are repaid.
+This section reviews some of the key considerations involved in creating and administering a below-market debt financing program.
+Approach
+Cities, towns, and counties interested in offering below-market financing for affordable housing development have several program design choices. Primary among these is whether communities set up and run loan funds themselves or delegate the issuance and monitoring of the loans to private banks or other partners. Smaller communities may lack the capacity to manage the record-keeping and underwriting requirements associated with this type of program. Even in larger cities, the relatively small size of the fund may not justify the expenses involved in creating the infrastructure needed to assure proper program management. (See the example of New York City’s Participation Loan Program below.)
+Cities, towns, and counties must also identify a source of funding for the below-market loans they will issue or otherwise support. Common sources include:
+Federal funding sources, such as HOME and CDBG
+Proceeds from the sale of
+tax-exempt private activity bonds
+Activation of housing finance agency reserves
+Local
+housing trust fund
+proceeds
+Other locally-generated funds, such as general revenue
+Private financial institutions may also issue below-market loans for affordable housing developments as part of their programs to fulfill their obligations under the Community Reinvestment Act (CRA)
+[1]
+. Before launching a program to provide below-market financing, communities should assess the availability of below-market financing from private lenders to determine whether there is a need for a publicly financed loan program and if so, to what specific need it should be addressed. Some banks may be unwilling to issue predevelopment loans (which cover due diligence and professional services needed at the early stages of a project) or small loans for projects that are primarily financed with tax credit equity. Private financing may also be unavailable for loans that do not fall within CRA guidelines or where there are few CRA lenders in the community.
+Even when favorably priced financing is available from the private sector, public financing may still be needed as an adjunct to private funding to reduce the loan-to-value ratio on the bank loan to an acceptable level. In this case, the public financing would be subordinate or “junior” to the private loan, meaning that in the case of a default it would only be paid back after the bank was paid in full.
+Cities, towns, and counties also need to determine the type(s) of financing to be provided, which could include pre-development loans, acquisition loans (which cover the purchase price of a property and any closing costs), construction loans (which cover costs of construction or rehabilitation, including materials and services), interim loans (also called bridge loans, which help to bridge the gap between short-term and permanent financing), and permanent loans (which provide fully-amortizing financing over the long term). (See LISC’s list of
+Loans by Type of Product
+for more details on loan types.) Each type of financing is associated with a different loan term and level of risk, and decisions on which product(s) to offer—and whether they are offered as subordinated debt—may depend in part on the local government’s desired investment time frame. Local government staff may also wish to consult with local affordable housing developers to determine which products would most effectively address financing gaps.
+The type of financing product(s) to be provided will also guide decision-making about the terms of the loan. Considerations include:
+Loan duration and repayment structure – As noted above, different types of loans are generally associated with different durations and repayment structures; for example, construction loans are generally non-amortizing, short-term loans that are repaid in full when permanent financing is secured, while permanent financing is repaid over time.
+Loan amount – To ensure that limited resources support the greatest number of units and avoid overspending on acquisition or construction costs, some cities establish a maximum loan amount, either on a project or per-unit basis. The government should only provide what is needed for the project to pencil out, often called “gap financing,” to fill any holes once other sources of funding have been secured.
+Methods for calculating the below-market interest rate – What qualifies as a “below-market” rate will vary according to market conditions. Some cities, towns, and counties establish a flat rate (e.g., 1 to 4 percent) which is set at closing based on the city’s cost of funds or some other factor, while others benchmark their rates to a discount on what is available through conventional lenders.
+Eligibility criteria – Through requirements and/or program preferences, cities, towns, and counties should limit eligibility for below-market financing to development types that help to address local priorities.
+Underwriting standards – Cities, towns, and counties that offer below-market loans should adopt a minimum set of underwriting standards that help ensure the payback of public funds and balance the interests of the private lender and the government. Properly underwriting a multifamily loan takes a considerable amount of expertise, which is why some communities delegate this responsibility to a bank or other organization with experience in this area.
+Procedures in the event of default – Careful underwriting should result in strong projects with very small expectations of failure. Local jurisdictions nevertheless need to establish clear policies and procedures for when properties go into default.
+Cities, towns, and counties may also wish to consider structuring their program as a revolving fund, where repayments are deposited back into the fund to support future affordable housing projects. This approach may prevent repayments from being diverted for other non-housing purposes, and can help to create a self-sustaining program.
+Eligibility
+Cities, towns, and counties will need to establish clear eligibility requirements for below-market financing programs, including criteria that apply to the developer-applicant and the property to be financed. These requirements may be dictated in part by the funding source used to capitalize the loan fund. For example, HOME program rules come with maximum rent or sale price limits and matching fund requirements.
+When funding is generated locally, however, program staff can make a variety of decisions about eligibility. For example, some programs limit eligibility for below-market funds to non-profit housing providers, while others allow a broader pool of applicants but may have slightly different terms for for-profit developers (e.g., requiring more equity in the form of matching funds to cover project costs).
+Local jurisdictions will also need to determine the income level(s) to be targeted by the program, as well as establish requirements for the required minimum
+duration of affordability
+. Duration of affordability should consider the sources of distress of in the locality’s real estate market, consistency with other local development initiatives, as well the locality’s long term population growth projections.
+The activities eligible for financing can include development of rental or homeownership housing as well as acquisition and preservation of existing affordable housing, whether naturally-occurring or subsidized. Some cities also establish requirements or preferences to serve particular populations (e.g., seniors, larger families, people with disabilities) and/or give priority to applicants whose projects are located in certain areas (e.g., near public transit or good schools, or in a redevelopment zone).
+Other considerations
+Below-market financing vs. capital subsidies
+There are at least two reasons why local jurisdictions may want to consider offering assistance in the form of low-interest loans as opposed to grants that do not need to be repaid. First, within the
+Low Income Housing Tax Credit
+program, the “eligible basis” used to calculate a project’s tax credit allocation generally must be reduced by any additional federal subsidies the project receives. Below-market loans do not qualify as “federal subsidies,” and so can be used in conjunction with the program without impacting the tax credits provided. Second, while the city’s resources may be tied up for a lengthy period, particularly if payment is deferred, the principal should eventually be paid back for use to support other projects.
+Deep affordability
+Below-market loans make it possible for developers to borrow funds at a lower cost, thus reducing the costs of servicing the loans and making it easier to provide affordable housing. In order to reach the lowest-income households, however, loan programs often need to be layered with additional subsidies, such as project-based vouchers. Where deep affordability is a priority, program staff may wish to partner with the local housing authority to secure these subsidies for a portion of the units created through the program.
+Examples
+The Affordable Housing Investment Fund is a revolving loan fund administered by the
+Arlington County, VA
+Housing Division. The Fund provides low-cost financing to support the creation and rehabilitation/preservation of rental housin affordable to low-income households, including naturally occurring affordable housing that doesn’t receive federal or other subsidies. Funding is provided on a subordinate basis (meaning that other funders are paid back first), and awards are issued on the basis of project funding guidelines issued by the County. To be eligible, applicants must demonstrate that County funds will be leveraged with other funding sources and agree to keep the units affordable for at least 30 years, with preference given to projects with affordability terms of 60+ years. Learn more
+here
+.
+New York City’s
+Participation Loan Program provides loans at a 1 percent interest rate to support moderate or substantial rehabilitation of multifamily housing for low- and moderate-income households. Developers can receive up to $90,000 per unit, depending on the proposed rent levels and other sources of financing. Loans are provided in conjunction with participating banks for a 30-year, fixed-rate term, with subsidies coming from either federal HOME funds or city capital. Projects also generally receive a full or partial property tax exemption. Securing upfront a fixed interest rate and property tax exemption facilitates the underwriting process by substantially reducing risk and enabling developers to confirm that the project will be economically viable. Affordability requirements remain in place for at least the loan term and/or tax exemption period, and at least 10 percent of units in participating projects must be reserved for individuals and families experiencing homelessness. For more details, visit
+here
+.
+Seattle’s
+Rental Housing Program funds the development of affordable rental housing using a combination of local funds—including those raised through housing levies and payments in lieu of building affordable housing—federal HOME and CDBG funds, and other sources. Financing is generally provided in the form of long-term deferred payment loans issued at a 1 percent interest rate, which developers may apply for using a single common application. (Interest rates for loans financing LIHTC projects will range from a minimum of 1 percent to a maximum of the Applicable Federal Rate.) The program aims to provide a mix of affordable rental housing throughout the city, and awards are made based on the extent to which projects contribute to specified objectives, such as providing housing for individuals and families experiencing or at risk of homelessness, seniors and people with disabilities, and low-wage workers. Program priorities also address proposed projects’ location (e.g., access to transit and
+resource-rich
+neighborhoods), cost-effectiveness, and sustainability. Affordability requirements and eligible activities vary depending on the funding source, and when more than one funding source is used the most restrictive guidelines apply. For more details, see
+here
+.
+Related resources
+Financing Mechanisms for Affordable Housing
+, Enterprise (2007) – This document provides a compendium of tools that can be used to finance affordable housing. Examples are included to illustrate how these mechanisms work.
+The Cost of Affordable Housing
+, Does it pencil out? – This tool from the Urban Institute illustrates the gaps that arise when developing affordable housing. The step-by-step guide lays out the process of financing new units and allows the user to enter data specific to their project.

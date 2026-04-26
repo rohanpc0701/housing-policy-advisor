@@ -1,7 +1,7 @@
 """Structured policy advisor output models."""
 
 from dataclasses import dataclass, field
-from typing import List
+from typing import List, Optional
 
 
 @dataclass
@@ -14,6 +14,7 @@ class PolicyRecommendation:
     implementation_timeline: str
     resource_requirements: str
     risks: str
+    state_of_implementation: Optional[str] = None
     validation_flags: List[str] = field(default_factory=list)
 
 

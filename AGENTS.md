@@ -25,7 +25,7 @@ housing_policy_advisor/
     hud_client.py          # HUD FMR + Income Limits
     bls_client.py          # BLS LAUS unemployment
   llm/
-    policy_advisor.py      # Groq API + Llama 3.3 70B
+    policy_advisor.py      # LLM policy advisor (Together default, Groq fallback)
     output_validator.py    # 5-check validation (thresholds not wired)
     prompts.py             # Prompt templates (duplicate -- see below)
   rag/
@@ -42,7 +42,9 @@ docs/
 ## Environment
 
 ```bash
-# Required
+# Required (at least one)
+TOGETHER_API_KEY=<your key>
+# Optional fallback
 GROQ_API_KEY=<your key>
 
 # Optional (needed for live data integration)
@@ -73,7 +75,7 @@ python -m housing_policy_advisor.rag.ingest --source-dir /path/to/corpus
 | Issue | Location | Status |
 |---|---|---|
 | `pdf`/`docx` output broken | `pipeline.py:83` imports `past_code` not in repo | Do not fix without instruction |
-| Validation thresholds not enforced | `config.py` defines them, `output_validator.py` ignores them | Fix is a priority task |
+| Provider token/rate caps can interrupt full-batch locality validation | `llm/groq_client.py` runtime path | Operational blocker |
 | Prompt builder duplication | `llm/prompts.py` and `rag/prompt_builder.py` overlap | Needs consolidation |
 | Data clients not wired to pipeline | `census_client.py`, `hud_client.py`, `bls_client.py` are standalone | Integration is priority task |
 | Ingestion corpus path | Defaults to `corpus/` which is not in checkout | Always use `--source-dir` |
@@ -130,8 +132,8 @@ Threshold values must be read from `config.py`, not hardcoded in `output_validat
 
 When no explicit task is given, work in this order:
 
-1. Wire `locality_profile.build_full_input()` into `pipeline.py` using real Census/HUD/BLS API data
-2. Wire `config.py` threshold values into `output_validator.py`
+1. Complete full 4-locality validation run in one Groq quota window and refresh final comparison table
+2. Tune profile assignment/query routing to reduce cross-locality recommendation repetition
 3. Consolidate `llm/prompts.py` and `rag/prompt_builder.py` into one module
 4. Restore or fully remove `pdf`/`docx` output -- no half-wired states
 5. Add contract tests: CLI smoke test, pipeline JSON shape test, missing-API-key negative test
@@ -141,7 +143,7 @@ When no explicit task is given, work in this order:
 ## Constraints
 
 - Embedding model: `sentence-transformers/all-MiniLM-L6-v2` (384-dim) -- do not change
-- LLM: Groq API + Llama 3.3 70B -- do not change
+- LLM: Together default (`meta-llama/Llama-3.3-70B-Instruct-Turbo`) with Groq fallback -- do not change without instruction
 - No locality comparison features (out of scope)
 - No multi-locality batch runs
 - No new PDFs added to corpus without explicit instruction
@@ -161,7 +163,7 @@ When no explicit task is given, work in this order:
 
 ---
 
-## Tasks Achieved Summary (2026-04-22)
+## Tasks Achieved Summary (2026-04-24)
 
 - Completed large-corpus ingestion workflow for case studies by splitting the problematic 1256-page Minneapolis PDF and ingesting split artifacts.
 - Resolved Chroma retrieval embedding-function conflict in runtime retrieval path.
@@ -169,4 +171,23 @@ When no explicit task is given, work in this order:
 - Wired explicit API-key forwarding from pipeline to `build_full_input()` for Census/HUD/BLS integration path.
 - Added `HUD_TOKEN` fallback support via config while keeping `HUD_API_TOKEN` as primary.
 - Added test coverage for API-key forwarding in `tests/test_pipeline.py`.
-- Current pytest baseline improved to `68 passed`.
+- Added Local Housing Solutions ingestion pipeline:
+  - `scrape_lhs_policies.py` (policy-page scrape/chunk)
+  - `ingest_lhs_to_chroma.py` (upsert to existing Chroma collection)
+  - 480 LHS chunks added.
+- Implemented two-pass retrieval with merge/dedupe:
+  - locality context pass
+  - policy-anchor pass.
+- Added profile-based retrieval routing in `rag/retriever.py`:
+  - rule-based profile assignment
+  - universal + profile-specific query sets
+  - profile metadata attached to retrieved chunks.
+- Added locality-metric suffix injection to profile-specific pass-2 queries.
+- Reworked grounding score to recommendation-level backing:
+  - score is based on whether recommended policies are supported by retrieved chunks.
+- Updated generation prompt to include locality profile guidance and removed hardcoded policy anchor examples.
+- Added detailed experiment record in `docs/grounding_experiments_log.md` (entries through Entry 016).
+- Current blocker for final multi-locality validation: provider quota/rate windows (historically Groq TPD 429).
+- Together provider integration shipped:
+  - `LLM_PROVIDER` default set to `together`
+  - provider/model metadata added to output JSON (`metadata.llm_provider`, `metadata.llm_model`)

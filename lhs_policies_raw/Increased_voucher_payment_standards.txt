@@ -1,0 +1,75 @@
+Title: Increased voucher payment standards
+Source: https://www.localhousingsolutions.org/housing-policy-library/increased-voucher-payment-standards-in-high-cost-areas/
+
+PHAs have a substantial amount of discretion to vary the voucher payment standard and may establish different payment standards for different parts of their jurisdiction. By increasing payment standards in high-cost areas, PHAs can make it more feasible for voucher holders to rent housing in resource-rich areas that typically have higher rents.
+Approach
+The Housing Choice Voucher (HCV) program helps participants afford to live in privately owned rental housing of their choice. Administered by HUD and managed at the local level by
+public housing agencies
+(PHAs), it stands as the rental assistance program under HUD. As noted in our brief on
+the HCV program
+, PHAs have the discretion to tailor the HCV program to meet local needs. This section discusses options for increasing voucher payment standards to allow households participating in the HCV program to access
+resource-rich neighborhoods
+with higher rents.
+Households who receive HCVs generally pay 30 percent of their adjusted income each month for rent, although they may choose to pay more (up to a maximum of 40 percent at initial occupancy) to rent units that meet eligibility standards. The PHA pays the balance of the rent due, up to a maximum known as the voucher payment standard. The PHA is responsible for setting payment standards for each bedroom size, based on the fair market rent (FMR) for the surrounding area.
+PHAs generally establish a single set of payment standards for the entire jurisdiction or use different sets of payment standards in different geographical areas by ZIP Code. PHAs who establish payment standards by ZIP Code are using what is known as Small Area Fair Market Rents (SAFMRs). PHAs in 65 large metropolitan areas are now required to use SAFMRs. This approach adds complexity to program administration but can help participants access a wider range of units by ensuring that the payment standards are tailored to rents at the neighborhood level.
+Units rented with HCVs are also subject to reviews to determine the reasonableness of the rent, based on rent levels of other similar units, and are required to meet housing quality standards set by HUD. Quality standards are initially determined by PHA inspection prior to the start of a voucher holder’s lease.
+PHAs that apply the same payment standard across an entire metropolitan area do not account for sometimes significant differences in rent levels across neighborhoods. This approach can result in payment standards that are significantly higher than what might be required to rent an appropriate unit in low-cost neighborhoods, but too low to provide a sufficient level of assistance in high-cost areas. There are several ways that PHAs can adjust payment standards in certain neighborhoods, helping to increase access to resource-rich areas for housing choice voucher participants.
+Exception payment standards
+PHAs have discretion to vary the payment standard within 90 to 110 percent of the FMR. This gives them some latitude to adjust for local market conditions, but is often insufficient to enable participating households to access units in higher-rent resource-rich areas. Under certain circumstances, a PHA can request permission from HUD to establish “exception” payment standards above 110 percent of the FMR in designated parts of its jurisdiction. Exception payment standards may be established for all unit sizes in a designated area, or only for units with a given number of bedrooms. HUD specifies different
+procedures for PHAs to request exception payment standards
+between 110 and 120 percent of the FMR (for which approval of the HUD Field Office is required) and above 120 percent of the FMR (for which the approval of HUD’s Assistant Secretary of Public and Indian Housing is required). Implementation of the SAFMR Final Rule, discussed below, presents additional opportunities to establish exception payment standards that expand housing choice in higher-cost neighborhoods.
+Small Area Fair Market Rents
+The
+SAFMR Final Rule
+, published in November 2016, required more than 200 PHAs in 24 metropolitan areas to implement SAFMRs by April 2018 (
+more details available on HUD’s four-page summary of the rule
+). Under this new approach, FMRs are set at the ZIP Code level rather than at the metro-area level, and PHAs maintain multiple payment standards that reflect this variation. Basing FMRs on rents within ZIP Codes rather than metropolitan areas allows for much larger variation in subsidy amounts by neighborhood. By using this more granular calculation, designated SAFMR PHAs can expand the number of neighborhoods with units that are affordable and accessible to voucher holders, while lowering payment standards in areas that have lower rents.
+PHAs that have not been designated for mandatory adoption of SAFMRs can choose to adopt the new approach on a voluntary basis. However, non-SAFMR PHAs that do not opt in may still establish exception payment standards of up to 110 percent of the published SAFMR for individual ZIP Code areas within their jurisdiction
+without
+special approval from HUD.
+Under HUD’s 2024 Notice (PIH 2024-34), there are three categories of PHAs with respect to the use of SAFMRs: 1) mandatory use PHAs, 2) opt-in PHAs, and 3) PHAs who use SAFMRs in conjunction with Exception Payment Standards.
+First, HUD requires PHAs in 65 metro areas to implement SAFMRs, and mandatory use is typically required where there are high concentrations of voucher holders in high-poverty areas. SAFMRs do not apply to project-based vouchers unless they are included in the PHA’s administrative plan, even if they are required for housing choice vouchers. However, Moving to Work PHAs are exempt from SAFMR mandates if they have already approved alternative payment standards.
+PHAs that have not been designated for mandatory adoption of SAFMRs can choose to adopt the new approach on a voluntary basis. Opt-In PHAs are PHAs that have adopted SAFMRs for a jurisdiction instead of the metropolitan area FMR. If a PHA operates in only one FMR area, it may opt in to implement SAFMRs across the entire jurisdiction. Even if municipalities opt in for housing choice vouchers, an opt-in PHA does not apply SAFMRs to Project-Based Vouchers (PBVs) unless stated otherwise in its administrative plan.
+For PHAs utilizing SAFMRs as a baseline for determining exception payment standards, officials may use the FMR range (90 percent – 110 percent) to set a jurisdiction-wide payment standard, apply exception payment standards up to 120 percent of FMR across an area provided they meet HUD criteria, or establish a ZIP Code-specific exception payment standard up to 110 percent of the SAFMR.
+PHAs with Moving to Work authority
+Housing authorities in the
+Moving to Work program
+have special flexibility to raise or lower payment standards in specific neighborhoods. This includes the option to request HUD approval to adopt large variations in payment standards outside of the basic range. For instance, lowering the payment standard in lower-cost areas can help to offset some of the cost of higher payment standards in resource-rich areas and may also prevent a “magnet” effect in which voucher holders move to low-cost areas where payment standards enable them to afford the largest and most expensive units. In some cases, Moving to Work agencies also use private market research or other datasets to determine payment standards, rather than basing them on the FMR.
+Partnerships between PHAs and cities, towns, and counties
+A decision by the PHA to increase voucher payment standards in resource-rich areas can help improve HCV holders’ access to those neighborhoods. However, this step alone may not be sufficient to substantially expand access to resource-rich areas. Many participating households may be unfamiliar with these areas, and property owners may refuse to participate in the program or require more in the way of security deposits and first- and last-month’s rent than voucher holders can afford. To help realize the potential inherent in higher payment standards for participating households to access resource-rich areas, the city, town, or county could fund
+mobility counseling and security deposit assistance to help voucher holders
+afford to rent units in resource-rich areas. Jurisdictions can also contribute to the program’s success by funding or conducting landlord recruitment initiatives focused on higher-cost, resource-rich neighborhoods. Landlords in these areas may have little or no previous experience with vouchers, and before agreeing to participate, may need additional outreach and information, which can be provided in the course of doing other business with the city or county. In
+softening housing markets
+in areas otherwise rich in resources, accepting HCVs can stabilize landlords’ income and help maintain housing quality.
+In some jurisdictions, landlords have no legal obligation to accept HCVs and may refuse to rent to households participating in the program. Local jurisdictions can pass
+source of income laws
+that require landlords to rent to all eligible tenants, regardless of their source of income. Where income protections have been adopted, educational campaigns and outreach to landlords and tenants may be needed to ensure all parties know the law’s requirements.
+Policy implications
+Utilizing SAFMRs allows payment standards to more accurately reflect neighborhood rents and costs of living, may help deconcentrate low-income residents, and may increase choice for voucher holders by providing access to opportunity-rich neighborhoods. However, when considering the implementation of SAFMRs, a municipality must consider its tradeoffs. SAFMRs allow for the bundling of ZIP Codes, though ZIP Codes are not singular markets or neighborhoods. SAFMRs also present an administrative burden, and adoption may lead to higher costs per unit across a program.
+SAFMRs can result in an increase or decrease in the payment standard for a ZIP Code relative to the municipality-wide Fair Market Rent (FMR). In the long term, a SAFMR typically reduces the cost per unit of a voucher in high-poverty neighborhoods while increasing the cost per unit of a voucher in low-poverty neighborhoods. However, upon adoption of SAFMRs, the PHA has the option to hold landlords harmless and forgo reductions of the payment standard. Generally, if the PHA’s policy is to hold harmless, SAFMRs will increase per unit costs in both the short and long term.
+In the case of a family continuing to reside in a voucher-supported unit upon integration of SAFMRs, the PHA has additional options to implement gradual reductions in the payment standard, rather than only holding landlords harmless.
+Project-Based Vouchers
+If a PHA chooses to apply SAFMRs to project-based vouchers (PBVs), the change must be adopted in the administrative plan for the entire geographic area, and it cannot be project-specific. When a PHA has not opted into SAFMRs for its HCV program but has set exception payment standards, the PBV rent cap is based on the exception payment standards (i.e., up to 110 percent or 120 percent of the FMR) while SAFMRs do not apply. If a PHA does apply SAFMRs to PBVs, the maximum PBV rent is 110 percent of the SAFMR or the exception payment standard implemented based on the SAFMR.
+Examples
+In December 2017,
+the King County Housing Authority (KCHA)
+, a Moving to Work agency, transitioned from a two-tier payment standard system to a
+six-tiered set of payment standards
+based on ZIP Codes within its service area. Payment standards are higher in high-cost areas and lower in areas with lower costs, a system that corresponds more closely with the rental market and actual rent levels in the county.
+Philadelphia, PA,
+sorts SAFMRs by ZIP Code and then groups ZIP Codes into four rental standards: traditional range rents, mid-range rents, opportunity rents, and high-opportunity rents. Additionally, certain “revitalization areas,” which include individual units or blocks, use a separate payment standard that exceeds 120 percent of the SAFMR.
+In 2025, the
+San Francisco Housing Authority
+transitioned to setting payment standards across the entire jurisdiction using SAFMRs. To ease administrative burdens, they also created a look-up tool.
+The
+Housing Authority of Cook County, IL
+(HACC) began
+using SAFMRs
+in 2013 as part of a HUD demonstration program. HACC volunteered to participate in the demonstration in order to increase voucher holders’ access to resource-rich neighborhoods, promote fair housing, and strengthen an existing mobility counseling program. The PHA’s service area covers 193 ZIP Codes, within which rent levels vary significantly. Rather than establishing a separate payment standard for each ZIP Code, HACC initially grouped them into 10 payment standard areas, and has since expanded to 22 payment standard areas based on feedback from case workers and landlords. After implementing SAFMRs, HACC saw a 14 percent increase in the number of rental units affordable to voucher holders in high-cost neighborhoods, which nearly offset the decrease in affordable units in low-cost neighborhoods.
+Related resources
+Housing Choice Voucher Program Guidebook
+.
+Payment Standards, HUD
+– This section of the Guidebook provides a detailed description of procedures for setting payment standard amounts and the circumstances under which exceptions may be requested.
+Rent setting for Section 8 Housing Choice Vouchers, HUD-VASH, and other Rental Assistance Programs in Oregon: A User Guide
+. This Q&A, published by HUD’s Oregon Field Office in July 2015, provides general information about how HUD sets subsidy limits for the Housing Choice Voucher program and how Fair Market Rents and payment standards are determined.

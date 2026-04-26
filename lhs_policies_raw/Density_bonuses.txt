@@ -1,0 +1,129 @@
+Title: Density bonuses
+Source: https://www.localhousingsolutions.org/housing-policy-library/density-bonuses/
+
+This arrangement enables developers to recoup some or all of the foregone revenue associated with offering some units at prices affordable to low- or moderate-income households. A policy to provide a density bonus to qualifying developments is essentially a type of voluntary or incentive-based
+inclusionary zoning
+policy, though many communities simply refer to the policy as a “density bonus.” Density bonuses are also common cost offsets in mandatory inclusionary zoning policies. Depending on how the policy is structured, the additional density may be used to build “up” or “out”—that is, to add more floors to a multifamily building or additional structures to a planned development. Density bonuses are most likely to yield affordable housing in neighborhoods with a robust level of market-rate construction or redevelopment activity, where residential development types include moderate- or high-density development, and where the bonus is carefully calibrated to make it financially advantageous to developers. Density bonuses are less likely to result in development in
+soft housing market
+s or markets where construction costs exceed market rents.
+Cities, towns, and counties interested in allowing bonus density at eligible developments will need to consider the way that the policy is structured, as well as how effective it is likely to be in the context of local neighborhoods and development sites. Additionally, local jurisdictions should check their respective state laws, as some, such as
+California
+and
+Oregon
+, have statewide density bonus mandates, and others, such as
+Wisconsin
+, have state-wide bans on all rent regulation or inclusionary zoning. In this section, we describe some of the ways that density bonuses can be designed to provide effective incentives for affordable housing in different types of communities.
+Approach
+There are several ways to structure a density bonus, and cities, towns and counties will need to determine which is most compatible with existing development regulations. For example, many jurisdictions calculate the increase as a multiple of the floor area ratio (FAR)—that is, the ratio of the total usable floor area of buildings on a site to the total area of the lot. Other options include:
+Permitting a larger number of units in a building or development site
+Providing a bonus height allowance or exemption from height restrictions that allows for construction of additional stories
+Reducing the amount of open space required on a development site
+Providing flexibility in design standards and site requirements
+Reducing the required number of parking spaces
+Local jurisdictions will also need to decide how much extra density will be allowed at qualifying developments. This allowance may vary based on the proposed level of affordability and share of units to be set aside as affordable (typically, projects that provide deeper affordability and/or a larger share of affordable units receive greater density bonuses), the location of the development (e.g., whether it is near public transit or located in an area targeted for redevelopment), and other variables of local importance. For example,
+Austin, TX
+has a two-tiered density bonus program where one tier provides for a greater density bonus for projects within a quarter-mile of a transit corridor.
+Larger jurisdictions, where the density bonus incentives may apply to a variety of projects and sub-markets, may use a menu or “sliding scale” approach that offers options, by formula, of different incentives depending on the share of affordable units and level of affordability provided. An example of a sliding-scale approach includes
+Miami, F
+L.
+Alternatively, density bonuses may be calculated on a case-by-case basis. This approach allows for a more nuanced assessment of site-specific conditions that may or may not be compatible with increased density and also may provide communities with greater control over local land use decisions. On the other hand, case-by-case judgments can be burdensome to administer and do not provide as much transparency and predictability in the development process, which can lead to a reduction in the amount of housing production below the level that might otherwise be induced. Whatever approach is used, the procedure for calculating bonus density can be complicated and communities should strive to make their regulations as clear as possible.
+(See
+related resources
+below for examples from other communities.)
+In weighing these considerations, local officials will need to ascertain whether the proposed density bonus provides a sufficiently large financial incentive to generate affordable units. This amount can vary significantly depending on development patterns and local housing market conditions (e.g., rent levels, construction costs, etc.), but can translate to a bonus density of 15 to 25 (or even higher) percent more housing units than would previously have been permitted. Consultation with for-profit and non-profit residential developers and housing market analysts early in the policy design process will likely be useful in guiding these decisions. A model example of Community Planning and Economic Development Managers seeking feedback on a proposed density bonus structure is laid out in a
+memorandum distributed regarding proposed changes to the zoning code in
+Minneapolis, MN
+.
+Additionally, jurisdictions should conduct feasibility studies to evaluate density bonus programs in similarly situated markets. For example,
+Denver, CO
+conducted a background report in March 2020
+when evaluating zoning incentives, including density bonuses, that summarizes the current affordable housing landscape in Denver as well as inclusionary zoning programs from other markets. In general, it’s more important to set the bonus at the level needed to incent development in the market than to try to replicate the bonus levels used in other jurisdictions that may have different market conditions.
+Eligibility
+Density bonus guidelines should specify the criteria for eligibility, including the income level(s) that must be served to qualify for this incentive, the share of units in the development that must meet these affordability requirements, and how long the units must remain available at affordable prices. Density bonuses are commonly offered as a cost offset for mandatory inclusionary zoning programs and the requirements for those programs will determine the answers to many of these questions. When offered as a standalone incentive, however, communities will need to determine the affordability thresholds that are most likely to address local housing needs. Some communities establish a single threshold (e.g., at least ten percent of units must be affordable to very low-income households for a period of at least 30 years). Others provide options based on level of affordability, such as requiring a set-aside of ten percent of units for very low-income households
+or
+20 percent of units for low-income households in order to qualify for a density bonus.
+Atlanta, GA
+passed an Inclusionary Zoning ordinance that offers developers a choice of incentives if they construct affordable units subject to a minimum period of affordability lasting 20 years. The choice of incentives include a 15 percent density bonus based on FAR, transferable development rights, no residential minimum parking requirement, a 25 percent reduction in non-residential parking requirement, an expedited permit, tax abatements, or a change in project status.
+More details on the requirements and incentives can be found here
+. As of
+January 2021
+, there were 362 units built and every developer chose to participate by setting aside affordable units rather than through payment of the in-lieu fee.
+Program guidelines should specify whether the incentive is available throughout the jurisdiction or only in designated areas that are well-equipped to handle increased density and/or where the community wishes to stimulate new development. Local officials will also need to determine whether to apply a density bonus program to both rental housing and for-sale housing or to just one tenure type, and whether to limit it to developers of multifamily properties and/or single-family developments. Some communities also limit bonuses to developments above a certain size threshold, such as projects with 5 units or more.
+Other coverage decisions relate to the nature of the development activity. Density bonuses may be provided for new construction only, or may be available in other scenarios, such as the rehabilitation or redevelopment of older buildings or the conversion of rental apartments to condos. Alternatively, density bonuses can be provided in non-residential projects. For example,
+Seattle, WA
+allows a density bonus for projects with affordable units and/or childcare facilities.
+Density bonus can also be a way to incentivize investment in environmentally-conscious developments. Both
+Arlington County, VA
+and
+Portland, OR
+have implemented green building density bonus programs. Arlington County allows for a sliding scale of additional FAR if developments achieve varying LEED certification levels. Portland has an Ecoroof Floor Area Ratio density bonus that gives a bonus of 3 square feet for every square foot of green roof.
+Other considerations
+Practical application
+Local jurisdictions should be cognizant of factors that may limit developers’ ability to make full use of density bonuses and, as a result, reduce the value of density bonuses as an incentive to create affordable housing. For example, land use regulations such as minimum lot size requirements or setback requirements may make it difficult or impossible to take full advantage of a density bonus. Waivers or relaxation of these requirements can help to improve their usability. Other factors may include infrastructure capacity and proximity to natural features that impact development potential. Where these factors pose serious limitations, it may be appropriate to consider other types of incentives.
+Consumer preferences
+When designing a density bonus policy, local officials will want to give careful consideration to existing development patterns, and the areas and development types for which higher-density development will be compatible with existing neighborhoods and consumer preferences. Developers who have knowledge of the local market will be unlikely to make use of a density bonus that results in housing that is not attractive to market-rate renters or buyers.
+“In-lieu” fees
+Many density bonus programs offer developers the option to pay a fee in lieu of adhering to the affordability restrictions. While this may seem like a loophole to the program, fees will often go towards housing trust funds, or equivalents, that can be leveraged to finance affordable units – sometimes at a rate of more than what would have been financed by a density program. Additionally, it gives developers a choice of how to comply with the density bonus program requirements, which may spur greater participation.
+For more guidance on this topic, see the brief
+Inclusionary
+Zoning
+.
+On the flip side,
+Anaheim, CA
+does not have the option for developers to pay a fee in lieu of setting aside affordable housing. However, the city offers an “Equivalent Financial Incentive” in lieu of granting a density bonus or other zoning incentive. The value is equal to the cost savings of land per dwelling unit that result from the density bonus or additional incentives.
+Examples
+With approval of the County Board,
+Arlington County, VA
+allows developers to build at higher densities than would otherwise be allowed for projects that provide housing for low- or moderate-income households. Allowances include increases in building height (up to six stories or 60 feet above the height ordinarily permitted) and in residential density. Density bonuses are determined on the basis of the share of low- or moderate-income units to be provided, the location and size of those units, the amenities to be provided for low- and moderate-income residents, and other factors. Affordable units must remain available for at least 30 years or as approved by the Board.
+Subsection H.7 provides more details.
+Arlington County, VA
+also provides special density bonuses for specific revitalization areas. In the Clarendon Revitalization District, for example, properties can receive bonus density up to 1.5 FAR if 10 percent of the bonus density is reserved for affordable housing. (Eligibility is limited to properties in which the bonus density is more than 4,000 square feet in gross floor area.) In the Nauck Village Center, developers can receive an increase in density up to 2.0 FAR in exchange for providing at least 10 percent of residential units as Committed Affordable Units.
+More details are available at Arlington’s Housing website
+.
+The City of
+Austin, TX
+has ten density bonus programs, which serve as voluntary incentives in light of the state’s prohibition on mandatory inclusionary zning. In 2014, Austin established the Downtown Density Bonus Program, which promotes affordable housing and community benefits agreements. At least 50% of the bonus must be achieved by providing on-site affordable housing or by paying a development bonus fee into the Affordable Housing Trust Fund. The Trust Fund is also financed by a share of the city’s property taxes. Developments in Austin must adhere to
+Austin’s Urban Design Guidelines
+, as well as its
+Great Streets Program
+and a minimum rating on
+Austin Energy’s Green Building Program
+.
+A complete list of community benefits can be found here
+.
+Austin also enacted a new density bonus program in May 2019, called “Affordability Unlocked” which provides a two-tiered system that allows developers to choose between the two tiers of affordability which provide for different density bonuses in return. The first tier has requirements for affordability, supportive housing, and elderly housing, and the base zoning height is increased by 1.25 times or up to 6 dwelling units per lot in single-family zones. Other requirements are waived including design and site requirements The second tier must be located within a quarter-mile of a transit corridor in addition to affordability requirements, and developments are allowed up to 1.5 times the base height with up to 8 dwelling units per lot in single-family zones.
+More information can be found here.
+In 2018, the
+San Diego, CA
+City Council approved changes to their density bonus program to stimulate mixed-use development of market-rate and deed-restricted homes. The program offers 10 percent bonus for developments that do not go beyond the maximum permitted building footprint and allows for 100 percent density bonus for micro-unit production for developments that do not go beyond the permitted building footprint. This program is in addition to the
+California statewide density bonus law
+enacted in 1976. California’s Density Bonus Law allows residential developers to build 35 percent more homes than allowed by a base zoning if developers set aside up to 11 percent of the base zoning as affordable to very low-income households. In 2016, the Affordable Homes Bonus Program (AHBP) expanded this by allowing up to a 50 percent bonus if a developer agreed to dedicate up to 15% of the base zoning as affordable to very low-income households.
+The program also offered an ability for projects created within the last five years to qualify for the density bonus if they met additional requirements.
+More details on other inclusionary zoning initiatives at San Diego can be found on the San Diego Housing Commission website.
+The change to the density bonus was part of larger mayoral plan called the Housing SD plan.
+An overview of the full Housing SD Plan can be found here
+.
+A study published in April 2022 by Circulate San Diego shows that the city’s density program is working. In 2020, 44% of eligible home projects used the city’s building density bonus program. Since 2016, the program was used on projects that created over 6,000 homes. From 2016 to 2020, it was used to create 463 deed-restricted affordable homes in mixed-income projects, financed primarily without relying on public subsidy. Further, there was a high percentage of projects financed close to a transit stop and within high-opportunity census tracts.
+The full Circulate San Diego can be found here
+.
+In 2019, the
+City of Lawrence, KS
+approved a proposal
+that allows two houses to be built on one lot as long as both homes are affordable. A nonprofit organization,
+Tenants to Homeowners
+, became the first home to utilize the new bonus.
+Related resources
+Policy design and implementation
+Model Affordable Housing Density Bonus Ordinance, American Planning Association (2009) – Lays out key provisions for mandatory and voluntary density bonus policies;
+Smart Codes: Model Land-Development Regulations is available for purchase
+.
+Inclusionary Housing
+: “Density Bonus” overview, toolkit, and Q&A
+Case studies and local programs
+Affordable Housing Zoning Bonus Administrative Regulations and Procedures
+, City of Chicago – Describes provisions of Chicago’s density bonus program including definitions, methods for calculating the bonus, administrative procedures in various scenarios, and affordability requirements.
+Procedures for Implementation of State Density Bonus Law
+, City of Berkeley (2014) – Describes how Berkeley’s density bonus policy is implemented—notably, procedures for determining the base project and calculating the density bonus—and how it interacts with the state density bonus law.
+In reviewing its own options for Affordable Housing and Inclusionary Zoning, Denver conducted a
+background report
+in March 2020 that included an analysis of other similarly-situated cities.

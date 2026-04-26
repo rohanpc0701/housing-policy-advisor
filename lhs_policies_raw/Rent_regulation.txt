@@ -1,0 +1,93 @@
+Title: Rent regulation
+Source: https://www.localhousingsolutions.org/housing-policy-library/rent-regulation/
+
+The amount of permitted increases is often based on a combination of factors, including landlords’ estimated operating costs, improvements made to the unit or other building systems, the duration of the tenancy in a unit, and other factors varying by jurisdiction.
+Jurisdictions adopt rent regulations for many reasons, including ensuring stability for tenants in regulated units and promoting the overall affordability of rental housing. While generally successful at increasing stability and predictability for rent-regulated tenants,
+rent regulation has several potential drawbacks: it can reduce the overall supply or quality of rental housing; it can create a two-tiered system that leaves tenants in unregulated housing unprotected; and it often benefits higher-income, rather than lower-income households.
+Designing an effective rent regulation regime that provides stability for renters in the regulated market while promoting the overall affordability and quality of rental housing requires careful attention to the conditions of local and regional rental housing markets and the details of how a particular law will operate.
+Approach
+This brief refers to all regulations governing rent increases in housing as “rent regulations,” a term that encompasses both “rent control” (which typically references a hard cap on allowable rents) and “rent stabilization” (which is generally a more flexible form of regulation).
+A rent regulation policy must contain mechanisms for determining the maximum allowable rent increase a landlord can impose in a particular year. A board or agency often determines these caps according to a given set of criteria, and many base changes on the Consumer Price Index (CPI) or other proxies for landlords’ cost increases. In addition to these fixed caps, regulatory schemes may allow for additional increases based on landlords’ proof of economic hardship. They may also permit additional increases upon building or unit improvements, tenant vacancies, or other circumstances.
+Broad-based regulations that regulate all or most of the rental housing stock but set a relatively high cap on landlords’ abilities to raise rents—such as the statewide rent regulation regimes in Oregon and California—are often called
+anti-gouging regulations
+.
+While rent regulation laws aim to limit rent increases directly, these laws may also include other tenant protections, such as
+just cause eviction requirements and a right to lease renewals
+. These policies aim to provide tenants predictable costs and housing stability.
+Coverage
+Rent-regulated status can be either tied to individual households or particular units. Tying rent-regulated status to low-income households, though, incentivizes landlords to avoid renting to lower-income tenants in order to avoid rent regulation. As a result, most cities apply rent regulations to specific units or buildings, regardless of who lives in the unit. Rent regulation typically only covers multifamily buildings whose construction predates the regulations by some period. To avoid discouraging new housing construction, most rent regulation regimes exempt new construction—i.e., residential buildings constructed after rent regulations were passed—as well as smaller homes, which eases the burden on smaller landlords and lessens administrative complications. Jurisdictions must also decide whether and how to allow units to exit the regulated market, which might occur upon vacancy, demolition, or conversion, or when rents reach a particular level.
+Rent regulation policies often require state authorization, and
+33 states
+have laws prohibiting or preempting local governments from enacting rent regulations. Additionally, smaller municipalities may find the efficacy of rent regulation limited if other regional housing markets are unregulated.
+Eligibility
+Rent regulation policies typically do not include tenant eligibility criteria and are not means-tested, meaning tenants are not selected based on their income or assets. Means testing, in principle, would limit the availability of a regulated unit only to income-eligible tenants. In practice, means-testing requires a
+burdensome administrative process
+, including creating and maintaining mechanisms for income determinations and recertifications, and then measuring certified incomes against average incomes, while accounting for household sizes. In addition, after renting the unit to an eligible tenant, periodic recertification would be required to ensure that only eligible tenants remain in rent-regulated units, which raises its own set of difficult questions.
+Other considerations
+Impact on low-income households
+While rent regulation aims to protect tenants most vulnerable to unexpected increases in rent, many rent regulation systems confer the largest benefits on higher-income renters.
+A 2019 study by Rebecca Diamond, Timothy McQuade, and Franklin Qian
+exploited a natural experiment in San Francisco and found that more regulated properties were eventually occupied by higher-income tenants than unregulated properties, contrary to the policy’s objectives. Beyond inequality in access, the advantage of living in rent-regulated units also benefits higher-income tenants more than it benefits low-income tenants. A
+Wall Street Journal analysis
+of the New York City rental market found that high-income renters in rent-regulated apartments paid 39 percent less than they would have for a similar unregulated unit, compared to just a 15 percent difference for low-income renters.
+Common solutions to this issue include (1) means testing programs or (2) imposing a more universal, broad rent regulation regime, but both solutions have potentially undesirable consequences. Means testing programs, which may be imposed to extend rent regulation to lower-income renters by conditioning access to rent-regulated housing on income, often pose administrative challenges that render them infeasible and potentially counterproductive. Likewise, broad, universal rent regulation, which might be put in place with the intention of extending rent regulation to lower-income units, may cause significant distortions in housing markets. Such regulations may discourage investment and new construction, decreasing the overall supply of housing and harming low-income renters in the unregulated market.
+Jurisdictions, therefore, should consider creative approaches to rent regulation systems that prioritize protecting low-income tenants while avoiding unintended consequences. Combining broad-based rent regulation systems that set a relatively high cap on
+all
+landlords’ ability to increase rents, along with targeted subsidies that can more easily be targeted to low-income tenants, offers a potential solution.
+Impact on investment, new construction, cost, and housing quality
+In certain situations, rent regulation can inadvertently encourage landlords to change rental properties into other types of uses that aren’t covered by these regulations, such as condominiums, short-term rentals, or different purposes altogether. Investors who believe rent regulation makes owning a rental property less profitable or riskier may also choose to invest in other types of housing, or even other jurisdictions and industries. Rent regulation can also encourage landlords to hold vacant units rather than renting them at regulated rates if the cost to operate and turnover the unit exceeds the likely income from rents. Rent regulation policies, therefore, have the potential to jeopardize the overall supply of rental housing.
+A 2019 study by Rebecca Diamond, Timothy McQuade, and Franklin Qian
+sheds light on these tradeoffs. Exploiting a natural experiment in San Francisco, Diamond et al. found that tenants who benefited from the law were between 10 and 20 percent more likely to remain in their units than their counterparts in the non-rent-controlled buildings. The study also found, however, that rent-controlled properties were 10 percent more likely to be converted into condos or dramatically renovated, making them exempt from rent control. Other landlords avoided the regulations by moving into the property themselves or buying out tenants. As a result, the researchers estimated that rent regulation reduced the overall supply of rental housing in the city by six percent and increased rents in San Francisco by 5.1 percent over the study period. In order to avoid some of the effects of decreased investment and supply, jurisdictions may consider carving out exemptions for new construction or pairing rent regulation with proactive housing production policies to offset potential losses to the housing stock.
+Jurisdictions must also be attentive to the potential effects of rent regulations on housing quality, as below-market rents may discourage investment in maintenance. Many jurisdictions permit owners to raise rents when they enhance their properties to encourage investment in property improvements.
+What happens at vacancy?
+Some rent regulations allow landlords to implement larger-than-usual rent increases when a tenant moves out. In some cases, these provisions allow landlords to raise rents to market rate (as, for example,
+California’s Costa-Hawkins Rental Housing Act
+requires). Choices about what happens at vacancy have the potential to affect policy outcomes significantly. In a city or neighborhood where rents are rising quickly, allowing the rent to rise to the market rate only upon vacancy protects existing tenants but does little to maintain the unit’s affordability from tenant to tenant.
+Additionally, when rent regulation schemes allow landlords to increase the rents they charge for particular units substantially upon vacancy, landlords may be motivated to take aggressive measures to get tenants to move out. Indeed, a
+study by Brian Asquith
+found that tightening rent regulations in San Francisco led to an increase in no-fault evictions, as rent regulation policies incentivized landlords to turn over units in order to reset rents to market levels. For this reason, jurisdictions often pair rent regulation with
+“just cause” eviction laws
+, which require a landlord to demonstrate a valid reason for evicting a tenant to protect tenants from this increased threat. Similarly, some municipalities regulate tenant buyouts—this is when a landlord offers a tenant a sum of money to voluntarily move—to ensure that they are not offered in unfair or deceptive ways and that tenants are aware of their rights.
+Enforcement
+Jurisdictions considering new rent regulations must also decide how they will enforce those protections. Enforcement authority might be vested in the state (as in New York) or in a local government (as in California and New Jersey), including via administrative agencies and civil law enforcement offices. Tracking units’ legal rents is a particular challenge in jurisdictions without registries of rent-regulated buildings. In New York, owners must register rent-stabilized buildings and file annual rent registrations, which a state agency makes available to tenants upon request.
+Examples
+California’s Tenant Protection Act of 2019
+limits annual rent increases to five percent after inflation for most renters,
+taking an anti-gouging approach to rent regulation
+. The legislation creates “a statewide standard that will put more than 95 percent of multifamily units under a consistent and uniform rent standard.”
+This New York Times piece
+discusses the bill further.
+New York State passed
+broad rent regulation reforms for New York City and its surrounding counties
+in 2019 that maintained and expanded the scope of existing rent stabilization laws. The new set of regulations places stricter limits on the additional rent increases landlords can implement based on improvements to buildings or individual units. The bill also eliminated a pathway to deregulation for high-rent units occupied by high-income tenants and the 20 percent “vacancy bonus” that allowed landlords to raise rents when tenants moved out. In 2024, New York State
+raised the cap
+on recoverable costs for individual apartment improvements from $15,000 to $30,000, or $50,000 for certain vacant units.
+In 2021, voters in St. Paul, Minnesota,
+passed one of the nation’s strictest rent regulation measures
+. The ordinance capped annual rent increases at three percent—without linking the cap to inflation—and the ordinance had no exemptions for new housing. It did not allow landlords to revert to market rates after tenants moved out. In 2022,
+rules were loosened
+: new construction is now exempt from rent control for 20 years, and landlords can enact much larger rent increases after a tenant moves out.
+Oregon became the first state to enact statewide rent regulation after passing
+Senate Bill 608
+in 2019. The bill, which uses an anti-gouging approach, limits annual increases to seven percent plus the change in the CPI in a 12-month period. It does not apply to publicly subsidized units and exempts new construction for 15 years. Upon vacancy, landlords can raise rents without a cap, as long as tenants leave of their own accord. The bill also includes just cause eviction protections. In 2023, Oregon passed
+Senate Bill 611
+, which restricts rent increases to no more than once in any 12-month period for any rental unit in the state and limits rent increases for rent-regulated units to the lesser of either 10 percent or seven percent plus the published Consumer Price Index.
+Washington, D.C.’s regulation applies to multifamily buildings built before 1975. Landlords may increase the rent in covered units by a maximum of CPI plus two percent, or by CPI only for senior tenants and people with disabilities. When a tenant moves out of a unit, landlords cannot automatically raise the rent to market rate. Instead, they can only increase the rent by 10 percent or to the rate of a similar unit, but the increase cannot exceed 30 percent.
+Learn more about rent control in Washington, D.C.
+Related resources
+Do Rent Increases Reduce the Housing Supply Under Rent Control? Evidence from Evictions in San Francisco
+. With the National Bureau of Economic Research, Brian Asquith examines the effect of rent control on no-fault evictions in San Francisco.
+The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco
+. Written by Rebecca Diamond, Timothy McQuade, and Franklin Qian, this paper by the National Bureau of Economic Research exploits quasi-experimental variation in the assignment of rent control to demonstrate the policy’s impact on condominium conversion, gentrification, prices, and supply.
+Rent control effects through the lens of empirical research: An almost complete review of the literature
+. This paper synthesised existing research on rent regulation. It found that while rent regulation increases housing stability by effectively capping rents within rent-regulated units, it may increase rents for the unregulated stock, reduce residential mobility, and negatively affect housing quality.
+Rent Control and the Supply of Affordable Housing
+: A recent study by The Urban Institute examined rent control reforms across 27 U.S. metropolitan areas and more than 4,000 cities. Though not peer reviewed yet, the study tentatively found that rent control is associated with a reduction in the total number of units in a city. It also found an increase in units affordable to households making less than 30 percent of the area median income (AMI) and decreases in the number of units affordable to people with incomes above 120 percent of AMI.
+Rent Matters: What are the Impacts of Rent Stabilization Measures?
+Manuel Pastor, Vanessa Carter, and Maya Abood surveyed existing research on rent regulations and found that moderate rent controls promote tenant stability and deter displacement from gentrification while avoiding constraining new housing development.
+Forty years of rent control: Reexamining New Jersey’s moderate local policies after the great recession
+. This study by Joshua D. Ambrosius and colleagues examined the type of moderate rent regulation found in many New Jersey cities. The report found minimal effects on housing markets while observing that rent regulation provides benefits in the form of increased transparency and housing stability.
+Rent Control Laws by State
+. This website, created by the National Multifamily Housing Council, summarizes rent regulation laws organized by state.
+Laboratories of Regulation: Understanding the Diversity of Rent Regulation Laws
+. Authored by Vicki Been, Ingrid Gould Ellen, and Sophia House, this paper by the NYU Furman Center reviews the implications of policymakers’ choices in enacting and implementing rent regulations, highlighting the various regimes that jurisdictions across the United States have adopted.

@@ -1,0 +1,50 @@
+Title: State tax credits for affordable housing
+Source: https://www.localhousingsolutions.org/housing-policy-library/state-tax-credits-for-affordable-housing/
+
+An individual or organization may apply the credit against its own tax liability, or sell the credit to raise equity that can be used to reduce project financing costs. While state tax credits are not a local policy, local governments can encourage their state partners to develop a state tax credit for affordable housing.
+Because the rules governing state tax credits are established at the state level, programs can vary widely with respect to the duration of the tax credit term, the share of the contribution against which the credit may be claimed, the eligible activities and affordability requirements, and other program features. Some states separate their tax credit program from the federal LIHTC, while others “piggy back” on the federal tax credit and automatically award the state credit to investors in the federal LIHTC to help fill gaps in development costs. Not all states offer a state tax credit program, and the available credit amounts vary widely.
+Approach
+Among states that offer an affordable housing tax credit, there are a variety of approaches to how the credit is structured and awarded. As noted above, many states choose to piggy back on the federal Low Income Housing Tax Credit (LIHTC). In these states, investors in the federal LIHTC automatically receive the state credit to help fill gaps in development costs. The credit amount is generally linked to the federal LIHTC award in some way (though typically limited to the amount needed to make the deal work). For example, developments that receive the federal LIHTC in Arkansas are eligible to receive a State Housing Tax Credit equal to 20 percent of the federal credit award.
+[1]
+Other states separate their tax credit program from the federal LIHTC, making allocations of state credits available to investors who do
+not
+receive the federal credit. As with the federal credit, allocation decisions can be based on a variety of factors, depending on the state’s priorities.
+[2]
+In addition to the basic structure, there are many other details related to the design and implementation of a state tax credit program that need to be sorted out. One key consideration is establishing the state taxes against which credits may be claimed—whether individual or corporate income tax, franchise tax, insurance premium tax, gross receipts tax, or some other state tax. States also need to determine the length of the tax credit term—often between four and six years, which is shorter than the federal LIHTC’s ten-year term—as well as the compliance period during which time tax credit projects must continue to enforce affordability provisions. This period generally extends far beyond the credit term. For example, the Massachusetts Low Income Housing Tax Credit is payable over 5 years and has a compliance period of 45 years.
+[3]
+Other decisions pertain to the amount of the credit—whether it is a dollar-for-dollar credit or a partial award and, if partial, the share of the contribution used to determine the credit amount. For example, the New Mexico Mortgage Finance Authority provides a credit worth up to half the value of eligible donations for affordable housing developments.
+[4]
+Some states establish minimum donations in order to claim the credit. States also establish per-unit and/or per-transaction caps that limit the amount of tax credits that any individual development may receive. At the program level, overall caps are generally placed on the amount of credits that may be issued in a given year. Other program guidelines should address whether unused tax credits can be carried forward (and if so, for how long) or are refundable, meaning investors can claim a tax refund if the credit reduces their tax liability to less than zero.
+Eligibility
+States may establish eligibility requirements for the state tax credit that vary from federal LIHTC requirements. In New York, for example, the upper end of the
+income targeting
+threshold is 90 percent of AMI (rather than 60 percent under the federal LIHTC program). Unlike the federal LIHTC, some states do not require tax credit investors to have an ownership stake in the sponsored project. This arrangement helps to make investment in affordable housing more attractive by lowering the risk to investors. In states with this arrangement, once initial project criteria are satisfied receipt of the credit is not contingent on the project’s ongoing compliance with regulations or financial performance.
+States also determine the
+types
+of donations that are eligible for the credit. These may include a broad range of donation types, including land, services, and buildings in addition to financial support. States also establish the activities that are eligible to be funded under the program, whether new construction and/or preservation and rehabilitation; housing that is located in particular areas or targeted on specific income levels or needs (e.g., supportive housing for people with disabilities, senior housing, etc.). Some states limit tax credit awards to affordable rental housing, while in others affordable homeownership activities are also eligible. These preferences and guidelines should be clearly indicated in the criteria used to assess applicants.
+Finally, in some cases, states require tax credit recipients to comply with additional provisions that reflect state priorities. For example, California requires developers who receive state credits to pay the state prevailing wage.
+[5]
+States can establish other requirements or preferences and priorities that guide decisions on how to allocate tax credit awards.
+The
+local
+role
+Affordable housing tax credits are created and administered at the state level. However, local jurisdictions can play an important role, particularly in states that have not yet adopted a state tax credit program. Leaders in jurisdictions of all sizes can work in partnership with private and nonprofit developers, advocates, and others to advocate for the creation of a new state tax credit for affordable housing. Local officials can provide data on the typical financing gap in affordable housing projects, and illustrate how a state tax credit could help expand the number of affordable housing developments able to be funded. Local leaders can also play a role in convening a diverse group of stakeholders to discuss how the tax credit could be structured, the activities it could support, and the priorities to use in allocating credits.
+Examples
+The
+Illinois
+Affordable Housing Tax Credit allows individuals or organizations to claim a tax credit on the basis of their donations to participating non-profit housing developers. Donations may be in the form of cash, securities, personal property, or real estate, and may be aggregated to reach the minimum amount of $10,000 to claim the credit. The credit is worth 50-cents-on-the-dollar and can be applied against Illinois income tax. Non-profit developers must use the donations to covers costs associated with an approved affordable housing project.
+Learn more about the Illinois Affordable Housing Tax Credit
+.
+In 2016, the state of
+Nebraska
+adopted a state low-income housing tax credit for owners of qualified affordable housing developments that receive the federal LIHTC. The non-refundable state tax credit is intended to help close the gap between revenue available through the LIHTC and actual project expenses, and is awarded over a six-year period in an amount up to the federal LIHTC award to the property. The credit may be applied against state income tax, the premium tax for insurance companies, or the franchise tax for financial institutions.
+Learn more about Nebraska’s LIHTC.
+Related resources
+Implementation
+Using State Tax Credits: Q&A with Beth Mullen of the Reznick Group
+, Affordable Housing Finance (September 2007) – While oriented to affordable housing developers, this article provides an explanation of different state housing tax credit structures that may be useful in considering program design options. The article also describes common implementation questions and concerns that may arise in a state tax credit deal.
+Local examples
+State LIHTC Program Descriptions
+, Novogradac & Company Affordable Housing Resource Center – This database contains detailed descriptions of state affordable housing tax credit programs. Each entry contains links to the enacting legislation, online application, and state contacts.
+New Mexico Affordable Housing Tax Credit
+, New Mexico Mortgage Finance Authority – This program page provides details on New Mexico’s Affordable Housing Tax Credit program, including how it is structured and eligible donations and projects. The page also links to a variety of program documents, including the tax credit NOFA, application checklists and schedules, design standards.

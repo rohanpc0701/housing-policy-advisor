@@ -1,0 +1,82 @@
+Title: Linkage fees/affordable housing impact fees
+Source: https://www.localhousingsolutions.org/housing-policy-library/linkage-fees-affordable-housing-impact-fees/
+
+These policies work best in towns, cities or counties that are experiencing, or expect to experience, substantial commercial or residential growth. The fee is often justified as a way to meet the demand for housing caused by newly created jobs associated with this growth.
+Linkage fees can be assessed on all new non-residential development, including retail centers, industrial or manufacturing facilities, and other commercial projects. These facilities stimulate the creation of jobs, but ordinarily do not include an affordable housing component for workers in low-wage jobs. The need to meet the demand for affordable housing created by new growth provides the legal justification for charging linkage fees, which are used to preserve or create affordable housing near the jobs that are created. The fee amount is typically based on the square footage of the building, with proceeds deposited in a
+housing trust fund
+for disbursement in accordance with local needs and priorities.
+Affordable housing impact fees function like linkage fees, but are assessed on market-rate or luxury residential development on the assumption that an influx of new residents will generate increased demand for services and, in turn, low-wage jobs to fulfill that demand. The revenue from affordable housing impact fees can then be used to help provide housing affordable to these workers. Affordable housing impact fees may be assessed on a per-unit or per-square foot basis, typically with different rates for different housing types (single-family homes, townhomes or condominiums, rental apartments).
+This section describes some of the primary issues that local jurisdictions considering linkage fees or affordable housing impact fees should consider.
+Approach
+Local jurisdictions that are deciding whether to create a linkage fee or affordable housing impact fee may first wish to assess local growth trends: Is the city or county currently adding new commercial or residential developments, and at what rate? If growth is slow, a new fee will generate limited revenue for affordable housing. However, if growth is expected to pick up in the future, periods of slow growth may also be opportune times to review local policy options to determine whether to create a fee that will be phased in over the coming years. This approach can help to ensure a community is prepared to capture fee revenue for affordable housing when development picks up. (Localities that project limited economic growth in the future may wish to consider alternative tools to
+generate revenue for affordable housing
+.)
+Even if a proposed fee has broad political support, cities and counties may want to work with housing and commercial developers to minimize or ameliorate unintended consequences associated with its creation. These stakeholders can provide guidance on measures that would make a new fee less challenging to implement – such as phasing in fee collection over a period of years and providing waivers for certain development types. When a locality is working to stimulate commercial development, it is especially important to align affordable housing funding goals with economic development programs so that both initiatives can be successful.
+The next step in exploring potential for a linkage fee or affordable housing impact fee is to prepare a nexus study that clearly establishes the relationship between new commercial or residential development and the need for affordable housing, taking into account the new employment that will be generated, the occupations and income distribution of employees, and the number of new lower-income households who will need housing. The results of the study establish maximum, legally defensible fee amounts that could be charged to mitigate these impacts and provide sufficient housing to meet the demand created by the new development. In practice, most communities establish a fee well below this legal maximum to avoid legal challenges, including on the grounds that the fee constitutes an unconstitutional “taking” of private property. Local jurisdictions often engage a specialist to prepare the nexus study.
+Communities that choose to establish a fee on new commercial or residential development will need to make a series of decisions about how the fee will be structured. Chief among these is to create a clear formula for calculating the fee amount. Many communities base the formula on square footage.  Other approaches include assessing fees on a per-unit basis, or as a percentage of the sale price (for owner-occupied residential developments).
+Fee amounts may also vary on the basis of the development type, with different linkage fee rates for hotels, shopping centers, and industrial facilities, for example, and varying affordable housing impact fees for condo units, town homes, and single family homes. In San Diego, for example, linkage fees range from $0.80 per square foot for research and development facilities to $2.12 per square foot for new office space. Alternatively, a single rate may apply to all development types covered by the policy. In determining which approach to take, local jurisdictions should weigh the trade-offs in establishing a fee schedule that is relatively simple to manage from an administrative standpoint versus one that allows for more targeted assessments that may more accurately reflect the affordable housing needs that will be created by the new development.
+When selecting a fee level within the range of legally permissible fees, communities should strive to develop formulas that generate as much revenue as possible to support local affordable housing goals while avoiding unintended negative impacts on new development. Linkage fees that are too high could suppress economic growth in the short run and lead to higher land prices in the long run, particularly if neighboring jurisdictions don’t impose a similar charge. Similarly, affordable housing impact fees increase development costs and, to the extent they suppress new development, may frustrate efforts to increase the housing supply and reduce pressure on rents and home prices. Many communities choose to engage a consultant or other specialist when designing their formulas to help balance these competing priorities.
+Communities will also need to decide when payment of the fee is due. Some cities allow the fee to be paid in installments as development milestones are reached. Others require payment at the time of
+building permit
+issuance or at project completion, prior to occupancy. Whatever approach is taken, when fees are first adopted local officials may wish to phase them in over a period of years in order to give the development community time to adjust (e.g., starting at $1 per square foot in the first year and assessing incremental increases in subsequent years until the full fee amount is reached).
+In some cases, communities also permit developers to build affordable housing or donate land in lieu of paying a linkage or affordable housing impact fee. This may be an especially attractive alternative in cities that have limited sites available for new development (depending on site-specific conditions) or in cities or states that prohibit mandatory
+inclusionary zoning
+. Communities should establish clear guidelines for the number of affordable homes or land area that must be delivered in lieu of payment of a linkage fee or affordable housing impact fee in order to promote transparency and predictability.
+Coverage
+Affordable housing impact fees and linkage fees can apply to all residential or commercial development, or only to certain development types. For example, fees on residential development may be limited to homeownership units and not assessed on rentals. (Below-market developments are commonly exempt from affordable housing impact fees.) Some cities establish a minimum size threshold (e.g., 10,000 square feet for commercial developments or 15 units for residential projects) for new projects subject to the fee. Some communities also choose to provide more targeted exemptions from fee liability, including the exclusion of certain types of space or certain neighborhoods.
+Eligibility
+Communities that assess linkage fees and affordable housing impact fees often deposit fee revenue in a new or existing affordable housing trust fund. In this case, the guidelines that govern trust fund allocations will determine eligible activities and how the proceeds are used.
+Depending on local goals, communities may also wish to establish other guidelines for how fee revenue is spent. Linkage fees are intended to help mitigate the mismatch between where people work and where they can afford to live, so local jurisdictions may require the revenue to be spent within a certain distance from the commercial development, or in areas with frequent public transit service.
+Other considerations
+State authorization
+A local jurisdiction’s ability to establish a linkage fee program will depend on whether it is located in a “home rule” state that confers broad authority to municipalities to pass their own laws, or a “Dillon’s Rule” state, in which local authority must be specifically granted by state legislation. Cities and counties in Dillon’s Rule states will need to secure state enabling legislation as a first step in establishing their authority to levy linkage fees.
+Fees as an alternative to inclusionary zoning
+In local jurisdictions where inclusionary zoning is prohibited, linkage fees and/or affordable housing impact fees can offer an alternative approach to increasing the affordable housing supply. This approach was particularly popular in communities in California, which adopted fees following a court decision prohibiting inclusionary zoning in rental developments.
+[2]
+In many cases, the policies establishing the affordable housing impact fee will permit owners to include affordable housing within the development as an alternative to paying the fee. Depending on the level of the fee, this can help achieve many of the same
+inclusion
+goals as an inclusionary zoning policy.
+Examples
+Boston, MA
+created its commercial linkage fee program
+in 1983, making it one of the first in the country when it was enacted into law in 1987. The fee is levied on all new commercial and institutional developments larger than 100,000 square feet, and is assessed at a rate of $8.34 per square foot. Payment of the fee is due in equal seven installments, beginning at building permit issuance. State enabling legislation dictates the uses of Boston’s linkage fee, which are limited to producing and preserving housing for low- and moderate-income households. Between 2004 and 2014, Boston’s linkage fee collection averaged around $6.46 million per year.
+Cambridge, MA
+,
+amended its zoning ordinance
+in 2015 to increase linkage fees assessed on new commercial developments of 30,000 square feet or more from $4.58 to $12 per square foot. This amount is set to increase by a dollar per year through 2018, and is also subject to annual inflation-based increases.
+In
+Seattle, WA
+developers may either pay an impact fee or build onsite or offsite
+affordable housing.
+Fremont, CA
+adopted a commercial linkage fee in June 2017 with provisions that include an exemption for “Class A” office space in parts of town where the city is seeking to promote employment growth and a two-year exemption throughout the jurisdiction for new corporate headquarters that move into the city.
+[1]
+The
+City of San Bruno
+charges both affordable housing impact fees and linkage fees for nonresidential projects. Impact fees are charged at a rate of $25 per square of net new residential floor area for apartments and condos, and $27 per square foot for single-family detached homes. (In multifamily developments, residential floor area calculations exclude parking areas, elevators, stairwells, and hallways.) Fee payment is due when the building permit is issued. Commercial linkage fees are set at rates of $6.25 per square foot of net new gross floor area for buildings housing retail, restaurants, and services, and $12.50 per square foot for hotels, offices and medical offices, and research and development usage. More details are available at the
+City of San Bruno’s website
+.
+Related resources
+Implementation
+Overview of Commercial and Residential Linkage Fee Programs in the US and Colorado, Denver Office of Economic Development-Housing and Neighborhood Development (January 2016) –
+This chart provides a detailed overview of 18 linkage fee programs
+, including fee information, applicability, payment timing, exceptions, and methods for updating the fee.
+Linkage Fee Programs
+and
+Commercial Linkage Fees
+, Grounded Solutions Network – provides an overview of affordable housing impact fees and commercial linkage fees, including pros and cons and considerations in designing fees.
+Impact Fees
+, 21 Elements San Mateo Countywide Housing Element Update Kit – this collaborative effort among 21 jurisdictions in San Mateo County, CA provides practical guidance on adoption of impact fees in any community. Resources include a decision-making guide, fee comparison table, and examples of nexus studies and staff reports.
+Local example
+Los Angeles Affordable Housing Linkage Fee Nexus Study, BAE Urban Economics (September 2016) –
+This nexus study assesses the impacts of new commercial development and new market-rate residential development
+in the City of Los Angeles, and establishes maximum legal fees for different types of development. The report also includes examples and best practices from other communities.
+Market impacts
+Market Effects of Office Development Linkage Fees
+, Forest E. Huffman & Marc T. Smith in
+Journal of the American Planning Association
+(1988) – describes the impact of commercial linkage fees on demand for office space in Philadelphia; findings indicate that such fees can reduce demand where office users are sensitive to rent increases.
+Geha, Joseph. “Fremont: Commercial Developers Must Pay Affordable Housing Impact Fees.”
+East Bay Times
+, East Bay Times, 23 June 2017,
+https://www.eastbaytimes.com/2017/06/22/fremont-commercial-developers-must-pay-affordable-housing-impact-fees/

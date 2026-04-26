@@ -1,0 +1,114 @@
+Title: Stabilizing high-poverty neighborhoods through a mixed-income approach
+Source: https://www.localhousingsolutions.org/housing-policy-library/stabilizing-high-poverty-neighborhoods-through-a-mixed-income-approach/
+
+By investing in the redevelopment of distressed neighborhoods with a specific focus on restoring and creating income-diverse neighborhoods, cities can help to stabilize these neighborhoods and improve the quality of life for all residents. In this brief, we discuss housing policies and programs localities can use to attract households with a mix of incomes to low-income neighborhoods, how to select appropriate neighborhoods to apply these strategies, and ways to prevent displacement of low-income residents. To maximize impact, these strategies should be paired with other, non-housing approaches that ensure the target neighborhoods have the resources needed to provide a high-quality of life for all residents.
+Potential benefits of building mixed-income neighborhoods
+Relative to neighborhoods with a high concentration of poverty, mixed-income neighborhoods can support private investment in retail and housing, drawing amenities such as grocery stores, banks, and small business to areas that otherwise might be overlooked. Public and private investment can address vacancy, reducing blight and, in some cases, increasing tax revenue, as well as stabilize and modernize an aging housing stock. Other benefits include preservation of architectural heritage and increases in the number of occupied housing units in neighborhoods that are walkable and/or well-located near transit, reducing greenhouse gas emissions associated with auto travel. When part of a comprehensive strategy for neighborhood redevelopment, investment in these spaces can prevent the displacement of existing residents, many of whom are low-income, and improve quality of life for these residents through enhanced amenities and increased employment opportunities. To the extent that neighborhood redevelopment efforts increase property values, they can increase property tax revenue as well.
+By contrast, concentrated poverty is associated with a range of social challenges that adversely affect neighborhood residents and undermine racial equity. For more information, as well as evidence-based examples, please see “
+Addressing segregation by income, race, and ethnicity
+.”
+Building mixed-income neighborhoods without triggering displacement
+When working to increase the mix of incomes within a low-income neighborhood, it is vital to guard against the possibility of displacing existing residents. The goal of building mixed-income neighborhoods is to introduce modest income diversity in low-income neighborhoods without spurring displacement of existing residents or replacing deeply subsidized units with market-rate units. The approaches described in this brief focus on the introduction of new units to a low-income neighborhood, either through new construction or substantial rehabilitation, and incremental neighborhood improvements, rather than wholescale redevelopment which can result in a loss of low-income units.
+One initial way to guard against displacement is to be careful in selecting the neighborhoods in which to apply this strategy. A neighborhood that is already showing signs of gentrification and where residents are at risk of displacement does not need, and is not a good candidate, for the types of investments described here. On the contrary, localities will likely want to focus on efforts to protect residents in these neighborhoods from displacement, and preserve and expand affordable housing opportunities.
+At the other end of the spectrum, highly distressed neighborhoods may similarly not be good candidates for this approach because of the great difficulties of attracting households with a mix of incomes to the neighborhood.
+The optimal candidates for this strategy fall between these two extremes—where there is little risk of displacement but sufficient community assets to build on to attract households with a mix of incomes. With careful planning and incremental introduction of middle income households, these neighborhoods can slowly start to attract private-market investments and provide an improved quality of life for all residents. Not all cities will necessarily have neighborhoods that are good candidates for this strategy. While circumstances vary from one locality to the next, the highest-cost cities are generally least likely to have neighborhoods that could benefit from this strategy without triggering displacement while older industrial legacy cities with less overall housing demand, and cities with mixed housing markets, are more likely to have neighborhoods that would benefit from this approach.
+Of course, any approach that involves introducing higher income households into a neighborhood necessarily must consider the potential for displacement of lower-income residents, and localities should be on the lookout for and have a plan in place to address this possibility. For policies and tools to prevent displacement, see the brief
+Increasing Housing Stability for Renters and Owners
+.
+Programmatic approaches
+The following are a number of tools localities can use to help build mixed-income neighborhoods, including policies and programs that create or rehabilitate housing units, offer financial incentives, or support neighborhood revitalization. For more information on how to combine these tools into a comprehensive community development strategy, see
+Strengthening communities through community development activities.
+While this brief focuses on attracting middle-income households to low-income neighborhoods, it should be noted that
+approaches to help existing residents build assets
+and increase earnings can also increase the income diversity of neighborhoods. A wide range of asset-building programs and
+workforce development are available to help households increase their earnings and build assets
+. Localities seeking to increase the mix of incomes within a low-income neighborhood may want to consider combining approaches to attract people to the neighborhood with programs to increase existing residents’ incomes.
+Regardless of the specific policies or programs localities use to build mixed-income neighborhoods, it is important to supplement housing policy tools with broader neighborhood revitalization and community development strategies to ensure all residents, existing and new, can benefit from investments in the neighborhood. Such investments could include, for example, improvements in neighborhood schools and parks, the upgrading of roads and utilities, community facilities, and improved access to public transit. Refer to the
+Bridge section of Local Housing Solutions for information
+on building neighborhoods that are healthy, provide access to transportation and quality education, and reduce energy consumption and increase resilience to climate change.
+Housing investment to promote income diversity
+In many cases, localities will need to either create new housing units or renovate existing units to attract households with a mix of incomes to low-income neighborhoods. A number of programs or policies can be used to encourage the development of new housing units or the improvement of existing units through rehabilitation. Some of the housing programs listed below have formal income limits but can be used to create housing in very low-income neighborhoods targeted to households with moderately higher incomes. Drawing households with incomes above federally-funded program limits may require local funds and incentives. Localities should consider the specific objectives they hope to achieve by attracting households with diverse incomes to the neighborhood to determine which policies and programs are best suited to advancing their objectives.
+Mixed-income development
+One way to increase the mix of incomes in a neighborhood is to support
+the creation of a mixed-income development
+. Mixed-income development refers to residential settings in which housing is affordable to individuals and families with different income levels. The term is often applied to projects that include a mix of market-rate and dedicated affordable units (restricted to low-income households) in the same building or development.
+In some cases, a large development may comprise a neighborhood, or a development may be substantial enough in size that it has a great impact on the surrounding area. In these cases, mixed-income developments alone may bring significant income diversity into a neighborhood. The creation of a single small mixed-income development by itself, however, will often be insufficient to materially change the mix of incomes in the neighborhood, which is the scale at which benefits like improved neighborhood resources appear to operate.
+As an alternative to developing properties that target households with a mix of incomes within a single property, localities can foster the development of multiple properties in a neighborhood that target different income groups, such as a mix of market-rate development and dedicated affordable housing.
+Low Income Housing Tax Credit (LIHTC)
+The
+Low Income Housing Tax Credit (LIHTC)
+is a federal program that encourages private investment in affordable rental housing by providing a dollar-for-dollar reduction in federal income tax liability in exchange for investment in qualifying new construction and rehabilitation projects. While LIHTC can generally only be used to assist units in which households have incomes below 60 percent of AMI, in a very low-income neighborhood the high end of that income spectrum may be above the neighborhood median, facilitating its use to promote income diversity in that neighborhood. In addition,
+under recently adopted rules
+, some households in LIHTC-assisted units may have incomes between 60 and 80 percent of AMI, so long as the average income of households in the LIHTC units fall below 60 percent of AMI.
+Choice Neighborhoods
+HUD offers the
+Choice Neighborhoods program
+, which provides grant-based public and private funding to localities to support strategies targeted towards struggling neighborhoods that have public or HUD-assisting housing that is in need of assistance. The program engages the entire community (including, but not limited to, local leaders, residents, business owners, law enforcement agencies, nonprofits, private developers, schools, and public housing authorities) to create a plan that seeks to transform and revitalize the chosen neighborhood. Localities can look to this program as a possible source of funding to bring community leaders together and implement a strategic plan. Choice Neighborhoods are designed as mixed-income neighborhoods that leverage housing development as a means to achieve comprehensive revitalization in an area.
+Tax incentives for rehabilitation and new construction
+In economically
+distressed
+A distressed community refers to any neighborhood in which has an average unemployment rate of 9 percent or more over the past three years, a poverty rate of 20 percent or more among individuals not enrolled in higher education, and/or a population decline of 5 percent or more over the past 10 years. (
+adapted from HUD)
+neighborhoods, tax incentives can be a useful tool to encourage private investment in property. These incentives can encourage rehabilitation of existing unsubsidized properties as well as new construction of housing units. Both types of investment can be helpful for increasing the mix of incomes within a low-income neighborhood.
+Localities seeking to add income diversity to neighborhoods with aging rental stock may want to consider assisting property owners by offering
+property tax incentives
+to encourage them to rehabilitate property. Such incentives often hold the taxable assessed value of a rehabilitated property at pre-improvement levels for a set period of time, or otherwise reduce or limit the amount of taxes owed. These incentives are important because some owners of unsubsidized rental properties may lack sufficient rental income to cover the costs of day-to-day maintenance and operation, let alone the costs necessary to bring the property up to code or replace or upgrade such building systems as electrical, plumbing, roofs, etc. Shortages of funds lead properties to fall into disrepair and become a burden on owners as well as tenants.
+While property tax relief may support the rehabilitation of existing buildings and protect affordable housing units, new construction will likely be needed as well in order to attract middle-income households that are looking for more modern and updated homes. In addition to offering incentives for rehabilitation, some jurisdictions stimulate new residential development by offering property tax abatements that lower the amount of taxes owed for a specified period of time. Alternatively,
+property tax incentives
+can be structured to exempt, for some period of time, increases in the assessed value of a property that would otherwise result from new construction. Many of the other approaches discussed in Local Housing Solutions for
+facilitating the development of dedicated affordable housing
+can likewise be repurposed to facilitate the new development of middle-income or mixed-income housing in low-income neighborhoods.
+Appraisal gap programs
+In many low-cost housing markets, the combined costs of purchasing and rehabilitating an older property may be greater than the resulting appraised value of the property, making financing nearly impossible to procure.
+Appraisal gap programs
+use grants and subsidized loans to help individuals and nonprofits obtain financing for the acquisition and redevelopment of properties whose post-rehab market values exceed their appraised values. In soft housing markets, these programs can be critical for attracting private investment and increasing the mix of incomes.
+Downpayment and closing cost assistance
+Incentivizing homeownership is another way localities can increase the mix of incomes within a low-income neighborhood. In addition to diversifying incomes in the neighborhood, homeownership may have benefits for communities in facilitating residential stability that allows residents to become invested in their neighborhoods. One way localities can encourage homeownership is through
+downpayment and closing cost assistance
+, which helps low- and moderate-income families overcome one of the most common barriers to homeownership—accumulating sufficient savings to make a down-payment and pay for closing costs on a mortgage. Downpayment assistance is often provided by a local housing agency, a nonprofit organization or a state or local housing finance agency, sometimes through a participating private lender and can take many forms. Program details differ across jurisdictions, but in general borrowers must fall within income and home purchase price limits and must comply with other eligibility requirements.
+Small balance mortgage programs
+Localities can help to increase the mix of incomes within low-income neighborhoods by working with local institutions to design programs and/or offset costs to encourage lenders to offer small balance mortgages. It can be difficult for homeowners to secure mortgages of less than $100,000 on properties they purchase because lender costs in originating and servicing these loans often outweigh profits they may receive in their repayment or through a sale of the loan. This may prove to be a barrier for households looking to purchase a home in a low-income neighborhood as the market values may fall below this threshold. Some nonprofits, including Community Development Financial Institutions, and local lenders are working to fill the financing gap presented by
+small balance mortgages
+by designing programs to offer mortgages to eligible buyers purchasing homes in targeted geographies.
+Housing rehabilitation assistance
+Housing rehabilitation assistance has long been a tool to help low-income homeowners maintain the affordability of their homes and prevent their displacement. Through these programs, owners can bring a property up to code, tend to electricity or plumbing issues, repair the roof and floor, or make upgrades that enhance the home’s energy efficiency or accessibility. Localities can also use these programs to improve housing quality and revitalize neighborhoods. When
+housing rehabilitation programs
+, which often include
+lead paint abatement
+and
+energy efficiency improvements
+, are targeted to specific neighborhoods as part of a broader comprehensive redevelopment strategy, they may stimulate private investment in surrounding properties.
+Neighborhood revitalization to promote income diversity
+In addition to the development and redevelopment of quality housing units, many localities engage in a range of revitalization activities within low-income neighborhoods to attract and support households with a mix of household incomes. These activities are often combined with housing development as part of a comprehensive revitalization approach, but can also be implemented independently.
+Neighborhood revitalization activities, such as infrastructure improvements, commercial and residential façade improvements,
+brownfield redevelopment
+, and transit-oriented development can attract middle-income households to a neighborhood and create jobs for existing neighborhood residents. These efforts can be funded with local funds as well as federal resources such as the Community Development Block Grant (CDBG) program.
+The CDBG program has a provision to allow localities to establish
+Neighborhood Revitalization Strategy Areas
+, or NRSAs. NRSAs must meet certain criteria such as being primarily residential and occupied by a high percentage of low- and moderate-income households, and special designation must be approved by HUD. The establishment of an NRSA allows localities more flexibility in meeting national objectives when using CDBG funds for housing. Within a NRSA, all housing units, whether they are single-family houses or multi-family properties, are treated as if they are in one structure. That means that localities may provide housing assistance to otherwise over-income households as long as 51% of the total units assisted in the NRSA are occupied by low- or moderate-income households. NRSAs offer other CDBG flexibilities for economic development and public services activities as well.
+Examples
+Hartford, CT’
+s Appraisal Gap Financing Program encourages the purchase and redevelopment of older properties, this program provides financing to cover the difference between the appraisal value at closing and purchase price or total project costs for single-family homes. The financing is provided in the form of a loan of up to $40,000 that is fully forgivable after seven years of occupancy. Loans carry a 0% interest rate. Buyers must complete an eight-hour homebuyer education class and obtain an affordable first mortgage that conforms to city standards to be eligible.
+To encourage redevelopment of older properties, the city of
+Syracuse, NY
+provides a
+10-year exemption
+from an increase in City and School taxes. During the first seven years, the property owner receives a 100 percent exemption on the increased assessment following the new construction; the exemption amount is phased out over the remaining three years. This exemption period can be extended if the home is LEED-certified by an accredited professional.
+NeighborWorks in
+Rochester, NY
+funds the
+Half-Bath Program
+, which funds the construction of half bathrooms in older houses in the Triangle neighborhood. Prior to the program, many modest homes in the area only had one bathroom, so this program raises the value of homes in the area and makes the neighborhood more attractive to households seeking more modern conveniences.
+Related resources
+Overcoming Concentrated Poverty and Isolation
+: Urban Institute report on three HUD programs to designed to remove people from settings of concentrated poverty, Moving to Opportunity, Jobs Plus Program, and Bridge to Work demonstration.
+Confronting Concentrated Poverty With a Mixed-Income Strategy
+: HUD Evidence Matters Newsletter article discussing benefits of mixed-income strategies to support income-diverse communities and reduce the impacts of living in concentrated poverty.
+National Initiative on Mixed-Income Communities
+: Institute at Case Western Reserve University dedicated to conducting research and providing evidence to decision makers to inform policies to reduce concentrations of poverty and promote mixed-income neighborhoods.
+Building Successful Neighborhoods
+: Urban Institute paper developed for the WhatWorks Collaborative discussing the need for “place-conscious” strategies to address concentrated poverty in distressed neighborhoods.
+HUD Choice Neighborhoods
+: HUD website describing the Choice Neighborhood Program.
+Legacy Cities Toolkits
+: Section of Legacy Cities Toolkit from the Lincoln Institute of Land Policy dedicated to designing neighborhood strategies to market conditions to improve distressed neighborhoods and strengthen middle neighborhoods.

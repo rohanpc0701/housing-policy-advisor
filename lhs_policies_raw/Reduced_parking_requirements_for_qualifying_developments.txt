@@ -1,0 +1,47 @@
+Title: Reduced parking requirements for qualifying developments
+Source: https://www.localhousingsolutions.org/housing-policy-library/reduced-parking-requirements-for-qualifying-developments/
+
+However, there are many circumstances where a one-size-fits-all parking requirement may result in an excess supply of parking spaces, including for residents of affordable housing, who tend to have fewer vehicles per household, and in higher-density neighborhoods where many transportation needs can be met by public transit. Parking requirements can make housing more expensive to produce, as fulfilling this requirement can be costly, particularly when land prices are very high or where expensive underground parking or parking structures are needed to accommodate the required number of spaces. By reducing parking requirements for qualifying affordable developments, cities, towns, and counties can help to ensure the amount of parking provided aligns with actual needs, freeing up resources that can be used to lower home prices and rents, as well as space for additional units and/or amenities.
+Cities, towns, and counties considering reductions in parking requirements for qualifying affordable developments should structure their zoning codes in response to local conditions and community goals. In this section we review a number of the factors that should be addressed in developing and implementing reduced parking requirements for qualifying developments.
+Approach
+There are a variety of ways to reduce parking requirements for developments that meet affordability requirements. Local jurisdictions can reduce the number of spaces required per unit (e.g., from 0.5 to 0.3 spaces per bedroom) or eliminate requirements altogether, or work with developers to determine appropriate amounts on a case-by-case basis.
+See the related discussion on
+reducing parking requirements for all new residential development
+to learn more about specific approaches.
+When making revisions to parking requirements, cities, towns, and counties should consider seeking feedback early in the process from a broad range of stakeholders, including transportation planners and engineers, representatives of the local transit authority, and for-profit and non-profit housing developers and managers. Additional analysis to determine actual vehicle ownership rates by income level, age of household head, and household size, as well as proximity to and availability of public transit and actual parking utilization rates may be helpful to inform policy development and ensure requirements reflect local circumstances.
+Eligibility
+Cities, towns, and counties will need to establish clear criteria regarding eligibility for reduced parking requirements. The zoning code should specify the share of units in the development that must be affordable, and to what income levels, to qualify for the reduction. It should also specify whether there are any requirements for how long the units must remain affordable.
+In some cases, linkages between reduced parking requirements and other affordable housing programs will determine the answers to these questions. For example, some cities, towns, and counties waive parking requirements completely for federally funded public housing. Access to reduced parking requirements may also be offered as a cost offset for a local
+inclusionary zoning
+program. The requirements for these programs can then be used to determine income levels and other eligibility factors.
+When offered as a standalone benefit, however, cities, towns and counties will need to determine the affordability thresholds that are most likely to achieve community goals and satisfy local concerns.
+Provisions may vary for housing serving different types of populations. Seniors and people with disabilities, for example, often have lower vehicle-ownership rates than other household types. Parking requirements for affordable developments serving these populations could potentially be set at a lower level than requirements for affordable developments serving families with children.
+Cities, towns, and counties will also need to specify whether eligibility for reduced parking is available in all geographic areas within the jurisdiction or only in specified zones. Some cities, towns, and counties may wish to limit eligibility to mixed-use neighborhoods where amenities are easily accessible without a car and areas that have good access to public transit—based on proximity to train stations or bus stops, frequency of service at those stations and stops, and other factors determined in consultation with the local or regional department of transportation. Cities, towns, and counties may also wish to consider the availability of alternative modes of transportation, such as bike- or car-sharing stations or shuttle or paratransit service for senior residents and people with disabilities.
+Other considerations
+State-level policies
+Some states have passed legislation that reduces parking requirements for qualifying affordable developments. (California, for example, passed legislation to ease parking requirements for affordable housing for seniors, people with special needs, and low-income and very low-income people.) Local jurisdictions should be familiar with state-level policies before adopting their own reductions in parking requirements.
+Example
+The
+City of Los Angeles
+offers alternative parking ratios for 100 percent affordable rental developments and mixed-income developments in which at least 11 percent of units are affordable to very low-income households or 20 percent of units are affordable to low-income households. There are a variety of options depending on the type of housing to be built (e.g., senior, special needs) and the availability of alternative transportation options (e.g., public transit, paratransit service), with parking requirements reduced to as few as 0.3 spaces per unit for 100 percent affordable special needs developments that offer paratransit service or are located in close proximity to high-frequency fixed bus route service.
+Learn more about housing in LA’s housing ordinances and initiatives.
+Related resources
+Policy design and implementation
+Right Size Parking Model Code
+, King County Metro Transit (2013) – Presents a model parking code that includes adjustments for resident characteristics related to income level
+San Diego Affordable Housing Parking Study
+, City of San Diego (2011) – Describes links between affordable housing variables such as income levels, household age, and transit accessibility to enable the development of a regulatory framework for parking requirements. While specific to San Diego, the approach and methodology could help to inform efforts in other areas.
+Parking requirements and housing affordability
+Parking Requirement Impacts on Housing Affordability
+, Victoria Transport Policy Institute (2016) – Analysis of actual vehicle ownership rates and how current residential parking requirements impact housing affordability and lower-income households. Includes alternatives to current parking requirement models.
+The Trouble with Minimum Parking Requirements
+, The University of California Transportation Center (1999) – Describes cost impacts of minimum parking requirements and presents alternative solutions for regulating parking supply
+Searching for the Right Spot: Minimum Parking Requirements and Housing Affordability in New York City
+, NYU Furman Center (2012) – Examines how parking regulations affect developers’ decisions about what to build, explores the effect that the parking requirements may have on housing affordability, and highlights some options for reform.
+General resources
+Rethinking Residential Parking: Myths & Facts
+, Non-Profit Housing Association of Northern California – Debunks popular misconceptions about parking, such as “Affordable housing in particular needs more parking” and “People will own the same amount of cars regardless of transit services, neighborhood characteristics and amount of parking spaces.” Includes case studies from cities in California.
+See the related discussion to learn more about specific approaches.
+Cities, towns, and counties can also reduce parking requirements for ALL housing units, helping to lower development costs and increase the overall supply of units in the market. Access a description of this broader policy option:
+Zoning changes to facilitate the use of lower-cost housing types
+.

@@ -1,0 +1,85 @@
+Title: Missing middle housing
+Source: https://www.localhousingsolutions.org/housing-policy-library/missing-middle-housing/
+
+Historically, these housing types were more common. For example, many neighborhoods in older cities, like New York and Boston, are characterized by a collection of historic row homes. Today, these homes are “missing” from the housing stock in many jurisdictions due at least in part to the implementation of regulatory frameworks that emphasize either single-family development or larger multifamily development, with little allowance for housing types that fall in the middle of the spectrum. This brief discusses how localities can facilitate the development of missing middle housing by incorporating support for these housing types into the zoning code, removing regulatory barriers to construction, and building the capacity of smaller developers.
+Benefits of Missing Middle Housing
+Missing middle housing has a range of benefits for municipalities. Investing in missing middle housing can help increase the housing supply, create more affordable housing options, promote density and walkability, and create more diverse housing options for residents.
+Expanding the supply of affordable housing
+One of the primary benefits of constructing missing middle housing units is their affordability. Missing middle housing types are generally more affordable than single-family homes, largely because their smaller size means lower per-unit construction and land costs. Beyond the price points of the homes themselves, developing missing middle housing in place of single-family homes can help localities expand their overall housing supply – a critical strategy for alleviating price pressures across the housing market more broadly.
+Encouraging residential density & walkability
+Missing middle housing can help to gently increase residential density in existing single-family residential neighborhoods. Despite having multiple dwelling units, middle housing can be designed to be similar in scale and appearance to single-family homes, which may allay the concerns of neighbors worried about the impact of multifamily housing on neighborhood character. These housing types can be a valuable option for infill development, helping localities expand their housing supply without the need for additional infrastructure or further sprawl. Their small footprint and the range of possible configurations – such as stacked, side-by-side, or clustered units – mean that developers can take advantage of small or irregularly-shaped lots that would otherwise be vacant or underutilized. These housing types can be used to create additional residential density near jobs, transit hubs, or retail corridors, promoting more walkable neighborhoods.
+Meeting market demand
+For homeowners and renters, affordability is not the only benefit of missing middle housing. Missing middle units can provide an attractive option for seniors who want to downsize while staying in their community, or for first-time buyers who do not want to be responsible for the upkeep of a single-family home. These housing types are increasingly popular as the demand for
+walkable, mixed-use neighborhoods
+grows.
+Creating housing opportunities for diverse residents
+Missing middle housing can facilitate more economically- and racially-inclusive neighborhoods. In some cases, the movement towards single-family-only zoning was motivated by a desire to maintain patterns of
+residential segregation
+. Without a diversity of housing options at different price points, lower-income households, and especially people of color, were priced out of certain neighborhoods. Enabling missing middle housing types is one strategy for creating lower-priced homes. This can make it easier for households with low or moderate incomes to access resource-rich neighborhoods, and help localities meet their
+fair housing
+obligations.
+Approach
+Localities aiming to increase their stock of missing middle housing should consider taking a comprehensive approach to facilitate its development. While changes to the zoning code are an important starting point, there may be other barriers to constructing these housing types related to land use regulations, approval processes, and developer capacity. By engaging diverse stakeholders – such as developers, planners, and residents – localities can create a strategy that makes missing middle development both allowable and feasible.
+Updating zoning codes to allow missing middle housing
+The most immediate barrier to constructing missing middle housing is
+zoning
+– many localities’ zoning codes prohibit these housing types from being built, at least within certain neighborhoods. In many jurisdictions, residential areas are mainly or exclusively zoned for single-family homes. Even areas that have an existing stock of missing middle housing, may have implemented zoning codes that prohibit new construction of these housing types. The first step to facilitating missing middle housing is to update the zoning code to allow these housing types to be built.
+To achieve the goals of diverse and inclusive neighborhoods, and to distribute growth and development more evenly, missing middle housing (or at least certain forms of missing middle housing) would ideally be allowable throughout all residential zones. Lower-density housing types, like duplexes and triplexes, can easily be incorporated into single-family neighborhoods, including large-lot suburban districts. Missing middle housing types with somewhat greater density, like multiplexes with four or more units, can be a good fit for avenues that run through or connect residential neighborhoods as well as more urban areas where there are opportunities for infill development and connections to transit or commercial corridors.
+One approach to providing broad flexibility to develop missing middle housing is to shift from traditional zoning to
+form-based code
+s. Form-based codes regulate the physical design and footprint of new developments, rather than the residential density or number of units within them. Under a form-based code approach, the same lot could potentially accommodate a single-family home, a duplex, or a triplex, as long as the property aligns with the prescribed physical form for the area.
+Updating land use regulations to facilitate development
+Even if the zoning code technically allows for missing middle housing types,
+other regulations
+may make the development of multifamily properties practically or financially infeasible. For example, minimum per-unit lot area requirements and floor area ratio requirements can effectively limit the number of units that can be constructed on a given parcel. Minimum lot sizes and setback requirements can make it difficult to take advantage of existing lots for infill development.
+Parking requirements
+and open space requirements can add additional cost and take up valuable lot space. All of these regulations can effectively restrict the kinds of units that can be constructed in a given zone, even if missing middle housing types are otherwise permitted.
+A close review of these requirements can help localities determine if the requirements create unnecessary barriers to the construction of missing middle housing. Localities can test out their existing regulations by reviewing plans for missing middle units – such as older units that already exist in the locality, or examples from elsewhere – and analyzing whether they would be permissible under current regulations.
+Streamlining the development process
+Missing middle housing developments face many of the same regulatory barriers as other construction projects: high impact fees, cumbersome permitting processes, and lengthy timelines for approval. To facilitate the construction of missing middle housing types, it is thus important that localities consider
+strategies
+to
+streamline the development process
+. Localities can facilitate development by making certain housing types, like duplexes and triplexes, allowable by right in all residential zones. This approach eliminates the need for additional discretionary approvals, making the development process faster and more predictable for developers. Where additional review and approval is warranted – for example, for projects that would significantly increase residential density, or projects located in ecologically sensitive areas – localities can consider options for
+expediting the permitting process
+. Localities can also incentivize the development of missing middle housing by offering
+reduced impact fees
+for projects that meet specific criteria, such as projects that provide housing below a certain price point or infill projects near transit corridors.
+Building capacity of small-scale developers
+Because missing middle housing is less costly to construct than large multifamily projects, it can be developed by small-scale developers, including community development corporations, smaller minority- and women-owned contracting firms, and owner-occupants. However, these developers often have limited staff capacity, fewer resources, and less experience managing complex projects. Localities can consider strategies to support these smaller developers in taking on missing middle projects. This could include offering technical assistance from planning and permitting offices to help developers navigate the regulatory process; creating user-friendly guides and resources to help developers understand relevant requirements; and working with small business development agencies to connect developers with financing and additional training opportunities.
+Examples
+Zoning for missing middle housing
+In 2020,
+Minneapolis
+became the first large city in the country to
+eliminate single-family zoning
+. The Minneapolis 2040 Plan allows two- and three-unit developments to be constructed in every residential zone in the city, and allows for higher-density projects closer to the downtown core. This was made possible in part by a thorough public engagement process that included representation from residents, housing advocates, builders and developers, and business leaders. However, despite the successful implementation of this new zoning code, only three triplex permits were filed in 2020, highlighting the need for a more comprehensive strategy to promote missing middle housing. In the coming years, Minneapolis intends to enact additional strategies to create a regulatory environment that supports missing middle housing development.
+Form-based codes
+In 2017,
+Buffalo
+, NY implemented a city-wide form-based code known as the
+Buffalo Green Code
+, designed to promote walkable, mixed-use neighborhoods. While some areas are still zoned for single-family homes only, the code expands the range of housing types that are allowable by right in other residential and mixed-use zones to include stacked units, row homes, and carriage homes. These changes have helped facilitate infill development, a major goal of the City’s
+revitalization efforts
+. Notably, the new zoning code also eliminated
+minimum parking requirements
+, a major barrier to development.
+Land use regulations
+In 2019, the
+Oregon
+Legislature passed
+House Bill 2001
+, which aims to increase the diversity of housing options throughout the state. The bill directs municipalities to update their zoning codes to allow the development of missing middle housing in all residential areas; small cities are required to allow duplexes, while larger cities must allow up to fourplexes. However, the bill also emphasizes the need to create land use regulations that align with the goals of creating more missing middle housing. The bill directed the state to create minimum standards for land use requirements, as well as a model code that municipalities can adopt to ensure that their land use regulations adequately support the development of missing middle housing.
+Technical assistance & guidance
+In 2008, the City of
+Portland
+published an
+Infill Design Toolkit
+that provides guidance to developers, designers, and residents interested in developing missing middle housing types on infill parcels. The toolkit includes an overview of best practices and principles to guide design decisions, as well as models of different housing types that meet the city’s land use guidelines and profiles of previously approved projects. Developers and designers can use the toolkit as a starting point for drafting plans that are appropriate for different infill situations.
+Resources
+Missing Middle Housing
+: This website provides a variety of resources for planners and policymakers about strategies to create missing middle housing. It provides an overview of different missing middle housing types, template designs, and profiles of successful initiatives in the US and internationally.
+Incremental Development Alliance
+: The Incremental Development Alliance partners with local governments, foundations, and economic development agencies to provide technical assistance and training related to missing middle housing development. The organization hosts workshops and “bootcamps” for small-scale developers who are interested in building missing middle housing types.
+Master Builders Association of King & Snohomish Counties Housing Toolkit
+: This guide from a local homebuilder’s association provides an overview of potential strategies to facilitate development of diverse housing types, including missing middle housing. The guide includes recommendations for code updates, process improvements, and incentive structures that municipalities can implement to support additional development.

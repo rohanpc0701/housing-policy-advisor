@@ -1,0 +1,43 @@
+Title: Protection from condo conversions
+Source: https://www.localhousingsolutions.org/housing-policy-library/protection-from-condo-conversions/
+
+Protections can include requiring approval of a majority of residents for a conversion; providing for a long notice period before a conversion or sale; giving tenants (or the jurisdiction itself) a right to purchase units before they can be offered to outside buyers; relocation assistance paid by the landlord for tenants forced to move because of a conversion; and/or giving tenants a right to remain as a renter or renew a tenancy following a sale.
+Approach
+To ensure that existing tenants are not left without recourse if their landlord decides to sell or convert their rental unit, a number of jurisdictions provide protections for tenants in these scenarios. These protections can include:
+The right to relocation assistance paid to the tenant by the landlord if a tenant is forced to move because of a sale or conversion;
+The right to buy the unit or building, if a landlord plans to sell it (i.e., a right of first refusal);
+The right to stay in the unit after a sale;
+The requirement that a majority of tenants must approve any conversion plan; and
+The provision of notice, providing tenants with advance warning of displacement so that tenants have time to find other housing.
+These requirements help the existing tenants remain in place or assist them with relocation. At the same time, these requirements make it less attractive for an owner to displace tenants through condo conversion. In addition to the costs of relocation assistance, these requirements impose administrative burdens that slow whatever process the owner wants to take, thus making it potentially more costly to undertake. These added costs can also have the effect of reducing investment in existing rental buildings or in the construction of new rental buildings.
+Coverage
+Tenant protections in the case of conversion or sale sometimes apply to all rental buildings in a jurisdiction, and in other cases apply only to buildings governed by rent regulation. Jurisdictions are free to determine which buildings are covered, and may choose to define the coverage differently.
+Eligibility
+Protections from conversion and sale of a rental unit(s) typically apply to any tenant legally living in the unit(s) of a covered building. Relocation assistance is, in some cases, limited to tenants who fall below a set income threshold.
+Other considerations
+Making the right to purchase meaningful
+To make the right to purchase a building when a landlord wants to sell meaningful, it may be necessary for a locality to also provide technical support (e.g., legal assistance) and possibly financial support (e.g., housing subsidy support) for groups of tenants interested in purchasing the building from their landlord. Purchasing and planning for the operation of a multifamily residential building requires expertise, and financial support, that tenants will not necessarily possess. In some jurisdictions, non-profit housing development organizations work closely with tenants in covered buildings to help them exercise their purchase rights.
+Market considerations
+In localities with soft or softening markets or localities with a significant supply of rental buildings in need of reinvestment, condo conversions may be a useful tool in stabilizing market conditions. As some tenant protections may make it less attractive for an owner to embark on the conversion process, localities should consider matching restrictions carefully with market considerations and consider outreach with both tenant and owner communities regarding the best way to promote housing stability and building investment.
+Examples
+Washington, D.C.
+has a Tenant Bill of Rights, which summarizes a range of local laws that apply to all tenants in the jurisdiction (except for rent control, which only applies to a subset of units). The Bill of Rights describes many tenant protections. Addressing the sale and conversion of rental units, it explains that tenants must be provided the opportunity to purchase the unit or building prior to sale, demolition, or discontinuation of the unit as housing; a majority of tenants must vote in favor of conversion to condo or cooperative before the conversion can take place; and, finally, tenants may have the right to relocation assistance if they are displaced by “alteration or renovations, substantial rehabilitation, demolition, or the discontinuance of the housing use.” District of Columbia Office of the Tenant Advocates,
+District of Columbia Tenant Bill of Rights
+, July 3, 2015.
+Seattle, WA
+has a Tenant Relocation Assistance Ordinance that requires that, before owners evict tenants in order to engage in “redevelopment activity,” they must acquire a “tenant relocation license” and a “building or use permit.” The law also requires that tenants be given 90-day notice before they have to move, and tenants meeting income-based eligibility requirements are eligible for relocation assistance. Seattle also has a Condominium and Cooperative Conversion Ordinance, which requires a housing code inspection for any building being converted; gives tenants the right to buy their units; requires that tenants be provided 120-day notice of the conversion; and requires, for tenants who are forced to move and are below a set income threshold, that landlords pay relocation assistance. Seattle Department of Construction & Inspections,
+Seattle Permits
+, May 2020.
+New York State
+law requires that an owner seeking to demolish a rent-regulated building must first apply to the state housing agency, and tenants are eligible to receive relocation assistance if the agency grants permission to demolish. New York State Division of Housing and Community Renewal,
+Fact Sheet: #11 Demolition
+, October 2012.
+Related resources
+The City of Chicago requires that an owner mail all building occupants a notice of condo conversion notifying them of their rights, which include the right to notice, the right to lease extensions, the right to relocation assistance, and the right to purchase condo unit. City of Chicago,
+Notice of Condo Conversion and Your Rights as a Tenant.
+This paper analyzes Washington D.C.’s First Right Purchase Program, which provides low-cost loans to tenants looking to take advantage of D.C.’s Tenant Opportunity to Purchase Act which gives tenants a right of first refusal to buy their building when their landlord puts it up for sale. Jenny Reed,
+DC’s First Right Purchase Program Helps to Preserve Affordable Housing and Is One of DC’s Key Anti-Displacement Tools
+, September 24, 2013.
+This paper describes a number of local policies aimed at preserving affordable housing and preventing tenant displacement as neighborhoods gentrify, including protections from condo conversions and sales. Jessica Yager, Luke Herrine, and Nadia Mian.
+Gentrification Response: A Survey of Strategies to Maintain Neighborhood Economic Diversity
+, NYU Furman Center, October 2016.

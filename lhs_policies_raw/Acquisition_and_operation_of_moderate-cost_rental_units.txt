@@ -1,0 +1,84 @@
+Title: Acquisition and operation of moderate-cost rental units
+Source: https://www.localhousingsolutions.org/housing-policy-library/acquisition-and-operation-of-moderate-cost-rental-units/
+
+The buildings may be no-frills, but when maintained in adequate physical condition, they offer an important source of affordable housing for many low- and moderate-income households. Among other households that live in these types of affordable rental properties are those who earn too much to qualify for federal rental assistance programs, cannot find an available subsidized unit, or do not to live in subsidized housing because of personal preference or other concerns (e.g. related to immigration status).
+Especially in gentrifying areas, this type of unsubsidized but affordable rental housing is at risk of loss. As market conditions change and neighborhoods become more popular, owners that are not subject to any affordability requirements are free to increase rents or convert developments to condos, resulting in the displacement of lower-income households. In
+soft housing markets
+, these buildings may be at risk for neglect if surrounding conditions decline. To prevent the loss of affordable housing, some city agencies support non-profit partners and/or the local
+public housing
+agency in acquiring rental developments and continuing to operate them as lower-cost, unsubsidized rentals. Acquisition costs may be covered using a variety of tools, including municipal
+bond
+proceeds, philanthropic donations, and private investment, among others.
+While acquisition and operation of moderate-cost rental units is feasible in high-cost markets, this type of policy is best-suited to markets or neighborhoods that are not at the very top of the cost spectrum. This section discusses key considerations for cities, towns and counties seeking to preserve unsubsidized affordable rental housing.
+Approach
+In many cases, some level of subsidy will be needed to support the purchase of an unsubsidized rental property for ongoing operation as an affordable development. This amount covers the differential between the sales prices that the owner of the property is willing to accept and the amount the buyer can afford to pay, given the future affordability restrictions. Since these properties will generally rent at a higher level than most other dedicated affordable housing properties, they can support more debt and therefore often require less subsidy to make the transaction work. Nevertheless, communities seeking to preserve unsubsidized affordable rental housing will first need to determine whether an acquisition is worthwhile in terms of the subsidy needed to make a competitive offer. In especially high-cost markets, limited public resources may be more effectively used to subsidize new development or preserve existing dedicated affordable housing. However, cities may place a high priority on developments in particular neighborhoods, buildings that need only superficial repairs or rehab, or deals that represent an opportunity to prevent displacement of a large number of residents.
+Cities and counties typically work with local partners who acquire and continue to operate the housing as affordable. While these partners can be nonprofit or community-based organizations, in many jurisdictions collaboration with an interested and motivated public housing agency (PHA) may work especially well. In larger communities, strong PHAs may have the balance sheet and flexibility to go after properties at a large scale, especially if they are
+Moving to Work
+sites, as well as the staff and infrastructure to monitor ongoing affordability. Some communities work directly with nonprofit partners or PHAs by providing a grant or
+forgivable loan
+from the housing department or state or local housing finance agency. Some communities provide low- or no-interest acquisition loans. By reducing the amount and/or cost of the debt required to purchase a qualifying property, public financing and grant assistance help partner organizations keep rent levels affordable to moderate-income households.
+Communities may also consider broadening their investment strategies to help achieve preservation goals.For instance, a locality could modify its investment policy to allow investment in mortgage-backed securities issued by Freddie Mac where the underlying mortgages are for local buildings with unsubsidized affordable housing. The locality’s investment helps to keep financing costs low for owners of the properties. To protect public funds, cities and counties interested in this approach should require prudent underwriting criteria and a federal guarantee on the loans, and consider limiting the share of the jurisdiction’s investment portfolio that is allocated to this type of investment.
+Whatever approach is taken, the community will need to identify a source of funding to acquire properties or support their acquisition. Potential sources include bonds proceeds, TIF revenue, awards from a local housing trust fund, or
+appropriations
+of other public funds—each of which provides a different level of support that impacts the level of affordability that can be achieved. Localities will also need to consider their on-going relationship with the acquiring entity and the potential need for ongoing
+operating subsidies
+, the potential value of future tax incentives or assistance to support on going building maintenance, and the regulation of units as vacancies arise.
+Some entities such as the HPN Equity Trust, are also working to attract investment from market investors for the acquisition of properties their partners will maintain as affordable to moderate-income households. Communities will also need to determine eligibility criteria for the properties to be targeted, as well as requirements for how long they must remain affordable. See related brief,
+Determining the duration of required affordability for dedicated affordable housing
+.
+Short of supporting the acquisition and operation of unsubsidized affordable rentals, communities can take
+other steps to ensure their ongoing viability
+, such as providing tax incentives for maintenance and rehabilitation and training and education for property owners, or providing new operating subsidies.
+Eligibility
+Communities interested in supporting the preservation of unsubsidized affordable rentals will need to establish criteria for the type(s) of properties to be targeted for preservation. In addition to considering current asking rents or other measures of affordability, cities and counties may choose to prioritize purchases in neighborhoods undergoing or vulnerable to gentrification, as affordability is likely to be lost in these areas without some form of public intervention. While challenging, the use of data and analytics to predict increased property values can improve cities’ chances of getting ahead of the tide of gentrification.
+Communities may also want to look at the characteristics of the properties themselves, including their physical condition, available amenities and design characteristics, and rental history. Buildings that have maintained high occupancy levels and are in good structural condition (or in need of relatively minor renovations) will likely be better candidates for acquisition and continued operation as moderate-income rentals than those with severe structural deficits that would require major investment to remain safe for habitation. Staff who have knowledge about trends in the quality of construction at different points in time, and for different property types, will be valuable assets for jurisdictions interested in pursuing this strategy. The qualifications of property owners or purchasers also warrant attention, with eligibility reserved for those who have a demonstrated track record of strong performance operating rental housing.
+Local officials can review housing needs data and demographic projections to determine where the need for low-cost housing is greatest and likely to grow in the coming years, and tailor criteria to address these dynamics. To promote transparency for potential partners and enable the community to act quickly when moderate-cost rentals are available for purchase, these criteria should be clearly articulated in program guidelines.
+Other considerations
+Monitoring and oversight
+Cities and counties that support the acquisition of moderate-cost rental properties will need to determine how they will ensure compliance with affordability requirements at participating properties. Just as federal rent subsidy programs often come with significant reporting requirements, cities and counties should consider whether the use of similar requirements with owners of unsubsidized affordable housing is appropriate. Periodic self-reporting of rent levels may be sufficient to ensure the program is achieving policy goals without deterring potential participants but it pays to verify if only randomly.
+Examples
+In addition to 3,500 units of subsidized housing, the
+King County Housing Authority
+(KCHA) portfolio includes more than 2,000 units of moderate-income rental housing affordable to individuals and families who earn less than the
+area median income
+but more than the income limits for subsidy programs. These properties are financed with tax credits and/or tax-exempt bonds and are managed by private companies.
+Residents contact property management offices to apply
+(rather than going through a waiting list or subsidized housing application) and pay flat rents that are not based on their incomes.
+The Naturally Occurring Affordable Housing (NOAH) Impact Fund aims to preserve unsubsidized affordable housing
+for low- and moderate-income households in the
+Minneapolis-St. Paul metropolitan area
+by connecting developers and owner-operators with socially motivated investors. Created by nonprofit developer the Greater Minnesota Housing Fund, the Fund will provide low-cost financing for the acquisition and preservation of unsubsidized units located near schools, services, employment centers, and public transportation. Investors put up 90 percent of the equity and receive full repayment in ten years. Operating partners contribute 10 percent of the equity and agree to maintain affordability for at least 15 years. The Fund, which launched in June 2017,
+completed its first transaction
+in October 2017 with a preservation deal that will maintain affordability for more than 750 apartments. Minnesota Housing Finance Agency and Hennepin County have helped to capitalize the fund, alongside private banks and foundations.
+The
+San Francisco
+Small Sites Program (SSP) provides low-cost second mortgages to support the acquisition of 5- to 25-unit buildings with rents affordable to low- and moderate-income tenants. Eligibility for the program is limited to buildings in which residents are at imminent risk of displacement due to eviction and/or rising rents. At closing, the average household income of two-thirds of affected households may not exceed 80 percent of the area median income (AMI), and SSP buildings must maintain average rents affordable to households at 80 percent AMI over the loan term. Financing from the city is available in amounts up to $350,000 per unit, depending on the building size, for a 30-year loan at a 3 percent interest rate.
+The Small Sites Program
+launched in July 2014 and as of January 2017 had helped to preserve the affordability of 78 units in 13 buildings. The program is funded with proceeds from the city’s Housing Trust Fund and affordable housing
+impact fee
+revenue. The Mayor’s Office of Housing & Community Development provides
+more details on reserves, allowable rent increases, and affordability levels
+.
+Minneapolis, MN
+updated its investment policy in 2016 to allow investment in mortgage-backed securities issued by Freddie Mac where the underlying mortgages are for local buildings with unsubsidized affordable housing.
+Read the details of this city’s investment policy
+.
+Related resources
+Trends
+The State of the Nation’s Housing, Joint Center for Housing Studies of Harvard University
+(2017) – This annual report describes the characteristics of the housing market overall, and includes discussion of trends in the rental housing market and the ongoing loss of unsubsidized low-cost rentals.
+Naturally Occurring Affordable Housing
+, Costar (October 2016) – This presentation provides insights on the existing inventory of unsubsidized affordable rental housing, with extensive data on building features and amenities, rent levels, and location.
+Preserving Affordable Rental Housing: A Snapshot of Growing Need, Current Threats, and Innovative Solutions
+, U.S. Department of Housing and Urban Development (2013) – This article in HUD’s
+Evidence Matters
+publication highlights challenges to the preservation of subsidized and unsubsidized affordable housing, as well as steps that federal, state, and local governments are taking to preserve the existing supply.
+Program design
+The Preservation Compact and the Institute for Housing Studies at DePaul University have compiled
+research and resources on Naturally Occurring Affordable Housing (NOAH) preservation strategies
+that address the unique challenges of stock, owners and markets.
+The Space Between: Realities and Possibilities in Preserving Unsubsidized Affordable Rental Housing
+, Minnesota Preservation Plus Initiative (June 2013) – Developed to inform preservation efforts in Minnesota, this report offers recommendations that are likely to be useful in other jurisdictions as well. Recommendations include the use of public financing to support acquisition, and include a broad array of possible tools ranging from modest to systemic interventions.
+Local example
+Jody Apartments
+, Urban Land Conservancy – This webpage provides details about the Jody Apartments, a Denver-area rental property acquired by the Urban Land Conservancy (ULC) in partnership with NEWSED. The 62-unit property is located adjacent to a light rail station, and 52 of the units will be maintained as permanently affordable housing, with 12 committed to households earning at or below 30 percent of area median income.

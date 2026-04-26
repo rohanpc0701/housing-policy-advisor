@@ -1,0 +1,70 @@
+Title: Housing choice vouchers
+Source: https://www.localhousingsolutions.org/housing-policy-library/housing-choice-vouchers/
+
+Administered by HUD and managed at the local level by
+public housing
+agencies (PHAs), it is the largest HUD rental assistance program. Participating households are responsible for finding a rental unit that meets program standards and has an owner who has agreed to accept the voucher. The household then contributes a share of its income (approximately 30 percent) towards rent and utilities while the PHA pays the balance due directly to the landlord, up to a locally determined maximum based on HUD’s established Fair Market Rents. Income guidelines and other broad eligibility criteria for the voucher program are established by federal rules; however, PHAs have some discretion to use the program creatively to address local needs and policy goals, such as ending homelessness or improving access to
+resource-rich
+neighborhoods.
+Approach
+While the Housing Choice Voucher (HCV) program is subject to a wide range of federal regulations, there are many areas of discretion available to PHAs that can affect the value of the vouchers and how they are used. These include decisions about (a) the maximum rental subsidy to pay in different neighborhoods, (b) the order in which families will be admitted into the program, (c) whether any vouchers will be attached to specific structures, and if so what share, and (d) whether vouchers can be used for homeownership. PHAs can also decide whether to provide additional assistance (either alone or in partnership with other entities) to help families access resource-rich areas.
+Under the HCV program, participating households pay approximately 30 percent of their monthly income each month for rent and utilities, while the PHA pays the balance, up to a maximum known as the voucher payment standard. HCV holders may choose to spend more to lease units with rents above the payment standard, spending up to 40 percent of their income at initial occupancy. The PHA is responsible for setting payment standards for each bedroom size, based on the fair market rent (FMR) for the surrounding area or the Zip Code (for PHAs choosing to use Small Area FMRs). PHAs generally have the choice of whether to establish a single set of payment standards for the entire jurisdiction or to use different sets of payment standards in different geographical areas. The latter approach adds complexity to program administration but can help participants access homes in a wider range of neighborhoods by ensuring that the payment standards are tailored to neighborhood rent levels. Units rented with HCVs are also subject to reviews to determine the reasonableness of the rent, based on rent levels of other similar units, and are required to meet housing quality standards set by HUD.
+Among other benefits, households participating in the HCV program have a greater choice of units than in a traditional brick and mortar subsidy program and the flexibility to select units in higher-cost neighborhoods that offer more amenities and services. This flexibility is enhanced when a PHA chooses to set payment standards based on Small Area FMRs, which allow for higher payment standards in high-rent areas.
+Ordinarily, HCVs are used by participating households to help pay for the rent of rental units they locate themselves – a format known as tenant-based rental assistance. However, PHAs have the discretion to attach (project-base) up to 30 percent of their HCVs to specific structures, turning the vouchers into
+project-based rental assistance
+. (PHAs can project-base up to 20 percent of their vouchers for any purpose, and can project-base up to an additional 10 percent to serve target populations, including people experiencing homelessness, veterans, families, or for supportive housing for people with disabilities.) PHAs also have the discretion to allow vouchers to be used to cover the costs of mortgage payments, rather than rent, a format known as
+Section 8
+homeownership. (The HCV program was formerly known as the Section 8 voucher program.)
+Eligibility
+Both the family and the unit need to meet program requirements in order for a tenant to rent a unit using a HCV.
+All households participating in the HCV program must have a household income that is at or below 80 percent of the
+area median income
+published annually by HUD for the metropolitan area or nonmetropolitan county. In addition, 75 percent of the HCVs newly awarded each year must go to extremely low-income households with incomes no greater than 30 percent of the area median income. PHAs determine eligibility based on the income limits for their locality published by HUD. Recipients must also be US citizens or have an immigration status in one of several specified categories. PHAs collect income and other information in order to qualify families for the HCV program. Families are subject to reexaminations to confirm continued eligibility, typically every year.
+PHAs have discretion about whether or not to keep an open waiting list and whether to order the waiting list by date of application, by lottery, or based on one or more admissions preferences established by the PHA based on local priorities. For example, a PHA may give preference to applicants for HCVs who are experiencing homelessness or paying more than 50 percent of their income to rent. Applicants that meet these criteria move ahead of other applicants on the waiting list. While some PHAs generally maintain an open waiting list, others keep it closed most of the time and periodically open it for a short period, using a lottery to select which applicants to put on the list. Some of the PHAs that generally keep a closed waiting list for general applicants will allow applicants meeting certain high-priority preference categories (for example, victims of domestic violence) to apply at all times.
+Family composition determines the type and size of the unit a family can rent with their voucher, based on occupancy standards set by the PHA. For example, a single mother with one school age child may qualify for a 2-bedroom unit voucher. The PHA inspects the unit and determines if the size is appropriate for the family. PHAs also inspect the unit at occupancy to ensure it meets basic health and safety standards. Typically PHAs re-inspect HCV units every year. Inspectors look at safety features, such as smoke detectors, as well as sanitary conditions, for example for evidence of rodents. Finally, the PHA is responsible for determining the reasonableness of the rent being charged by the landlord for the specific unit by comparing the rent to that of other similar units.
+After determining that the unit is the appropriate size, of reasonable quality, and carries a reasonable rent, the tenant can move in and use the HCV to cover a portion of the rent.
+Tenants can move and continue to use their voucher, as long as the new unit meets the criteria described above. HCVs are portable between localities that operate HCV programs. The “receiving” PHA that has jurisdiction in the area where the new unit is located administers assistance following the move.
+Partnerships between PHAs and cities, towns, and counties
+As noted above, PHAs have substantial discretion to adjust how the HCV program operates to meet local needs. The PHA’s decisions are set forth in documents known as the PHA Plan and the Section 8 Administrative Plan.
+While PHAs are generally administratively distinct from cities, towns, and counties, and thus not under the control of the housing department, there are many ways that cities, towns, and counties can work with PHAs to strengthen the community’s ability to meet its housing goals. By working closely with the PHA to develop coordinated policies, cities, towns, and counties can encourage the priority use of HCVs in service of shared goals.  For example, where preventing or ending homelessness is a community goal, the PHA may give preference on the voucher waiting list to individuals experiencing homelessness. Often, this preferential status is paired with search or other assistance provided b y the city or local Continuum of Care, resulting in the coordinated delivery of services that increases the likelihood of successful outcomes.
+Communities can also encourage access to resource-rich areas through the administration of a HCV program. For example, local housing department staff can work with the PHA to facilitate the development of dedicated affordable housing in resource-rich areas by combining HOME or CDBG funding from the city, project-based vouchers, and
+Low Income Housing Tax Credits
+.
+Project-basing vouchers
+provides deeper affordability that makes these units accessible to extremely low-income families.
+As noted above, PHAs also have discretion to vary payment standards, which can be helpful for increasing the housing choices of participating households in resource-rich areas. Here, too, there is a possibility for collaboration between the PHA and the local political jurisdiction. The PHA can allow for
+increased voucher payment standards in high-cost areas
+. Among other options, they can request permission from HUD to set exception payment standards above 110 percent of the metro-wide Fair Market Rent, or establish exception payment standards up to 110 percent of the applicable Small Area Fair Market Rent (SAFMR). SAFMRs are set by HUD at the Zip Code level, rather than on a metro-wide basis, meaning that they more accurately reflect actual rents in specific parts of town, including high-cost neighborhoods. Use of exception payment standards based on SAFMRs can increase options for voucher recipients in these neighborhoods, which often have schools with high proficiency rates or other desirable amenities and services. To help realize the potential inherent in higher payment standards for participating households to access resource-rich areas, the city, town or county could fund
+mobility counseling and security deposit assistance to help voucher holders
+afford to rent units in resource-rich areas.
+Because each PHA allocates a fixed amount of assistance through the voucher program each year, increasing payment standards in one area without lowering them in other areas may mean that fewer households can be helped, at least in the initial year. However, as PHAs’ subsidy costs rise, their subsidy from HUD also generally rises over time. PHAs will need to weigh this and other trade-offs to determine the approach that works best to achieve their goals. Smaller localities or localities in a region with significant market variation may benefit from coordination with each other and the PHA in order to meet local and regional affordable housing needs.
+PHAs and local housing department staff can also partner to conduct
+outreach to recruit and retain landlords
+who agree to accept vouchers, particularly those with units in resource-rich areas. PHAs may also dedicate staff or offer financial incentives to encourage good relations with landlords.
+In some jurisdictions, landlords have no legal obligation to accept housing choice vouchers, and may refuse to rent to households that participate in the program. Local jurisdictions can pass
+source of income laws
+(or lobby for such laws at the state level) that require landlords to rent to all eligible tenants, regardless of their source of income. This protection can help to expand the housing choices available to voucher holders, especially in resource-rich neighborhoods.
+Example
+In Washington State, the
+King County Housing Authority
+(KCHA) provides housing choice vouchers for more than 11,000 households. One-quarter of KCHA’s vouchers are set aside for people with special needs who are referred to the program by partner agencies, including families experiencing homelessness, victims of domestic violence, and people with a terminal illness. Other applicants are selected to be added to KCHA’s voucher waitlist every two to three years via a random lottery drawing. In December 2017, using its flexibility under the Moving to Work demonstration, KCHA began using a tiered payment standard system to increase voucher holders’ access to high-cost areas and ensure subsidy amounts accurately reflect market rental rates. KCHA categorizes Zip Codes into one of six tiers, within which the payment standard for a one-bedroom rental ranges from $1,085 in the lowest-cost areas to $1,760 in the highest-cost areas. For more details, visit
+https://www.kcha.org/housing/vouchers/
+.
+Related resources
+Housing Choice Vouchers Factsheet
+, HUD – provides an overview of the program and answers to common questions. The complete regulations governing the program area available here (
+24 CFR Part 982
+)
+Details of the HCV program are laid out in the
+Housing Choice Voucher Guidebook
+published by HUD. Some key sections of the Guidebook include:
+Chapter 4: Waiting List and Tenant Selection: This section provides details on opening, closing and managing a HCV waitlist. It also includes information about establishing and employing local preference criteria in allocating vouchers.
+Chapter 5: Eligibility and Denial of Assistance: This section outlines requirements for families in the HCV program.
+Chapter 7: Payment Standards: This section provides a detailed description of procedures for setting payment standard amounts and the circumstances under which exceptions may be requested.
+Chapter 9: Rent Reasonableness and Chapter 10: Housing Quality Standards: These chapters outline the standards for rent and housing quality that PHAs inspect prior to accepting a unit for a HCV.
+Read a literature review on locational outcomes of voucher recipients
+arguing that neighborhoods are critically important in housing.
+Review a selection of research studies evaluating the HCV program
+.
+Housing Mobility Program in the U.S. 2020,
+PRRAC – provides a detailed list of the housing mobility programs, and their respective housing contexts, in the United States.

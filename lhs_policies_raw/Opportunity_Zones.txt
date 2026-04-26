@@ -1,0 +1,120 @@
+Title: Opportunity Zones
+Source: https://www.localhousingsolutions.org/housing-policy-library/opportunity-zones/
+
+The Opportunity Zone Program aims to promote private investment in real estate and businesses in low-income communities. Established by the 2017 Tax Cuts and Jobs Act and recently made permanent by the
+One Big Beautiful Bill Act (OBBBA)
+, the
+Opportunity Zone Program
+offers federal tax incentives for capital gains to taxpayers who invest in Qualified Opportunity Zones. These zones are typically low-income or high-poverty census tracts. Investments in these zones are made through privately managed funds, known as Qualified Opportunity Funds. As of 2022, total investment in
+Opportunity Zones
+totaled $89 billion. Of this amount, 75 percent was invested in real estate, and roughly 90 percent was directed to urban areas. Qualified Opportunity Zones are designated after being selected by a state’s governor and certified by the U.S. Secretary of the Treasury. Changes to the program introduced by the OBBBA require that all designated Opportunity Zones undergo re-designation every 10 years to retain their status, with the first re-designation process set to begin on July 1, 2026.
+Eligibility
+Under the original program, tracts eligible for Qualified Opportunity Zone designation had to meet certain criteria. Specifically, they needed to have a poverty rate of at least 20 percent or a median income below 80 percent of the statewide or metropolitan area median income, whichever was greater, based on data from the 2011-2015 U.S. Census. States could also designate up to five percent of their Qualified Opportunity Zones from adjacent tracts that were otherwise ineligible, as long as the contiguous tract’s median family income did not exceed 125 percent of the eligible tract’s income.
+Each state’s governor then selected up to 25 percent of eligible tracts in their state, after which the Secretary of the Treasury would certify and designate tracts as Qualified Opportunity Zones.
+Of the
+73,056 total census tracts nationwide
+, 7,826 were designated Qualified Opportunity Zones, and another 33,392 were eligible but not designated. Of the designated tracts, the vast majority–7,657 tracts–were classified as low-income. The remaining 169 tracts were contiguous to eligible low-income tracts and had a median family income below 125 percent of the median income of those low-income tracts. This number was significantly less than the allowable five percent.
+To address the criticism that much of the investment flowed to a small subset of wealthier urban tracts, the program was reformed in 2025 so that only lower-income tracts meeting tighter eligibility requirements could be designated in the future. In the re-designation process effective January 1, 2027, the program will no longer allow the inclusion of contiguous tracts. In addition, under the OBBA rules, tracts will only be eligible for designation if 1) the median family income is below 70 percent of the statewide or metropolitan median income, or 2) the tract has a poverty rate of at least 20 percent, but its median family income does not exceed 125 percent of the state or metropolitan median family income.
+Qualified Opportunity Funds must invest at least 90 percent of their total assets into businesses or real estate within those zones. For a real estate investment to qualify,  the fund must have purchased the property after December 31, 2017, and made “substantial improvements” to it or changed its use. To meet the substantial improvement test, the fund must invest at least 100 percent of a property’s value over a 30-month window beginning with acquisition.
+These requirements typically steer investments toward large-scale rehabilitation or new construction projects that are already well-capitalized and shovel-ready.
+Approach
+Under the Opportunity Zone Program, investors can defer paying federal capital gains taxes by investing gains into Qualified Opportunity Funds within 180 days of realizing those gains. Currently, the program provides three key tax benefits. The longer an investor keeps their funds in a Qualified Opportunity Fund, the greater the reduction in taxes on existing capital gains.
+Opportunity Zone Program capital gains tax reductions:
+Deferral of gain:
+Under current regulations, if realized capital gains are invested in a Qualified Opportunity Fund, the taxes due on those gains are deferred until the investment is sold or exchanged or until December 31, 2026, whichever is earlier. The OBBBA changed this by eliminating a set deferral date and instead says taxes on those gains are deferred until the investment is sold or exchanged, or five years after the investment is made, whichever comes first.
+Step-up of Opportunity Zone investments’ basis:
+Starting January 1, 2027, all investments made thereafter will receive the existing 10 percent basis step-up after a five-year period. However, the additional basis step-up to 15 percent at the seven-year mark, currently in place, will be eliminated. A step-up in basis allows Qualified Opportunity Fund investors to reduce their capital gains tax when they sell their investment in the fund.
+Exclusion of Opportunity Zone investments’ gain:
+Under the OBBBA, for investments made through Qualified Opportunity Funds that are sold after 10 years but before 30 years, the step-up in basis will align with the fair market value of the investment on the date it is sold. For example, if the initial gain was $2 million, and that amount was invested in a qualified property, which is then sold at a value of $5 million after 10 years, the $3 million in gains will not be taxed. Rather, the basis of the investment steps up to $5 million. For investments made after the 30-year period, the step-up in basis will always reflect the fair market value at the end of that 30 years.
+The geography of Opportunity Zone investment
+The
+Urban Institute
+reported that 93 percent of all Opportunity Zone investment has gone to metropolitan areas. To direct more capital towards rural areas, the OBBBA introduced the Qualified Rural Opportunity Fund, which offers its own more favorable tax incentives.
+Qualified Rural Opportunity Funds must invest a minimum of 90 percent of their assets in rural Opportunity Zones, defined as areas outside of cities and towns with populations under 50,000. To attract rural investment, the bill tripled the standard fund step-up benefit, effective at five years, from 10 percent to 30 percent. It also loosened the existing substantial improvement requirement. While standard Qualified Opportunity Funds must invest at least double the property’s basis within 30 months, Qualified Rural Opportunity Funds are only required to improve the property by 50 percent of its initial basis within the same timeframe. These changes look to make rural projects more attractive even in places where capital gains benefits are less lucrative, since property values and gains are often lower in rural areas than in urban areas.
+Research on the impact of the Opportunity Zone Program
+The Opportunity Zone Program has drawn both support and criticism, but it is important to note that it was not originally intended to be a housing-focused policy. Instead, it was designed to direct capital to distressed communities. Research on the general economic development impact of the program is mixed: investors have often focused their investments in Opportunity Zones with
+expensive real estate markets
+,
+higher incomes
+,
+lower levels of unemployment
+,
+and a larger share of college graduates. Also, Opportunity Zone investments have frequently flowed into tracts with higher pre-existing levels of investment and areas with high population growth that were likely to attract development even
+without the tax incentive
+.
+While the program has led to real estate investments, its impact on housing supply and affordability is also mixed. Early studies show
+minimal effects on housing prices and residential permitting
+, and
+comparisons with the Low-Income Housing Tax Credit (LIHTC) program
+, have found no difference in the number of completed projects by investment or housing production. However, slight
+increases in development and property values
+have resulted in areas with more available land, lower housing costs, and in markets that are elastic or able to respond to demand. Evidence also suggests that past Opportunity Zone investments have concentrated in higher-income areas with
+strong housing markets
+due to the flexibility of the program’s existing rules, which allow for qualified investment in
+tracts that meet the 20 percent poverty rate benchmark but also
+have a substantial population of high-income households.
+The NYU Furman Center’s
+2024 State of the City report
+detailed mixed findings on the impact of the Opportunity Zone Program. While designated Opportunity Zones in New York City experienced increased development and a higher rate of completed residential units since the program began, this growth has been uneven and disproportionately concentrated in tracts more likely to offer investors higher returns—including the contiguous tracts and the highest-income eligible tracts. Notably, most new development within Opportunity Zones occurred in tracts that were also upzoned in the past 15 years, suggesting other factors like changes to zoning and state tax incentives likely played a greater role in incentivizing this development than the Opportunity Zone program itself. Furthermore, new units in the program were more likely to be market-rate than those in eligible but undesignated tracts, indicating a limited correlation between Opportunity Zone designation and increased affordable housing production. These outcomes reflect the program’s design, which relies on capital gains-related tax benefits.
+In a 2025 paper titled
+The Targeting of Place-Based Policies: The New Markets Tax Credit Versus Opportunity Zones
+, researchers reported similar findings. Analyzing tax filings through 2022, they found that Opportunity Zone investments nationwide were concentrated in urban census tracts with rising populations and home values. These tracts were often situated within counties and areas of the country already experiencing strong economic growth.
+Policy implications
+As Opportunity Zones are redesignated, there are opportunities to ensure that the new designations align with land use and housing policy to ensure the program targets and incentivizes housing investment in low-income communities more effectively. The Furman Center’s 2024 State of the City report offers a set of recommendations for improving tract designation and for local and state governments thinking about how to pair designation with other housing policies.
+Policy considerations for tract designation:
+To prioritize the development of affordable housing in Opportunity Zones
+, cities may leverage existing property tax exemptions that mandate the inclusion of affordable units, such as New York City’s 485-x property tax exemption, and inclusionary zoning ordinances, and have these programs overlap spatially with Opportunity Zone designations. States should consider redesignating tracts as Opportunity Zones if they already include developer incentives for affordable housing or if they are undergoing rezonings that require inclusionary housing.
+For the Opportunity Zone program to effectively incentivize the development of different  types of housing
+, policymakers should prioritize Opportunity Zone designation in areas with underdeveloped and/or vacant plots that have zoning suitable for large-scale, multifamily development, as well as tracts that are likely to be upzoned for additional density in the future. The program is more attractive for larger rehabilitation and new construction projects, which typically means ground-up construction on sites with greater zoning capacity.
+These recommendations generally apply to policymakers designating urban tracts. However,   different considerations may apply to rural areas that are designated to align with the program’s new incentives. These markets and rural development goals may diverge from the housing goals associated with urban environments.
+Reporting and compliance
+The current Opportunity Zone program has limited reporting requirements.
+Under the OBBBA’s new reporting requirements
+, each Qualified Opportunity Fund must report specific information to the IRS. This includes the fund’s property value, total assets, the specific census tracts it is invested in, whether a property is leased or owned, a property’s number of residential units, and the number of full-time employees. A Qualified Opportunity Fund must also provide a report on investment(s) to participating investors. Starting in 2031, the U.S. Department of the Treasury will also provide reporting on the specific economic impacts of the Opportunity Zone program, such as jobs created and housing built.
+Examples
+The examples below include small and midsize cities that have leveraged Opportunity Zone tax incentives to encourage affordable housing:
+Charleston, SC,
+adopted local rules in December 2019 to incentivize affordable housing development in Opportunity Zones, granting qualifying projects unlimited residential density, reduced parking requirements, and expedited approvals. Among these is an ongoing $44 million project called
+One80 Place
+—a housing development and homeless shelter led by the Charleston-based homeless prevention center—that will provide
+70 affordable units and 65 shelter beds
+to the community.
+Cleveland, OH,
+has allocated $50 million in loans to support Opportunity Zone projects across Cuyahoga County’s 64 designated tracts through its
+Opportunity CLE initiative
+. Using a scorecard to evaluate job creation, affordable housing, local workforce engagement, and community impact, the program has supported projects such as
+The Tappan
+, a mixed-use project featuring 95 affordable housing units and small business commercial space, and over 100 projected new jobs.
+Birmingham, AL,
+launched the
+Birmingham Inclusive Growth (BIG) Partnership
+in April 2019 to promote Opportunity Zone investment. Guided by local business and civic leaders, the partnership prioritizes local investment opportunities. A notable project is the redevelopment of the long-vacant
+American Life Building
+into 140 workforce housing units, including five no-cost rentals supported by a local workforce development nonprofit,
+The Dannon Project
+.
+Chicago, IL,
+completed
+Hope Manor Village
+, a 36-unit affordable housing development in the city’s South Side Englewood neighborhood—a Qualified Opportunity Zone. The development, funded by Opportunity Zone investment from the National Equity Fund and Fifth Third Bank, indicates a veteran preference, targeting the local homeless veteran population.
+Flagstaff, AZ,
+completed the
+Kachina Village Affordable Housing project
+, a group of energy-efficient homes, each to sell below $290,000 or rent under $1,600. This project was developed by the Qualified Opportunity Fund AspireFund, which raised $1,000,000 for the initiative. At the time of development, the median sale price for homes in the surrounding area was $432,500.
+Related resources
+Opportunity zones
+. This IRS website provides an overview of the program and answers to questions regarding Qualified Opportunity Fund investment, certification, and maintenance. It also helps users find Qualified Opportunity Zones. The complete set of
+regulations governing the program is available here
+(Public Law No. 115-97).
+2024 State of the City
+. This report from the NYU Furman Center examines the use of Opportunity Zones in New York City and offers considerations for the program’s future use.
+Impact Investing in Opportunity Zones: Real Estate and Beyond
+. This brief on Opportunity Zones by NYU Stern’s Center for Real Estate Finance Research details tax benefits and timelines for Qualified Opportunity Fund investments.
+Measuring the impact of Opportunity Zones
+. This Brookings analysis details the need for more Opportunity Zone data access and public reporting. It highlights opposing views on measuring the program’s success: through investment flow and housing costs, or resident outcomes like employment and income.
+The (Non-) Effect of Opportunity Zones on Housing Prices
+. This study by Brookings compares changes in single-family housing price growth in Opportunity Zones with those in eligible but undesignated tracts and surrounding areas, finding little correlation between price increases and Opportunity Zone designation.
+Locally Optimal Place-Based Policies: Evidence from Opportunity Zones
+. This paper shows that the Opportunity Zone Program might encourage new development in designated tracts, especially where there is available land and a flexible housing supply. The paper also suggests that more strategic tract designation could improve the program’s equity and development outcomes.
+Use of the Opportunity Zone Tax Incentive: What the Data Tell Us
+. Read the Office of Tax Analysis’ report analyzing IRS data between 2018 and 2020. The report provides insights into how investments were distributed across Opportunity Zones, the types of zones successfully attracting capital, and the characteristics of program investors.

@@ -2,15 +2,22 @@
 
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 CENSUS_API_KEY = os.getenv("CENSUS_API_KEY")
 # Support both names; HUD_TOKEN appears in project docs and older setups.
 HUD_API_TOKEN = os.getenv("HUD_API_TOKEN") or os.getenv("HUD_TOKEN")
 BLS_API_KEY = os.getenv("BLS_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")
 
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GROQ_API_BASE = os.getenv("GROQ_API_BASE", "https://api.groq.com/openai/v1")
+TOGETHER_MODEL = os.getenv("TOGETHER_MODEL", "meta-llama/Llama-3.3-70B-Instruct-Turbo")
+TOGETHER_API_BASE = os.getenv("TOGETHER_API_BASE", "https://api.together.xyz/v1")
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "together").strip().lower()
 CHROMA_PERSIST_DIR = os.getenv("CHROMA_PERSIST_DIR", "./chroma_db")
 CHROMA_COLLECTION_NAME = os.getenv("CHROMA_COLLECTION_NAME", "housing_policy_chunks")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"

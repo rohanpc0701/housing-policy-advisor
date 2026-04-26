@@ -1,0 +1,78 @@
+Title: Zoning changes to facilitate the use of lower-cost housing types
+Source: https://www.localhousingsolutions.org/housing-policy-library/zoning-changes-to-facilitate-the-use-of-lower-cost-housing-types/
+
+While each of these types of housing tends to be relatively affordable without any subsidy assistance, their availability depends in part on the provisions laid out in the local zoning
+ordinance
+or code. For example, some zoning policies specify that there may be only one dwelling unit per parcel of land (restricting the development of accessory dwelling units) or prohibit the use of manufactured housing in particular residential districts. Some local jurisdictions may need to revise their zoning policies to allow the market to develop these types of units in some or all parts of town.
+Approach
+To increase the likelihood that the market can produce lower-cost housing types, it is important to make them allowable as of right in all locations and neighborhoods. When certain lower-cost housing types are not permitted by the
+zoning code
+, localities can (in some cases) still issue variances or
+conditional use permits
+that authorize deviation from existing regulations on a case-by-case basis. However, the need to go through a special process to obtain the necessary permits can increase developers’ costs, lengthen the development timeline, and increase risks and uncertainty. Localities interested in increasing the availability of lower-cost housing types can address these obstacles, and encourage the development of a diverse housing stock, through zoning changes that allow the creation of these housing types “as of right” – that is, without the need for additional approvals.
+Localities must first decide the housing type(s) that will be permitted through zoning changes. These may include allowing:
+accessory dwelling units (ADUs)
+manufactured housing
+multifamily housing
+micro-units
+junior accessory dwelling units (JADUs)
+single-room occupancy units (SROs)
+Accessory dwelling units
+Also called “in-law apartments” or “granny flats,” accessory dwelling units (ADUs) are homes that are created on the same lot as an existing house – often as an apartment in the basement or above a garage or as a smaller free-standing structure in the back yard. Accessory dwelling units are commonly created in low-density residential neighborhoods where lower-cost housing types might otherwise be unavailable, helping to expand access to
+resource-rich
+areas for low- and moderate-income households. These units can also improve affordability for existing homeowners, as rent payments create a source of income that can be used to cover a portion of the mortgage or other expenses. Tenants may also pay reduced rent in exchange for taking on a portion of home maintenance responsibilities, which can help senior homeowners to age in place. Among other considerations, cities, towns, and counties that are interested in facilitating the creation of accessory dwelling units may want to establish limits on the size of the secondary dwelling (including the share of the floor area it may occupy within an existing home), as well as guidelines related to its location relative to the main house and the lot boundaries (if a separate structure), design features, parking requirements, and the minimum lot size per dwelling.
+Manufactured housing
+Manufactured homes are often indistinguishable from site-built homes but can be provided at lower cost, as they are built partially or entirely in factories that allow a standardized construction process in a controlled environment. Some cities, towns, and counties that allow manufactured homes on an “as of right” basis may require that the homes be set on a permanent foundation and/or have design elements that are in compliance with existing local design standards for site-built homes. While contextual design restrictions help to ensure that manufactured homes fit in with surrounding homes, they can also have an exclusionary function if they are too costly to implement – such as requirements for stone exteriors or a steep roof pitch. Aesthetic guidelines should be judiciously chosen to avoid undoing the cost savings associated with manufactured homes. Requirements like permanent foundations can ensure the stability and performance of the home over time and help increase the likelihood that the homes retain their value, but will drive up construction costs.
+Multifamily housing
+Whether rental or owner units, multifamily housing often (but not always) costs less on a per unit basis to construct than single-family homes. Cities, towns, and counties can review their zoning code to identify and remove unnecessary obstacles to the development of multifamily housing. These obstacles may include provisions that explicitly exclude multifamily development in certain parts of town, but they may also include less obvious barriers – such as requirements for large lot sizes or setback requirements and other land use regulations that make it difficult or impossible to build multifamily structures on existing sites. By eliminating these obstacles and adding multifamily development as an eligible housing type on an “as of right” basis, local jurisdictions can streamline the process of creating multifamily housing.
+Micro-units
+Micro-units are fully-equipped apartments, with their own kitchen and bathroom, that are smaller than conventional apartments – often around 250 to 350 square feet. Cities, towns, and counties interested in allowing development of micro-units will need to specify minimum sizes for these units. Cities, towns, and counties also commonly
+relax or waive parking requirements
+for micro-unit developments.
+Junior accessory dwelling units
+Also called JADUs, these are bedrooms for rent within existing homes. While JADUs may not have a full kitchen or private bathroom, they include small-scale cooking facilities such as a sink, cooktop, and small refrigerator. JADUs are similar to ADUs, but are smaller in size and typically have a shared entry to the existing home as well as a private entrance.
+Single-room occupancy units
+Single-room occupancy (SRO) dwellings are similar to micro-units, except that they typically have shared kitchen and/or bathroom facilities. While commonly viewed as an affordable housing solution for individuals experiencing homelessness, single-room occupancy units may also be appropriate for college students, young workers who are just starting out, and older adults. In addition to relaxing parking minimums and establishing a minimum unit size, zoning requirements for single-room occupancies may also call for the creation of common areas (such as living rooms, dining rooms, and recreation areas) and shared kitchen and bathroom facilities. Some cities, towns, and counties require on-site, 24-hour management for any single-room occupancy development.
+Zoning changes that convert these lower-cost housing types from “conditional uses” that need additional approval to “as of right” development can significantly streamline the development process and help to make these housing types available.
+Localities may find value in allowing these lower-cost housing types as they may provide an affordable opportunity to invest in the conversion or improvement of properties in distressed neighborhoods. Smaller localities may find it helpful to work regionally to ensure consistent regulations with nearby jurisdictions, so that conflicting regulations in standards for products like manufactured or modular homes do not conflict and inhibit the cost-savings that may accompany a standardized building product.
+Coverage
+Zoning changes that allow a broader range of housing types will also need to specify the locations in which these housing types may be built. As with other activities included in the zoning code, lower-cost housing types might be directed to neighborhoods where new units will be compatible with existing development patterns. For example, micro-units and single-room occupancy developments will likely be most appropriate in urban areas with access to public transit and services and amenities within walking distance. Accessory dwelling units and manufactured housing will be most suitable in areas currently zoned for single-family homes.
+Other considerations
+Comprehensive plan updates
+In some cases, proposed zoning changes to allow the use of lower-cost housing types may be inconsistent with the long-term vision for a neighborhood in the city’s comprehensive plan. When these inconsistencies occur, local planning and zoning staff will likely want to take a step back and consider amending the comprehensive plan before approving the rezoning. This sequencing helps to ensure that any land use changes align with the city’s objectives for growth and development and may be legally required in order to support zoning changes.
+Impacts on other land use regulations
+Land use regulations are closely linked, and changes to one set of policies may require adjustments to others to be effective and make new development feasible. For example, cities, towns, and counties that rezone areas to allow the development of micro-units may also need to revisit parking requirements that determine the number of off-street spaces required per unit. Cities, towns, and counties that allow the creation of accessory-dwelling units may need to revisit set-back requirements that establish how far back a structure needs to be from the edges of the lot. Zoning and planning staff should be mindful of potential conflicts and areas of overlap in the zoning code, and the need to make adjustments to accommodate lower-cost housing types.
+Safety
+In many high-cost cities, towns, and counties, apartments and single-family homes are illegally carved up into single-room occupancies. While illegally subdividing properties creates affordable units for low-wage workers, it can also threaten residents’ safety and well-being. Converted units may be overcrowded and lack basic safety measures, such as smoke detectors or adequate exits in the event of a fire. Because they are not legally registered, these units may escape detection (and inspections) unless neighbors complain. Some cities, towns, and counties have adopted campaigns to legalize illegally created dwelling units in order to reduce these types of violations and improve tenant safety.
+Sample Ordinances
+In 2014,
+Austin, TX
+amended a
+zoning ordinance to include provisions
+for multifamily residential dwellings that waives the minimum site area requirement for some single-family housing (which ordinarily requires a fixed amount of land equal to 7,000 square feet per unit), and reduces the minimum off-street parking requirement to one space per 4 units. The revised ordinance allows for one dwelling to be on a lot size of 3,600-4,000 square feet. Austin’s ordinance also includes affordability requirements – at least 10 percent of owner-occupied micro-units must be reserved for at least 99 years for households earning up to 80 percent of the area median family income, and at least 10 percent of rental units must be reserved for at least 40 years for households earning up to 50 percent of the area median family income.
+The
+City of Santa Cruz, CA
+Accessory Dwelling Unit (ADU) Development Program is designed to encourage the development of high-quality ADUs that are compatible with the surrounding neighborhood.
+The City’s ADU Ordinance
+establishes ADUs as a principally permitted use within certain zoning districts on residentially zoned lots that are 5,000 square feet or larger. Proposed ADUs that comply with setback, height, and parking standards are eligible for a streamlined permitting process and are not subject to public hearing or additional permit requirements.
+Related resources
+Housing types
+21
+st
+Century SROs: Can Small Housing Units Help Meet the Need for Affordable Housing in New York City?
+, NYU Furman Center (2018) – This policy brief addresses the question of whether small housing units can and should help meet the housing need previously served by SROs.
+Accessorydwellings.org
+– This website is entirely dedicated to accessory dwelling units, and includes links to related regulations in several states (with a particular focus on California and Oregon) as well as a
+model code
+.
+Compact Units: Demand and Challenges
+, NYU Furman Center (2014) – This research brief explores the current debate over compact units, the potential demand for these units, and regulatory and other challenges to developing micro-units and accessory dwelling units. The brief draws on examples in five cities: New York, NY; Washington, D.C.; Austin, TX; Denver, CO; and Seattle, WA.
+Missing Middle Housing
+, The Types (2020) – This interactive web page provides diverse housing options along a spectrum of affordability to address the mismatch between the available U.S. housing stock and shifting demographics combined with the growing demand for walkability.
+The Macro View on Micro Units
+, Urban Land Institute (2014) – This report provides extensive background and insights into micro-units from a developer’s perspective – describing typical characteristics, market trends, and occupancy levels.
+Manufactured Housing Facts
+, Manufactured Housing Institute (2023) – This brief, prepared by an industry group, describes the characteristics of manufactured homes in terms of quality, affordability, and siting and placement.
+Local example
+Timeline of Affordable Housing
+, City of Boulder, CO – Since developing the Housing Boulder Action Plan, the city has updated its inclusionary zoning program, accessory dwelling unit regulations, and code to support mobile home park residents

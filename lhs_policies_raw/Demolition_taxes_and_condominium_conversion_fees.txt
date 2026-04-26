@@ -1,0 +1,53 @@
+Title: Demolition taxes and condominium conversion fees
+Source: https://www.localhousingsolutions.org/housing-policy-library/demolition-taxes-and-condominium-conversion-fees/
+
+Demolition taxes are levied on property owners when they tear down residential buildings. In most cases, demolition results in the loss of homes that tend to cost less than the homes that replace them—because they are older, smaller, or lack modern amenities. Over time, in cities, towns and counties where teardowns are a regular occurrence, this can result in the loss of a substantial supply of naturally-occurring affordable housing. To compensate for this loss, some communities assess taxes on the demolition of single-family homes and/or multifamily buildings, typically charging a flat rate per unit. Depending on program rules, activities that fall short of total demolition—such as redevelopment activity that destroys or removes a specified portion of the building—may be sufficient to trigger liability.
+Condo conversion fees are payable by developers when affordable rental housing is removed from the housing stock through conversion to homeownership units. Fee amounts can be established as a flat rate, as a percentage of the first sale price for each unit (typically around 1 percent, but as high as 12 percent or more in some jurisdictions), based on square footage, or by some other method.
+These types of fees are most likely to generate revenue for affordable housing in communities with an older housing stock, where condo conversions and demolition of existing homes take place on a regular basis. This section describes key considerations when establishing a demolition tax or condo conversion fee.
+Approach
+When establishing both demolition taxes and condo conversion fees, communities will need to decide how the fee amount will be calculated. A demolition can be a flat, fixed amount (e.g., $10,000 per home), or an assessment that varies based on the age, size, or appraised value of the home or the development type (single family or multifamily). Formulas can also combine these variables. The Chicago suburb of
+Lake Forest, IL charges a demolition tax of $10,000
+for a single-family home or duplex. The fee for demolition of a building with more than 2 units is $5,000 times the number of dwelling units. Condo conversion fee formulas may weigh all of these factors, or may be based on the first sale price of the converted home.
+(
+Where the sale price is determined by the jurisdiction to be “unreasonably” low, an independent appraisal may be required.)
+Communities will also need to determine the timing of the fee payment. It may be due when a demolition or condo conversion permit is issued. Alternatively, some jurisdictions allow payment to be deferred until the demolition or home sale takes place.
+Berkeley, CA requires payment of a mitigation fee
+when rental units are converted to condominiums. The fee is due at the time of sale of a converted unit, but the city provides a 25 percent fee reduction for owners who pay before the conversion takes place.
+Coverage
+Determining whether a unit has been converted from a rental apartment to a condominium should be a straightforward assessment. In contrast, determining whether construction activity qualifies as a demolition can be more nuanced. In some communities, activities that fall short of full demolition may trigger liability for a demolition tax. This determination may be based on the percentage of the building impacted (e.g., if more than 50 percent of the building is torn down) or the value of the proposed changes relative to the overall property value. Criteria for what qualifies as a condo conversion or demolition should be clear and well-established in program guidelines.
+Local jurisdictions may also choose to exempt certain types of homes from liability for a demolition tax or conversion fee. For example, in Washington, DC, property owners are exempt from the city’s 5 percent condo-conversion fee if the property being sold as part of a conversion (1) has been vacant for at least twelve months prior to conversion, and (a) is part of a building complex with less than ten units or (b) gains an additional bedroom “in the process of the reduction of units.” Some communities provide demolition tax exemptions for dilapidated homes that are no longer habitable. The cost associated with the tax could have the unintended consequence of suppressing interest in razing and redeveloping these homes, and the waiver helps to promote redevelopment and avoid suppressing neighborhood home values. Communities may also consider offering a rebate on any demolition fee for replacement housing that increases residential density. Finally, some jurisdictions allow exceptions when the demolition or conversion activity will result in the creation of homes affordable to low- and moderate-income households and/or first-time homebuyers, helping to avoid imposing additional costs on the production of affordable housing. (See Highland Park, IL example below.)
+Eligibility
+Some communities elect to deposit fee revenue in a new or existing affordable housing trust fund, in which case the guidelines that govern the fund will determine eligible uses. Other communities establish specific requirements on how fund proceeds may be used, such as limiting spending to amenity-rich areas that have been prioritized for affordable housing preservation or using funds to help cover relocation costs for renters displaced by a condo conversion. In some jurisdictions demolition tax revenue is used for non-housing activities, such as road maintenance and beautification in areas undergoing demolition. Cities and counties that create demolition and condo conversion fees should clearly specify eligible activities for fee proceeds in accordance with local priorities.
+Other considerations
+Potential upsides of demolition.
+In some cases, there may be upsides to the demolition of older homes. Teardowns may replace dilapidated structures that have code violations and other problems with new homes in good condition, and the increased property revenues from the higher-priced replacement homes can help to bolster the local budget. Demolition and infill development also helps to prevent sprawl, particularly in built-out communities. In legacy cities or soft housing markets with a disproportionate volume of homes in a very poor state of repair, demolition may be a useful tool to stimulate neighborhood revitalization; demolition fees should be closely coordinated with other revitalization and housing affordability programs.
+Preservation.
+In some cases, communities also use demolition taxes and condo conversion fees as a mechanism to discourage the activities on which the charges are levied. When fee amounts are set sufficiently high, it may become uneconomic to convert a rental unit to condos, for example, or to tear down an older home. Of course, no revenue will be collected if demolitions or conversions are not executed, limiting the revenue potential of these fees to support affordable housing. Local officials should carefully consider their policy goals as well as other tools available to support affordable housing preservation (such as
+preservation inventories
+) and housing stability (such as policies designed specifically to provide
+protection from condo conversions
+).
+Examples
+Los Angeles, CA
+charges $1,492 for each residential unit converted to a condo. The fee revenue is deposited in the Rental Housing Production Account maintained by the city’s Housing and Community Investment Department. In addition to the condo conversion fee, property owners are also required to pay relocation assistance to qualified tenants.
+More details are available at the Los Angeles Housing & Community Investment Department website
+.
+The Chicago suburb of
+Highland Park, IL
+charges a municipal demolition tax for all residential demolitions (with a few notable exceptions, below) that is equivalent to the greater of $10,000 per building or $3,000 per residential unit, in addition to a $750 demolition permit fee for the project. The fee was established in 2002 in response to concerns about the rate at which older, more affordable homes were being torn down and the resulting loss of diversity in the city’s housing stock. It applies to all activities under the owner’s control that result in the removal or destruction of 50 percent or more of the structure, accounting for both interior and exterior elements. Payment is due prior to the issuance of a demolition permit, but may be deferred for an additional $5,000. The demolition tax is waived in several circumstances, including:
+Homes are torn down for development of affordable housing
+The occupant has owned and occupied the home for at least 5 years and plans to own and occupy the replacement home for another 5 years after the demolition
+The applicant can prove that demolition is necessary due to the owner’s medical condition and the owner is a low- or moderate-income household who will continue to occupy the replacement dwelling
+The applicant establishes that the demolition is necessary due to “factors beyond the owner’s control and reasonable ability to remedy.”
+More details are available in the City of Highland Affordable Housing Demolition Tax document.
+Demolition taxes can also be adopted to discourage “teardowns” and encourage the preservation of older homes, which are often more affordable to residents than the new construction that would replace them.
+Learn more about policy tools that focus specifically on preserving existing affordable housing
+.
+Demolition taxes and condo conversion fees are often established as sources of funding for affordable housing trust funds.
+Read more about housing trust funds in our policy brief
+.
+Sample Ordinances
+Code of Ordinances, Chapter 18 – Affordable Housing Demolition Tax and Affordable Housing Fund
+, City of Evanston, IL – Excerpt from the municipal code describes the purpose and mechanics of the city’s tax on demolition of a residential structure.
+§42–3402.04. Conversion fee
+, Code of the District of Columbia – Excerpt from the District’s code describes how the condo conversion fee works, including fee exemptions and timing of payment.

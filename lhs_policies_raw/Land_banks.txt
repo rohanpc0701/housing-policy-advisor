@@ -1,0 +1,168 @@
+Title: Land banks
+Source: https://www.localhousingsolutions.org/housing-policy-library/land-banks/
+
+See the Center for Community Progress
+National Land Bank Map
+See the Center for Community Progress
+Land Bank FAQ
+Land banks can play a number of different roles depending on a community’s development goals, including: (a) providing a mechanism for assembling parcels of tax-delinquent or abandoned properties for redevelopment; (b) acquiring and holding strategically valuable properties until the community can develop them as affordable housing, and; c) acquiring properties to convert to other uses such as retail, parks, or open space for flood mitigation. In addition to acquiring and holding land, land banks can maintain, rehabilitate, demolish, and lease or sell property.
+Land banks are most commonly established in localities with relatively low or declining housing costs and a sizeable inventory of tax-delinquent properties that the community wants to repurpose to support community goals. In high-cost localities, however, where there are few tax delinquent properties, land banks can serve as a vehicle for holding land purchased strategically for future affordable housing development.
+This brief discusses how land banks acquire, manage, and dispose of properties, and how localities can create and work with land banks to meet community development goals.
+Approach
+Land banks are a mechanism for acquiring, holding, and distributing property in service of community goals. Land banks, which can be government supported, quasi-governmental or independent non-profit organizations, obtain land through a number of different mechanisms: tax foreclosures, municipal government transfers, donations, or open-market purchases.
+Property acquisition
+One of the most common ways land banks acquire properties is through the tax foreclosure and auction process. The process differs in each state, but generally if a property owner fails to pay property taxes, the property may end up in the hands of the jurisdiction to which the taxes are owed. Depending on the jurisdiction, a land bank may have the authority to decide which properties to acquire via tax foreclosure or automatically receive title to all properties that are not sold at tax foreclosure auctions for the statutory minimum bid. In New York and Nebraska, land banks have been given special “super-bid” powers to acquire tax delinquent properties prior to them being auctioned off to ensure the community’s needs are met, such as the need for affordable housing or open space.
+Land banks can also receive properties through voluntary donations from private owners or via transfers from municipal governments. Municipalities may have property acquired from foreclosure proceedings before the land bank was established, or may have surplus public properties.
+In a competitive marketplace, land banks with access to
+property acquisition funds
+can quickly access financing to purchase available properties. Once land is acquired, project sponsors may need time to assemble permanent financing—a process that can take months or years. Land banks maintain and hold the property tax free, helping limit the developer’s costs until construction begins.
+In some jurisdictions, land banks help facilitate affordable housing development by temporarily holding properties while the original owners assemble financing and wait for the market to be ready for new development. Having the property held by the land bank can reduce or eliminate municipal taxes during the holding period. The land bank can also assume responsibility for property maintenance. In localities with cumbersome land management practices, land banks can provide more flexible management that may allow for interim uses or partnerships for community-stewardship.
+Property management and disposition
+Once acquired, the land bank manages the properties it owns. This can include mowing the grass, securing the property with locks or lights, or conducting an environmental clean-up. Land banks may also decide to rehab properties before selling them.
+While land banks can hold properties, they typically seek to sell the properties to new owners. With the right enabling legislation, a land bank can clear the title and any liens against a tax delinquent property it owns so it can be sold with a clean title to the next owner. Land banks sell to developers and management companies, as well as to individuals and families. Land banks can sell individual parcels or assemble adjacent properties it has acquired into a package appropriate for a larger development, which may make the properties more attractive to developers. Finally, a land bank has discretion to establish criteria for eligible buyers and uses, for example, prioritizing nonprofit and mission-oriented developers who include affordable housing units in their proposals and agree to conditions that guide how the property will be developed, or requiring that owners occupy the property full-time for a minimum period of time, like ten years.
+Coverage
+Land banks can be an effective mechanism to help achieve community development goals in a range of different housing market types.
+Regardless of the type of housing market, land banks can generally be used to:
+Hold and maintain properties until a strategy for disposition is determined
+Package adjacent properties together for sale to developer
+Help limit a developer’s holding costs until construction begins
+In localities with low-cost/low-demand housing markets (or with a mix of strong and weak housing submarkets), land banks typically focus on acquiring bank- and tax-foreclosed properties that sit vacant and abandoned. For various reasons, private market developers choose not to purchase these properties for development, leaving them untended in the community. Land banks can help return these properties to productive use and the tax rolls. For example, a locality could acquire deteriorating and vacant properties in a land bank and demolish a portion of them to clear land for a public park, renovate a portion to be sold as affordable housing, and sell another portion as market-rate housing as part of neighborhood revitalization strategy. In
+soft housing markets
+where rehabilitation costs may exceed market prices, land banks can focus disposition strategies around concentrated or geographically-based neighborhood stabilization goals.
+Cities, towns or counties with stronger housing markets can use land banks as a mechanism for purchasing and holding land for future use. For example, a community can purchase land in gentrifying neighborhoods to hold for future affordable housing development. Such land bank acquisitions can help ensure the availability of affordable housing even as land prices rise. While localities with strong housing demand typically have fewer problems with disinvestment and decline than other markets, land banks can also provide a mechanism to secure tax delinquent properties when such delinquencies occur, and hold these properties until they may be redeveloped as affordable or mixed-income housing or to meet other community needs.
+The table below provides examples of how the common functions of land banks can be used in different types of housing markets:
+Land bank function
+Example use in markets with relatively low or declining housing costs and high vacancy rates
+Example use in markets with relatively high or rising housing costs and low vacancy rates
+Acquire and hold properties
+Acquire vacant properties for conversion into green spaces, community gardens or a community center.
+Purchase land near planned transit stations and hold the land until the property is ready to be developed as affordable or mixed-income housing (as done by the
+Urban Land Conservancy in Denver
+).
+Demolish properties
+Quickly demolish blighted and structurally unsound properties to prevent neighborhood property value decline.
+Strategically demolish smaller structures to make space for more intensive development of affordable or mixed income housing developments.
+Rehabilitate properties
+Rehab properties in disrepair using a pre-qualified contractor that will meet high-quality construction standards before selling on the open market.
+Rehab older properties in areas experiencing gentrification to help preserve them as an affordable housing resource.
+Sell or transfer title of properties
+Sell discounted homes to veterans and recent college graduates to encourage homeownership (as done by the
+Cuyahoga County Land Bank
+).
+Sell packages of adjacent properties at a low cost to developers who commit to affordable housing production.
+Lease or rent properties
+Lease commercial properties to small or minority-owned businesses for less than market value to support neighborhood revitalization strategy.
+Rent properties to provide low-income households an affordable housing option.
+Local role
+Creating a land bank
+Localities interested in land banking should first check to see whether their state has passed legislation to enable land banking. According to the Center for Community Progress, as of 2021, municipalities in 28 states have land banks, and 16 states have passed state-wide land bank enabling legislation.
+[1]
+In states that have not passed enabling legislation to give land banks greater power to acquire and dispose of properties, local governments can advocate for the passage of these laws. Land banks often require such legislation to overcome many of the legal and financial barriers that discourage private investment in abandoned, vacant, and tax-delinquent properties with which land banks typically deal with. The Center for Community Progress lists five core powers that should be granted to land banks in order for them to be effective:
+[2]
+Obtain property at low or no cost through the property tax foreclosure process
+Clear title and/or extinguish back taxes on properties
+Hold land tax-free
+Lease properties for temporary uses
+Negotiate property sales based on community needs without seeking additional approvals from other levels of local government
+Depending on the enabling legislation that is in place, there are a few different options for structuring a land bank. Land banks can be governmental entities, quasi-governmental public corporations, or private non-profit corporations. A land bank can share staff with redevelopment authorities or housing departments, or be formed as an independent organization governed by a Board of Directors or Commission. Participation from public representatives, city staff, residents, and other interested stakeholders may include representation on the Board or advisory council. The governance characteristics, advantages, and disadvantages of different structures of land banks are presented in the table below:
+Land Bank Structure
+Governance Characteristics
+Advantages and Disadvantages of Structure
+Examples
+Government entity
+Land bank activities are led by a redevelopment authority or housing department governed directly by that locality.
+Advantage
+: Staff knowledge about housing and development processes is already in place, and lank banking strategies can easily be coordinated with other community development plans or strategies.
+Disadvantage
+: The mission of redevelopment authority or housing department (housing or commercial development) may take precedence over other goals of land banking (e.g., disposition of vacant properties), and staff capacity may be stretched thin for land bank functions.
+New Orleans Redevelop-ment Authority
+Independent public corporation
+Governed by a Board of Directors that is usually appointed by local legislative body.
+Advantage
+: Property acquisition and disposition are not subject to the local governments’ disposition procedures, leading to more autonomy in land use decisions.
+Disadvantage
+: An independent land bank’s strategy may be misaligned with the local government’s strategy, which might reduce the land bank’s impact.
+Chautauqua County Land Bank Corporation
+Private
+non-profit corporation
+Governed by Board of Directors not necessarily appointed by local government, but whose representation is dictated by articles of incorporation set forth in enabling legislation.
+Advantage:
+Allows for private investment into land bank programs that are not permitted for a public entity.
+Disadvantage
+: There may be accountability concerns since public meetings and records disclosure required for governmental entities do not apply to private corporations. As with an independent public corporation, there may be misalignment between the land bank and municipality strategies.
+Land Bank Twin Cities
+For a comprehensive guide to creating and operating a land bank, refer to the Center for Community Progress’
+Land Banks and Land Banking: 2nd Edition
+, which includes a comparison of ten land bank statutes as of 2015 and a template for state land bank legislation.
+Working with a land bank
+Local governments are generally directly involved with land banks that operate in their area, with local government officials often serving on the land bank’s board. In some areas, land banks also receive funding from or share staff with local governments. Local governments and land banks should work together to help meet community goals. The following are three actions a locality can take to support its land bank:
+Work with the land bank to clearly define the problem the land bank will address
+.
+This could include, for example, an overconcentration of low-value properties in certain neighborhoods, high vacancy rates, a burdensome tax-delinquent property disposition process, or lack of affordable housing or green spaces. Local governments can share data with the land bank via a
+vacant property inventory
+or other means to better identify community needs.
+Work with the land bank to establish policies governing its transactions and programming, and engage the community on those decisions.
+A land bank’s strategy and programming should be tied to the priority issues of the community. Land banks should establish transparent and publicly available procedures and priorities around property acquisition, disposition, land transfer, and land donation. Land banks build support and make more informed decisions when they include community members in decision making process. Avenues for engagement include neighborhood meetings or a resident advisory council. The Atlanta Land Bank, for example, requires comments on planned property dispositions from Neighborhood Planning Units, which are City-sponsored resident advisory councils tasked with making recommendations on zoning, land use, and other planning-related matters.
+Ensure sufficient operating budget through multiple funding streams.
+In the early stages while the land bank is ramping up its programming, local governments may need to cover the operating costs of the land bank through annual budget appropriations, housing trust funds, bonds or loans, or in-kind support like shared staffing. Land banks can use HOME and CDBG funding for certain activities if there is a plan in place for the property which includes a CDBG/HOME eligible end use (e.g. demolition and rehabilitation in target neighborhoods) within the time frame permitted by those programs. Local governments and land banks can also work together to secure philanthropic foundation grants and private sector donations from organizations interested in community development.
+Another mechanism to secure funding for a land bank is to establish a delinquent tax revolving fund (DTRF). A DTRF can enable a local government authority such as a land bank to borrow funds to pay off delinquent property taxes owed to the local governments. In exchange, the land bank receives the right to enforce the tax liens, and receive the interest and penalties on such liens if paid back. A DTRF allows a land bank to either acquire properties by foreclosing on their tax liens or receive the revenue from interest and penalties to pay off the initial loan and fund other land bank operations.
+Once a land bank has acquired a sizeable inventory of properties, the land bank can generate its own revenue by selling or leasing properties, and receiving a portion of the tax revenue for land bank properties that are conveyed (sold or given) to new owners. For example, a state’s legislation can allow land banks to receive 50% of the property tax generated from a property conveyed by a land bank for five years. Local jurisdictions can also commit a percentage of delinquent property taxes towards the land bank, which does not require state legislation to enact. Even with these revenue generation strategies, land banks are rarely self-sufficient. Local jurisdictions and foundations can help ensure a reliable funding stream for its land bank.
+Other considerations
+Activities of a land bank should complement other community strategies and activities, such as
+strategic code enforcement
+, effective tax collection, and vacant property inventorying. A
+vacant property inventory
+can be used as a starting list of properties that could be considered for acquisition by the land bank.
+Especially in communities with a mix of strong and weak housing submarkets, a land bank and a
+Community Land Trust
+(CLT) may be used
+to serve complementary purposes
+. A land bank could exercise its authority to obtain tax-delinquent properties, clear the title, and transfer the deed to a CLT, which can retain ownership of the property and ensure its long-term affordability.
+Land banks can be vehicles for promoting racial equity and reducing racial disparities.  For example, in 2020,
+Enterprise Community Partners awarded
+nearly $7 million in funding to existing land banks in New York that are integrating a racial equity lens into its work.
+Enterprise outlined specific strategies land banks can adopt to reduce racial inequities:
+Working in low-income communities of color
+Partnering with and promoting minority-owned businesses
+Diversifying their staff and board to represent the communities they serve
+Partnering with organizations that have first-time homebuyer assistance programs
+Examples
+Philadelphia’s
+land bank
+was created in 2013 in order to help repurpose vacant buildings and land for community needs. The land bank’s 2017 strategic plan emphasizes returning vacant and underutilized publicly-owned property to productive use, supporting both affordable and mixed-income housing. This strategy seeks to address the fact that some neighborhoods in Philadelphia are rapidly gentrifying while others have sustained population loss and housing vacancies. The land bank set a goal of dedicating 63% of the buildings it acquires to housing and mixed-use development, only 25% of which would be for non-income restricted development. As of
+2019
+, the land bank reported holding 2,200 vacant properties.
+The
+Fulton County/City of Atlanta
+Land Bank Authority
+(LBA) was authorized by state statute in 1990 and has been effective in returning land to productive use and getting properties back onto the tax rolls. The LBA is able to waive delinquent taxes, clear title issues on acquired properties, and facilitate the purchase of properties by community development corporations. The City of Atlanta commits a significant portion of its CDBG funds towards housing revitalization activities, including funding for the LBA. As of 2020, the LBA listed 170 properties in its inventory within the City of Atlanta.
+The
+Land Bank
+Twin Cities
+operates in the seven-county metropolitan region of Minneapolis and St. Paul with a mission to secure “strategic real estate opportunities to benefit people with low to moderate incomes, prioritizing people of color and populations facing barriers.” Recently, the Twin Cities region has seen rents and home values surge and vacancies drop to historic lows. Lank Bank Twin Cities purchases and holds land for developers and nonprofit providers to use for future affordable or mixed-income housing projects. From its founding in 2009 through 2020, the land bank has spent $109 million on land acquisitions, which has enabled the development of 3,544 units of housing.
+The
+Little Rock
+Land Bank Commission
+(LBC) consists of 9 qualified individuals appointed by the Mayor, as established by City
+by-laws
+. The LBC established a number of
+policies
+related to property acquisition, disposition, land transfer, and land donation. Being a low-cost city with areas of vacancy, the Little Rock LBC focuses its resources on neighborhoods that show signs of decline (high vacancy, low owner-occupancy, high poverty rate) and offers parcels it acquires based on priority uses such as developing affordable housing, supporting homeownership, and establishing social service providers. As of
+October 2022
+, the LBC listed 54 properties on its inventory, the majority of which were vacant lots.
+Related resources
+The Center for Community Progress provides technical support and resources to land banks nationwide. Their website includes a
+map
+showing more than 250 land banks. They have also assembled articles, case studies and resources into a
+tool kit
+for those interested in developing a land bank.
+This
+HUD report
+broadly defines land banks, outlines the elements that are critical for successful land banks and also discusses potential sources of income for land banks.
+Another HUD report
+describes how many communities have created land banks to ameliorate the negative effects of foreclosures and what barriers and solutions these communities face in order to implement land banks.
+Shelterforce has a number of articles on land banking, including
+how to fund land banks
+and the
+difference between land banks and community land trusts
+, and how the two strategies can complement each other.

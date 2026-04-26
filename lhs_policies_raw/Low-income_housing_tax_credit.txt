@@ -1,0 +1,117 @@
+Title: Low-income housing tax credit
+Source: https://www.localhousingsolutions.org/housing-policy-library/low-income-housing-tax-credit/
+
+As of January 2024, it is estimated that LIHTC has contributed to the development and preservation of over 3.5 million units nationwide since its establishment by the Tax Reform Act of 1986. In 2024, the program cost an estimated $13.6 billion in foregone federal tax revenue.
+The tax credit comes in two amounts: 9 percent credits, which are awarded on a competitive basis, are designed to cover up to 70 percent of a project’s low-income unit development, and are generally used in new construction and larger renovation projects, and 4 percent credits, which are worth about half as much as the 9 percent credits and generally used either for the rehabilitation of existing structures or for simpler new construction projects. The 4 percent tax credits are automatically available for projects financed with multifamily housing bonds, a type of tax-exempt private activity bond. These bonds must cover at least 50 percent of the total development costs, so the credits are not competitive in and of themselves. However, there is a maximum cap for all private activity bonds issued by a state each year. In states that are at or near their cap, there may be a shortage of bond authority that can lead to limitations on developers’ ability to access multifamily housing bond financing. Local and state housing finance agencies evaluate the projects applying for tax credits against criteria laid out in their
+Qualified Allocation Plan
+, a document that is prepared annually and describes priorities for how the tax credit will be used in the coming year. Projects using both 9 percent and 4 percent credits must also meet financial feasibility requirements. In most states, there is strong competition for 9 percent credits, so not all applicants receive funding.
+Once tax credits have been awarded, they are usually sold and converted into equity through a process called syndication. The equity generated through the syndication proceeds is used to subsidize the development, helping to make the creation of below-market-rate rentals possible. Additional funding (beyond the tax credit equity and the debt raised based on the projected rent revenue stream) is often needed to close the gap between available funds and the project’s cost.
+While LIHTCs are generally awarded at the state level by state housing finance agencies, they are an essential resource for the production of affordable rental housing and thus an important policy for local governments to be aware of and utilize. Relevant roles for local governments include advocating for changes in the state Qualified Allocation Plan to ensure it advances key policy priorities, and providing local gap funding to help proposed LIHTC projects be financially viable and/or qualify for a high priority for a LIHTC award. In some communities, credits are allocated directly by a local housing finance agency and a state agency.
+This section describes key considerations for LIHTC program administrators and ways that local leaders can influence implementation to help achieve their goals.
+Approach
+While all housing finance agencies (HFAs) follow the same general process in administering the LIHTC program, their approach to certain elements of program administration varies. The Qualified Allocation Plan (QAP) is one of the key areas where HFAs can tailor the program to address state and local goals. The QAP is an annual report that describes the agency’s priorities for tax credit awards in the coming year and lays out the criteria against which applicants will be scored. HFAs can develop these priorities by considering the policy objectives they are seeking to advance in awarding LIHTCs, reviewing the nature and location of current LIHTC developments to determine if past allocations have led to the desired outcomes, and reviewing data on demographic trends and housing needs to help identify gaps that may need to be addressed through revisions to past QAPs.
+HFAs can target many development attributes through preferences in their QAPs, including:
+Specific types of activities (preservation, new construction).
+Development in specific locations (near public transit, job centers, good schools; in neighborhoods covered by a concerted community revitalization plan).
+Housing for specific types of populations (large families, seniors, people experiencing homelessness).
+Projects that include certain features (environmentally friendly materials, community space).
+Depending on how the application scoring process is structured, these preferences can have a substantial impact on which projects are proposed and which applicants receive LIHTC awards. In jurisdictions where competition for the 9 percent LIHTC is very strong, optional characteristics that receive preferential consideration often become de facto eligibility requirements that developers strive to incorporate whenever feasible. As a result, all of the preferences and terminology included in a QAP should be well-defined to ensure the issuing agency’s priorities are clear and the development of LIHTC units fulfills state and local goals.
+In structuring their QAP criteria, HFAs can use several methods to indicate preferences for specific development attributes. The simplest approach is a policy statement that expresses a preference for a particular development type. A second approach is to establish threshold requirements that must be met or exceeded to be considered for an LIHTC award. For example, the New York City Department of Housing Preservation and Development requires all potential LIHTC applicants to complete Enterprise Community Partners’ Green Communities Certification process before they can apply for a tax credit award
+1
+. The 2025-2026 QAP issued by the Massachusetts Executive Office of Housing and Livable Communities (HLC) requires all applicants to fit into one of five priority categories: housing for extremely low-income households, investment in distressed and at-risk neighborhoods, preservation of existing affordable housing, family housing production in areas that provide access to opportunities, and family or senior housing production in areas with limited affordable housing options.
+2
+Once a project is confirmed to meet at least one of those priority categories, HLC evaluates projects based on twelve specific threshold criteria, including evidence of local support, commitment to long-term affordability, and fair housing narrative. The threshold approach ensures that all proposals help advance specified goals.
+Some states reserve a share of tax credits for projects that fulfill specified criteria. For example, in its 2025 QAP, Oregon Housing and Community Services set aside 25 percent of the state’s 9 percent tax credits to support the preservation of affordable housing.
+3
+Alternatively, many HFAs utilize a point system that awards points to projects with prioritized features, enabling those projects to achieve a higher total score and compete more effectively. For example, Minnesota’s 2026-2027 QAP requires that projects be eligible for a minimum of 80 points to qualify for 9 percent tax credits, or a minimum of 40 points for 4 percent credits. The QAP outlines the various point categories, including 12 to 15 points for large family housing and 2 to 8 points for senior housing. Tiebreaks between projects with similar point totals are awarded to projects with a plan for eventual tenant ownership.
+4
+HFAs need not assign such a high proportion of points to indicate a preference for proposals that include a specified activity or characteristic. Still, they can weight scores accordingly and across a number of areas.
+Finally, HFAs can provide up to a 30 percent “basis boost” for certain 9 percent and 4 percent LIHTC projects, which translates to an increase in the amount of tax credits—and therefore equity—that developers receive. Some projects have always been available for a basis boost, including those located in “Difficult Development Areas,” where construction, land, and utility costs are high relative to the
+Area
+Median Income
+(AMI), and “Qualified Census Tracts,” in which 50 percent or more of the households have incomes below 60 percent of AMI or the poverty rate is 25 percent or more. The Housing and Economic Recovery Act of 2008 authorized HFAs to award a basis boost to projects outside of these areas on a discretionary basis. HFAs may only provide the basis boost in cases where it is necessary for the project to be financially feasible, but they can prioritize
+specific project types
+when selecting projects that qualify.
+HFAs can also take steps to structure the LIHTC application process in a way that reduces applicants’ costs and administrative burden. In many cases, developers applying for LIHTCs also seek other forms of public financing to fill funding gaps. Some HFAs allow developers to simultaneously apply for multiple programs, including the LIHTC program, with a single uniform application. Adopting this approach requires coordination and cooperation across program staff, but it can significantly streamline the application process for affordable housing providers.
+Eligibility
+LIHTC program rules include clear eligibility requirements. Among these, at least 20 percent of the units in LIHTC developments must be affordable to and occupied by households with incomes at or below 50 percent of AMI, at least 40 percent of units must be affordable to and occupied by households at or below 60 percent of AMI, or at least 40 percent of units must be affordable to and occupied by households of varying income levels that average no more than 60 percent of AMI, with no unit exceeding 80 percent of AMI. In practice, however, project sponsors often set aside a much larger share of units as affordable to increase the competitiveness of their applications and the amount of tax credit equity they can raise. Most LIHTC projects cover 100 percent of the units in a building. Many owners also find ways to layer additional subsidies, such as using project-based
+housing choice vouchers
+, to serve households with even lower incomes.
+The local role
+In all but a few places, state HFAs have primary responsibility for developing the QAP and awarding tax credits. However, there are several ways that local jurisdictions can have an impact on program design and administration.
+State QAP
+Where there is a demonstrated need for investment to support a specific type of activity, local leaders can advocate for the state HFA to include it as a priority in the QAP. Jurisdictions may even be able to make the case for setting aside a share of tax credits for a specific activity and/or geographic area.
+Local QAP
+In some cities, local HFAs or local governments directly award LIHTCs.
+Gap funding
+While the funding provided by LIHTC awards is substantial, in many cases, it is insufficient to fully cover the costs of developing an affordable rental property. Accordingly, additional funding (sometimes called “gap funding”) is often needed to help projects be financially viable and/or to qualify for a preference under the QAP. Local jurisdictions can set aside funds for gap funding of LIHTC projects, either through the housing trust fund if there is one, or through the
+HOME Investment Partnerships Program (HOME)
+or
+Community Development Block Grant (CDBG) Program
+allocations. This funding not only helps make local projects viable but also leverages substantial federal resources for affordable housing in the community through the award of 9 percent or 4 percent LIHTCs.
+Other project support
+As with other development projects, projects seeking LIHTC funding will often need zoning variances or special use permits to be financially viable. These can include, for example, increases in density or reductions in parking requirements. The viability of LIHTC projects can also be improved when they are located on public land or land acquired from the public at below-market levels. Additionally, offering local tax abatements can help by lowering the taxes owed for a specific period.
+Beyond project-specific assistance, local officials can also help by adopting broad-based policies that help reduce development costs for multifamily housing more generally. For example, localities can revise their
+zoning codes
+to make it easier to build multifamily housing without additional amendments or approvals, helping to save time and money. They can also reduce parking requirements, provide access to a streamlined permitting process, and/or reduce or waive fees assessed as part of the construction process for affordable properties. These steps help cut down on development costs, making it more likely that projects will be economically feasible.
+Other considerations
+Deep affordability
+Rent levels at LIHTC developments are typically too high to be affordable to extremely low-income households. By attaching project-based vouchers or other federal or state rental assistance to some or all of the affordable units in a development, the local housing agency can make these units available to individuals and families who require deeper subsidies. The guaranteed cash flow from long-term rental assistance contracts can also help support the financial sustainability of the LIHTC property.
+Fair housing and disparate impact
+Through their authority as LIHTC allocators, HFAs can help advance the goals of deconcentrating poverty, overcoming segregation patterns, and fostering inclusive communities. Both states and localities are obligated to affirmatively further fair housing, and the award of LIHTCs for properties located in
+resource-rich
+and integrated communities can help achieve this goal. HFAs have, on occasion, faced legal challenges on the grounds that decisions about LIHTC awards have resulted in the concentration of minorities in high-poverty areas. These decisions have also been argued to disproportionately affect certain protected classes. Guidance from the IRS aims to clarify roles and expectations, as seen in documents like
+Revenue Ruling 2016-29
+and
+Notice 2016-77
+.
+Investor demand
+Robust investor demand for tax credits is critical to the success of the LIHTC program. Banks account for a large share of tax credit investment, and their demand is influenced by a range of factors that can vary from year to year, including profitability and the need to offset tax liability, yields on alternative investments, and competition for Community Reinvestment Act credit. Changes in tax policy and legislation can also have an impact on demand, particularly reforms that reduce the corporate income tax rate. While neither HFAs nor local jurisdictions can control these factors, they should be considered as elements that can greatly affect LIHTC pricing and the amount of equity available to support affordable housing development.
+Examples
+In
+Minnesota
+, the state housing finance agency (Minnesota Housing) has primary responsibility for allocating LIHTCs. However, certain local jurisdictions have been designated as suballocators and are authorized to allocate and monitor a reserved portion of the state’s total tax credit allocation within city or county limits. Unless they have entered into a Joint Powers Agreement with Minnesota Housing, suballocators accept and review applications for developments in their jurisdiction in keeping with the priorities articulated in the state QAP.
+Additional information on the Minnesota 2026-2027 QAP is available on the Minnesota Housing website
+.
+The QAP issued by the
+Texas Department of Housing and Community Affairs
+includes several provisions explicitly seeking to de-concentrate LIHTC properties. For example, the state will not issue an award to a proposed development located within two miles of another development awarded tax credits in the same year. This rule applies only in counties with a population that exceeds one million. Similarly, applicants must receive special approval if the proposed development is located in a municipality with more than twice the state average of LIHTC units per capita.
+More information on the Texas 2025 Qualified Allocation Plan is available here
+.
+Related resources
+Implementation
+The Effects of the Low-Income Housing Tax Credit
+, NYU Furman Center (May 2017) – This research brief provides summary information on who lives in LIHTC developments, the impact these developments have on low-income neighborhoods and concentrations of poverty, and residents’ access to good schools.
+LIHTC Qualified Allocation Plans, Explained, (A Series)
+, Novogradac (September 2021) – This series gives an overview of the organizational structure of QAPs and offers drafting guidance.
+Low-Income Housing Tax Credit (LIHTC): Property and Tenant Level Data
+, HUD Office of Policy Development & Research – HUD’s portal to access LIHTC data includes geocoded project-level information about LIHTC developments placed in service between 1987 and 2023.
+Fair housing and desegregation
+Points for Place: Can State Governments Shape Siting Patterns of LIHTC Developments?
+, NYU Furman Center (December 2017) – This paper explores whether QAPs can be an effective tool for encouraging affordable housing development in higher opportunity neighborhoods.
+Effect of QAP Incentives on the Location of LIHTC Properties
+, U.S. Department of Housing and Urban Development (April 2015) – This research report examined QAP criteria in 21 states over nine years to assess how preferences related to project siting influenced the location of LIHTC developments. Through statistical analysis, the authors found that the impact of QAPs on location is statistically significant and favors projects located in resource-rich neighborhoods.
+Poverty concentration and the Low Income Housing Tax Credit, Effects of siting and tenant composition
+, Journal of Housing Economics (December 2016) – The authors use LIHTC tenant data and neighborhood data to assess the impact of LIHTC on neighborhood characteristics and concentrations of poverty. The analysis finds little evidence that LIHTC increases concentrations of poverty, and suggests that it can help reduce poverty rates in high-poverty neighborhoods.
+Gateway to Opportunity? Disparities in Neighborhood Conditions Among Low-Income Housing Tax Credit Residents
+, Housing Policy Debate (2018) – This article explores the neighborhood characteristics of LIHTC developments and how these differ depending on the race and income level of tenants.
+Affirmatively Furthering Fair Housing in the Low Income Housing Tax Credit Program
+, Poverty & Race Research Action Council (October 2023) – This report included a 50-state survey that tracked the development of civil rights-related provisions in state QAPs since 2008. It covered topics such as affirmative marketing requirements and tenant selection, incentives for siting developments in high opportunity neighborhoods, and community development requirements.
+Links to other objectives
+A Primer on Qualified Allocation Plans: Linking Public Health and Affordable Housing
+, ChangeLab Solutions (2015) – This report discusses strategies for incorporating provisions that support healthy homes and public health goals into the QAP.
+Producing affordable housing in higher-opportunity neighborhoods: Incentives in California’s LIHTC program,
+Journal of Urban Affairs (December 2023) – This article reviewed the impacts of California’s addition of incentives for LIHTC development in higher-resource areas. The authors discovered that after these incentives were introduced in 2018, the likelihood of large family LIHTC-funded projects being located in higher-resource areas doubled.
+Footnotes
+HPD LIHTC Green Threshold Requirement
+, NYC Department of Housing Preservation & Development.
+↑
+Low Income Housing Tax Credit 2025-2026 Qualified Allocation Plan
+, Commonwealth of Massachusetts Department of Housing and Community Development.
+↑
+State of Oregon 2025 Qualified Allocation Plan for Low Income Housing Tax Credits
+, Oregon Housing and Community Services.
+↑
+2026-2027 Self-Scoring Worksheet: Housing Tax Credits and Deferred Projects
+(Updated November 2024), Minnesota Housing.
+↑

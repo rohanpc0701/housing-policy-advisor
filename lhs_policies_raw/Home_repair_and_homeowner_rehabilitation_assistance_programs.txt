@@ -1,0 +1,55 @@
+Title: Home repair and homeowner rehabilitation assistance programs
+Source: https://www.localhousingsolutions.org/housing-policy-library/homeowner-rehabilitation-assistance-programs/
+
+The goal of these programs is to allow homeowners who might not otherwise be able to afford necessary repairs to maintain a safe and healthy living environment. Owners can use these funds to bring a property up to code, tend to electricity or plumbing issues, repair the roof and floor, or make upgrades that enhance the home’s energy efficiency or accessibility.
+These programs can help prevent the displacement of low-income households who otherwise may struggle to keep their home in livable condition. They can also play an important role in promoting racial equity and addressing health disparities across areas of a city.
+Approach
+Localities can fund homeowner rehabilitation assistance programs through a range of sources, including federal
+Community Development Block Grant
+(CDBG) and HOME Investment Partnerships Program (HOME) funds
+as well as local housing trust funds and local sources of revenue. One-time federal programs established through the American Rescue Plan Act program (ARPA) can also aid in this recovery. Assistance can be provided to the owner-occupant through grants and in-kind assistance, as well as deferred-payment, low-interest, and non-interest-bearing loans. Assistance may also be paid directly to the contractor – particularly for emergency repair programs for the neediest households.
+In choosing the form of assistance, attention should be paid to whether the intended recipients will be able to make regular loan payments. For those on very low incomes, grants or loans with deferred repayment until resale may be more appropriate, though they will generally entail higher program costs. When recipients have sufficient income to make regular payments, amortizing loans have the advantage of paying off the principal on a defined schedule; however, the payments will have to be higher than on an otherwise similar interest-only loan with deferred principal repayment until resale.
+The optimal funding vehicle may depend on the amount of assistance provided and the income level of the household receiving assistance. For example, localities wishing to provide homeownership rehabilitation assistance to families with incomes above 80 percent of the AMI will need to use local funds since they are not eligible for HOME or CDBG funds.
+Many communities partner with local philanthropies to fund these programs. As housing challenges have received increased attention in local and national news, philanthropic organizations are increasingly interested in addressing housing stability through home repair. Home repair programs can address racial and geographic disparities in housing quality and health outcomes across a city, which is a key area of focus for many philanthropic funders.
+Localities can also direct homeowners to various lending programs offered by the federal government. HUD’s Title I Property Improvement Loan can be used for any improvements that make a home more livable and useful.  FHA’s 203(k) Rehabilitation Mortgage Insurance program covers both the acquisition and rehabilitation of a property. With these mortgage insurance programs, lenders are able to offer loans to homebuyers based on the projected, post-rehab collateral value of the property. The Section 504 Home Repair program, offered by the U.S. Department of Agriculture Rural Development, provides loans to very low-income homeowners to repair, improve, or modernize their homes. Some state and local housing finance agencies also offer mortgage programs designed to meet this need. Localities should also consider volunteer home repair programs such as those offered through Rebuilding Together.
+Management and administration of homeowner rehabilitation assistance programs can be a significant endeavor because of the monitoring of work and oversight of repayment processes, particularly if the program is funded by federal sources such as CDBG and HOME. Smaller localities or localities with limited administrative capacity should consider regional partnerships or working with regional non-profits that may be able to act as sub-recipients for federal programs.
+Coverage
+Programs vary in terms of what types of repairs they will cover and can include structural alterations and reconstruction, as well as repairs or improvements to plumbing, electrical, or septic systems; replacement of roofing, floors, or windows; or other activities as specified by the jurisdiction. Some local jurisdictions have separate programs that focus on specific issues, such as addressing emergency repairs, improving energy efficiency, making accessibility improvements for seniors, or
+lead paint abatement
+. Others have a wide scope and can even be used for consumer durables such as built-in dishwashers and ovens. When demand for the program exceeds available resources, cities and counties may choose to prioritize those repairs that affect residents’ health and safety before considering other work.
+In localities with
+soft or softening housing markets
+, homeowner rehabilitation assistance programs can provide an essential lifeline for residents unable to access private financing. In addition to keeping housing staff, improvements that can stabilize housing conditions can help stabilize housing markets when paired with other economic revitalization initiatives.
+Eligibility
+Programs typically have income tests, with many using 80 percent of AMI as the threshold. In
+Chicago, IL,
+eligible homeowners must earn 50 percent of the AMI or below. Most homeowners are asked to provide a clear title to the property and home insurance coverage and must be up to date on mortgage and property tax payments. Some programs also have caps on the value of the property or limit eligibility to single-family homes or duplexes (i.e., owners of mobile or
+manufactured homes
+and condos are not eligible for assistance). Local jurisdictions may also require homeowners to schedule an inspection with city staff to verify the scope of work, obtain several cost estimates, and work with a licensed contractor.
+Some localities target their assistance towards particular groups or may offer them more favorable terms compared with other homeowners. For example, seniors and people with disabilities may be eligible for grants, while other homeowners are only offered loans. In
+Atlanta, GA
+, homeowners are prioritized by the length of their residency: homeowners must have resided in their home for more than fifteen years, seniors, veterans, and people with disabilities are given the highest priority for funding. In order to be eligible for the program, homeowners must have resided in their homes for at least five years.
+Examples
+In the Township of West Orange, New Jersey,
+the West Orange Housing Rehabilitation Program
+(WOHRP) is funded through developer fees and offers low- and moderate-income homeowners loans of up to $35,000 at zero percent interest to assist in home repairs and basic improvements. Coverage includes necessary repair or replacement of roofs, heating and electrical systems, doors and windows, and kitchen and bathroom updates, among other projects. These loans are not repaid to the township until the homeowner sells the home, and there are no monthly payments. The loan is forgiven for homeowners who stay in their home for 12 years.
+The Redevelopment Authority of the County of Fayette, Pennsylvania’s
+Homeowner Rehabilitation Program
+assists low- and moderate-income homeowners (as defined by HUD) through the provision of no-interest rehabilitation loans up to $22,500. Only code items or health and safety hazards can be addressed through this program. Examples of eligible repair work include repair and replacement of roofs and furnaces, new electric or plumbing, replacement of windows and doors, and general stabilization and safety improvements. Homeowners are required to use pre-approved contractors.
+Small and midsize cities across California help low-income residents repair and rehabilitate their homes. In Southern California, the City of Walnut’s
+Housing Rehabilitation Program
+offers low- and moderate-income homeowners of single-family detached dwellings with funding for home improvements that correct hazardous structural conditions, correct code violations, and support handicapped accessibility. The program provides grants of up to $12,500 and deferred zero percent interest loans up to $30,000. Eligible improvements include repair and replacement of roofs and HVAC systems, exterior painting, termite and pest control, and smoke detector installation. Meanwhile, in northern California, Daly City administers a
+home rehabilitation program
+funded through CDBG. The initiative offers grants and low-interest loans to both low-income homeowners and rental property owners where low-income renters make up 51 percent or more of the building. Eligible services include a complete rehabilitation loan (up to $75,000 at 1 percent interest), roof and window repairs, exterior painting, a security bars retrofit (up to $1,000), and a senior minor home repair grant (up to $2,500 for individuals 60 years and older).
+Related resources
+HUD’s Title I Property Improvement Loan
+provides details on maximum loan amounts and other parameters of HUD’s Title I Property Improvement Loan.
+USDA-RD’s Section 504 Home Repair program
+provides loans to homeowners with incomes below 50 percent of AMI.
+HUD’s HOME Investment Partnerships Program
+can be used to assist existing homeowners with the repair, rehabilitation, or reconstruction of owner-occupied units.
+The Center for Community Progress
+highlights property rehabilitation programs.
+See our full list of home repair funding opportunities in our
+federal funding directory
+.

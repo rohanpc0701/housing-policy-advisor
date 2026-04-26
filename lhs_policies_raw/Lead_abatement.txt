@@ -1,0 +1,57 @@
+Title: Lead abatement
+Source: https://www.localhousingsolutions.org/housing-policy-library/lead-abatement/
+
+Lead hazards in homes may be present in paint and in drinking water. Federal law requires that renters and homebuyers receive a disclosure form before they rent or buy a home built prior to 1978 to make sure they are aware of the risks of exposure to lead. For some types of federally-owned housing, the presence of a child with elevated blood lead levels trigger additional obligations, such as conducting an environmental investigation. The maximum acceptable blood level concentration is set by the U.S. Department of Health and Human Services.
+Because, in many instances, local governments do not have the authority to enforce federal or state standards directly, local steps to eliminate lead hazards may focus on incorporating federal and state requirements into
+ordinances
+. Other measures include requiring testing of homes for the presence of lead, providing financial assistance to replace or enclose areas with lead paint, and educating renters and owners about the hazards of lead paint.
+Approach
+The authority of local governments to enforce federal and state requirements relating to exposure to lead is limited. To overcome this problem, local jurisdictions may rely on the authority conferred by existing state housing laws that impose maintenance obligations on owners of buildings, some of which require landlords to prevent deterioration of their buildings, which may be interpreted to include paint. Subject to the limitations in state and federal law, local governments may also enact ordinances that incorporate federal or state requirements on lead hazard protection. By doing so, cities, towns, and counties can then enforce the obligations contemplated in these ordinances. These provisions typically require sellers and landlords of housing built before 1978 to disclose to buyers and renters any known information on lead hazards, provide a pamphlet drafted by the Environmental Protection Agency (EPA) and the Department of Housing and Urban Development (HUD), and grant sellers and buyers a 10-day period for lead inspection and testing. Other relevant federal and state provisions that local jurisdictions often include in local ordinances regulate renovation and repair activities in pre-1978 housing to ensure that exposure to paint dust is minimized. See
+EPA and HUD fact sheet
+and
+Small Entity Compliance Guide to Renovate Right
+for more details.
+Beyond incorporation of state and federal ordinances, local governments can employ other approaches to protect renters and homeowners from lead exposure. These approaches include requiring or conducting home inspections, providing financial assistance for lead abatement, and educating renters and owners about lead hazards. Localities may also want to consider incorporating lead abatement requirements into preservation initiatives.
+Home inspections for lead-exposure risk
+Requiring inspections of housing that could present a risk of lead exposures is one the most common ways for a locality to increase the level of protection beyond that offered by federal legislation. There are four key features of lead inspection policies to consider. The first focuses on who will conduct the inspection. Some local jurisdictions require landlords to perform the inspections, others require inspections to be conducted by trained city lead inspectors or private risk assessors. Budgetary, staffing, and lead exposure risk considerations will be important factors for cities, towns, and counties to consider when deciding which approach to take.
+The second feature relates to how exhaustive the inspection should be. Some local jurisdictions have required visual inspections and others have opted for more thorough alternatives, such as taking samples using dust wipes.
+The third key feature that localities need to define is what will trigger the obligation to inspect. One possibility is to require inspections only in cases in which a child with elevated blood levels is present, which may be detected during periodic mandatory testing required by some states. Another option is to adopt a system of periodic inspections. A third approach is to have inspections occur immediately before a unit is rented to a new lessee and require the repair of deteriorated surfaces. When only visual inspections are required at turnover, some jurisdictions require that the landowner keep and, in some instances, submit to the administering agency, a written record of such inspections.
+The last key feature is coverage. Lead paint protection policies typically apply to pre-1978 housing. However, local jurisdictions will need to decide whether the inspection requirements apply to residential units or also to child care facilities and schools. Moreover, the policy can apply to all residential buildings or only to rental housing.
+Providing financial assistance for lead abatement
+Financial assistance for lead abatement can serve two purposes. First, local governments can provide this type of assistance to reduce the cost of undertaking lead abatement measures. The eligibility criteria for this support generally focus on when the building was built and whether there are children under a particular age living in any unit—the cutoff is often 6 years of age. A community may also want to condition the availability of assistance for multifamily housing on other criteria, such as the affordability level of the rental units in the building. Another decision that local jurisdictions will need to make is whether they aim to cover 100 percent of the cost of eliminating lead hazards in the building or only a portion of these expenses. Moreover, the form of the assistance is also an important feature to consider. Common types of financial support include grants, loans, and
+forgivable loans
+. Smaller and economically distressed jurisdictions should consider opportunities to partner with local, regional, or state public health initiatives to reduce lead exposure.
+Second, local governments can also use federal and state lead prevention grants. While the availability of state grants varies widely, the two main federal agencies that are providing—or have provided—this type of assistance are EPA and HUD. EPA has offered grants in the past to carry out activities that reduce the incidence of lead poisoning in children, especially in vulnerable populations. HUD has also traditionally provided
+grants
+for which local governments are eligible, such as the Healthy Homes Technical Studies Grant, Lead Technical Studies Grant, and Healthy Homes Demonstration grant.
+Information for landlords and tenants
+Local jurisdictions often create their own pamphlets to inform landlords of their obligations with respect to lead poisoning. These documents may include information on which buildings fall within the scope of local lead poisoning prevention ordinances, and they may also outline the inspection, repair, and record-keeping obligations to which landlords are subject. New York City has
+provided an example
+of an information pamphlet for landlords. It is also not uncommon for local jurisdictions to make information on lead poisoning available to tenants.
+Other considerations
+Lead in water
+Policies relating to lead in water at the local level are less pervasive than those controlling lead-based paint. The main policy to reduce the concentration of lead in water has been to remove lead service lines. In order to identify the areas that are in more need of this type of intervention, some cities, towns, and counties have given their residents the option to test the water in their units at no cost. The results of these tests can then be used to determine which areas are in most need of measures to reduce lead in water.
+Lead in soil
+The EPA has set standards for lead in soil based on which the EPA or state environmental agencies could require the landowner or other potentially responsible parties to clean up the land. Policies to prevent exposure to elevated lead levels in soil include issuing Tenant Protection Vouchers, which allow residents to relocate. Possible actions at the local level include efforts to identify sites that could have high levels of lead by analyzing their previous use and, in some cases, testing the soil for lead and other pollutants likely to be present.
+Examples
+Burlington, VT,
+imposes a variety of obligations on owners of “rental target housing,” i.e., rental housing built before 1978 and in which a child of six years of age or younger lives. Owners of these buildings must obtain a certification for any work performed in the building. They must also carry out a specialized cleaning of units upon turnover of rental units and of common areas at least once a year. In addition, any work performed on rental target housing that disturbs more than one square foot of painted interior or exterior must follow a set of lead safe work practices.
+Section 18-112 of the Burlington Code of Ordinances
+provides more details.
+New York City, NY,
+requires landlords to investigate lead-based paint hazards prior to a residential unit turnover, and, after that, annually. Any deteriorated surfaces found during these investigations must be remediated. Landlords must also maintain records of inspections and repairs. These obligations apply to units built before 1960—or, if lead paint is known to exist, units built before 1978—and in which a child under six year old lives, with the exception of dwelling units whose title is held by a cooperative or condominium and those occupying the unit are the shareholder and his or her family. New York City’s
+Housing Preservation and Development website lists the annual requirements
+and more information. New York City also provides its residents
+free kits
+to test the levels of lead in water.
+Related resources
+Housing with Potential Lead Risk, City Health Dashboard (2020) –
+A useful data tool
+that compares the housing stocks with potential elevated lead risk across localities.
+Analysis of Local Policies
+Are Local Laws the Key to Ending Childhood Lead Poisoning?, J Health Polit Policy Law (2013) –
+Compares the design of different local policies to reduce lead hazards.
+The study focuses on the ordinances enacted by Burlington, VT; Chicago, IL; Cleveland; OH, Detroit, MI; Philadelphia, PA; Rochester, NY; San Diego, CA; and Washington DC.
+Final Report and Recommendations, City of Philadelphia, ICMA (2017) –
+Describes the recommendations of the Childhood Lead Poisoning Prevention Advisory Group
+on how to reduce lead poisoning in Philadelphia by modifying or supplementing the existing lead prevention policies. These recommendations can be useful for other towns.

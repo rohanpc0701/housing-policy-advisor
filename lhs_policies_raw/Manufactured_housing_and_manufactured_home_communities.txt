@@ -1,0 +1,138 @@
+Title: Manufactured housing and manufactured home communities
+Source: https://www.localhousingsolutions.org/housing-policy-library/manufactured-housing-and-manufactured-home-communities/
+
+MH can serve as a dwelling with or without a permanent foundation when connected to the required utilities. In contrast to site-built housing, MH owners may simply rent the land on which the MH sits. While that land may include single lots, it may be part of what is referred to as a manufactured home community where multiple manufactured homes sit on individual parcels, all of which are owned by a single entity that rents out those parcels and provides the utilities and other common services.
+The common circumstance where ownership of the structure is separate from ownership of the underlying land leaves the MH owner vulnerable to displacement if an owner decides to sell or convert the land to other uses or raise rents excessively. In addition, an MH structure is legally chattel and not real estate (i.e., real property), and so cannot qualify for a standard mortgage and faces higher funding costs. Nevertheless, some local jurisdictions have sought to preserve the existing MH stock by providing more stability to owners of MH units on leased land and allowed for the expansion of MHCs to provide residents with additional affordable housing options. MH benefits from being an affordable option because it can be built in a factory subject only to a national building code
+2
+rather than various local codes.
+Approach
+MH and MHCs can help localities address affordability issues within their jurisdiction.
+In the United States, MH houses 22 million Americans. Manufactured homes make up
+6.3 percent
+of the housing stock and
+10 percent
+percent of new single-family home starts. MHCs tend to be denser than surrounding neighborhoods with single-family housing. For example, in Sunnyvale, CA, MHCs achieve gross densities between
+eight and 10 units per acre
+, whereas surrounding neighborhoods with single-family housing have approximately six units per acre.
+Unlike traditional homeownership, where land and the housing structure are sold as a bundle, MH units are generally sold separately from the land. As outlined in a recently published
+NYU Furman Center report
+, there are three main ownership configurations for MH units:
+MH rental
+, where both the structure and the land are owned by a landlord and rented to the structure’s resident.
+MH structure-and-land-ownership
+, where both the structure and land are owned by the structure’s resident.
+MH structure ownership with rental of the underlying land
+, where the structure is owned by the structure’s resident, but the land is leased from a landlord. This is the most common type of MH configuration.
+As for MHCs, there are various types of configurations. These are the most
+common types
+:
+Land-leased communities
+, where the land is owned by an individual or business entity that leases individual lots to residents.
+Investor-owned communities
+, where big-name real estate investment trusts, private equity funds, or regional investors own the land and lease lots to residents.
+Resident-owned communities
+, where homeowners join together to form a business entity called a cooperative that owns the land and manages the community.
+Mobile home park chains
+, where ownership is centrally controlled and can be run on many levels by a central administration or follow a predesigned plan to operate as a franchise.
+Budget communities
+, where the bare necessities (a place to set up manufactured homes and hook up utilities) are provided.
+Luxury communities
+, where communities are located in places with expensive real estate.
+Specialty communities
+, where certain interests and hobbies are catered to (e.g., golf-centric, pet-friendly, family-focused, retirement communities, LGBTQ-focused, etc.).
+Addressing vulnerabilities
+Each ownership and community form may have unique issues; however, four sets of vulnerabilities are common to MHCs: financing, gentrification and displacement, sustainability and climate change, and zoning. Action at both the national and local levels could help mitigate them.
+Financing
+Although MH offers
+significant cost advantages over traditional housing
+, even when accounting for elements such as size, amenities, or the costs of transporting and siting these homes, they are typically ineligible for a 30-year, fixed-rate mortgage, which means many borrowers must rely on structure-only loans. These so-called chattel loans have much higher interest rates and worse terms than traditional mortgages. Owners also miss out on the important benefits of their investment appreciating over time, since land holds more value than any structure.
+One potential solution to this challenge would be to retrofit existing non-real property single-family manufactured homes so that the structure is physically attached to the land. Owners should be incentivized to make the necessary changes to their structures in order to qualify for conventional mortgages with lower rates and longer maturities.
+Additionally, the share of newly purchased MH structures that are real property financed with conventional mortgages should be increased. Many new MH structures sit on resident-owned land but nevertheless are not sited on a more expensive traditional foundation and are financed with structure-only loans, which are quicker and cheaper than conventional mortgages. Education about the long-term benefits of real property financing could increase the 20 percent of MH owners who choose this route.
+The government mortgage lending agencies could also support the purchase of MHCs by residents when these are sold. There is a movement for state-level legislation to require a period for residents to develop financing to buy the property when own-rent MHCs come up for sale. This would turn an own-rent configuration into an own-own one, creating a more advantageous form of homeownership for residents.
+Gentrification and displacement
+An issue plaguing MHCs is displacement resulting from investors purchasing parks and raising rent prices. Investors have promoted the purchase of manufactured home parks as a way to ensure a steady return on investment.
+Aside from rising rents, residents have also complained about added fees once investors purchase their park, such as fines for pets, clutter, maintenance, and speeding. Because many residents in MHCs are low-income, the increases in rent and added fees are unaffordable to them and result in them leaving communities that have housed their families for years or even generations in some cases.
+In the past eight years, one-fifth of manufactured home parks have been purchased by investors, leaving low-income homeowners of MH drastically disadvantaged, and unable to push back against institutional investors.
+To address this, some communities are moving to purchase their land collectively, an idea that originated with the non-profit group
+Resident Owned Communities USA
+. The group offers technical and financing assistance to a network of hundreds of co-ops in several states, with more than 14,000 mobile homeowners.
+Sustainability and climate change
+Due to restrictive zoning that limits MH and MHC locations in climatically hazardous “fringe environments,” such as floodplains and fire-prone urban edges, sustainability and climate adaptation are some of the most significant challenges facing MHCs and their residents.
+The Federal Manufactured Home Construction and Safety Standards Act of 1974 regulated the construction and safety of manufactured housing, but there has been no significant update to the Act since 1994. In 2021, however, the
+Office of Energy Efficiency and Renewable Energy
+published proposed rules and regulations to update the HUD Codes for manufactured housing to weatherize homes and make them more energy efficient.
+The Office proposed that there be a
+tiered approach
+to the energy conservation standards so that they would be less stringent for certain low-income manufactured home households. Tier 1 would apply to manufactured homes with a manufacturer’s retail list price of $55,000 or less, and Tier 2 would apply to manufactured homes with a manufacturer’s retail list price above $55,000. Both tiers would incorporate building thermal envelope measures based on certain thermal envelope components subject to the 2021 International Energy Conservation Code (IECC), but Tier 1 would do so at a price point that was more affordable than Tier 2. Alternatives to this approach include tiered standards based on size, untiered standards, and no action.
+In
+Montana
+, more than one in five manufactured homes are situated in high-flood-risk neighborhoods. At Missouri Meadows in Great Falls, the nonprofit NeighborWorks Montana is guiding a relocation effort and raising funds to elevate the vacant lots, one by one, above the floodplain. Once completed, the lots will be made available for new residents.
+Other jurisdictions are reallocating federal and state funds to relocate MH residents from climatically hazardous regions into safer locations. In
+Vermont
+, researchers found that about one-third of mobile home communities are at least partially in federal floodplains. Tri-Park Cooperative is Vermont’s largest and oldest resident-owned MHC. It hosts approximately 1,000 residents and is vulnerable to flooding. In partnership with the Town of Brattleboro, the co-op has organized a $7.9 million effort to relocate 26 MH households out of the flood zone and into new manufactured homes in safer locations within the park.
+Additionally, from 2021 to 2022, Vermont officials allocated approximately $19.4 million in American Rescue Plan Act funding to the fund. Led by Vermont Emergency Management, the fund will help pay for flood mitigation projects, like the Tri-Park relocations and buyouts for MH owners whose moving costs aren’t covered by a standard FEMA buyout.
+Zoning
+Localities play an important role in helping limit or expand MHCs. Zoning and other land use regulations can have biases for apartment complexes, townhomes, or commercial developments and can effectively work to push MH and MHCs out.
+3
+For example, within the
+Pima County-Tucson
+area of Arizona, there are approximately 53,000 MH units, accounting for 12.3 percent of the overall 429,000 homes. Pima County’s regulations specify particular zones where the installation of MH is allowed. All are rural, and several require extremely large parcels. This limitation acts to keep manufactured homes out of higher-density, developed areas and keeps MH homeowners from accessing amenities in urban areas.
+In
+Aurora, Colorado
+,
+there are approximately 2,500 mobile homes allocated to 300 acres of land. The city has proposed that Denver Meadows – an MHC in the area – be rezoned to a Transit-Oriented Development (TOD) Sub-District to increase the value of the land. This action would result in the MHC closing and the land sold for redevelopment.
+The state and local role
+A key consideration as state legislatures and localities consider expanding affordable housing options for residents entails the inclusion of MH and MHCs in their efforts at single-family zoning reform. This would allow more MH in suburbs usually zoned for single-family housing and could be a path to more affordable, stable housing.
+Additionally, jurisdictions can pass legislation to protect MH homeowners and MHCs to prevent their displacement. In 2018,
+California
+passed the Mobilehome Residency Law Protection Act. Within it is the Mobilehome Residency Law Protection Program (MRLPP), which charges a $10 fee to MHC owners and allows any MH homeowner living in an MHC under a rental agreement to submit complaints for an alleged violation of the Mobilehome Residency Law. Common violations include illegal grounds for eviction, failure to provide proper notice of rent increases, or having no written rental agreement between the park and MH owner.
+Examples
+Rice County, MN
+is currently researching policies to protect vulnerable residents who live in manufactured home communities, including those whose homes are unsafe because of the structure’s deterioration, while the City of Faribault in Rice County passed an ordinance requiring a time of sale inspection for manufactured homes to ensure their physical integrity.
+Missoula, MT
+is seeking to better protect MHCs. To that end, Missoula began its displacement policy work in 2022 for renters and manufactured housing communities. The city is currently holding community meetings and listening sessions in order to capture common citizens’ concerns and will present its findings to the oversight committee and city council.
+Boulder, CO
+,
+purchased the Ponderosa Mobile Home Park as part of the
+Ponderosa Community Stabilization Project
+, which aims to minimize displacement, preserve long-term affordability, replace outdated infrastructure, reduce flood risk to the community, and introduce new energy-efficient affordable housing options. They intend to build new modular homes that will be energy efficient, allow residents to build wealth, and be permanently affordable to extremely low-, low-, moderate-, and middle-income households.
+Related resources
+Background
+Authored by Don Layton and published by the
+NYU Furman Center
+, this three-part series provides a thorough overview of the complex MH landscape as well as recommendations for improvement.
+Manufactured Housing is a Good Source of Unsubsidized Affordable Housing – Except When It’s Not: Key Facts and Figures, and Some Unusual Economics (Part 1)
+. Part 1 takes a fresh look at MH to determine just how much it truly can be a large-scale natural source of additional affordable housing, whether owner-occupied or rental.
+Manufactured Housing Is a Good Source of Unsubsidized Affordable Housing –  Except When It’s Not: Q&A on Eight Key Policy Topics (Part 2)
+. Part 2 examines eight key policy topics, via a Q&A format, that must be accurately understood to develop effective policy that can expand affordable housing via MH.
+Manufactured Housing Is a Good Source of Unsubsidized Affordable Housing – Except When It’s Not: High-Level and Specific Policy Recommendations (Part 3)
+. Part 3 lays out recommendations designed to fit the complex economics of the MH marketplace.
+Implementation
+8 Tools for Preserving Mobile Home Parks
+, The Uprooted Project: The University of Texas at Austin. While specific to the Austin, Texas area, this toolkit provides examples for localities wishing to preserve MHCs within their communities. The toolkit also includes a model ordinance that localities can use to guide the creation of their own.
+Manufactured Housing
+, National Consumer Law Center.  The National Consumer Law Center (NCLC) works to promote sustainable policies and practices in manufactured housing, including the ability to title the home as real property and the preservation of manufactured home communities. This resource leads to a list of policy guides related to resident-owned communities.
+Resident Owned Communities USA (ROC USA)
+is a non-profit organization that scales resident ownership of manufactured home communities.
+ROC USA and its
+Network Affiliates
+work with hundreds of resident-owned communities coast to coast. ROCs are rural, suburban, and metropolitan and range in size from just 4 homes to more than 400.
+Additional resources and examples
+Manufactured Home Parks Handbook
+, Office of the Minnesota Attorney General — The Office of the Minnesota Attorney General has published a handbook for MHCs which provides details on how to purchase a manufactured home, the responsibilities of park owners and managers, what reasonable and unreasonable park rules may be, which fees are considered legal and illegal, and more.
+Manufactured Home “Time of Sale” Program
+, Faribault, MN — This program mandates inspections and repairs when manufactured homes are transferred in ownership. Its purpose is to enhance the supply of safe, sanitary, and adequate manufactured homes and to prevent the deterioration of the existing stock of manufactured homes in the city.
+Mobilehome Residency Law Protection Program
+, State of California — To help resolve disputes, California created the Mobilehome Residency Law Protection Program (MRLPP) through the Mobilehome Residency Law Protection Act of 2018, Assembly Bill 3066. California also hosts a
+Mobilehome Residency Law Handbook
+so tenants and owners can know their rights.
+Hurricane Loss Mitigation Program
+, State of Florida — Florida’s Division of Emergency Management created the Hurricane Loss Mitigation Program to act as a specialized, state-funded mitigation program aimed at minimizing damages caused by hurricanes. The program funds, among other things, activities that promote property resiliency through retrofits made to MH properties.
+Footnotes
+[1]
+To distinguish them from other forms of factory-built housing, e.g., modular housing, MH units are
+structurally built
+in such a way that they can have wheels added and be pulled by a truck to a chosen location, where the wheels and towing connection (the “tongue” or hitch) are removed, the unit is sited, and the necessary electricity and plumbing connections are made. There are generally three levels of quality for MH. The highest level has finishes roughly equal to those found in an average site-built home, while the lowest is oriented towards affordability and uses low-quality materials and construction techniques.
+[2]
+The construction of manufactured housing is regulated by the federal government, exempting it from having to deal with the vagaries of local building codes that govern site-built housing. Federal regulation requires these housing units to be constructed in the controlled environment of a factory and verified by a seal from the U.S. Department of Housing and Urban Development (HUD).
+[3] See City of Des Moines v. Ogden, No. 16-1080 (Iowa Ct. App. June 7, 2017).

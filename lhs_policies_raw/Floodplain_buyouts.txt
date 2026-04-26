@@ -1,0 +1,197 @@
+Title: Floodplain buyouts
+Source: https://www.localhousingsolutions.org/housing-policy-library/floodplain-buyouts/
+
+Such programs can be opportunities to prevent individual property owners from transferring high-risk housing to other homebuyers by instead directly purchasing properties and transforming flood-prone land into green infrastructure that bolsters climate resilience. However, buyout programs are complex, can be politically challenging, and may lead to inequitable outcomes if not pursued thoughtfully. For example,
+recent research
+illustrates racial inequities in access to and participation in voluntary buyout programs.
+This brief draws on academic literature, examples, lessons learned from past buyouts, and conversations with practitioners and researchers to shed light on the challenges and opportunities that floodplain buyouts present and offer guidance for jurisdictions considering buyouts. It describes the common goals and elements of floodplain buyouts, and highlights design options for key program features.
+Buyouts are often viewed as
+politically fraught
+and
+expensive to administer
+. Their implications on property tax revenues, future costs of land maintenance, and potential pushback from residents lead some localities to avoid them, even if they are eligible to receive federal funding to implement them. Decreasing the amount of developable, privately-owned land within a city risks
+reduced revenues
+from property taxes, one of the
+main sources
+of funding for municipalities across the country. In addition, some experts express concern that the possibility of future buyout opportunities might incentivize some homeowners to remain in high-risk properties or forgo adequate flood insurance. Notably, implementing buyouts in one area does not ensure that residents do not relocate to similarly high-risk areas: a scan of over 40,000 buyouts funded by the Federal Emergency Management Agency (FEMA) found that
+almost a third
+of households moved to areas with flood risks similar to those in their original neighborhood. More research is needed to inform future buyout program design and implementation, and careful consideration of these challenges is necessary to ensure that buyouts work as intended.
+Background
+Governments have historically pursued the acquisition of private property in several different contexts. U.S. cities have adopted buyout programs designed specifically in response to flood-related threats
+since the 1970s
+, but they have only gained substantial attention from academic researchers since 2010. Buyouts have also been explored in other high-risk contexts such as
+fire-prone communities
+, but
+the environmental considerations tend to be different
+. In this brief, we focus narrowly on floodplains.
+Where used, many floodplain buyouts feature some or all of the following steps:
+The president
+officially declares
+a major disaster after it has caused extensive damage, thereby unlocking federal disaster recovery funds for the impacted jurisdiction.
+A local public agency
+identifies properties
+in its jurisdiction that were damaged by a recent disaster, sustained significant flood-related damage in the past, and/or are at a high risk of future flooding.
+The local agency then issues offers to the owners of the identified properties to purchase the properties, often based on the
+home’s pre-storm value
+.
+If the offer is accepted, the bought-out households transfer ownership of the property and obtain housing elsewhere, ideally outside the floodplain.
+Finally, governments demolish the homes and maintain the land.
+Key program design features
+Funding
+Historically, federal agencies have been the
+primary source
+of funding for local buyout programs, most notably FEMA’s
+Hazard Mitigation Grant Program
+(HMGP) and the Department of Housing and Urban Development’s (HUD)
+Community Development Block Grant – Disaster Recovery
+program (CDBG-DR). The Congressional Research Service
+lists other federal sources
+that can fund buyout programs in floodplains.
+FEMA’s hazard mitigation grants and HUD’s disaster recovery grants are only available to communities after a presidentially declared disaster. Local governments and households will find themselves
+financially responsible
+for the damages associated with other disasters or for preemptive buyouts before a disaster occurs, and
+some states and localities have created their own programs
+with a combination of federal and local funding sources. Some sources that cities nationwide have used for buyouts include stormwater utility fees, local option sales taxes, and municipal bonds.
+Stormwater utility fees
+Cities with established stormwater utilities may find that these entities are ideal partners in implementing a buyout program. Stormwater utilities are established specifically for the management of stormwater. Their mission and
+ability to raise fees
+to manage stormwater outside a city’s property-tax-fueled general funds means they face fewer conflicting incentives to take action on flood-prone properties through buyouts. In Charlotte-Mecklenburg County, North Carolina, for example, most of the
+four million dollars
+currently dedicated to buyouts comes from the local stormwater utility fee.
+Local option sales taxes
+Voter-approved, special-purpose sales taxes can also provide dedicated local financing for buyout programs. Residents in cities like Austin, Texas, and Neosho, Missouri, have
+approved new taxes
+in the
+years
+following
+a major flood event.
+Municipal bonds
+Places like Harris County, Texas, and Tulsa, Oklahoma, have issued
+municipal bonds
+to raise funds to support buyout programs. However,
+researchers note
+that this strategy typically works to quickly raise money to meet federal cost-sharing requirements, rather than fully financing a buyout program.
+When leveraging local funding, governments should also design buyout programs that coordinate with other federal and state programs, including the National Flood Insurance Program, to ensure that households do not receive conflicting incentives.
+Timing
+Most buyouts occur directly after disasters occur due to federal funding guidelines. Emerging research indicates that pre-disaster programs can
+lessen the disruptions
+posed by buyouts,
+increase the benefits
+gained from implementing them, and facilitate program improvement over time.
+Voluntary versus mandatory
+Buyouts can be based on voluntary or mandatory
+participation from homeowners. The majority of buyouts across the country are voluntary, as this is
+required by FEMA’s Hazard Mitigation Grant Program
+and
+highly recommended
+by HUD’s Disaster Recovery Buyout Program.
+Jurisdictions often need to take additional steps to ensure voluntary programs respect residents’ freedom of choice. Offering buyouts as one of several options for homeowners to consider before disasters occur–and not solely after a disaster–can avoid time-bound, high-stress situations. This approach helps mitigate the public perception that participation in these programs, which are intended to be voluntary, is
+involuntary
+.
+Several programs nationwide, notably in
+Harris County, TX
+, have implemented mandatory buyouts. While these programs benefit from more control over the possible end uses of bought-out land (discussed later in this brief), coordinating relocation support for impacted households becomes more critical. In Harris County’s case, many residents received offers from the county’s separate
+voluntary buyout program
+before implementing mandatory buyouts.
+Eligibility and prioritization
+Buyout programs supported by FEMA’s hazard mitigation grants
+determine homeowner eligibility
+primarily through cost-effectiveness. These calculations consider whether a structure is located within a FEMA-mapped floodplain, has sustained substantial damage, or has experienced repeated damage in the past.
+Federal guidelines can make it challenging for buyout programs to support some residents, such as
+homeowners with upside-down mortgages and renters
+. Several local buyout programs have found ways to leverage local data and regulations to make their operations more accessible to residents in need.
+Relocation assistance
+In Austin, TX, renters whose landlords accept buyouts are eligible to
+receive relocation assistance
+from the Watershed Protection Department (WPD). This assistance includes advising services on finding new housing and payments covering the additional costs of renting a comparable unit elsewhere. These supports are modeled after
+federal guidelines
+required of programs that involuntarily displace residents. However, Austin’s WPD has voluntarily adopted these guidelines–and thus must self-fund their implementation–in order to meet local needs in a city where
+roughly half
+of the housing stock is renter-occupied.
+Local mapping and criteria
+Charlotte-Mecklenburg County Stormwater Services
+maps community floodplains and floodways
+that project future flood risk by combining historical data with future land use patterns. The agency also created a unique cost-benefit analysis process using detailed data it collected on each property in the floodplain, including information on the elevations of critical building systems and the community value of the property, such as whether it is a historic site. This type of analysis, with locally driven criteria and data collection, can help create programs responsive to local conditions.
+Assistance
+Buyout programs across the country have used
+differing levels of assistance
+to homeowners after they purchase properties. On one end of the spectrum, buyouts can be modeled like a private transaction in which the bought-out owners receive no additional support from the government. On the other end, governments can offer
+incentives
+and
+housing counselors
+to support households before, during, and after their moves. Many of the largest, continuously-operating buyout programs, such as those in
+Austin, TX
+, and the State of
+New Jersey,
+include additional resources for owners.
+Incentives
+Many cities offer property owners monetary incentives in addition to the home’s pre-storm fair market value. In Kinston, North Carolina, and Grand Forks, North Dakota, buyout programs offered an
+additional $10,000
+to households that bought homes within city limits (both programs operated in the mid-1990s; these incentives are worth over $20,000 in 2024 dollars). As of 2024, Harris County, TX, offered households an
+additional $19,000
+to relocate within the county.
+Cities can also use incentives to motivate households to buy homes
+outside of flood zones
+, like Kinston and Greenville, North Carolina, or homes that are more
+energy efficient
+, like Valmeyer, Illinois.
+Housing counseling
+A few buyout programs have used housing counselors with mixed success. Ideally, counselors can help communicate the options available to homeowners in accessible language, act as mediators between homeowners and the city, and provide emotional support.
+Researchers highlight
+San Antonio, TX, as a successful example of how to work with housing counselors. In this case, buyout program administrators hired counselors who had pre-existing relationships with community members and prior experience working with the city on housing-related outreach. Community outreach staff within local housing departments can be critical partners in identifying and training effective housing counselors to support buyout programs.
+End use of land
+Federal funding sources
+often
+restrict
+the construction of new structures on bought-out land. Still, governments have several options on what to do with the land after homes are bought out and demolished. Feasible end uses often depend on the number, size, and connectivity of parcels that have been bought out. The
+UNC Environmental Law Institute
+suggests the following:
+Patchwork: In areas where only a handful of lots have been bought out, communities could make the land available to local residents for low-risk uses like community gardens.
+Holdouts: In areas where many lots have been bought out, but a few households remain, communities could create public amenities that strategically avoid remaining properties.
+Comprehensive: In areas where all lots have been bought out, governments could create large parks or undertake habitat restoration projects.
+Engagement
+Decision-making processes about buyout program design–such as determinations around eligibility requirements, prioritization, and levels of assistance–should be made clear to communities to foster buy-in and informed participation.
+A panel of
+researchers and practitioners
+has promoted the use of
+deliberative democratic processes
+in the design of regional managed retreat strategies. These approaches, such as facilitating group learning and consensus-building through discussion, can help build local awareness of climate-related threats and provide policymakers with comprehensive information on the needs and priorities of residents. A Housing Solution Lab brief,
+Community Engagement for Local Housing Decisions
+, also provides cities with resources on how to understand and plan engagement opportunities to address a range of local housing goals and available resources.
+Linking buyouts to broader policy processes
+Researchers note that solely increasing the accessibility of buyouts
+will not be enough
+to address disparities in access to housing in areas of lower climate risk, and cities should consider a range of policies to help mitigate flood risk and increase climate resilience. For example, cities can pursue a suite of local policies that:
+Reduce
+the exposure of new development to climate risks
+, using policy tools like regulations on construction in floodplains.
+Increase the
+resilience of existing homes
+through retrofit programs and updated building codes.
+Support
+housing affordability
+in tight housing markets by increasing supply in ways that do not exacerbate exposure to climate risk, such as
+climate-informed zoning
+.
+Mitigate the pace of climate change
+through initiatives that work to decrease citywide emissions.
+The Housing Solution Lab’s landing page on
+housing and climate policy
+provides a comprehensive list of local housing policy tools that address
+climate concerns
+.
+Related resources
+Disaster Recovery Buyout Program – HUD Exchange
+. This toolkit by HUD helps recipients of CDBG-DR funding design and implement buyout programs. It includes guidelines, checklists, and considerations to meet program requirements.
+Managed Retreat Toolkit » Introduction – Georgetown Climate Center
+. Created by the Climate Center at Georgetown University Law, this toolkit provides various legal and policy tools, best and emerging practices, and case studies aimed at policymakers to support peer-learning and decision-making.
+Buy-In for Buyouts: The Case for Managed Retreat from Flood Zones
+. This Lincoln Institute of Land Policy report evaluates recent buyout programs in the New York metropolitan region, highlighting lessons learned and offering recommendations to strengthen future buyout programs.
+Floodplain Buyouts: An Action Guide for Local Governments on How to Maximize Community Benefits, Habitat Connectivity, and Resilience
+. Compiled by the Environmental Law Institute, this guide offers considerations for communities to discuss before designing a buyout program, emphasizing post-buyout land use options that maximize habitat and resilience benefits.
+Building Better Buyouts Through Lived and Learned Experience
+. Published by the Natural Resources Defense Council, this blog post synthesizes challenges and recommendations surfaced in a series of workshops convening buyout program managers, participants, and remaining residents.
+Floodplain Buyouts: Challenges, Practices, and Lessons Learned
+. This Nature Conservancy and University of Delaware report identifies common challenges in buyout programs and presents options to increase efficiency, reduce costs, and improve equity.
+On Safer Ground: Floodplain Buyouts and Community Resilience | ULI Knowledge Finder
+. This report by the Urban Land Institute frames buyouts through a land use and real estate lens, presenting case studies and best practices for integrating buyouts into broader community resilience strategies.

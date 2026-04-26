@@ -1,0 +1,52 @@
+Title: Reduced or waived fees for qualifying projects
+Source: https://www.localhousingsolutions.org/housing-policy-library/reduced-or-waived-fees-for-qualifying-projects/
+
+While impact fees and permitting fees can serve an important purpose, they can also add up. In areas with high fees and/or a large number of special assessment districts, the cumulative cost can erode the financial viability of affordable housing projects. Local jurisdictions can encourage the development of new affordable housing by reducing or waiving these fees for qualifying projects. (Although fees are waived, developers still receive the services supported by the fee and/or must secure the associated permits or approvals.) This incentive is likely to have the greatest impact in jurisdictions with a robust level of construction activity (or where new development is anticipated) and where impact and permitting fees are relatively high.
+Cities, towns and counties considering permitting or impact fee reductions or waivers for qualifying affordable developments should aim to structure the program in a way that makes affordable housing more cost-effective to develop while avoiding adverse impacts on funding levels for key expenses that serve other community goals. Balancing these two concerns will require careful planning. In this section we describe various program design and implementation components that can be tailored to local circumstances.
+Approach
+There are a variety of ways that cities can make fee waivers and reductions available to developers of qualifying projects. Typically, developers need to submit an application for the waiver or reduction to the planning or housing and community development department, along with documentation proving their intention to comply with eligibility requirements. Once the application has been approved for a qualifying project, the benefit is provided.
+In some cities, such as Portland, OR, a specified set of fees may be waived by city staff, while waivers of larger fees must be approved by the City Council. Instead of providing as-of-right waivers, it is also possible for local jurisdictions to consider waivers on a case-by-case basis. However, this approach may be administratively burdensome for the jurisdiction, and makes the development process and associated costs less transparent and predictable for developers, who need a clear picture of development costs to develop an accurate project budget.
+Rather than reducing or waiving fees, some local jurisdictions allow payment on a deferred basis. The short-term construction loans available at the start of the development process carry relatively high interest rates compared with longer-term permanent financing. Deferred fee payments allow developers to make payments after securing long-term, lower-cost financing, while the community still collects the expected revenue and avoids budget shortfalls in other areas. Regulations will need to specify when payment of deferred fees is required (e.g., when permanent financing is secured, when a certificate of occupancy is issued, etc.), as well as any penalties associated with failure to deliver the affordable units within the promised timeframe.
+See the related discussion on
+reducing impact fees and exactions for all new residential development
+for more resources.
+Coverage
+Developers are liable for a variety of fees throughout the construction process—from permitting fees and inspection fees to fees associated with approval of the site plan or architectural review. Many jurisdictions also assess impact fees on new residential developments, which are designed to cover the cost of infrastructure improvements needed to serve the new residents. Impact fees are subject to strict legal tests (referred to as “nexus”) that link assessment amounts to the actual cost of providing services—from expansion of roadways and water and sewer infrastructure to fire stations, parks, and schools. Local jurisdictions will need to decide whether to reduce or waive
+all
+impact and permit processing fees, or a subset of fees. When determining which fees are covered, communities should weigh the relative cost impact as well as the way(s) in which the revenue raised from a particular fee is used.
+Guidelines should also specify how the policy applies at mixed-income developments. When some units are affordable and others are rented or sold at market rates waivers or reductions may apply to all units in the development, or only to those that meet affordability criteria. Communities can also reduce or waive fees associated with renovations to existing affordable housing, freeing up funds for property owners to undertake repairs or make improvements.
+Finally, in an effort to control revenue losses, some cities, towns and counties limit the number of waivers that may be granted in a given year. This cap can be expressed as a maximum number of units that can be granted a waiver or as a percentage of all units developed.
+Eligibility
+Cities, towns and counties should establish clear criteria for eligibility for fee reductions or waivers. Program guidelines should specify the income level(s) that must be served to qualify for this incentive, as well as any minimum threshold(s) for the share of units in the development that must meet affordability requirements. Guidelines should also specify whether there are any requirements for how long the units must remain affordable.
+In some cases, fee waivers or reductions will be offered as a cost offset for a local
+inclusionary zoning
+program and the requirements for that program will determine the answers to eligibility questions. When offered as a standalone incentive, however, communities will need to determine the affordability thresholds that are most likely to address local housing needs.
+Cities, towns and counties will also need to specify whether fee waivers or reductions are available in all geographic areas within the jurisdiction or only in specified zones. For example, communities seeking to foster affordable housing development in areas with high-performing schools may limit eligibility to high-performing school districts’ catchment areas.
+Jurisdictions may also establish eligibility requirements and limitations that pertain to developers. For example, some communities limit eligibility for fee waivers and reductions to non-profit developers while others make the incentive available to all projects that meet affordability criteria, regardless of who develops them. Other cities, such as Flagstaff, AZ, only make fee reductions and waivers available to owners who are in good standing with the City. Owners with outstanding code or tax violations, or outstanding debts due, may not benefit from the program.
+Other considerations
+Verification
+Cities, towns and counties may require property owners or managers to submit documentation verifying that residents of the affordable units meet income and other eligibility requirements. This verification may be required for the initial residents only, or for all subsequent households while income restrictions apply.
+Program monitoring
+Revenue from impact fees and other fees assessed during the permitting process is used to address community needs—including infrastructure expansion, administrative functions associated with the fee, or other projects that are planned or underway. Waivers or reductions in fee revenue could undermine the ability to cover these costs if other revenue sources are not readily available. Cities, towns and counties that wish to offer fee waivers or reductions should consider careful monitoring of the program, especially in early years of operation, to ensure there are no unintended negative effects on other programs or the city’s ability to meet growing demand son public services.
+Examples
+The SMART housing program in
+Austin, TX
+provides a variety of incentives for private developers who create and preserve housing for low- and moderate households and for persons with disabilities. Projects that set aside units as affordable to homeowners and renters earning no more than 80 percent of the median family income (120 percent for owner-occupied units located in certain areas) are eligible for full or partial waivers of 29 separate fees. Fee reductions range from 25 percent for developments where 10 percent of units meet affordability requirements to 100 percent for developments where 40 percent of units meet affordability requirements.
+Learn more about the SMART housing program.
+Folsom, CA
+allows developers of qualified residential projects to apply to pay impact fees on a deferred basis (up to 15 months from the date of issuance of a
+building permit
+). Eligible projects are those in which at least 10 percent of units are affordable to very low-income households or at least 30 percent of units are affordable to low-income households. In addition, payment of specified processing fees may be waived, subject to a cap of $200,000/year or $1 million over 5 years. Affordable units must remain affordable for periods of at least 55 years for rental units and 45 years for owner-occupied units.
+Learn more about Folsom’s deferral and waiver rules.
+Related resources
+Impact fees and housing affordability
+Impact Fees and Housing Affordability
+, Cityscape (2005) – This article explores the connections between impact fees and housing affordability, including a survey of the empirical literature on how impact fees influence the price and supply of land and housing.
+Local examples
+A Resolution to the Council of the City of Fresno, California, to Provide Fee Waivers, Credits or Reductions for Affordable Housing Development
+, Fresno, CA (2007) – Describes the rationale for reducing development impact and administrative fees for affordable housing, and the circumstances in which developments are eligible for those reductions.
+Impact Fees
+, City of Vancouver, WA – Excerpt from the municipal code describes the city’s policy on impact fee reductions and waivers for approved affordable housing developments, including the conditions under which those reductions or waivers are provided
+See the related discussion on
+Reductions in impact fees and exactions
+for more resources.

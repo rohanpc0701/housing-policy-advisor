@@ -9,6 +9,7 @@ from typing import Any, Dict, List, Optional
 
 from housing_policy_advisor import config
 from housing_policy_advisor.data.locality_profile import build_full_input
+from housing_policy_advisor.llm.groq_client import get_model_name, get_provider_name
 from housing_policy_advisor.llm.policy_advisor import PolicyAdvisor
 from housing_policy_advisor.models.locality_input import FullLocalityInput
 from housing_policy_advisor.models.policy_output import PolicyRecommendationsResult
@@ -124,7 +125,7 @@ def run_full(
     hud_fips: Optional[str] = None,
     housing_dept_present: Optional[bool] = None,
     building_permits_annual: Optional[int] = None,
-    retrieval_k: int = 8,
+    retrieval_k: int = 15,
     out_dir: Optional[Path] = None,
     output_format: str = "json",
 ) -> List[Path]:
@@ -145,6 +146,10 @@ def run_full(
     result = generate_policy_recommendations(locality=locality, retrieval_k=retrieval_k)
     payload = to_json_tree(result)
     payload["locality_profile"] = to_json_tree(locality)
+    payload["metadata"] = {
+        "llm_provider": get_provider_name(),
+        "llm_model": get_model_name(),
+    }
 
     json_path = out_dir / f"policy_recommendations_{slug}.json"
     json_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")

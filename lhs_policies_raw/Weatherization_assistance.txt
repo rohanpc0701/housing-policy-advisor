@@ -1,0 +1,62 @@
+Title: Weatherization assistance
+Source: https://www.localhousingsolutions.org/housing-policy-library/weatherization-assistance/
+
+Many cities, towns, and counties use resources provided through the federal Weatherization Assistance Program to fund their weatherization programs, although state and local funds may also be used. The federal program covers the cost of an energy audit to review current performance and a series of approved measures that may include attic insulation, sealing of windows and doors, and modifying heating and cooling systems. These improvements are carried out by local providers, generally counties, local government agencies, and non-profit organizations, which usually operate under the supervision of the state.
+The federal Weatherization Assistance Program
+The federal Weatherization Assistance Program (WAP) provides funding to increase energy efficiency in dwellings in which low-income persons reside with the ultimate goal of reducing energy expenditures. While this program was created by federal law and its funding is awarded by the U.S. Department of Energy (DOE), its implementation is carried out by the states—known as “grantees”—in conjunction with local providers such as local governments and non-profit organizations—known as “subgrantees.” The state grantees enter into contracts with these local providers to perform weatherization services.
+The process whereby a dwelling is weatherized starts with an application submitted to the local provider. If the provider determines that the applicant meets the eligibility requirements, the next step will be to conduct an energy audit to identify the improvements from which the unit could benefit. The provider will then implement these improvements directly or through approved contractors. After the dwelling is weatherized, an inspection will generally follow. The types of improvements that this process entails include not only increasing insulation, but also making changes in the electrical, heating, and cooling systems, among others.
+Eligibility
+Federal and state statutes and regulations contain detailed eligibility requirements. Therefore, the ability of local providers to have their specific eligibility policies is very limited. Under the regulations issued by DOE, those who benefit from the WAP must meet the definition of “low-income.” The state determines who qualifies as having “low-income” based on different criteria listed in the federal regulations (e.g., income at or below 200 percent of the poverty level, income level that is the basis on which certain cash assistance payments have been paid in the state). DOE regulations also specify that states must give priority to seniors, persons with disabilities, families with children, high residential energy users, and households with a high energy burden. Program funds may be used to weatherize the homes of both homeowners and renters. With respect to rental properties, however, states must ensure that the benefits of the program accrue primarily to the low-income tenants that reside in the property.
+Funding
+Funds for the federal WAP are currently granted by DOE. However, both states and local jurisdictions may supplement this assistance with other sources of funds. For example, California employs a variety of funding sources for its energy efficiency and weatherization programs. For more details on California’s energy efficiency services, click
+here
+. In New York State, while the WAP is administered by New York State Homes and Community Renewal, a different agency, the New York State Research and Development Authority, provides additional economic resources for energy efficiency assessments and improvements in residential buildings. Click
+here
+for more information on these programs, which fall under the umbrella of Green Jobs – Green New York. An additional role that local providers can play in this context is to assist residents in finding these other types of sources of funding for weatherization measures that may not be covered by the WAP.
+Variations in how local providers may perform weatherization services
+Even though federal and state restrictions limit the ability of local providers to decide how to implement weatherization assistance programs, these local actors still have some leeway on how they perform their services. First, different providers can have different types of staffing models. A provider that weatherizes a high number of units per year may be able to have an in-house crew, whereas one that only serves a reduced number of dwellings may find it preferable to use contractors. Second, local providers can have a different set of measures that they typically install depending on the climate of the area where the provider renders it services—e.g., ceiling insulation, in cold areas vs. rooftop solar, in warmer climates. Third, while conducting adequate outreach activities is often required by the state, the local provider can usually decide how to best tailor them to the area it serves. For example, in some cities, towns, and counties it may be advisable to have information brochures and application documents in languages other than English. Smaller localities may benefit from state management or working with a regional grantee or sub grantee to provide services. For more information about the different ways in which local providers may perform their services, see
+Weatherization Works – Summary of Findings
+(p. 52 – 58).
+Other considerations
+WAP funding variability
+It’s important to note that the amount DOE is able to assign to states and other grantees is based on the approved Congressional budgets for given fiscal years. In March 2022, President Joe Biden signed into law the Consolidated Appropriations Act, which provided $313 million for the WAP for the 2022 fiscal year through September 30, 2022. For more information on WAP funding for 2022, see
+Weatherization Program Notice 22-2
+.
+That funding was enabled by the Infrastructure Investment and Jobs Act passed by the U.S. Congress and signed into law by President Biden in November 2021. President Biden and DOE announced that the legislation will
+cover $3.16 billion in expanded new funding for WAP
+through 2026.
+Re-weatherization
+The general rule is that dwellings weatherized after September 30, 1994 cannot receive additional weatherization services funded through the WAP. Some exceptions include homes damaged by natural disasters. While states may authorize the use of WAP funds to weatherize dwellings that were weatherized before, or on, September 30, 1994, certain states give discretion to the local provider to decide if these types of units should be weatherized. A decision to do so may then be subject to final approval by the state or DOE. New York State grants local providers with decision-making power on whether to enhance previously weatherized dwellings through its
+Weatherization Assistance Program
+(p. 168).
+Examples
+Seattle, Washington’s
+HomeWise Weatherization Program
+provides a variety of energy improvements to qualified homes, such as insulation, air sealing, new energy-efficient refrigerators, and furnace repair or replacement. This program is available to both homeowners and renters, at no cost, as long as they meet income requirements. The program is supported by federal, state, and local utility funding.
+New York State’s
+Weatherization Assistance Program
+provides weatherization services to renters, homeowners, and real property owners located in New York State through a network of local providers. The program is funded by DOE and the U.S. Department of Health and Human Services, and is administered by New York State Homes and Community Renewal’s (HCR). HCR’s Office of Housing Preservation published
+a comprehensive manual
+that outlines the policy and procedures for the administration of the WAP in New York State.
+Michigan
+and
+West Virginia
+offer similar programs to New York, offering services to eligible low-income households. In Michigan, the Department of Health and Human Services supervises the initiative, and the home improvements are provided at no cost to the residents. In West Virginia’s case, the state’s Department of Economic Development hosts the program to reduce utility costs for low-income households. In both states, typical measures covered include installing insulation in walls and floors, curbing air infiltration, sealing ducts, and repairing heating and cooling units (including furnaces or water heaters). In August 2022, West Virginia’s Governor
+approved over $3.3 million in new grant funding
+for this program
+to 12 agencies across the state.
+Related resources
+Useful pages for cities, counties, and residents:
+Weatherization Program Notices and Memorandums
+, U.S. Department of Energy – This page, updated regularly, provides active and archived notices that establish the framework for administering WAP funds.
+Weatherization Energy Audits, U.S. Department of Energy
+– As noted above, the federal program requires all grantees to conduct an energy audit specific for single-family homes, mobile homes, and multifamily dwellings. This page offers more guidance on how to prepare these audits, along with
+video tutorials
+.
+How To Apply for Weatherization Assistance
+, U.S. Department of Energy – This page provides guidance on eligibility for weatherization services, steps to identify local providers, and guidelines to complete the process. It also features a map of the U.S., with links to state-specific websites focused on weatherization.
+Evaluation of the WAP
+Weatherization Works – Summary of Findings from the Retrospective Evaluation of the U.S. Department of Energy’s Weatherization Assistance Program
+, Oak Ridge National Laboratory (2014) – This brief provides an analysis of the WAP’s accomplishments in program year 2008, which encompasses the period between April 2008 and June 2009.
+Do Energy Efficiency Investments Deliver? Evidence from the Weatherization Assistance Program
+, NBER (2015) – This paper analyzes the energy savings derived from the implementation of weatherization improvements under the WAP and compares them with existing projections.

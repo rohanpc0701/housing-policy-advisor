@@ -1,0 +1,60 @@
+Title: Employer-assisted housing programs
+Source: https://www.localhousingsolutions.org/housing-policy-library/employer-assisted-housing-programs/
+
+In addition to offering their own EAH programs for public-sector employees, cities, towns and counties can provide incentives to encourage private-sector employers to initiate their own programs. For example, localities can provide a dollar-for-dollar match for employer contributions to EAH programs. Localities (either directly or by funding a nonprofit) can also offer administrative assistance to employers interested in adopting an EAH program; this can range from help designing the program all the way to managing it on behalf of the company.
+To the extent this support stimulates additional employer participation in EAH programs, it helps to increase available funding for affordable housing. Participating companies also benefit from improved recruitment in high-cost areas and higher rates of employee retention.
+[1]
+EAH programs can also be used to help promote community stabilization and redevelopment – for example, by encouraging an influx of new residents in neighborhoods that may have experienced disinvestment.
+EAH programs are likely to be most feasible in communities that have one or more large employers with a moderate-income workforce. This section describes some of the ways that local jurisdictions can support EAH programs.
+Approach
+Cities, towns, and counties that are interested in EAH will first need to determine whether they wish to: (a) provide direct assistance to public employees, (b) support EAH programs offered by private employers, or both.
+Direct assistance to public employees can be provided in a variety of ways, but is most commonly focused on helping public employees secure affordable housing close to their place of employment. For local jurisdictions, this may mean providing down payment or closing cost assistance to purchase a home within city or county limits. In high-cost cities and counties, this assistance may be extended to include help with a security deposit or first- and last-month’s rent. Assistance is commonly structured as a grant or loan that is forgiven over time, as long as the recipient remains employed by the city. Other approaches include rent subsidies, temporary interest rate buydowns, loan guarantees that help employees to qualify for financing, and matched savings accounts with uses limited to homebuying activities.
+[2]
+Alternatively, or in addition to, cities, towns, and counties can provide incentives or other support to encourage private employers to offer EAH programs to their employees. This supporting role may entail providing monetary incentives, such as matching the funds an employer provides for an EAH program, or offering the employer a credit against property taxes. Another approach to supporting private EAH programs is to fund a nonprofit that handles some or all of the administrative functions associated with offering an EAH program, such as providing the homebuyer education and counseling that are required components of many EAH programs or administering rental subsidies to employees. By centralizing these functions, the barrier to participation by employers is substantially reduced, increasing participation. Less commonly, localities provide financial or land contributions to facilitate the development of new housing for employees.
+Eligibility
+Many cities, towns, and counties that offer EAH programs for public employees design programs that are limited to particular occupations – typically those for which the city is trying to attract and/or retain employees and where proximity to the workplace is important. For example, many localities offer EAH programs for first responders or for teachers. Employees in these occupations perform critical functions, but may not be paid enough to purchase their own home or, in some high-cost cities, afford the typical rent. Assistance is often contingent on a commitment to continue working for the jurisdiction for a designated period (e.g., 2-5 years). In some cases, applicants must have been employed by the city for a specified number of months or years, and in good standing, in order to apply.
+Communities may also choose to adopt other, more general eligibility requirements that are not linked to employment status. These can include maximum income thresholds, first-time homebuyer status, and requirements to use the home as a primary residence.
+Localities that offer support for private EAH programs must also decide which private programs are eligible. For example, city or county programs that offer to match companies’ contributions to employees’ housing may limit eligibility to companies whose contributions exceed a specified minimum (e.g., $1,000 per employee). Local governments that provide administrative support may require an enrollment threshold per company—for example, at least 50 employee participants.
+Feasibility
+In cities where employer-assisted housing is a relatively new or novel strategy, a robust outreach campaign may be needed to recruit private firms. While research suggests that benefits accrue to employers who implement EAH programs – for example, through cost savings resulting from greater employee satisfaction and retention – it will take time to realize these benefits. In addition, EAH programs require a significant expansion of typical benefits packages. Securing the approvals to make this expansion and making the appropriate adjustments to administrative procedures can be a time-consuming process – although local jurisdictions that offer implementation assistance can help to address this challenge. Local jurisdictions may wish to share examples of companies that have successfully created an EAH program, or even partner with a local Chamber of Commerce or other business association to host sessions introducing the concept to large employers.
+EAH programs can be powerful tools when combined with other community revitalization programs in distressed localities. Smaller localities, particularly those with anchor employers such as universities and hospitals, may benefit from connecting EAH programs with other comprehensive planning strategies to improve transportation and mobility.
+Examples
+The Live Near Your Work program is a partnership between the
+City of Baltimore
+and participating local companies. The city matches employer contributions of at least $1,000 per employee, up to $2,500 (for a combined total of $5,000 in assistance for the employee), to be applied towards a down payment and/or closing costs. Buyers are required to contribute at least $1,000 towards the purchase of the home, and must be first-time homebuyers in the City of Baltimore who will use the property as their primary residence. Participating employers may establish additional program restrictions, including limiting the neighborhoods in which assistance may be used.
+More information is available on the city website.
+New York City’s
+Department of Education provides housing support for certified mathematics, science, and special education teachers who commit to working in high-need schools for a three-year period. To be eligible, teachers must be fully certified and have taught for two years (either currently or earlier in their career). Those selected for assistance receive an initial payment of $5,000 for housing-related expenses including relocation costs, down payment on a mortgage, or initial rental fees (broker’s fee, security deposit, etc.) as well as an additional stipend of $400/month over the next two years. Resignation or retirement during the commitment period triggers a requirement to pay back a portion of the $5,000 upfront payment, determined by the number of years remaining on the contract.
+More information is available on the program website.
+The Metropolitan Planning Council (MPC), a nonprofit organization serving the
+Chicago, IL
+area, has helped to support Employer-Assisted Housing since 2001 by matching employers in the region with nonprofit housing counselors who can provide homeownership counseling and financial assistance to their employees. MPC also provides guidance that makes it easier for private companies to set up their EAH programs, including assistance establishing employee eligibility criteria and assistance amounts.
+More information is available on the Employer Assisted Housing webpage.
+Related resources
+General overview
+Employer-Assisted Housing: Competitiveness Through Partnership
+, Neighborhood Reinvestment Corporation and the Joint Center for Housing Studies of Harvard University (September 2000) – After providing a detailed history of EAH, this report discusses employers’ motivations in undertaking EAH initiatives, barriers to widespread adoption of EAH and ways to overcome them, and also case studies of EAH programs.
+Employer Assisted Housing
+, PolicyLink Equitable Development Toolkit (October 2007) – This detailed review of EAH programs describes why communities may wish to adopt a program, various types of assistance, and strategies for combining EAH with other tools.
+Program design
+Employer-Assisted Housing Resource Guide: A Primer for Employers and Community Leaders
+, Greater Minnesota Housing Fund (2014) – While geared toward local communities in Minnesota, this report provides information likely to be of interest to a general audience, including various strategies that can be used to help employees obtain affordable housing and an overview of the roles, resources, and benefits of the local government and other sectors.
+Employer-Assisted Housing Guidebook
+, Metropolitan Planning Council and Neighborhood Housing Services of Chicago, IL (2016) – With over two decades of experience supporting EAH programs in Illinois, the Metropolitan Planning Council publishes a guidebook including step-by-step instructions, budgeting expectations, and example documents
+Implementation
+What happens when you give people cash to move to Detroit?
+(March 2020)
+A retrospective analysis of the 2011 Live Midtown program, in which five companies in downtown Detroit, MI offered financial incentives to employees who decided to move into the district.
+The Affordable Housing Crisis in Los Angeles: An Employer Perspective
+, LA Business Council Institute (March 2017) – This report describes how housing costs impact employee recruitment and retention, and decisions to maintain operations in the LA region, based in part on a survey of major employers in the region. The report also includes case studies of employers that provide some form of housing-related assistance and lessons learned from these efforts.
+Employer-Assisted Housing Initiative Guide for State & Local Realtor Associations
+, National Association of Realtors – While oriented towards real estate professionals, this suite of resources includes materials likely to be useful to state and local governments, including a series of short case studies of state and local EAH programs and fact sheet describing how state and local governments can encourage EAH.
+Footnotes
+1. Ross, Lynn.
+Quantifying the Value Proposition of Employer-Assisted Housing: A Case Study of Aurora Health Care.
+May 2008, Center for Housing Policy. See also: Pill, Madeleine.
+Employer Assisted Housing: Competitiveness Through Partnership.
+September 2000, Joint Center for Housing Studies of Harvard University and Neighborhood Reinvestment Corporation.
+2.
+Understanding Employer-Assisted Mortgage Programs: A Primer for National Banks
+. Comptroller of the Currency Community Developments Insights, August 2007.

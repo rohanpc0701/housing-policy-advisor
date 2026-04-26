@@ -1,0 +1,123 @@
+Title: Incentives to encourage the development of lower-cost housing types
+Source: https://www.localhousingsolutions.org/housing-policy-library/incentives-to-encourage-the-development-of-lower-cost-housing-types/
+
+The development process can be particularly challenging in built-out urban environments, where land is often more costly and neighborhood opposition can derail a project.
+After taking the important first step of reviewing regulations to reduce barriers to development, localities may find that additional incentives are required to encourage the creation of lower-cost homes. Incentives such as
+tax abatements
+and streamlined permitting processes aim to stimulate the development of housing types that are more likely to be affordable to low- or moderate-income households. They are similar to the incentives offered to developers of dedicated affordable housing, but do not come with restrictions on rents or home prices.
+Approach
+Cities, towns and counties that wish to offer incentives for the development of lower-cost housing types may want to start by thinking about the housing type(s) these incentives will be designed to encourage. These can include:
+Multifamily housing
+Whether rental or owner units, multifamily housing often (but not always) costs less on a per-unit basis to construct than single-family homes.
+Micro-units
+Micro-units are fully-equipped apartments, with their own kitchen and bathroom, that are smaller than conventional apartments – often around 250 to 350 square feet.
+Single-room occupancy units
+Single-room occupancy dwellings are similar to micro-units, except that they typically have shared kitchen and/or bathroom facilities. While commonly viewed as an affordable housing solution for individuals experiencing homelessness, single-room occupancy units may also be appropriate for college students, young workers who are just starting out, and older adults.
+Accessory dwelling units
+Also called ADUs, in-law apartments, or granny flats, accessory dwelling units are homes that are created on the same lot as an existing house – often as an apartment in the basement or above a garage or as a smaller free-standing structure in the back yard. Accessory dwelling units are commonly created in low-density residential neighborhoods where lower-cost housing types might otherwise be unavailable.
+Junior accessory dwelling units
+Also called JADUs, these are bedrooms for rent within existing homes. While JADUs may not have a full kitchen or private bathroom, they include small-scale cooking facilities such as a sink, cooktop, and small refrigerator. JADUs are similar to ADUs, but are smaller in size and typically have a shared entry to the existing home as well as a private entrance.
+Local jurisdictions should think broadly about whether there are other lower-cost housing types that incentives could be designed to encourage.
+A helpful next step may be to then evaluate the obstacles that currently stand in the way of development of a particular housing type. These obstacles are discussed in detail in the Housing Policy Library section,
+reducing development costs and barriers
+.
+Where development is complicated by factors that are within the jurisdiction’s control, it will likely be more useful to start by resolving existing regulatory or other barriers. For example, the process for securing approval to develop an accessory dwelling unit may be unnecessarily burdensome or costly, causing homeowners to abandon efforts to create a unit on their property. Similarly, the
+zoning code
+may limit opportunities for multifamily development and allow only low-density single family homes. If efforts to streamline these processes fail to stimulate new development, additional incentives may also be needed. (For more information on resolving regulatory barriers, see the related briefs:
+Zoning changes to allow for higher residential density
+,
+Changes to increase the predictability of the regulatory process
+, and
+Streamlined development approvals processes
+.
+)
+The housing type(s) targeted will dictate the incentives that are most likely to be effective. The range of available incentives will vary by jurisdiction, but may include:
+Density bonuses
+that allow more units to be built on a site than would otherwise be allowed by the underlying zoning code
+Zoning variances that allow
+higher-density development
+or other departures from underlying land use regulations
+Reduced parking requirements
+that lower land or construction costs by requiring fewer spaces to be provided
+Access to a streamlined development approvals process
+Access to a streamlined environmental review process
+Reduced or waived development fees
+Tax abatements or exemptions
+that lower tax liability for a specified period of time
+Incentives may be awarded on a case-by-case basis, or to all proposed projects that meet specified criteria. The case-by-case approach provides flexibility to tailor an incentives package that meets the particular needs of an individual development. By decreasing the predictability of the development process, however, this approach could lead to less development of low-cost housing types than would be possible with a more predictable process. To limit the potential for political influence and promote transparency, a local jurisdiction may instead choose to publish a list of incentives that clearly communicates the housing types it seeks to encourage and the available incentives for proposals that meet those criteria.
+Some incentives have cost implications that should be weighed before they are offered to developers or homeowners. For example, local leaders may decide that exchanging a portion of tax revenue for new multifamily development is a worthwhile trade-off, but this question should be carefully considered. It may be helpful to prepare a cost-benefit analysis, or engage a consultant to do so. In addition, housing or planning department staff should consider conducing analysis to confirm that targeted housing types would not be created “but for” the proposed incentive, and revisit this analysis periodically once the incentive is available.
+Incentives must be closely linked to local market conditions. In high-cost neighborhoods, incentives targeted toward the creation of ADUs and JADUs may be a way to add new affordable units and lower the cost of home-ownership for owner-occupants by creating a new rental income stream. In
+softening housing markets
+, incentives may be paired with neighborhood-level revitalization efforts, pairing housing affordability with economic development initiatives, or as a way to stimulate reinvestment in vacant structures.
+Eligibility
+Eligibility for incentives can extend to all proposed projects, or may be limited to locations where the city hopes to stimulate new development. Cities, towns, and counties may choose to provide incentives for accessory dwelling units in all areas, but limit incentives for micro-units to targeted areas, including neighborhoods near transit stations or college campuses. Likewise, multifamily development may be encouraged throughout downtown areas, along avenues in residential areas, and in neighborhoods targeted for revitalization with a comprehensive plan.
+Some localities further limit eligibility for incentives to developments that include a specified share of dedicated affordable housing. (Learn more about
+establishing incentives or requirements for affordable housing
+.)
+Examples
+Vancouver
+, Washington has identified two parts of town in which developers are eligible to receive a property tax exemption for the value of newly constructed or rehabbed multifamily housing units (rental or owner-occupied). The
+Multi-Family Housing Tax Exemption Program
+is intended to meet housing needs and encourage new development in the Vancouver City Center and the Fourth Plain Corridor, an “international district” in central Vancouver that has been targeted for broader renewal efforts. Market-rate developments can qualify for an eight-year exemption, while projects that set aside 20 percent or more of units for low-income households receive exemptions for up to 12 years. Market-rate developments are subject to City Council approval of a Development Agreement and may be required to include a public benefit, such as public art, enhanced landscaping, or other features. Projects that will displace existing tenants from the property are not eligible.
+Portland
+, Oregon has streamlined the development approvals process to
+encourage the creation of
+ADUs; however, the city goes a step further by also offering financial incentives. Ordinarily, construction of an ADU would trigger the need to pay a System Development Charge. This fee is paid to “buy in” to municipal infrastructure, such as water, transportation, environmental services, and parks, and can exceed $10,000 for residential units. In 2010, Portland passed a
+System Development Charge waiver
+, which exempted newly-built or converted ADUs from the fee for three years. In 2018, Portland’s City Council voted to permanently extend the waiver, with the condition that ADUs are not used for short-term rental housing for a period of 10 years.
+A host of other cities have passed legislation to incentivize ADUs in recent years, from
+Princeton
+, New Jersey
+to
+Chicago
+.
+States have also made a concerted push in this arena. In 2021,
+Connecticut
+passed a law
+making ADUs legal in all single-family-zoned areas as of right. Thus, no public hearings or special approvals are required to build them.
+California
+, meanwhile, has passed a
+slew of legislation
+in recent years to encourage ADUs, including a
+bill
+in 2016 making ADUs legal in single-family zones across the state, a
+bill
+in 2019 that slashed the maximum number of days municipalities could take to review ADU applications, and, most recently, a
+bill
+in 2022 to accelerate ADU construction by further streamlining the process.
+Related resources
+Cities Provide Incentives to Increase Urban Multifamily Development
+, Commercial Investment Real Estate magazine – This article describes incentives that cities are offering to encourage
+adaptive reuse
+of older properties, particularly in downtown neighborhoods.
+Accessory Dwellings
+– This website is entirely dedicated to accessory dwelling units, and includes links to related regulations in several states (with a particular focus on California and Oregon) as well as a
+model code
+.
+Accessory Dwelling Units
+, American Planning Association – This page guides readers to resources that provide background, policy guidance, and examples of local plan recommendations and zoning standards for ADUs from across the U.S.
+ADU resources from the American Association of Retired Persons (AARP):
+A Step by Step
+Guide to Design and Development
+A
+Video Introduction
+to ADUs
+AARP-hosted webinars
+reviewing ADUs
+and highlighting
+initiatives across the country
+Research reports and briefs
+Compact Units: Demand and Challenges
+, NYU Furman Center (Aug. 2014) – This research brief explores the current debate over compact units, the potential demand for these units, and regulatory and other challenges to developing micro-units and accessory dwelling units. The brief draws on examples in five cities: New York, Washington, D.C., Austin, Denver, and Seattle.
+The Macro View on Micro Units
+, Urban Land Institute (2014) – This report provides extensive background and insights into micro-units from a developer’s perspective – describing typical characteristics, market trends, and occupancy levels.
+Manufactured Housing Facts
+, Manufactured Housing Institute (2023) – Prepared by an industry group, this brief describes the characteristics of
+manufactured homes
+in terms of quality, affordability, and siting and placement.
+21
+st
+Century SROs: Can Small Housing Units Help Meet the Need for Affordable Housing in New York City?
+, NYU Furman Center (Jan. 2018) – This policy brief addresses the question of whether small housing units can and should help meet the housing need previously served by SROs.
+Designing Accessory Dwelling Unit Regulations: Recommendations for the City of Alexandria, Virginia
+, Urban Institute (Nov. 2020) – This brief summarizes recommendations for designing ADU regulations in Alexandria, based on an evaluation of prior research, community engagement and feedback, discussions with leaders in cities who have instituted ADU regulations, and civic engagement.

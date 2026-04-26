@@ -1,0 +1,85 @@
+Title: Community land trusts
+Source: https://www.localhousingsolutions.org/housing-policy-library/community-land-trusts/
+
+Traditionally, CLTs achieved and maintained affordability by retaining ownership of the land and requiring the homebuyer to purchase only the home that is situated on the land. While many CLTs continue to operate this way, others ensure affordability instead through other affordability mechanisms, such as deed covenants. CLTs are generally managed by a nonprofit or quasi-governmental organization and governed by a body comprised of purchasers of CLT homes, members of the public, and governmental and nonprofit stakeholders to ensure they remain grounded in the needs of the community. CLTs typically
+maintain
+long-term affordability by building resale conditions into the long-term ground lease that accompanies purchase of the structure. The ground lease generally includes a formula that is used to establish the price of the home at resale and provisions that limit resale to income-eligible families and give the CLT a purchase option when the home is put up for sale. Resale formulas vary from one CLT to another and typically reflect a balance between the goals of preserving long-term affordability of the CLT units and allowing the homeowner to build wealth. Homeowners build wealth in two ways: through the forced-savings gained by paying down the principal balance of their mortgage and through the share of home price appreciation allocated to them under the resale formula.
+This section describes some of the considerations for communities interested in developing a community land trust.
+Approach
+CLTs provide a mechanism for creating affordable homeownership opportunities and maintaining affordability over the long term. The CLT accomplishes these goals by (a) making homeownership units affordable through the use of a subsidy (or another mechanism such as
+inclusionary zoning
+) that brings down the initial purchase price of the units to qualified buyers and then (b) maintaining long-term affordability to future purchasers through a legally binding mechanism, such as a long-term ground lease or a deed covenant.
+The CLT is a form of shared equity homeownership. Other forms include
+deed-restricted homeownership
+and
+limited equity cooperatives
+. Shared equity homeownership is an approach to homeownership that balances the dual goals of maintaining the long-term affordability of homes to future home purchases and allowing purchasers to build wealth through homeownership. For more information on shared equity homeownership, including a discussion of the continuum of strategies under this umbrella, explore these
+Shelterforce
+and
+Joint Center for Housing Studies
+resources. (
+Opinions differ
+on whether a fourth policy,
+shared appreciation mortgages
+, should be considered a form of shared equity homeownership since it focuses on recapturing and preserving the buying power of public subsidies to help future buyers, rather than on preserving the affordability of specific homes.)
+CLTs purchase, or are granted, land within a community to steward for affordable housing. This land may or may not already have existing structures. In some cases, CLTs are involved in the development of homes for the program. The sites owned by the CLT may be contiguous, grouped together in one or more areas, or distributed on a scattered-site basis throughout the community. The housing can be single-family homes, multifamily buildings, or individual units within a multifamily building. Typically residents are homeowners, but a CLT could also lease their land for affordable rental housing, depending on the project and community needs.
+The CLT manages its land holdings as affordable housing for the community in perpetuity. Under the traditional CLT model, the land trust maintains ownership of the land and leases it out for affordable housing uses. This is typically done by selling the structure (whether a single-family home or a unit in a multifamily building) to an eligible buyer, along with a long-term ground lease (typically 99 years) that specifies (among other things) the terms under which the home may be sold to the next purchaser. Under this model, purchasers own the building (or attached unit) and lease the land from the CLT. Purchasers are often individual homeowners, but can also be co-operatives or non-profit housing organizations or developers. As owners of the land, the land trust maintains a degree of control over initial and subsequent uses. These rights include an option to repurchase the buildings when the owner wishes to sell, control over the resale price, and limits on eligible future purchasers and the use of the building or unit. Owners typically pay a monthly ground lease fee which covers administrative costs and costs associated with the property ownership (such as property taxes). The fee can also fund a long term property repair reserve. Most ground lease fees are low; often fees are less than $100 per month and sometimes as low as $1 per year.
+Although a long-term ground lease coupled with sale of the building is the traditional, and most common, approach used by CLTs to maintain long-term affordability, there are also variations on the typical model. In one newer variation, the land trust sells the land and property as a package, and maintains long-term affordability through deed covenants or other restrictions. This method is particularly useful in multi-family buildings, where the CLT purchases one or more units but does not own the entire building. In other cases, the CLT may choose to provide a long-term lease for both the land and the building, instead of selling the building.
+CLTs also stipulate a resale formula that determines the sales price of the property in the case of a sale. The formulas are typically structured to balance the community need for affordable homes with the opportunity for homebuyers to build wealth through homeownership. Common types of formulas are “indexed formulas” and “shared appreciation formulas.” Indexed formulas use economic indicators, such as the
+area median income
+, wages, or consumer prices, to determine the home’s sales price. These indices typically provide a more accurate reflection of families’ purchasing power than changes in home values. Shared appreciation formulas calculate a sales price by adding some percentage of the home’s value appreciation to the original sales price. Consider, for example, a homeowner who purchases a CLT home for $200,000. If the market value of an equivalent home increased by $40,000 during the period of ownership, and the CLT utilizes a shared appreciation model that allows the owner to keep one-quarter of the home price appreciation, the sales price would be set at $210,000 (the initial $200,000 purchase prices plus one-quarter of the $40,000 appreciation).
+CLTs are usually non-profit or quasi-government organizations with a specific board structure. Boards are typically made up of a combination of three types of community members: purchasers of CLT homes (or other occupants of CLT-owned properties), the general public (to represent future purchasers), and public representatives (for example government officials, funders and non-profit leaders in the community). By balancing the voices of these groups, the CLT holds itself accountable to the full community. Some CLTs are part of an existing organization, for example a local foundation or other community non-profit.
+CLTs generally rely on grant funding to provide the subsidy that allows units to be made available to home purchasers at below-market levels. Common sources of grant funding include local government funds or allocations of federal sources like CDBG and HOME funds, as well as foundations and local philanthropy. Some CLTs aim to maintain the long-term affordability of homeownership units made affordable through inclusionary zoning,
+density bonus
+es or other local affordability incentives or requirements. In such cases, the affordable units become part of the CLT, while the market-rate units remain unfettered and capable of generating revenue to help cross-subsidize the affordable units. As the CLT’s portfolio grows, many programs generate revenue by collecting ground lease fees or membership fees that allow them to sustain their operations.
+Many CLTs offer ongoing support to home purchasers. These programs can include homeownership classes and resources for property maintenance and improvement. They can also include financial education or coaching programs. Owners of CLT homes, as mentioned above, also often play a leadership role in the management of the CLT.
+Eligibility
+CLTs generally place limits on the incomes of home purchasers and define an “affordable” home for their communities based on local conditions and priorities. Many CLTs require homebuyers to have incomes that are no greater than 80 percent of the area median income (AMI). This is particularly true for projects where federal funds are used where this is the maximum permissible income. However, different programs set different limits. For example,
+Community Home Trust
+in Orange County, North Carolina, restricts homebuyers to incomes between 80 and 115 percent of AMI.
+Some CLTs give preference to families who work in the community. Other programs target first time homebuyers (typically defined as having not owned a home in the previous 3 years). Most CLTs also require homebuyers to attend a
+homebuyer education
+course or financial education class prior to purchasing a home, which they may offer directly or in partnership with a local non-profit organization.
+Purchasers of CLT homes may also be subject to other restrictions. For example, the ground lease often stipulates that the purchaser cannot sublet the property and must maintain the structure to a certain standard. If these conditions are not met, the CLT can find the purchaser in violation of the lease.
+The local role
+Local governments can be instrumental in developing CLTs and work closely with existing CLTs in their community to promote and preserve affordable homeownership opportunities. Some communities have adopted
+inclusionary zoning ordinances
+, which incentivize or require developers to develop affordable housing in the course of developing market-rate units. In communities with these programs, the new affordable units may be designated to a local CLT to manage, such as in Chicago. Local governments can also prioritize CLTs for allocations of local funds and federal funds that the community allocates, such as HOME and CDBG funds. In addition, local governments can help to publicize CLT homes when working with potential homebuyers and fund homeownership education and counseling.
+Other considerations
+Like most other homebuyers, homebuyers in a CLT need to qualify for a mortgage. In order to do so, they need to meet underwriting requirements, which often include credit score thresholds and income verification. Underwriting a mortgage on a CLT property can be challenging for lenders, who may not be familiar or comfortable with the financial structure. Many CLTs maintain relationships with lenders and local loan officers so that they can direct interested homebuyers to lenders who have experience with the land trust model.
+Examples
+Champlain Housing Trust
+in
+Vermont
+(formerly Burlington Community Land Trust) is the largest community land trust in America, with approximately 565 ownership units and over 2,200 rental units. The land trust offers ongoing support to residents through homeowner education, financial counseling, and loan programs for rehab and energy efficiency improvements.
+First Homes
+Community Land Trust in
+Rochester, Minnesota
+supports affordable homeownership in the Rochester area. The CLT has significant support from The Rochester Area Foundation and from the Mayo Clinic, the area’s largest employer. The board structure of First Homes differs from other community land trusts in that the foundation plays a significant role, a topic discussed in this
+case study
+. First Homes is also a member of the
+Minnesota Community Land Trust Coalition
+, which supports nine community land trusts throughout the state.
+The
+Chicago
+Community Land Trust
+is a nonprofit organization that works very closely with the city to preserve long-term affordability for homes created through City programs. The mayor appoints board members with City Council consent and the city provided staff and funding during the land trust’s early years. The organization maintains long-term affordability through
+deed
+restriction
+s which last for 99 years rather than through a traditional ground lease. The organization also provides pre- and post-purchase workshops for homeowners and works with local lenders and lawyers to help facilitate successful purchase of the units in the program.
+Related resources
+Burlington Associates provides a number of informative documents and tools in its
+Community Land Trust Resources
+website. Presentations, information sheets and interactive tools cover topics like: Community Land Trusts 101, choosing a resale formula, developing and marketing land trust homes, and funding CLTs. The e-book
+Starting a Community Land Trust
+is also available.
+Grounded Solutions
+is a national network that provides support for Community Land Trusts and other forms of shared equity homeownership. Their
+CLT Start-Up Hub
+provides resources for organizations interested in developing a new CLT, including suggested activities for each step along the path from idea to implementation.
+This
+article from Zoning and Planning Law Report
+outlines how local governments can develop and work with community land trusts to preserve affordable homeownership. The article highlights community land trusts in Chicago and Irvine, both of which were started by local government. It also provides recommendations for localities on starting city-wide CLTs.
+Street Level Advisors’
+Comparing Shared Equity Resale Formulas
+tool was designed to help community leaders understand the relative performance of different shared equity resale formulas. This tool allows a side-by-side comparison between several models and allows the user to change these input assumptions to immediately see changes in the relative performance of each of the models in terms of both ongoing affordability and equity building for homeowners.

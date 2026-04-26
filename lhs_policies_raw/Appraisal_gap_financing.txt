@@ -1,0 +1,76 @@
+Title: Appraisal gap financing
+Source: https://www.localhousingsolutions.org/housing-policy-library/appraisal-gap-financing/
+
+Approach
+These subsidy programs, often called appraisal gap financing, use a variety of strategies. Eligible participants can include nonprofits and individuals, and subsidies can come in the form of grants or subsidized loans. Appraisal gap financing can be used to preserve naturally occurring affordable housing or to create designated affordable housing units.
+Appraisal gap financing is typically used to finance rehab, but can also be used for property purchase. In the case of homes in need of rehab, the financing is needed both to cover the cost of rehab and because the appraised value of the rehabbed home will not support the rehabilitation investment. This typically occurs in neighborhoods with low home sales prices and relatively few prior sales of renovated homes that can be used as “comparables” to support the higher appraisals. The high cost of rehabilitating some older homes can also be a barrier to economic feasibility. Appraisal gap financing can be useful both for existing residents that wish to renovate their homes and for homebuyers that wish to purchase and renovate a home at the same time.
+In the case of move-in ready homes, appraisal gap financing is needed when the appraised value of a home is below its market value. A disconnect between appraised value and market value can occur for several reasons. In some cases, neighborhoods have a concentration of distressed sales and few relevant comparables upon which to estimate market value.
+[2]
+Appraisal values also tend to lag market values by several months, which can depress values.
+For example, the Detroit housing market has relatively few non-distressed property sale transactions, so appraisers often cannot find similar homes to compare values. Banks typically do not lend more than the appraised value of a property, so many homes do not qualify for a traditional loan. To address this, Detroit Home Mortgage allows a qualified buyer to borrow on the “true” value – typically higher than the current appraised value – of their home.
+An appraisal gap may also occur because of implicit racial bias that can be reflected in property appraisals. Research suggests that similar homes in majority Black neighborhoods tend to appraise for lower values than those in neighborhoods with very few or no Black residents.
+[3]
+The hypothesis behind appraisal gap financing programs is that eventually the market will strengthen, increasing the number of appraisals and the value that people attach to being in the community so that over time, subsidies will no longer be necessary. At the same time, appraised values will rise and borrowers will accumulate positive equity in their homes. There is some evidence to support this strategy. Stakeholders interviewed for a 2017 study of the Detroit housing market reported that, as a result of efforts to raise appraisal values such as the Detroit Home Mortgage, market values were moving closer to appraisal values than they had been in the past.
+[4]
+Grants are sometimes used to fill the appraisal financing gap. Grants may be awarded to nonprofits or home buyers to cover the difference between property values and the cost of constructing or renovating a home. Some grants are technically loans, which are forgivable when the borrower has remained in the house for a period of time. For example, a property with a sale price of $50,000 and necessary rehab costs of $25,000 may only have an “as-rehabbed” appraised value of $65,000, leaving a $10,000 gap. A grant or loan forgivable over five years may be used to fill this gap.
+When a loan is used to finance the appraisal gap in a purchase and rehab transaction, the borrower may receive two mortgages, one to cover the purchase price of the property, and a second to finance rehab. The purchase mortgage could be held by a conventional lender; the rehab mortgage may have a subsidized rate and be financed and held by a nonprofit. Alternatively, a lender may approve one loan that combines both the purchase price and rehab costs.
+Because of the risks of negative equity in this situation, communities may want to consider combining appraisal gap financing with features of home equity insurance. For example, the second loan could be structured so that if, after a minimum period of time such as five years, the homeowner must sell and the value of the home has not reached the initial purchase price, a portion of the appraisal gap loan could be forgiven.
+Eligibility
+Although it can create or preserve affordable housing, the primary goal of appraisal gap financing tends to be to encourage investment and homeownership in a specific neighborhood or community. Because of this, eligibility is generally limited to specific geographic areas, although they range from city limits (such as for the Detroit Home Mortgage) to specific neighborhoods (such as for the Building Neighborhoods and Affordable Homes Program in Chicago).
+For programs designed for homebuyers, there are typically no income limits, although home buyers must have sufficient income to be able to sustain homeownership and be considered creditworthy. There are also typically no restrictions on the use of the property after completion (e.g., requirements that the property be designated affordable), although loans may be forgivable after a period of time (e.g., seven years) if the buyer remains in the house.
+Programs designed for nonprofits typically have a requirement that the completed housing be designated as affordable.
+Coverage
+Use of appraisal gap financing programs is typically limited to low-cost housing markets or neighborhoods that have experienced disinvestment. In these markets, housing quality tends to be low and there are often very few transactions upon which to establish market values. Programs may cover entire cities or counties or be limited to specific neighborhoods within a city. Programs may also be limited to city-owned REO.
+Appropriate geographic limits for a program depend on program sponsors’ goals and resources. Programs with community revitalization as a goal and those with limited resources should consider focusing on smaller geographic areas, such as a specific neighborhood. A concentrated infusion of investment is likely to have a larger impact on community quality than a strategy that distributes resources in a larger area. Programs with more resources or a goal simply to improve the quality of specific housing units may be able to target a larger geographic area.
+Local role
+Appraisal gap financing programs tend to be idiosyncratic, and dictated by the goals and means of the sponsoring organization. They can be sponsored by local housing agencies, coalitions of nonprofit organizations and for-profit lenders, and cities.
+Local officials could contribute CDBG or HOME funds for the appraisal gap financing, dedicate specific sources of revenue to the program, and/or help to convene for-profit lenders and nonprofits to assemble the financing needed for the program.
+Other considerations
+Appraisal gap financing in the form of a loan carries some risk for both the lender and the borrower. If the borrower has financial difficulty and cannot cover the mortgage payments, he or she will probably not be able to sell the property for a high enough price to cover the mortgage. By definition, appraisal gap loan programs result in a situation in which the borrower is “underwater,” or has negative equity, at the start of the mortgage. Because of this risk, appraisal gap lending programs often offer homebuyer counseling and education, commit to work with borrowers who encounter financial difficulty, and typically require borrowers to meet minimum credit standards (e.g., a FICO score of 640).
+Appraisal gap programs that provide grants avoid this problem; however, there is a tradeoff. Grant programs cannot recycle funds to help additional households over time, so they and forgivable loan programs tend to serve fewer homebuyers than loan programs that require repayment.
+Examples
+The
+Building Neighborhoods and Affordable Homes Program (BNAH)
+program in
+Chicago, IL
+encourages homebuyers to move into five targeted neighborhood areas: Englewood Square, North Lawndale, South Lawndale, Humboldt Park/Garfield Park and Woodlawn. The program provides up to $60,000 in purchase assistance to cover the appraisal gap for buyers of single-family homes constructed under the City Lots for Working Families program. If the appraisal gap is less than $60,000, any remaining amount may be used for closing costs, down payment, senior loan principal reduction, or other associated expenses. (Assistance for items other than the appraisal gap is capped at $20,000 for current residents, and $15,000 for non-neighborhood residents.) Buyers’ household income cannot exceed 140% of the area median income, and buyers must use the homes as their primary residences for a minimum of 10 years, or the home must be sold to an income-qualified homebuyer. The program is funded with $5 million from the Affordable Housing Opportunity Fund ($1 million per target area).
+More information on program features and requirements is available through Chicago’s Department of Housing.
+The Tennessee Housing Development Agency (THDA) Appraisal Gap Pilot Program
+provides gap funding
+of up to $20,000 per home to eligible nonprofit entities to help cover the costs to build new single-family homes or substantially rehabilitate homes if the appraised value of the home is less than the cost of construction. Eligible communities are Chattanooga, Oak Ridge, and Memphis. The assistance is provided in the form of a grant, which may not fill the entire appraisal gap, and the completed homes must be sold to eligible purchasers. Eligible purchasers are those who meet income limits. Program resources are limited to $500,000.
+The
+City of Jacksonville, FL
+Neighborhoods Department uses Foreclosure Property Registry funds to
+provide grants
+of up to $50,000 per property to developers for the acquisition, rehabilitation or new construction and sale of vacant and/or REO homes in which the total development cost exceeds the appraised value of the home. The City issued a request for proposals for the funds, which are limited to properties in Duval County.
+The Gateway Neighborhood Mortgage program
+from
+St. Louis, MO
+consists of
+two amortizing mortgages
+: a primary mortgage set at the appraised value of the home, and a second mortgage to cover the difference between appraised value and sale price. The interest rates on these two loans are fixed at 0.25% and 1.25% over Average Prime Offer Rates (APOR), respectively. There are no income restrictions for this program.
+Related resources
+The Devaluation of Assets in Black Neighborhoods: The Case of Residential Property
+,
+Perry,
+et al.
+(2018)
+.
+This analysis of the difference in home values between majority Black neighborhoods and those with no or very few Black residents. The analysis finds that differences in home and neighborhood quality do not fully explain differences in home values between the two types of neighborhoods. Homes of similar quality in neighborhoods with similar amenities are worth 23 percent less ($48,000 per home on average) in majority Black neighborhoods, compared to those with very few or no Black residents.
+Detroit Home Mortgage’s website
+describes the appraisal gap financing program that was available for Detroit properties between 2016 and 2019. Read a review of the successes and challenges of the program in
+Detour Detroit
+.
+Here Comes the Neighborhood: Breathing New Life into the Inner City, One Mortgage at a Time
+.
+This article, published by the Federal Reserve Bank of St. Louis, describes the context for and goals of the Gateway Neighborhood Mortgage program.
+1.  Some federal and nationwide programs are available to finance purchase and rehab, such as the Federal Housing Administration’s 203k mortgage and Fannie Mae HomeStyle mortgage. In both programs, mortgage amounts are limited to the “as-rehabbed” value of the property, and although they are a valuable resource for improving housing quality in distressed communities, they do not address the gap between appraisal and market values that can exist even after a property is renovated. These programs are not included here.
+2. Poethig, Erika C., et al. “The Detroit Housing Market.”
+Urban Institute, March
+3 (2017).
+3. Perry, Andre, Jonathan Rothwell, and David Harshbarger. “The Devaluation of Assets in Black Neighborhoods.”
+The Brookings Institute
+(2018).
+4. Poethig, Erika C., et al. “The Detroit Housing Market.”
+Urban Institute, March
+3 (2017).

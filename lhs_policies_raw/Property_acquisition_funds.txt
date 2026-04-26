@@ -1,0 +1,56 @@
+Title: Property acquisition funds
+Source: https://www.localhousingsolutions.org/housing-policy-library/property-acquisition-funds/
+
+In some models, affordable housing developers acquire properties directly using up-front financing provided through the fund; in others, the steward of the loan fund purchases the property for eventual transfer to a project sponsor. Loans are typically issued on a short-term basis at below-market interest rates and replaced by permanent financing once it is arranged. Related predevelopment costs are also generally an allowable expense, including costs associated with conducting appraisals and environmental assessments, securing title and zoning approvals, and hiring development consultants.
+Property acquisition funds can be capitalized with multiple funding streams, including public funds, foundation support, and financing provided by
+Community Development Financial Institutions
+(CDFIs) and private financial institutions.
+Approach
+Property acquisition funds provide ready capital which can be used to purchase buildings or land for development as affordable housing. The funds are often structured as partnerships between local government, lenders (non-profit and for-profit) and charitable organizations. Some funds are very large, for example the NYC Acquisition loan fund has provided over $350 million in financing since its inception more than 10 years ago.
+Many funds operate by providing short-term financing to affordable housing developers to purchase properties. By making financing available on an accelerated basis, the funds make it easier for affordable housing developers to acquire properties that might otherwise be sold to another party. Some funds can purchase property directly— on behalf of specific developers or on an opportunistic basis to hold for projects to be determined in the future. When funds purchase and hold land or buildings for future affordable housing development, they operate like a
+land bank
+.
+One of the first considerations when creating a property acquisition fund is to assemble sufficient capital. Capital can come from various sources including public funds, foundations, traditional financial institutions, community development financial institutions (CDFIs), or even large employers or universities. Property acquisition funds may also attract private capital from socially-conscious investors. Financial institutions may receive credit under the Community Reinvestment Act for investments in affordable housing by contributing to a property acquisition fund. The money to capitalize the fund can be granted, lent at a market rate, or lent at a below-market rate depending on the goals of the organization providing the capital.
+Charitable donations from foundations are often in “first-loss” position – meaning they are the first to be used should any losses occur – to insulate and encourage public and private investment. In some cases, local government contributions are also in first-loss position, or assume a loss position right behind a foundation’s seed funding. By providing protection from risk to private landers, these approaches facilitate access to private capital, which often forms the bulk of the available funds. Local officials can also consider other strategies for inducing private lending, such as lending
+pari passu
+with the private sector (i.e. sharing the losses equally event of a default). Involving the private sector can be beneficial, as it can leverage public and philanthropic contributions substantially and brings in an extra set of eyes to monitor and manage risk.
+Once the capital for the fund is put together, cities, towns, and counties need to manage the fund to finance affordable housing development. Many funds are managed by CDFIs or similar organizations with lending experience. These organizations work with potential borrowers to make sure the project fits the fund’s goals, conduct financial underwriting of the borrower and project, and service the loan once it has been made. Some loan terms may be defined when the fund is created. For example, all funded projects might be subject to a maximum loan amount. Other requirements might be left to the discretion of the managing organization, for example determining a borrower’s credit worthiness.
+Most funds provide short-term financing with flexible terms and attractive interest rates. Many of the loans are short-term bridge loans, which are used to “bridge” the gap between purchasing a property and securing permanent financing. The proceeds of the loan typically can fund pre-development costs, such as site planning, in addition to property acquisition. The financing may allow for loans with a loan-to-value ratio above 100%. The terms are designed to be more flexible or generous than loans available from conventional lenders in order to encourage affordable housing development.
+Loans may require equity or collateral, in addition to the land or building, to secure the loan. For short-term bridge loans the fund may also require a commitment for long term financing. These requirements help to ensure that the fund will be repaid. In the event the loan defaults, the fund should stipulate how losses will be allocated. In some funds, interest paid by borrowers can build up over time to provide a buffer for losses. Interest and/or origination fees also typically cover the administrative costs associated with managing the fund.
+Before establishing an acquisition fund, interested cities, towns or counties should research the challenges involved and speak with administrators of other funds. While playing an important role, these funds can be difficult to assemble and it’s important for cities, towns, and counties to understand the costs and benefits. Additionally, the structure of an acquisition fund should consider the locality’s current and prospective market, as well as the  locality’s financial capacity to allocate funds towards longer-term property assemblages and the appropriateness of using potentially limited capital resources when there may be other faster or less risky opportunities to use capital to develop or preserve affordable housing.
+Eligibility
+Cities, towns, and counties can decide what kind of projects will be supported by the fund. The fund may focus on areas near planned transit stations, where properties are at risk of escalating rapidly, or in other target areas. Some funds target new construction on vacant land, whereas others include rehabilitation and redevelopment of existing properties. Some funds work only with non-profit developers and others work with both non-profit and for-profit developers.
+Most funds require that the housing developed with their support be affordable to community members. Common requirements set a maximum income for families who live in the units, for example 70% of
+Area Median Income
+(AMI). Some projects may allow for both market rate and affordable units to encourage mixed-income development.
+Other considerations
+Property acquisition funds make it more feasible for public agencies and non-profit providers to quickly assemble financing and compete with private, for-profit developers when land becomes available for purchase. However, most affordable housing development projects will require additional public subsidies, especially in high-cost cities to ensure low income families can afford to live in the units. This assistance comes in after the property has been acquired and is part of the underwriting of the long term financing for the property. In
+soft or softening housing markets
+, property acquisition funds can be a helpful way to build transformative assemblages when paired with other revitalization strategies; however, significant consideration should be given towards the need for interim property management and stewardship.
+Examples
+The
+NYC
+Acquisition Fund
+provides bridge loans for affordable housing development in the city. After more than 10 years, the fund has invested more than $533 million and supported over 14,000 housing units. The loan fund is managed by four lending partners – CSH, Enterprise, LIIF and LISC – which make lending decisions within the framework set by the fund.
+Denver, CO
+‘s
+Transit Oriented Development Fund
+was the first of its kind created to help the city ensure that planned transit development would include affordable housing development. The fund was launched in 2010 with $15 million and expanded to cover a seven-county area in 2014 with an additional $9 million. This 2022
+report from Enterprise
+outlines the accomplishments of the Denver TOD since 2010. Since its origination, the fund has allocated over $50 million towards investment in 22 properties.
+Boston, MA
+recently
+announced the development of a Vacant Site Acquisition Fund
+. The City will put up $2.5 million and an additional $6 million will come from private sources. A local CDFI, CEDAC, will manage the fund with support from another CDFI (LISC). This
+one page summary sheet
+provides more details about the program including loan terms and projects.
+Related resources
+Term sheets from NYC’s
+acquisition development fund
+detail loan requirements for vacant and occupied properties. These models give specifics about loan pricing, structure, and underwriting.
+Some states have property acquisition funds that can be used over a large geographical area, and provide resources for local communities. The
+Golden State Acquisition Fund
+is a $93 million revolving loan fund that can be used to fund affordable housing development in partnership with seven CDFIs throughout California.
+Loans have supported 18 projects across the state, preserving or creating over 1,400 units.
+Policy Guide
+from the National Housing Conference on Acquisition Funds and Interim Financing

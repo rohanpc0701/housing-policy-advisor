@@ -1,0 +1,151 @@
+Title: Brownfields
+Source: https://www.localhousingsolutions.org/housing-policy-library/brownfields/
+
+Note: In general, Brownfield sites have less severe contamination than Superfund sites, which often contain toxic waste and pose a serious and immediate threat to human health and/or the environment. Superfund sites require much more extensive and expensive cleanup than Brownfield sites and generally have less potential for adaptive re-use for residential development.
+Communities often experience several benefits from returning underused and contaminated Brownfield sites to more productive use, including:
+By addressing the environmental contaminants within a Brownfield, redevelopment can enhance the health and safety of a community while also adding housing supply through the creation of new urban residential sites.
+Brownfield redevelopment promotes sustainability by coupling environmental cleanup with sustainable reuse of a property.
+If a Brownfield is located in a blighted/under-resourced community, local stakeholders may be more likely to become involved, which fosters community engagement and goodwill.
+Brownfields may provide access to property in high-opportunity neighborhoods that have limited remaining opportunities for development.
+Brownfield redevelopment also enables communities to spur job creation through commercial infill development.
+In
+some cases
+, property values have increased near remediated Brownfields, which could allow a portion of local investment in Brownfield remediation to be recouped through increased property taxes.
+It is estimated that there are approximately
+450,000 Brownfields
+in the United States, making them a relatively common problem in many American communities. In high-demand markets with limited housing supply, Brownfields offer the prospect of additional land for market rate or affordable housing development. Lower-demand and postindustrial markets may benefit more from the economic revitalization that accompanies Brownfield remediation. There are several federal- and state-level programs that help make Brownfield development feasible.
+Approach
+The process for Brownfield remediation depends largely on the zoning and intended use of the property. However, there are three general stages of Brownfield redevelopment.
+1. Pre-development
+In the pre-development stage, the developer or local government conducts several analyses to assess the feasibility of a project and identifies sources of funding. Although some government agencies may provide tax incentives and liability protections, most processes begin with a requestor submitting a Brownfield remediation grant application, either through the Federal EPA or the state’s environmental agency. Typically applications must be completed by at least one of the following:
+The chief executive and planning board chairperson for each county, city, town, and village in which the site is located
+Residents, owners, and occupants of the site and adjacent properties
+The public water supplier to the area
+The administrator of any school or daycare facility located on or near the site
+Before an application is approved, the Brownfield site generally must undergo a site assessment. Brownfield site assessment tasks are performed on- and off-site, ranging from the review of historical information (e.g., aerial photographs) to the collection of subsurface soil samples and evaluating environmental contamination within site structures. The assessment will provide information about the extents of contamination, then determine whether redevelopment is feasible, as well as what cleanup procedures are required. Future residential sites have the highest cleanup standards and generally take longer and are more expensive to treat.
+In addition, the developer may decide to purchase an environmental insurance policy, such as Pollution Legal Liability, which can provide coverage for pre-existing contamination that may cause bodily injury or property damage.
+2. Cleanup and development
+This phase typically involves environmental cleanup, securing permits, financing, and construction. Based on the assessment activities, the Brownfield cleanup process will remedy contamination on-site and any potential contamination that has migrated off-site. Once the land is successfully removed of contamination, development can commence.
+3. Management
+During the management phase, the developer must ensure that ongoing maintenance, as specified under the assessment plan, are continued to maintain the site’s safety and integrity.
+Eligibility
+Brownfield status is a legal designation that can be assigned by state or federal agencies. The federal Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)
+identifies three types of properties
+that are specifically eligible for Brownfield designation:
+Sites contaminated by controlled substances
+Sites contaminated by petroleum or a petroleum product
+Mine-scarred lands
+Note: Eligibility requirements under state programs may be different from federal requirements. Furthermore, a site may be eligible to join a cleanup program that offers liability protection but may be ineligible to receive grants.
+The following sites are NOT eligible for a Brownfield designation under CERCLA:
+Facilities listed or proposed for listing on the National Priorities List
+Properties subject to unilateral administrative orders, court orders, administrative orders on consent, or judicial consent decrees
+Facilities that are subject to the jurisdiction, custody, or control of the U.S. government
+Recipients who are potentially liable for the contamination of their site (see
+Liability
+below)
+The local role
+In all but a few places, the Federal EPA or state environmental agency makes the initial designation of a site as a Brownfield. However, there are several ways that local jurisdictions can integrate Brownfield remediation into a comprehensive housing strategy, including:
+Identifying potential Brownfield sites for dedicated affordable housing with the potential to offer access to transit, good schools, and other amenities for or other desired uses;
+Applying for funding to remediate selected local Brownfield sites;
+Facilitating public/private partnerships to share the risk and cost of remediation efforts;
+Fostering community support for the redevelopment process;
+Connecting Brownfield revitalization with other community revitalization initiatives;
+Ensuring that the economic growth resulting from Brownfield redevelopment is broadly distributed;
+If desired, requiring owners of remediated sites to develop housing or pay into a fund that supports the development of affordable housing; and
+Offering grants to developers who clean up Brownfields in the jurisdiction and then build affordable housing (e.g., NYC’s Brownfield incentive program “BIG”).
+Local government administrators can maintain an active role in the redevelopment project’s planning and execution, and there are opportunities for numerous government agencies to get involved. For instance a locality’s Economic Development agency or department can recruit businesses to occupy the developed land, and Parks and Recreations agency or department can create and maintain green spaces, the Transportation agency or department can lead the transportation planning initiatives around the sites, and the Public Works agency or department can get involved in infrastructure expansion. Smaller jurisdictions may rely on the expertise of county, regional, or state agencies to lead these efforts. See the Guide for Local Governments in the
+Resources section
+below for a comprehensive guide on the many ways in which local governments can get involved.
+Funding
+Although the remediation process is largely funded through grants provided by the EPA or state environmental agencies, funding Brownfield development is not without its challenges. Many private lending institutions do not lend money for Brownfield projects. A key reason is that the Federal Housing Administration does not generally provide support for projects located on a Brownfield, stating “a property with testing, flushing, or monitoring wells in operation will not be considered for mortgage insurance.” These policies can have a chilling effect on infill development because many developers cannot obtain financing without FHA mortgage insurance. Another reason is potential CERCLA liability for lenders.
+However, Brownfield redevelopment can be financed by the following:
+Community Development Block Grants (CDBG)
+Section 108 Loan Guarantees
+Economic Development Initiative (EDI) grants
+Renewal Communities/Empowerment Zones/Enterprise Communities
+EPA grants
+State-level grants
+Note: Some grants require newspaper notices of the site-cleanup, as well as a public comment period, before the remediation begins.
+Considerations
+Partnerships
+Brownfield redevelopment can be conducted through wholly private- or public-led cleanup and development.  However, many successful development initiatives have been facilitated through collaboration between the public and private sectors, which reduced the financial burden on the public sector while accelerating property cleanup, redevelopment, and community revitalization. Public/private partnerships may include the following:
+Site-specific partnerships (i.e., between government, developers, lenders and community groups)
+Resource and services partnerships
+Financial partnerships
+Program-based partnerships (i.e., between government to identify the need for regulatory change)
+The
+Brownfields National Partnership
+was established in 1997 to empower states, communities, and other stakeholders in economic redevelopment to work together in a timely manner to prevent, assess, safely clean up, and sustainably reuse Brownfields. The Partnership consists of the EPA, HUD, Economic Development Administration, Department of Transportation, and a handful of other federal agencies. Currently, the Brownfields Federal Partnerships program (
+and the annual guide that it publishes
+) provides information on 21 federal programs that offer
+grants
+, loans, and/or technical assistance to support brownfield activities at the various stages of the Brownfield redevelopment process.
+For more information on Brownfield development partnerships, please refer to the
+Resources section
+, below.
+Liability
+Legal liability is an important issue within the Brownfield redevelopment process. The uncertainty of rehabilitation costs for contaminated sites can frighten away potential funders and investors.
+Brownfield grant recipients are prohibited from using grant money to pay remediation costs if they are deemed liable for cleaning up the contamination of their sites. Under CERCLA, state and local governments, nonprofit organizations, and other entities may be found liable if they:
+Own or operate the contaminated site and is not able to demonstrate that they are not liable.
+CERCLA provides several ways for eligible entities to demonstrate that they are not liable for contamination.
+Formerly owned or operated the site at the time of the disposal the hazardous substances.
+Arranged for or transported hazardous substances to be disposed of at the site.
+Read about
+exemptions to CERCLA liability
+.
+The
+2002 Small Business Liability Relief and Brownfields Revitalization Act
+amended CERLA to provide liability protections for certain landlords and property owners, including:
+Innocent landlords and property owners, per CERLA Section 101(35)(A) and 107(b)(3)
+Contiguous property owners, per CERCLA Section 107(q)
+Prospective purchasers, per CERCLA Sections 101(40) and 107(r)
+Government entities that acquire property through an involuntary transfer or acquisition, or through eminent domain by purchase or condemnation, per CERCLA Section 101(35)(A)(ii)
+In addition, many states have enacted laws to alleviate the risk of liability for Brownfield developers and investors.
+View each state’s Brownfields liability relief provisions.
+Examples
+The City of
+Chicago
+has completed numerous Brownfield redevelopment projects for industrial, commercial, and residential properties, including the
+CHA Henry Horner Homes
+. The site investigation activities revealed the presence of impacted soils with several polynuclear aromatic (PNA) constituents, in addition to lead and arsenic in some soil samples. Proposed remediation work at the site included over-excavating impacted soil and placing 3 feet of clean fill. The site now consists of 461 housing units, and future development is slated for public housing, affordable housing, and market-rate housing.
+Also located in
+Chicago
+,
+Parnell Place
+was formerly utilized for industrial purposes, including automobile manufacturing, chemical manufacturing, and other small industrial uses. The site investigation activities revealed the presence of soil impacted with semi-volatile organic compounds, volatile organic compounds, asbestos-containing materials, large concrete blocks, and miscellaneous debris. The site was divided into two areas: a northern portion for residential development and southern portion for open-space redevelopment. Remediation work completed at the northern portion included removing 2,400 cubic yards of special/hazardous waste. The City of Chicago invested more than $550,000 and $1,057,000 for environmental site investigation and remediation at the northern and southern portions, respectively. The northern parcel is now home to 38 residential buildings, including 10 single family units, 4-duplexes, 24 affordable-rate single-family homes, and a community center.
+Sands Bethworks
+in the City of
+Bethlehem, Pennsylvania
+is one of the most prominent Brownfield redevelopment examples. Bethlehem Steel’s closure destroyed thousands of jobs instantly, along with 20% of the city’s total tax base. The Pennsylvania Department of Environmental Protection and the EPA enacted a cleanup agreement under which 375 tons of soil contaminated with heavy metals and toxic compounds were excavated and transported to a permitted landfill, then backfilled with clean fill. Additionally, trees, shrubs, and groundcover further cleaned soils through processes of phytoextraction and phytodegradation by collecting and neutralizing contaminants within the plant’s biomass. With new capital and resource streams, the blast furnaces and historic buildings could be preserved and restored. The Sands Casino Resort Bethlehem opened on the site in 2009; ten years later it was acquired by Wind Creek Hospitality and is now known as Wind Creek Bethlehem, serving as a major economic engine for the region.
+Elsewhere in Pennsylvania, the City of
+Philadelphia
+used an EPA Brownfield Grant
+to build 50 units of affordable housing in a former junk yard and construction warehouse adjacent to Frankford Creek. The site investigation, led by the Pennsylvania Department of Environmental Protection, helped excavate hazardous chemicals and contamination, including arsenic and lead in the soil.
+Brownfield redevelopment projects have also spanned the western U.S., from Washington state down to New Mexico.
+In
+Silver City, New Mexico
+, Hillcrest General Hospital served as a healthcare hub for residents for nearly 25 years. When the hospital closed in 1983, the building fell into disrepair. Two decades later, in 2004, Silver City bought the Hillcrest property with the intention of ultimately redeveloping the site. The town used an EPA Brownfields Revolving Loan Fund to help remove waste and clean up the site. The town then tore down the hospital in 2009 and started searching for a new tenant. In late 2016, Silver City landed on one – affordable housing developer Bethel Development, which planned to build 69 housing units for seniors on the site. Importantly, Bethel received a tax credit for building on a Brownfield site through New Mexico’s Qualified Allocation Plan. Construction finished in fall 2019, and the Mountain View Senior Apartments are now a critical source of affordable housing in the area.
+Related resources
+General information
+State Brownfields and Voluntary Response Programs
+Brownfield Grant Recipient Success Stories
+Guide for Local Governments
+Environmental Protection Agency resources:
+1
+2
+National Center for Neighborhood and Brownfields Redevelopment
+Department of Housing and Urban Development
+This page from the
+University of Michigan
+contains helpful information on Brownfield liability considerations
+Brownfields Health & Safety For Sites Evaluated & Remediated under Federal Brownfields Initiatives or State Voluntary Clean-up Programs
+Making Dirty Land Clean: An Analysis of New York City’s Voluntary Cleanup Program
+Information on partnerships
+Regional Environmental Agencies and Programming Summary and Contacts
+Brownfields Federal Partnerships
+: Communities often can take advantage of these resources to identify and address bureaucratic barriers to addressing local needs, and pilot-test new approaches and model projects.
+Information on the
+Role of Public-Private Partnerships
+in Brownfields
+Academic research
+on the importance of public-private partnerships in Brownfield development

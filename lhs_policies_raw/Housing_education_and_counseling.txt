@@ -1,0 +1,86 @@
+Title: Housing education and counseling
+Source: https://www.localhousingsolutions.org/housing-policy-library/housing-education-and-counseling/
+
+Pre-purchase programs are aimed at individuals and families who are considering homeownership or in the process of buying a home, and may be structured as group education courses, one-on-one counseling or (both) and can be conducted in person, online, or by phone. Sessions may cover a variety of topics, including assessing a prospective buyer’s readiness to purchase a home, determining the appropriate mortgage product and avoiding scams, and preparing for the ongoing financial obligations of homeownership. Completion of a pre-purchase education or counseling program is a common prerequisite for most local, state, and federal homeownership programs. Post-purchase programs work with existing homeowners and address issues such as refinancing options, home maintenance requirements, management of any rental units (applies to 2-4 unit properties), and budgeting. Both types are typically conducted by HUD-certified housing counselors.
+This section describes some of the considerations for cities, towns and counties interested in encouraging access to homeownership or requiring homeownership education or counseling as a precondition for other local programs.
+Approach
+Homeownership education and counseling programs offered to households that have not yet purchased a home – known as “pre-purchase” programs – support households in the homebuying process with the aim of helping them make sound decisions when buying and financing the purchase of a home. Post-purchase programs work with existing homeowners to support successful homeownership. There are also
+foreclosure prevention programs
+that help distressed homeowners resolve problems if homeowners fall behind on their mortgage (This latter set of programs is addressed in a separate policy). Homeownership education and counseling are commonly provided by a HUD-certified
+housing counseling agency
+and can take many forms.
+Homeownership education is generally delivered to groups, often through weekend or evening classes or an online learning platform. These sessions typically cover topics that are of general interest, including how to find and work with lenders and real estate professionals, budget for the costs of owning a home, improve credit scores, and understand a mortgage. Homeownership counseling, by contrast, tends to be structured as a series of one-on-one meetings with a counselor who can provide individualized coaching in specific areas, such as resolving credit issues or developing a budgeting and saving plan. Sessions can be done in person, over the phone, or online. Many organizations offer both homeownership education and counseling or a combination of the two. For example, a homebuying workshop could be followed by a one-on-one counseling session. Cities and counties may have different requirements depending on local priorities and the services available in the community.
+Research has documented the effectiveness of homeownership education and counseling in helping participants improve their creditworthiness and successfully manage their mortgage. One study found that homeowners who participated in pre-purchase education and counseling offered through nonprofit affiliates of NeighborWorks America (consisting of an 8 hour group course followed by one-on-one counseling) were one-third less likely to become 90 days delinquent on their mortgage in the first two years of their loans compared with similar homeowners who did not participate in such programs.
+[1]
+Another found that pre-purchase homeownership education and counseling participants had higher credit scores, reduced debts and reduced delinquencies; these results were stronger for those who both participated in education classes and received one-on-one counseling.
+[2]
+Recognizing these benefits, local departments of housing and community development often require completion of a homeownership education program sponsored by a local, generally HUD-certified, housing counseling agency as a prerequisite for receiving homeownership assistance. For example,
+Baltimore County
+, MD, requires pre-purchase education and counseling for those seeking assistance with closing costs. After successfully completing education and counseling, low- and moderate-income first-time homebuyers are eligible for a deferred,
+forgivable loan
+of up to $10,000 to help cover closing costs. Similarly,
+the City of Somerville, MA
+, requires homebuyers attend a class before being able to purchase units that the city makes available to low- and moderate-income homebuyers at below-market prices.
+In addition to building counseling and education requirements into their homeownership programs, cities, towns, and counties can also partner with and provide financial support to homeownership education/ counseling groups. For example, the Planning and Economic Development Departments of the City of St. Paul and City of Minneapolis both provide financial support to the Minnesota Homeownership Center, which provides homeownership education and counseling throughout the state. Representatives of both departments also serve on the organization’s board. Hennepin County, whose boundaries include the City of Minneapolis, also provides financial support. Ultimately this support bolsters housing education and counseling in the area and enables the continued availability of these services. While the U.S. Department of Housing and Urban Development provides grants to support homeownership education and counseling through the housing counseling grant program, the available federal funds are not sufficient to fully support the provision of homeownership education and counseling to all who need and want it. By making local funds available to support these programs, cities and counties can help expand their reach, helping first-time homebuyers become homeowners and existing homeowners to successfully sustain their tenure.
+Local programs can also provide links to and refer families to local homeownership education and counseling providers and demonstrate an ongoing commitment to education and counseling. For example, the City of Chicago lists contact information and program details for local foreclosure prevention and housing counseling centers on its
+website
+and encourages struggling and prospective homeowners to reach out early for support.
+Eligibility
+While all potential and current homeowners may benefit from homeownership education and counseling, typically programs are targeted to first-time and/or low and moderate income homebuyers and to existing homeowners who are struggling to keep up with mortgage payments and other costs associated with homeownership. Research suggests that homeownership education and counseling programs are most effective early in the process – early in the homebuying process for pre-purchase programs and early in the delinquency process for post-purchase programs.
+[3]
+In some local programs, participants first enter into a contract to purchase a home and then take a homeownership education class right before closing; while this is likely better than nothing, the class cannot be as impactful as it would be if taken before the home purchase decision when it could also help homebuyers better assess the value of the home they are purchasing and the reasonableness of the loan terms.
+Homeownership assistance programs that require homeownership education and counseling typically set eligibility guidelines and standards for the counseling/education provided. For example, Baltimore County requires homebuyers to attend a two-part class and a workshop as well as individual financial counseling with a housing counselor, and the City of Somerville requires an approved class. Courses can be structured in a variety of formats, although there is some evidence that households prefer online education with telephone counseling to in-person programs.
+[4]
+All formats of providing homeownership education and counseling – online, telephone and in person – have been found to be effective.
+[5]
+Research is underway to understand possible differences in outcomes across formats.
+Many cities, towns, and counties rely on the HUD standards and HUD-certified agencies to ensure participants receive quality homeownership education and counseling. HUD’s rules governing HUD-certified programs include curriculum requirements as well as standards for counselors.
+[6]
+With approximately 2,000 agencies across the US, most localities are served by a HUD-certified housing counselor.
+[7]
+Cities and counties planning to use HUD funds to support homeownership or homeownership education and counseling may want to pay particular attention to the federal standards. Housing counseling funded through the CDBG program often must be completed by a HUD-certified provider. The HOME program requires households that receive HOME-funded downpayment or homeownership assistance to participate in housing counseling. The HOME program does not specify the type or duration of housing counseling that must be provided, but
+HUD encourages
+cities and counties to follow the
+National Industry Standards for Homeownership Education and Counseling
+.
+Examples
+Baltimore County, MD
+requires those seeking assistance through their
+Settlement Expense Loan Program
+to complete a two-part class and workshop as well as receive counseling from a list of approved local counseling organizations before being eligible for assistance. The workshops provide an overview of the homebuying process, including the process of applying for and obtaining a mortgage. The one-on-one counseling provides individualized support.
+The City of Somerville, MA
+Inclusionary Affordable Homeownership Program
+requires prospective buyers to complete an approved class before being eligible to purchase one of the deed-restricted units that the city makes available for low and moderate income homebuyers. The Massachusetts Homeownership Collaborative, an initiative of the Citizen’s Housing & Planning Association, monitors and approves courses and maintains a list of upcoming certified classes.
+Additional details can also be found at the Citizens’ Housing and Planning Association website
+.
+Massachusetts
+One Mortgage Loan Program
+requires pre-purchase housing education and counseling through local agencies in order for homebuyers to be able to eligible for a subsidized, low-downpayment loan. In addition to pre-purchase counseling, homeowners who receive loans through this program must also complete a post-purchase workshop covering budget, maintenance and credit management among other topics and have access to free homeownership counseling services.
+More details are available at the Massachusetts Housing Partnership website.
+Related resources
+HUDs Office of Housing Counseling
+, this website provides information about HUD-certified housing counseling programs including the rules these programs are required to follow and a map which provides contact information for certified housing counseling agencies throughout the US.
+Framework
+is an online housing education and counseling platform developed by the Housing Partnership Network and Minnesota Homeownership Center, two national non-profits and HUD-certified housing counseling agencies. The online education platform conforms to HUD standards and provides education, one-on-one and ongoing counseling for homeowners.
+National Industry Standards for Homeownership Education and Counseling
+are a set of guidelines designed to ensure quality and professionalism in homeownership education and counseling. By adhering to the guidelines, industry professionals agree to follow a baseline set of practices in the services delivered to clients. HUD encourages the adoption of these standards, particularly for local jurisdictions who use HOME funds for homeownership education and counseling programs.
+1. Mayer, Neil S and Kenneth Tempkin. 2013.
+Pre-Purchase Counseling Impacts on Mortgage Performance: Empirical Analysis of NeighborWorks America’s Experience.
+2. Smith, Marvin, Daniel Hochberg and William H Greene. 2014.
+The Effectiveness of Pre-Purchase Homeownership Counseling and Financial Management Skill
+. Federal Reserve Bank of Philadelphia.
+3. Sackett, Chase.
+The Evidence on Homeownership Education and Counseling
+.
+HUD Office of Policy Development & Research.
+4. DeMarco, Donna, et. al. 2016.
+The First-Time Homebuyer Education and Counseling Demonstration: Early Insights.
+5. Sackett, Chase.
+The Evidence on Homeownership Education and Counseling
+.
+HUD Office of Policy Development & Research.
+6. HUD Exchange.
+Housing Counseling: New Certification Requirements Final Rule.
+7. HUD provides
+an interactive map
+listing all HUD-certified housing counselors

@@ -1,0 +1,110 @@
+Title: Targeted efforts to create and preserve dedicated affordable housing in resource-rich areas
+Source: https://www.localhousingsolutions.org/housing-policy-library/targeted-efforts-to-create-and-preserve-dedicated-affordable-housing-in-resource-rich-areas/
+
+By focusing housing affordability programs on
+resource-rich
+areas, localities can help ensure that low- and moderate-income households benefit from the same advantages and opportunities available to their higher-income peers. To be successful, such approaches must help affordable housing developers overcome the challenges of high land prices, competition from private developers, and other obstacles that make it difficult to develop affordable housing in resource-rich areas.
+This section describes ways that communities can apply many of the policy tools highlighted on LocalHousingSolutions.org to create and preserve dedicated affordable housing in resource-rich areas.
+Approach
+A
+growing
+body
+of
+research
+documents the benefits of growing up in resource-rich areas that offer quality schools, safe streets, access to jobs, and other amenities and resources. While we refer to these areas as “resource rich,” some localities use the term “opportunity areas” instead. We have chosen to use the term “resource-rich areas” to avoid a suggestion that residents of low-income neighborhoods can access opportunity only by moving to higher-income areas. While moving to a resource-rich area is an important strategy for expanding the opportunities of children and others, public policy should strive to ensure that residents of all neighborhoods have equitable access to the basic building blocks of economic opportunity, such as quality schools and safe streets. For more guidance on serving residents through both community development and mobility policies, see the related brief,
+Balancing increases in affordable housing in resource-rich areas with investments in low-income neighborhoods.
+Communities can use several approaches to create and preserve dedicated affordable housing in resource-rich areas. One option is to restrict eligibility for certain programs to high-cost or resource-rich neighborhoods – an approach that encourages development in these areas and directs limited public resources to places that present the greatest challenges to developing affordable housing. For example, cities can specify neighborhoods in which developers are eligible to receive affordable housing development subsidies funded through HOME or a local housing trust fund. Cities or counties that create
+transfer of development rights
+programs can limit “sending” areas, where affordable housing will be preserved, to those that meet certain criteria that assure the area is resource-rich. Employer-assisted housing programs help to promote affordability for homebuyers or renters, and may be limited to areas near participating employers to reduce the mismatch between where workers can afford to live and where they go to work.
+Rather than formally requiring that properties be located in resource-rich neighborhoods to qualify for funding, cities and counties can instead give priority consideration to proposals for projects that are located in targeted neighborhoods. This type of preference can be exercised across a broad range of programs—from
+Low Income Housing Tax Credit
+applications to projects supported by HOME or
+housing trust fund
+revenue—and can be given more or less weight depending on local circumstances and other goals. Cities and counties can also partner with the local
+public housing
+agency to encourage
+project-basing of Housing Choice Vouchers
+in resource-rich neighborhoods.
+A third approach is to adopt tools such as
+inclusionary zoning
+,
+density bonuses
+or
+tax abatements or exemptions
+that are not limited geographically but will naturally be used only in places where the rents or home prices are sufficiently high to make market-rate development feasible. These approaches provide incentives or requirements to ensure that a share of new development is affordable.
+Finally, localities can adopt policies that are specifically designed to address challenges to creating and preserving affordable housing development in high-cost neighborhoods. For example, policies that lower development costs by
+reducing parking requirements
+will be most appropriate and well-suited to walkable neighborhoods with access to regular public transit service – amenities that may be associated with higher housing costs in cities.
+Joint development agreements with transit associations
+support the creation of affordable housing adjacent to public transit stations, where land costs might otherwise be too high to make the development math work.
+Property acquisition funds
+and programs to
+fund or finance the purchase of moderate-cost rental units
+make it easier to act quickly and compete effectively against for-profit developers when sites in strong markets become available for purchase.
+When considering how to structure their programs, localities may also want to consider whether to focus on particular housing types. Researchers have found that neighborhood quality has especially strong impacts on children’s long-term educational attainment and earnings, and so communities may want to pay special attention to creating or preserving family-size housing in areas with quality schools. Senior housing located in walkable neighborhoods, near shopping centers, libraries, and other community centers can help to improve quality of life and access to care for individuals who have decided to stop driving.
+In many localities, local leaders will also have to take extra steps to build the political will for changes that increase affordable housing opportunities in resource-rich areas. See the related brief,
+Resources on building support
+, for links to additional guidance on overcoming community opposition and generating support for affordable housing developments and policies and programs that help to address affordability challenges.
+Eligibility
+Localities seeking to focus affordable housing investments in resource-rich neighborhoods will need to clearly define the characteristics and thresholds used to identify these areas. Program staff can use a variety of factors to define these areas, including:
+Poverty level
+Concentration of existing affordable rental housing
+Public school performance
+Availability of frequent and reliable public transit; local transportation costs
+Labor market engagement; proximity to job centers, including those with large concentrations of low-wage workers
+Access to healthcare providers
+Access to fresh, healthy food
+Presence of parks and recreational facilities
+Air and water quality; proximity to waste disposal facilities and other sources of pollution
+Crime levels
+Localities can establish baseline eligibility thresholds that include some or all of these and other criteria, or they can simply ask program applicants to address these factors in their project proposals.
+Other considerations
+Affirmatively furthering fair housing
+To comply with the requirements of
+HUD’s Affirmatively Furthering Fair Housing rule
+, cities and counties that receive federal housing funds need to demonstrate that they are “taking meaningful actions, in addition to combating discrimination, that overcome patterns of segregation and foster inclusive communities free from barriers that restrict access to opportunity based on protected characteristics.” The fair housing planning process asks communities to assess and address disparities in access to opportunity for groups with protected characteristics, including to quality schools, employment, and transportation. Targeted efforts to create and preserve dedicated affordable housing in resource-rich areas can help to address these disparities.
+Long-term affordability
+Resource-rich areas present unique challenges to cities, towns, counties, and developers trying to create affordable housing units, including higher land prices, stiffer competition for available sites and buildings, and greater likelihood of neighborhood resistance to low-cost housing. Localities that support the development of affordable housing in these areas should consider using long-term affordability requirements to protect their investment and ensure the availability of affordable units for future households over the long-term. See the related brief,
+‘Determining the duration of required affordability for dedicated affordable housing’
+, for further discussion of affordability requirements.
+Examples
+Denver, Colorado
+is working to preserve existing dedicated affordable housing in areas near transit stations and other neighborhoods where these units are vulnerable to loss. Working with the Colorado Housing and Finance Authority (CHFA), the City has created an affordable housing inventory and identified properties in priority areas to target for preservation. The City and CHFA have conducted outreach to property owners, and identified resources for acquisition and rehabilitation to enable continued affordability after current income restrictions expire, including using 4 Percent
+Low Income Housing Tax Credit
+s. For more information, see
+here
+.
+In 1990,
+Burlington, Vermont
+enacted its
+inclusionary housing program
+as part of a broader housing strategy. At the time, it was the first city in the country to
+index its affordable housing set-aside to the price of the market-rate homes
+. For all new market-rate developments with five or more units in Burlington, 15-25 percent of the units must be affordable, depending on the average price of the market-rate apartments. Between 1990 and 2015,
+Burlington built 270 units
+through projects that complied with the ordinance.
+By the end of 2016, Burlington was one of 886 jurisdictions across 25 states that adopted some form of inclusionary housing program, according to
+a study by the Lincoln Institute for Land Policy
+. For more on the role of inclusionary programs in addressing the intersection of health and housing,
+see this article
+.
+Related resources
+Implementation
+AFFH-T Data Documentation
+, U.S. Department of Housing and Urban Development (September 2017) – This series of technical briefs was prepared to help communities conduct their Assessments of Fair Housing. While designed as a companion to
+HUD’s AFFH data mapping tool
+, the Data Documentation series provides a useful overview of the variables that can be used to measure opportunity, the geographic level(s) at which these data are available, and the sources and frequency of updates.
+Opportunity Mapping Issue Brief
+, Kirwan Institute for the Study of Race and Ethnicity (2013) – This brief describes the process of opportunity mapping: an approach to planning that takes into account multiple neighborhood characteristics that impact residents’ well-being to reveal local and regional disparities and identify areas to focus investment in affordable housing.
+Intersections
+Breaking Down Barriers: Housing, Neighborhoods, and Schools of Opportunity
+, U.S. Department of Housing and Urban Development (April 2016) – This report reviews recent research on the connections between neighborhood and school quality and child outcomes, and presents steps that policymakers can take to improve children’s access to high-quality neighborhoods and schools.
+The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Project
+, American Economic Review (August 2015) – This article describes long-term outcomes from the Moving to Opportunity experiment. Evidence indicates that moving to a lower-poverty neighborhood as a young child significantly improves future college attendance rates and earnings.
+Equitable Transit Oriented Development: Examining the Progress and Continued Challenges of Developing Affordable Housing in Opportunity and Transit-Rich Neighborhoods
+, Poverty and Race Research Action Council (March 2015) – Authors of this report use Low Income Housing Tax Credit data to assess the extent to which affordable housing options are created near transit stations in resource-rich areas. The report also features case studies from three communities that faced obstacles in including affordable housing in transit-oriented development. It highlights strategies these communities employed to overcome these obstacles.
+Planning for Opportunity: How Planners Can Expand Access to Affordable Opportunity Bargain Areas, The Journal of the American Planning Association (July 2022) – To better classify resource-rich areas, the
+authors of this paper
+argue for a
+streamlined measure called the school–violence–poverty (SVP) index
+, based on three contemporary metrics that research shows enhance economic mobility for children: school quality, violent crime, and poverty.

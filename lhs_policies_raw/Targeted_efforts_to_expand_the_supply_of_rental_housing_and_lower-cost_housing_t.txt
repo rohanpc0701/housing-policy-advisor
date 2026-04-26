@@ -1,0 +1,61 @@
+Title: Targeted efforts to expand the supply of rental housing and lower-cost housing types in resource-rich areas
+Source: https://www.localhousingsolutions.org/housing-policy-library/targeted-efforts-to-expand-the-supply-of-rental-housing-and-lower-cost-housing-types-in-resource-rich-areas/
+
+In some cases, already high housing costs are exacerbated by land use policies that make it difficult to develop certain housing types that tend to be less costly, such as multifamily rental housing. To diversify the housing stock in high-cost areas and increase housing options for low- and moderate-income households, cities, towns, and counties can take steps to facilitate the development of multifamily rental housing and other housing types that tend to have lower housing costs than single-family housing developed on large lots. For example, revisions to the
+zoning code
+can allow the construction of lower-cost housing types on an “as-of-right” basis, without additional approvals that introduce uncertainty and add to project costs. Localities can also offer guidance and financial incentives to encourage the development of lower-cost housing types in resource-rich areas.
+Approach
+Low- and moderate-income households often have difficulty finding
+affordable housing
+in resource-rich areas because they are so desirable, especially when single-family homes on large lots make up most of the housing stock. In cases where the underlying zoning code only permits this development pattern, construction of other, lower-cost housing types such as multifamily rental housing or townhomes may only be possible after a special review and approvals process. This process can be lengthy and introduces uncertainty that may deter potential developers and raise development costs.
+To address this obstacle, localities can make changes to the zoning code to allow certain types of development on an “as of right” basis – that is, without any zoning amendments or special approvals. There are several ways to achieve this flexibility, depending on local circumstances. When the desired changes will affect only one zoning district, amending the existing standards for that district may be the most straightforward approach. However, if the changes will require extensive alterations to the underlying zoning code and are desired only in a section of an existing district, it may be more appropriate to create and apply a new zoning district. In cases where the changes will apply across multiple zoning districts and are relatively limited in scope, localities can establish overlay zones. Overlay zones are added on top of existing zoning regulations to achieve a specific purpose, including development of a more diverse housing stock. (See the example describing San Diego’s Urban Village Overlay Zones below.) By amending eligible activities in an existing zoning district, creating a new district, or establishing overlay zones to allow apartment buildings, townhomes, and other lower-cost housing types in neighborhoods that offer access to good schools, job centers, and other resources, communities can help to increase housing options for low- and moderate-income households.
+The appropriate housing type or density level will vary based on existing development patterns. In areas that are characterized primarily by single-family homes, lower-cost housing types might include low-rise multifamily buildings, duplexes or townhomes,
+accessory dwelling unit
+s, or even a small single-family home on smaller size lots. In locations suitable for the development of mid- or high-rise structures – such as wider avenues or areas
+adjacent to retail or transit
+, the development of multifamily rentals could offer housing options that are less costly than single-family homes in resource-rich areas and provide smaller and lower-cost units that
+housing choice voucher
+holders could potentially access. Some areas near transit stations and retail centers will already be characterized by development at higher densities than the surrounding area, but there may nevertheless be opportunities to create additional units, including rental housing, without changing the character of the neighborhood. All of these options can increase the availability of lower-cost housing types in resource-rich areas while maintaining the prevailing look and feel of the neighborhood.
+To facilitate the development of lower-cost housing types in resource-rich areas, localities can revise their zoning codes to increase the allowable density and ensure that these housing types are not expressly or effectively prohibited by available zoning requirements. In addition to zoning changes to allow for higher residential density, localities can consider taking other steps to streamline the development process for lower-cost housing types in resource-rich areas. For example, municipalities can make access to
+streamlined permitting
+and
+environmental review
+processes available to developers of certain housing types in targeted parts of town. Localities can also
+reduce parking requirements
+for lower-cost housing in resource-rich areas where frequent and reliable public transit service is available, helping to lower costs and make development more feasible. Guidance can also be useful – for example, to help homeowners understand their options for creating an accessory dwelling unit and how to go about doing so.
+In many communities, local leaders will also have to take extra steps to build the political will for changes that increase lower-cost housing opportunities in resource-rich areas. See the related brief,
+Resources on building support
+, for links to additional guidance on overcoming community opposition and generating support for affordable housing developments and policies and programs that help to address affordability challenges.
+Eligibility
+Localities seeking to facilitate the development of lower-cost housing types in resource-rich neighborhoods will need to clearly define the characteristics and thresholds used to identify these areas. Program staff can use a variety of factors to define these areas, including:
+Poverty level
+Concentration of existing affordable rental housing
+Public school performance
+Availability of frequent and reliable public transit; local transportation costs
+Labor market engagement; proximity to job centers, including those with large concentrations of low-wage workers
+Access to healthcare providers
+Access to fresh, healthy food
+Presence of parks and recreational facilities
+Air and water quality; proximity to waste disposal facilities and other sources of pollution
+Crime levels
+Localities can establish baseline eligibility thresholds that include some or all of these and other criteria, or they can simply ask program applicants to address these factors in their project proposals.
+Example
+San Diego
+uses Urban Village Overlay Zones to allow a mix of uses and development types in targeted neighborhoods. Within these compact zones, housing surrounds a mixed-use core that includes public, commercial, and residential development. Development patterns allow residents to easily walk or bike to jobs, retail centers, and service providers in the core area. Residential development includes a mix of densities, ownership patterns, and building types, including higher-density apartments, single-family homes, and townhomes and courtyard housing, in which low-density apartment buildings surround a shared courtyard. Maximum density within the overlay zone is determined by underlying zoning regulations, but developers may receive a 10 percent
+density bonus
+for projects within 2,000 feet of a light rail transit station. For more details, visit
+here
+.
+Related resources
+Program design
+Local Policy Options to Support Sustainable and Equitable Development
+, Center for Housing Policy (September 2011) – This brief reviews local options to increase lower-cost housing, including subsidized units, along transit corridors.
+Property Topics and Concepts
+, American Planning Association (2007) – This brief provides an introduction to flexible zoning techniques, including floating zones, overlay zones, and incentive zoning. These tools can be used to plan for future land uses and encourage certain development types in specific parts of town.
+State Survey of Housing Appeals Statutes
+, NAHB – This report describes administrative or judicial processes used to handle land use denials, particularly those that stem from opposition to affordable housing by prospective neighbors – an issue that may be particularly relevant in resource-rich areas. While focused on state policy, it may contain relevant ideas to local jurisdictions.
+Local examples
+SMART Housing Policy Resource Guide
+, City of Austin Neighborhood Housing and Community Development (June 2008) – This guidebook describes Austin’s program for encouraging the creation of safe, mixed-income, accessible, reasonably priced, and transit-oriented housing. The program encourages the development of lower-cost housing through incentives such as development fee waivers and fast-track permitting review.
+Taking Stock of the District’s Housing Stock
+, Capacity, Affordability, and Pressures on Family Housing (March 2018), This report from the DC Policy Center shows how strategic rezoning and investment in under-resource areas could resolve the city’s housing crisis. The Northwest region of Washington, primarily zoned for single-family housing, has services to support families. The Southeast region has an abundance of affordable housing but lacks grocery stores and educational resources to attract families. Changes in zoning and community investment could open the city to different income groups and relieve the intense housing burden.

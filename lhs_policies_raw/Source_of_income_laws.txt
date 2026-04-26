@@ -1,0 +1,68 @@
+Title: Source of income laws
+Source: https://www.localhousingsolutions.org/housing-policy-library/source-of-income-laws/
+
+Such laws generally cover many potential sources of income including federal benefits like Social Security and Temporary Assistance for Needy Families (TANF). Many source of income laws treat federal rental assistance as a protected source of income and thus make it unlawful to refuse to rent to a household on the grounds that it participates in the Section 8
+Housing Choice Voucher
+program. This is an important protection that can help to expand the housing choices available to voucher holders, including in
+resource-rich
+neighborhoods where affordable housing options might otherwise be unavailable. In jurisdictions where source of income protections have been adopted, educational campaigns and outreach to landlords and tenants may be needed to ensure all parties are aware of current requirements under the law.
+This section describes some of the considerations for cities, towns and counties interested in developing source of income laws.
+Approach
+Many states and localities have passed laws that prohibit housing discrimination on the basis of source of income. As of 2017, 12 states, the District of Columbia, and many localities had such laws in place (
+a full listing can be found here
+). These laws make it unlawful to, for example, refuse to rent an apartment to a tenant because he or she receives Social Security or other federal benefits.
+One of the most common examples of source of income discrimination is the refusal of landlords to accept tenants who receive tenant-based rental assistance through the Housing Choice Voucher program. Housing choice vouchers provide government assistance to help low-income households afford the rents of units of their choice. These programs are attractive, in part, because they allow participating families freedom of choice in where to live and make it possible for low-income families to find housing they can afford in low-poverty, resource-rich localities. However, some landlords refuse to accept housing vouchers, making it difficult for voucher holders to successfully find and lease housing and potentially resulting in vouchers being turned back to the agency unused because program participants cannot find a landlord to accept them within the allotted time.
+Some states and localities have attempted to expand the choices available to voucher holders by passing fair housing laws that define federal rental assistance as a lawful source of income subject to fair housing law protection. These laws provide voucher holders the same kinds of protections as other protected classes identified in the federal Fair Housing Act and similar state and local laws. As a result, victims can bring forward claims of discrimination based on source of income to be investigated and, if evidence of discrimination is found, these claims can be the basis for enforcement actions and lawsuits.
+Laws prohibiting discrimination against housing choice voucher holders can be controversial among landlords and landlord associations and, as a result, vouchers are explicitly excluded from source of income laws in some states and localities. Reasons for turning away voucher holders vary, but often include concerns about the regulatory burden associated with participation in the Housing Choice Voucher program. Some property owners may also have unfavorable views of voucher holders based on misperceptions or past experience with other families.
+P
+u
+blic h
+ousing
+agencies can help address the concerns of landlords by ensuring their Housing Choice Voucher programs are responsive to landlord concerns and timely with payments and inspections. Some cities also
+encourage landlords to work with voucher holders
+by offering financial incentives, education, or other supports to help mitigate landlord concerns.
+In places with source of income laws, states and localities determine how to enforce the law and what options are available to victims of source of income discrimination. Enforcement may be through the courts or through administrative action. Specific enforcement processes vary by state and locality.
+Cities, towns, and counties that have passed such laws generally also add information about source of income discrimination to
+education campaigns for real estate professionals and the general public
+. These campaigns help inform people of their rights under the laws and help landlords understand the law’s expectations.
+Eligibility
+Twelve states and the District of Columbia, as well as many municipalities, have passed laws that prohibit housing discrimination on the basis of source of income. Some laws are very specific about the sources of income protected by the law. For example, Washington, DC’s law explicitly names “section 8 vouchers.” Others refer more generally to income sources or do the opposite by explicitly excluding housing choice vouchers while protecting other sources of income. General language prohibiting source of income discrimination may provide a basis to prohibit discrimination against different types of assistance, including locally-funded tenant-based assistance, but may also not provide sufficient clarity about what is prohibited to protect against all source of income discrimination. For example, the state of Oklahoma’s source of income law uses the term “public assistance”, which may not be precise enough to protect voucher holders in the case of a legal challenge.
+This full listing of source of income laws
+includes specific legislative language for all state and local laws as of June 2018, as well as information about relevant cases for each locality.
+Federal rules prohibit properties that use
+HOME program
+funds or funds from the
+Low Income Housing Tax Credit (LIHTC) program
+from refusing to rent to a household because of a housing voucher. The regulations do not provide protection for other sources of income.
+One note on the intersection of local and federal fair housing law: while state or local source of income laws provide the most comprehensive protections against discrimination on this basis, there may in certain circumstances also be protection under federal law. For example, by definition, all those who receive Social Security Disability Insurance are persons with disabilities, and disability is a protected characteristic under the federal Fair Housing Act. Similarly, to the extent that a policy of refusing to accept a certain source of income has a disproportionately negative impact on members of a racial or ethnic group or another protected class, that policy may run afoul of the Fair Housing Act under the disparate impact theory.
+Examples
+California
+state law
+prohibits housing discrimination on the basis of source of income, but state courts have ruled that it does not protect housing choice voucher holders. Voucher holders in some jurisdictions in California are protected by local ordinances, such as the ordinance in Corte Madera (pg. 27) which specifically includes language including Section 8 vouchers.
+Washington, DC
+prohibits housing discrimination on the basis of source of income and specifically defines Section 8 housing vouchers as a lawful source of income. DC also created
+this document to explain the law and provide examples
+of potentially discriminatory statements and actions.
+The
+City of Chicago
+passed an ordinance in 1990 which includes protection under fair housing law for lawful sources of income. The city created
+this document explaining the ordinance
+and makes very clear that the protections apply to Section 8 housing choice voucher holders specifically.
+Related resources
+Poverty & Race Research Action Council (PRRAC) has compiled a comprehensive list of state and local source of income laws.
+This PRRAC document
+includes the specific language of the law, a description of the method of enforcement, and references to relevant cases involving each law.
+This short article from the Urban Institute
+includes a map showing which states and jurisdictions had source of income laws, based on the PRRAC list as of 2013.
+The National Housing Law Project
+provides information on legal challenges to source of income legislation
+in various states and how the courts in these states have responded to this legislation. The information includes links to two journal articles which review cases across the country as well as links to more information about specific resent cases.
+This document
+from the National Multifamily Housing Council and National Apartment Association provides a succinct review of arguments opposing source of income laws that include housing choice vouchers as a protected source of income.
+Research affirms the potential benefits of source of income laws for voucher holders.
+This HUD article
+finds that source of income laws are associated with higher utilization of housing vouchers and with voucher holders moving to higher opportunity areas. This
+journal article
+discusses evidence of discrimination faced by voucher recipients and the potential for source of income laws to mitigate negative outcomes.
+This 2019 report and interactive mapping tool
+from the Center on Budget and Policy Priorities explore where Section 8 voucher holders live, and how landlord discrimination determines what neighborhoods voucher holders end up in.

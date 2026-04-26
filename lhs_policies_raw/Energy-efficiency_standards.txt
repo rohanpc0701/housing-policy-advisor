@@ -1,0 +1,80 @@
+Title: Energy-efficiency standards
+Source: https://www.localhousingsolutions.org/housing-policy-library/energy-efficiency-standards/
+
+While all municipalities can benefit from reduced energy consumption, this policy may be particularly important in parts of the country where heating and/or cooling costs are high, as reducing energy consumption can often reduce the building’s operational expenses which can help keep the costs of owning and operating housing affordable.. This section describes some of the considerations for cities, towns and counties interested in developing energy-efficiency standards.
+Approach
+State and local energy codes are the parts of the building code that provide standards for energy-efficiency in buildings, including single-family homes and multi-family housing developments. These requirements cover many aspects of building design and construction including the building’s envelope (insulation and materials), heating and cooling systems, and water systems. For example, energy codes may specify the amount and required energy rating for attic insulation, the maximum gallons per flush for a toilet, or setting emissions targets for heating systems. Energy-efficiency standards are generally different for commercial and residential buildings. The number of units and square footage of the building may also affect the standards a building needs to comply with.
+Energy codes can be prescriptive (specifying required activities intended to achieve target energy usage) or performance-based (specifying required energy performance that must be achieved but leaving it to the developer or owner to determine what activities to implement to achieve the target). Model codes and standards have been developed by standards organizations and are often used as the basis of local standards.
+In some states, localities must follow adopt state-wide standards, while in other states, localities may adopt their own standards. In some places, local jurisdictions can adopt their own standards only if they are more stringent than those in place at the state level and must seek state approval. Where localities must follow state-wide requirements, local governments can advocate for state-wide standards to be more stringent or to cover certain kinds of energy-efficiency measures even though they cannot adopt such requirements on their own.
+Energy codes, for example, contain standardized building specifications that are intended to achieve a minimum level of energy-efficiency. Like
+building codes
+, most energy codes apply to new construction and rehab projects that exceed stated thresholds related to cost or scope. In built-out communities with little available land, requirements that apply when buildings are sold may be a more effective way to reduce residential energy consumption. These policies require certain energy-efficiency standards to be met when a property changes hands. To limit the financial impact on property owners, point-of-sale requirements typically include a ceiling on the value of repairs that must be completed in connection with a single home sale, which may be expressed as a flat dollar amount or a share of the building’s value.
+State and local energy codes may also require reporting of energy usage. Some cities require energy information be publicly disclosed by property owners in order to track energy consumption and encourage owners to make efficiency improvements. For example, buildings over a certain size may be required to report energy use information to the municipality on a regular basis. Another approach is to require an energy inspection or audit to be conducted and disclosed to the buyer as part of a home sale so that the buyer is educated about the steps that could be undertaken to improve energy-efficiency and the costs and benefits of doing so. Where audits or inspections are required, documentation of findings and/or completion of the audit or inspection may need to be submitted to the jurisdiction before transfer or issuance of a title.
+Municipalities enforce building and energy codes through their planning and inspection departments. Some communities have dedicated staff who are responsible for the energy-efficiency standards. These staff can help the public adhere to the codes, answer questions, and provide training to building inspection staff. Smaller localities should consider their capacity to take on this additional area of administration and enforcement and if there are ways to build upon regional or state compliance resources.
+Localities considering adopting their own energy efficiency codes or standards should consider, in parallel, developing programs to assist building owners with complying with these requirements, particularly owners of buildings housing low and moderate income families. For instance, the federal
+Weatherization Assistance Program
+provides funding to increase energy efficiency in dwellings in which low-income persons reside with the ultimate goal of reducing energy expenditures.  Localities considering adopting or updating energy codes may find it productive to align standards with this program, or to coordinate with any State programs to reduce the costs of building operations while also reducing energy emissions. Thoughtfully developed energy efficiency codes paired with
+energy efficiency retrofit programs
+can help preserve and maintain affordable housing.
+Coverage
+Most energy-efficiency standards apply to buildings when they are constructed or undergo significant renovation. City planning and code enforcement staff can ensure that buildings meet the energy-efficiency requirements outlined in the law through the building planning, permitting and inspection process.
+Some areas tie requirements to property sales. For example, in
+Austin, TX
+home sellers are required to complete an energy audit. In
+San Francisco
+, home sellers are required to put in place basic energy conservation devices (such as insulation and efficient toilets), in addition to conducting an energy and water conservation inspection, prior to the transfer of a title.
+Examples
+Boston
+has elected to adopt the voluntary state-determined
+“stretch” energy-efficiency code
+for commercial and residential buildings. This code requires new buildings to exceed the standards set in the base code by 20%. The city has also been an advocate for the adoption of more stringent standards with state decision-makers. In addition, Boston has dedicated staff within the Inspectional Services and Environment Departments working on energy-efficiency and requires training on the topic for inspection staff.
+Austin, TX
+adopted the
+Energy Conservation Audit and Disclosure Ordinance
+which requires sellers within the city to complete an energy audit prior to selling a home. The audit covers HVAC systems, windows and insulation and is disclosed to potential buyers. The
+ordinance
+does not require upgrades to be made, but the city does offer several other programs to help homeowners improve the energy-efficiency of their property.
+The
+City of Chicago’s
+Energy Benchmarking Ordinance
+requires building owners to track and report energy use annually. Every three years, the data is verified by a 3
+rd
+-party. The city tracks data using a free, online tool developed by EPA. The ordinance applies to commercial, industrial and residential buildings larger than 50,000 square feet. The city estimates these building are less than 1% of all buildings in the city, but account for around 20% of all energy usage.
+San Francisco’s
+Residential Energy Conservation Ordinance
+requires home sellers to conduct an energy and water conservation inspection completed by a city inspector or city-certified inspector, have or install basic energy conservation devices (such as insulation and efficient toilets), and obtain a certificate of compliance prior to the transfer of a title.
+In 2019,
+New York City
+introduced the
+“Climate Mobilization Act,”
+which established a new “Property Assessed Clean Energy” Program to enable retrofits through long-term financing, as well as requires the installation of solar PV and green roofs on new buildings and major renovations. Further, the de Blasio administration is expected to expand the city’s “Retrofit Accelerator” and “Community Retrofit NYC” programs to a wider range of buildings.
+Related resources
+The Department of Energy’s
+Building Energy Codes Program
+supports the development, adoption, implementation and enforcement of energy-efficiency standards for residential and commercial buildings throughout the US. Their website provides information about common standards, compliance and enforcement tools, answers to frequently asked questions, and other resources for communities.
+The ACEEE City Scorecard is a regular
+report which assesses and ranks 51 large US cities based on their energy-efficiency efforts.
+The report includes detailed reviews by city and by topic area.
+Read more about energy-efficiency standards for all cities in the report, as well as many smaller cities and some counties.
+The
+International Energy Conservation Code
+(IECC) provides a
+model code
+for many state and local energy-efficiency standards. The code is updated annually and provides a minimum standard for many aspects of energy-efficiency. The American National Standards Institute (ANSI) also produces a set of standards on which local codes can be based. One of the commonly used standard is the
+ANSI/ASHRAE/IES Standard 90.1-2016.
+EPA developed the
+Energy STAR Portfolio Manager
+, an online tool to help property owners track and report energy use for their buildings. This tool is used by the City of Chicago to assess energy use by the large buildings in the city.
+EPA also has an
+ENERGY STAR Certified homes
+program that certifies homes as meeting a specific level of energy-efficiency. The
+ENERGY STAR website
+provides a range of valuable resources on energy-efficiency in homes.
+Energy consumption between the rich and persons living in poverty aren’t very different, but according to a 2016 study by the
+American Council for an Energy Efficient Economy and Energy Efficiency for All
+, low-income, Black, and Latinx communities spend a much higher share of their income on energy. Further, this study found that 97% of excess energy burdens for renting households could be eliminated by bringing their homes up to median efficiency standards.
+BuildingRating.org
+is a multi-functional website, featuring a tool to compare building energy/water benchmarking, disclosure, and reporting policies across multiple jurisdictions throughout the world.
+More than 25 U.S. cities; such as Grand Rapids, San Francisco, Cambridge, and Washington, D.C.; have adopted various energy-benchmarking policies, as have the states of California and Washington.
+Achieving Zero
+presents a useful, actionable framework to phase out CO2 emissions in urban communities by 2050.

@@ -1,0 +1,53 @@
+Title: Preservation inventories
+Source: https://www.localhousingsolutions.org/housing-policy-library/preservation-inventories/
+
+Preservation inventories typically focus on collecting information on dedicated affordable properties whose rents are restricted due to a subsidy or other government policy, although affordable unsubsidized units may be covered as well, and include information on each property’s location, age, number of units (affordable and market rate), physical condition, and the year when rent restrictions expire, among other data points. Through proactive monitoring of these data, local jurisdictions can act in a timely manner to try to preserve at-risk properties as part of the affordable stock—allowing time to assemble financing or an incentive package to facilitate the transfer of the property to a mission-oriented owner or encourage the current owner to maintain affordability.
+This section provides more information on major considerations when creating a preservation inventory.
+Approach
+Preservation inventories enable cities, towns, and counties to easily identify affordable housing that is vulnerable to being lost from the affordable stock; this information can be used in a variety of ways depending on local circumstances and priorities. Communities may approach owners with incentives to renew their participation in subsidy programs; they may also try to arrange sales to mission-oriented partners when affordability restrictions are set to expire. (See related briefs,
+Preserving the existing stock of dedicated affordable rental housing
+and
+Preserving market affordable rental housing
+for additional guidance on using the tools in the Housing Policy Library for preservation.) Some cities use their inventories to focus on a subset of properties to receive priority attention and investment of resources because of their location, tenant population, or other characteristics.
+When determining how to conduct an inventory and which property types and data points to include and/or update, local officials should consider the inventory’s likely uses and the type(s) of activities it will support. Consultation with partner organizations that are involved in preservation efforts and review of recent data on the housing market can help to inform this process. Localities with limited budgets may find it worthwhile to create an inventory as a one-time census exercise, as even a snapshot of the affordable housing stock can be useful in identifying properties that are most vulnerable to loss. Those with more resources can maintain an inventory as a living database, updating it regularly to monitor the success of their programs and identify well in advance those properties that are likely to be particularly at risk when their use restrictions expire.
+Coverage
+In large cities, housing preservation inventories require a significant investment of time and resources to create and maintain. Thinking strategically about the applications of the inventory early in the process helps to ensure the data collected will be of practical value to the community. The most fundamental questions relate to the type of housing to be included in the inventory: will coverage be limited to units that receive a rent subsidy or have restricted rents through another policy, such as a
+tax abatement
+or
+inclusionary zoning
+? If the inventory will also include unsubsidized housing that is nevertheless affordable (market affordable housing) and/or other housing types, such as manufactured housing communities, will the focus be limited to developments with characteristics that suggest they are most at risk of rent increases or those above a certain size threshold? Another option is to focus on units that are vulnerable to loss due to neglect and uninhabitable conditions. These buildings may be targeted for code enforcement and tenant education training. Localities may also consider creating or updating inventories centered around new buildings receiving subsidies, and develop an inventory over time.
+Communities will also need to determine the subsidy programs to be included in the inventory. Most commonly, inventories include data on
+Low Income Housing Tax Credit
+properties and units that receive HUD project-based rental assistance. However, some localities also include units that receive assistance from state and local housing programs. Broadening the scope of the inventory provides a more complete picture of the community’s affordable housing stock. However, including additional program information also increases the complexity of data collection efforts, and substantial work may be required to integrate information compiled from different data systems and stored in different formats.
+Finally, communities will need to choose the property-level data points to populate the inventory. At minimum, the data collected for each property should enable the locality to easily identify at-risk units and take early action to prevent their loss. Relevant data points may include the property name (or a unique identifier), an address, the number of total units and assisted or low-cost units, the owner’s contact information, any associated subsidy program, and the expiration date of any rent restrictions.
+Communities may also include other types of data, depending on their policy goals. For example, some jurisdictions specify whether the property is targeted to a specific type of tenant, such as seniors or people with a disability. Others include information about the building’s physical condition so as to anticipate and seek to prevent losses from physical deterioration. Data on other property characteristics, such as the owner type (e.g., for-profit or non-profit organization) and the age of the building may enable communities to take a more sophisticated approach to their preservation efforts that builds on
+research on the types of properties that tend to leave the affordable housing stock
+when rent restrictions expire. As publicly available data and open data regulations evolve, localities may be able to easily connect information about building size or tenancy with more specific affordability, ownership, and tax information. Smaller and distressed localities may be able to easily expand on these existing public data resources to create a useful source of information relevant to maintaining building affordability.
+Other considerations
+Access
+Preservation inventories contain information that is likely to be of interest both to mission-oriented organizations committed to preserving affordability and other companies that see potential for financial gain. Communities that create and maintain a preservation inventory will need weigh the desire for increased public awareness of vulnerable housing developments with the risk that the availability of this information could undermine preservation goals. Consideration of these trade-offs can inform whether the inventory will be made available to the public, with or without registration, or a commitment to use the data for affordability preservation purposes only.
+Examples
+The Community Economic Development Assistance Corporation (CEDAC), a CDFI based in
+Boston, MA
+, maintains an expiring-use database that allows users to see more than 1,500 affordable housing properties in Massachusetts. The database includes assisted properties that are privately owned and were created with federal and state housing resources, including project-based
+Section 8
+Rental Assistance Contracts, FHA-insured mortgages, HUD
+Section 202
+and 811 properties, Low Income Housing Tax Credit properties, and housing funded through the Massachusetts Department of Housing and Community Development. In addition to the inventory, CEDAC has created a web-based mapping tool that shows the location of units in the inventory. The mapping tool includes overlays that display neighborhood characteristics in a range of categories – from educational achievement to economic status.
+Learn more about CEDAC’s database here
+.
+Washington, DC
+’s Preservation Catalog includes the names and locations of assisted rental housing properties in the District of Columbia, along with information about the number of dedicated affordable units at the property, the subsidies in use, and their effective expiration dates. Users can identify properties in several ways, including by using a map view, by searching for a particular property name or owner, or by using a variety of filters to find properties with specific characteristics. Among these searchable characteristics are the current subsidy end date, the agency providing the subsidy, and the subsidy program name.
+Learn more about Washington, DC’s preservation catalog here
+.
+Related resources
+Implementation
+National Housing Preservation Database
+, Public and Affordable Housing Research Corporation and National Low Income Housing Coalition – This database collects address-level information about properties that participate in ten federally assisted rental housing programs administered by HUD and the U.S. Department of Agriculture. Data on properties with state and local subsidies are also available for Connecticut, Florida, and Massachusetts. Users can customize their searches by location, funding stream, or ‘at risk of loss’ status, in addition to other characteristics.
+The Subsidized Housing Database maintained by the NYU Furman Center at
+CoreData.nyc
+contains property-level information about New York City’s subsidized housing. Users can identify currently subsidized properties, the applicable subsidy type and program, and the start date and end date of the subsidy.
+Florida Housing Data Clearinghouse
+, Florida Department of Housing and Community Development – Managed by the Shimberg Center at the University of Florida, the Clearinghouse contains extensive information about Florida’s housing stock, including the assisted housing inventory. Data are searchable at the county and city level, and users can search by funding program, population served, year built, subsidy expiration date, and funder.
+PrezCat Catalog
+, National Housing Trust – PrezCat is a searchable catalog of policies that support the preservation of affordable housing, including state databases and data sources.

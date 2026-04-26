@@ -1,0 +1,71 @@
+Title: Shared appreciation mortgages
+Source: https://www.localhousingsolutions.org/housing-policy-library/shared-appreciation-mortgages/
+
+This repayment approach helps produce sufficient proceeds that the program can keep the housing affordable for the next purchaser as prices rise over time. Most shared appreciation mortgages are made available through state and local homeownership programs. In these models, the
+shared appreciation mortgage
+is generally structured as a deferred loan (sometimes known as a silent second mortgage), on which no payments are due until the home is sold to the next buyer or, in some cases, the first mortgage is refinanced. At that time, the subsidy must be repaid, along with the agreed-upon share of appreciation. Through this approach, low- and moderate-income households benefit from the opportunity to become homeowners and build equity through the pay-down of the principal on their first mortgage and by keeping a portion of home price gains.
+This section describes some of the considerations for cities, towns and counties interested in developing a program which utilizes shared appreciation mortgages.
+Approach
+Shared appreciation mortgages typically are zero interest, deferred principal loans. As such, homeowners do not make monthly payments on the loan. The loan is repaid in full when the borrower refinances or sells the home. In addition to paying off the loan balance, the homeowner also pays a pre-determined percentage of any home value appreciation realized over the time. In many programs, this percentage is equal to the share of assistance provided by the shared appreciation mortgage. For example, if the shared appreciation mortgage totaled 20 percent of the home value ($40,000 on a $200,000 home) the municipality might require 20 percent of the appreciation be shared upon repayment. In this example, if the home appreciated by $100,000 the homeowner would repay $60,000: the initial $40,000 loan amount plus $20,000 in shared appreciation.
+While commonly used by local programs, the approach described above (of requiring a homebuyer receiving a shared appreciation mortgage equal to 20 percent of the home value to repay 20 percent of home price appreciation when the home is sold) will generally not be sufficient to fully keep pace with home price increases in a market where home values are appreciating. An alternative approach, grounded in the practice of some
+Community Land T
+rust
+s, is to require the family to repay the principal balance plus a set share of any home price appreciation (say 75 percent) when the home is sold, regardless of the percentage of the purchase price covered by the original loan. This is one of several alternative approaches that is more likely to keep pace with home price increases in most market conditions, while still allowing homebuyers to realize some appreciation.
+This article provides more details
+on the effects of different types of equity sharing formulas.
+Many programs also put a per loan limit on the total amount of assistance available, although this amount varies significantly depending on the local housing market. A
+shared appreciation loan program in Douglas County, CO
+limits assistance to $34,000; whereas
+a similar program in San Francisco limits assistance to $375,000
+. In addition to dollar limits, the loan may be limited to a percentage of the sales price or loan amount.
+Unlike other means of shared equity homeownership, such as a
+community land trust
+, shared appreciation loans do not create permanently affordable housing units, but can generate sufficient funding when repaid to help a similarly situated subsequent homebuyer. When the assisted homeowner sells his or her home at the market price, the next buyer is not subject to any special requirements. However, the amount repaid (principle plus a share of the home price appreciation) can be recycled and may be sufficient for a new homeowner to find a suitable home for purchase.
+Communities interested in bringing homeownership within reach of prospective homebuyers will want to consider the relative merits of shared appreciation mortgages compared with other forms of shared equity homeownership, such as
+community land trusts
+,
+limited equity cooperatives
+, and
+deed-restricted homeownership
+. High-cost localities that want to ensure that affordable homes are available in particular neighborhoods may find it more effective to focus on one of these other models that ensure that particular homes are made affordable and kept affordable over time. By contrast, localities that are less concerned about where the homes are located, and more interested in giving homebuyers maximum choice, may wish to consider shared appreciation mortgages.
+Soft housing market
+s may not generate sufficient value from these types of programs to reasonably cover the programs’ administrative costs, particularly if property values experience a significant decline. Similarly, smaller localities should carefully consider the long-term administrative burden of this type of program and potentially engage regional partners in management and oversight.
+Eligibility
+Communities can use HUD
+HOME
+and
+Community Development Block Grant fund
+s to support shared appreciation mortgage programs. The use of such funds can place restrictions on the incomes of families eligible for assistance, and may create other requirements for the structure of the program. For example, if HOME-funds are used for homeownership assistance, homebuyers must participate in housing counseling.
+Communities can also use locally generated funds for shared appreciation mortgages. Where funding sources do not come with income requirements, communities will need to establish guidelines for program eligibility. Like other forms of homeownership assistance, shared appreciation loans typically require homebuyers to have low or moderate incomes, to be first time homebuyers, and to participate in homeownership education and counseling. For example, a shared appreciation loan program in Boulder, CO limits the program to homebuyers with a family income at or below 80 percent of the area median, requires applicants to complete a homebuyer education class, and is only available to buyers who work within the city limits. (Read more in Examples below.)
+Homebuyers must also typically obtain a separate first-mortgage, often from an approved lender. Lender eligibility may depend on the overall performance of loans made by lenders and the amount and type of fees on the mortgages to ensure the lender’s products are fair and sustainable. Moreover, communities may require lenders to take applicable trainings or meet other criteria to participate in the program. Community staff may also carefully review primary loan documents to ensure the loan is not predatory.
+Programs may also place restrictions on the type, location, or price of the home being purchased. For example, homes purchased with assistance through the shared appreciation loan program in Arlington, VA cannot have a purchase price that exceeds $500,000. A shared appreciation loan program in San Francisco places a number of limitations on properties that are eligible for purchase through the program, including requiring that the property be compatible in size with the size of the household (minimum one person per bedroom) and not contain a rental unit or in-law suite.
+Examples
+San
+Francisco
+, CA
+’s
+downpayment assistance loan
+is structured as a shared appreciation mortgage which requires no payments over the loan term. The program allows for assistance of up to $375,000 to support home purchases for low and middle income first-time homebuyers seeking to buy a market-rate principal residence. The city holds a lottery to distribute their assistance in the face of high demand.
+Arlington, VA’s
+Moderate Income Purchase Assistance Program
+makes available downpayment assistance of up to 25 percent of the home purchase price through a shared appreciation mortgage to first-time homebuyers. The shared percentage of appreciation can be as high as 25 percent. In addition to being a first-time homebuyer and income limits, buyers must also have a minimum credit score of 660 and secure a pre-qualification letter for a mortgage from an approved lender.
+Boulder, CO
+offers borrowers up to 15 percent of the value of a home through a shared appreciation mortgage called the H2O loan.  The funds must be repaid on sale of the home or after 15 years, whichever comes first, plus a share of home price appreciation. Eligible applicants must be low-income first time homebuyers who work within the city limits.
+Related resources
+HUD’s HOME Investment Partnerships Program
+and
+HUD’s Community Development Block Grant Program
+– These websites provide information about HUD programs which are often used to fund local downpayment assistance programs structured as a shared appreciation loan. Program limits, such as income requirements, can be found here.
+The website for
+San Francisco, CA’s
+program
+provides examples of many of the materials communities might need when developing a shared appreciation loan program. The site includes information to help potential homebuyers understand the program, as well as a detailed manual for lenders and sample escrow instructions and closing documents.
+Research papers (
+Jacobus and Lubell 2007
+,
+Lubell 2013
+,
+Jacobus 2007
+, and
+Sherriff and Lubell 2009
+) review various structures and policy options for implementing shared equity homeownership, including shared appreciation mortgages. The reports outline various policy strategies and discuss the benefits of shared equity homeownership as a middle ground between renting and owning.

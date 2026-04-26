@@ -1,0 +1,68 @@
+Title: Operating subsidies for affordable housing developments
+Source: https://www.localhousingsolutions.org/housing-policy-library/operating-subsidies-for-affordable-housing-developments/
+
+The federal government provides operating subsidies through the
+public housing
+and project-based
+Section 8
+programs (among others) to help make developments affordable to very low-income families who cannot afford to pay the rents that would be needed to support the property without ongoing subsidies. Similarly, some localities make ongoing operating funds available to help make permanent supportive housing or other dedicated affordable rental housing affordable to very low-income households. This form of assistance is sometimes known as “rental assistance.”
+Among other potential applications, this tool can be useful for cities, towns, and counties seeking to provide housing for special populations, such as individuals experiencing chronic homelessness and families or people with special needs. While direct operating subsidies for homeownership developments are rare, some communities provide
+property tax abatements
+for both affordable ownership and rental properties that have a similar effect, helping to defray the costs of operating the development so residents can pay lower rents
+.
+This tool can be helpful in
+soft housing markets
+, for localities seeking to maintain quality housing for very low-income and special populations. Operating subsidies assist in management of a building’s facilities, and thus, can help stabilize or reduce structural decline and serve an important role in broader market stabilization efforts.
+This section discusses considerations for communities interested in creating a local operating subsidy program.
+Approach
+Localities that wish to offer ongoing operating subsidies for affordable housing will need to identify a funding source for the program. Possible sources can include federal HOME or CDBG funds, local
+appropriations
+, housing trust fund proceeds, a temporary increase in taxes (with incremental revenue set aside for this purpose), and other revenue collected at the city or county level and, in some cases, philanthropic contributions. (Project-based vouchers are another form of operating subsidy, discussed separately.) Operating subsidies are often layered on top of other types of assistance, including
+Low Income Housing Tax Credits
+, to ensure that projects meet their affordability obligations, remain economically viable,
+and remain in high-quality condition
+. When identifying a funding source for operating subsidies, localities should assess the reliability of potential funding streams and, as much as possible, strive to identify sources that are likely to remain available
+continuously
+to avoid disruption of support to these developments. Smaller jurisdictions and localities with soft housing markets may have unpredictable and/or very limited resources available on an ongoing basis and should carefully weigh the risks of funding disruptions, as well as consider opportunities for regional collaboration whenever possible.
+Localities will need to determine the length of the contract period (anywhere from one year to 15 years or more), during which the locality pledges to provide operating assistance and the property owner must adhere to any income affordability restrictions. Due to budgetary shortfalls and other changes in the political and economic environment, it is possible that in some years funding will not be available to fully fund operating subsidies or to fund them at all. Localities may wish to build some flexibility into operating subsidy contracts to accommodate variations in available program funds from year to year, including allowing rent and income restrictions to be waived (unless required by other sources of subsidy attached to the property) or rents to be raised to a specified below-market level (even if no longer accessible to the lowest-income households), or allowing property owners to tap restricted reserves in years when funding is short.
+[1]
+Localities may also wish to consider establishing a program reserve fund to help bridge any gaps in coverage.
+Eligibility
+Eligibility for operating subsidy programs is generally limited to housing developments that serve the lowest income households and/or supportive and special needs populations. These developments almost always receive capital subsidies or other forms of public assistance that come with their own affordability requirements. Rather than establishing a separate set of income requirements for operating subsidy programs, some communities “piggy back” on the guidelines for capital subsidy programs that are often used in conjunction with operating subsidies to ensure the target population is served.
+Alternatively, some communities find that the best way to determine eligibility is to specify affordability levels for the households to be served (e.g., affordable to households at 30 percent of
+area median income
+). Other communities reserve all or a portion of program funds for units that are linked to supportive services programs for people experiencing or vulnerable to homelessness, youth transitioning out of foster care, people with disabilities, or tenants with other special needs. Communities may also establish criteria based on a combination of approaches. Decisions about the types of developments and client populations on which to focus resources should be driven by analyses of current and projected housing needs, available funding, and discussions with housing providers and developers serving these populations.
+Further eligibility considerations may pertain to the project sponsor. For example, some cities limit eligibility for assistance to non-profit owners, while others do not have any restrictions on who can apply. Depending on the approach used, communities will also need to determine whether the landlord or supportive services program sponsor will screen and approve tenants or the city will perform this function.
+Other considerations
+Adjustment for inflation
+Affordable housing developments are not immune to the effects of inflation. Properties entering into long-term operating subsidy contracts that do not account for inflation may face funding shortfalls as market rents and operating costs rise. This risk can be minimized by including adjustments for inflation in program funding.
+Examples
+Through the
+Local Rent Supplement Program
+,
+Washington, DC
+provides project-based rental assistance to cover the gap between rent payments affordable to extremely low-income families (with incomes at or below 30 percent of the area median) and HUD’s fair market rent. Assistance is available for initial terms of up to 15 years through a Long Term Subsidy Contract, in exchange for a commitment to continue serving income-qualified households. The program is administered by the DC Housing Authority, and eligibility is open to both for-profit and non-profit developers. While not a project requirement, many of the developments that receive assistance also provide supportive services to residents. The program was created in 2007 following cuts to the federal
+Housing Choice Voucher
+program, and is funded with local appropriations (although the program has drawn on its own reserves as well as transfers from the city’s Housing Production Trust Fund to cover shortfalls due to rising costs). In addition to project-based subsidies, the program also provides tenant-based and sponsor-based assistance.
+For more information on Washington DC’s local rent supplement program, click here
+.
+Chicago’s
+Rental Subsidy program is open to for-profit and non-profit owners of buildings or developments that serve individuals and families with incomes at or below 30 percent of the area median. (At least 50 percent of funds support developments serving households at or below 15 percent of area median income.) With funding from the City’s Low-Income Housing Trust Fund, landlords receive one-year, renewable grants that are paid in advance on a quarterly basis. Renewal is granted based on funding availability and continued occupancy of units by income-eligible tenants. Approximately 40 percent of units that receive a rental subsidy are linked to special initiatives in conjunction with social service partners, including programs that serve people experiencing homelessness and people with HIV/AIDS, and provide employment readiness training for female heads of household. As a condition of eligibility, landlords must provide heat to subsidized units, and include the cost of heat in the monthly rent.
+For more information on Chicago’s rental subsidy program, click here.
+The
+Los Angeles County
+Department of Health Services administers the Flexible Housing Subsidy Pool, which provides housing subsidies and wrap-around intensive case management services for people experiencing chronic homelessness. Funding for the program comes from local appropriations as well as a grant from the Conrad N. Hilton Foundation. A non-profit organization, Brilliant Corners, functions as the coordinating entity responsibile for matching potential tenants with appropriate housing, conducting unit inspections, and administering the rental subsidy. Brilliant Corners also provides eviction prevention services to help tenants retain stable housing.
+For more information on the Conrad N. Hilton Foundation, click here
+.
+San Francisco, CA
+has a Local Operating Subsidy Program to cover the gap between a project’s operating revenue and the actual operating costs for housing that serves people experiencing homelessness. The program does not have its own income eligibility restrictions, and relies instead on the income restrictions tied to participating developments’ capital financing.
+Click here for more information on San Francisco’s Local Operating Subsidy Program.
+Related resources
+Local examples
+The Local Rent Supplement Program
+, DC Fiscal Policy Institute (April 2016) – This brief provides a detailed introduction to the District’s Local Rent Supplement Program. The brief includes a description of how the program works, including in conjunction with other affordable housing programs, as well as a discussion of how the program has evolved since its creation in 2007 and the challenges it faces going forward.
+Rental Subsidy Program: Program Guide
+, Chicago Low-Income Housing Trust Fund (2016) – This guidebook covers all of the major topics associated with Chicago’s Rental Subsidy Program. Geared toward potential applicants, it includes detailed discussions of the application and approval process, eligibility criteria, and property owner responsibilities.
+Making the Rent Truly Affordable,
+Why Operating Subsidies Belong in New York City’s Affordable Housing Toolkit, Community Service Society (2018), this report argues why New York City should implement a local operating subsidies program to address the housing crisis- focusing on the proposed funding plan from Comptroller Scott Stringer in 2018. This proposal would have invested $125 million a year in operating subsidies, plus $375 million annually in new capital funds for affordable housing
+.

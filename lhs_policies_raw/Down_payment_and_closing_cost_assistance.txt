@@ -1,0 +1,62 @@
+Title: Down payment and closing cost assistance
+Source: https://www.localhousingsolutions.org/housing-policy-library/downpayment-and-closing-cost-assistance/
+
+Assistance can be offered in a variety of forms, including as a grant, a no- or low-interest amortizing loan or a deferred loan in which repayment is not due until the resale of the home. The assistance is often provided by a local housing agency, a nonprofit organization or a state or local housing finance agency, sometimes through a participating private lender. Program details differ across jurisdictions, but in general borrowers must fall within income and home purchase price limits and must comply with other eligibility requirements, including being a first-time homebuyer, using the home as a primary residence, and completing a homebuyer education course and/or participating in housing counseling.
+This section describes some of the considerations for cities, towns and counties interested in developing a program to assist homebuyers with down payments or closing costs.
+Approach
+Many cities, towns, and counties have developed grant or loan programs to help reduce the up-front costs homebuyers face in the form of closing costs and required down payments. Many families can afford a monthly mortgage payment, but lack sufficient savings for these initial expenses, which can be 3 to 25 percent of the sales price. Structured as grants,
+forgivable loans
+, no- or low-interest loans, or deferred loans, community down payment and closing cost assistance programs can help families who lack savings become successful homeowners.
+Down payment or closing cost assistance can be structured in a number of different ways. Some programs provide assistance as a lump sum grant. As compared to a loan, a grant avoids the administrative costs of tracking and processing repayment, but it means that the funds are not recaptured to help other households. For this reason, grants are often used only when the amount of assistance is low, such as less than $5,000. Some grant programs are structured as matches to the family’s contributions. State housing finance agencies are also likely to structure their down payment assistance as a grant if they receive state
+appropriations
+.
+A second option is a forgivable loan. Forgivable loans often require the homeowner to reach certain milestones (for example, living in the house for a certain number of years) before all or some of the loan amount is forgiven. Structuring support as a forgivable loan rather than a grant incentivizes homeowners to remain in their home. It also provides a way to comply with the requirements of the federal
+HOME
+program that requires down payment assistance funded through the HOME program to be used to provide a minimum duration of affordability. The duration varies with the size of the down payment award.
+Low or no-interest loan programs are another method of providing down payment and closing costs assistance. Some no-interest or low-interest loans require regular payments – for example, over a five-year time period – while others are deferred loans which do not require repayment until the homeowner sells or refinances the home. These loans are typically structured as a second mortgage, meaning that if the buyer defaults and is foreclosed on, the housing agency is repaid only after the primary mortgage holder is repaid.
+Structuring the assistance as a loan that must be repaid allows cities, towns, and counties to recycle the funds. When one loan is repaid, another family can be helped. Recycling the funds adds program complexity and requires oversight. However, it can multiply the impact of limited resources, particularly in high cost markets where down payment and closing cost assistance can amount to a substantial per unit subsidy. By structuring support so that it can be recycled, localities can serve multiple families with their investment rather than providing a windfall to just one family. Smaller localities should consider the potential of partnerships with local lenders, regional authorities or the state to assist in the management of administration of tracking and processing repayment.
+When the amount of down payment assistance is high – say, over $15,000 or over $25,000 – some local jurisdictions structure the down payment assistance as a
+shared appreciation loan
+in which the family is required to repay the loan plus a share of home price appreciation when the home is sold. This approach allows program funds to retain purchasing power despite increases in home values so that down payment funds can help one generation of homebuyers after another. (If there is no home price appreciation at resale, the family only repays the initial loan amount.)
+Structuring down payment assistance as a loan works well in housing markets and locations where home values are steady or rising. But if home prices decline, it can be difficult for borrowers to repay these loans. Since it can be difficult to predict downturns in the housing market, cities, towns, and counties may wish to consider policies that forgive these loans in the event of such a downturn. Officials in
+softening housing markets
+should weigh the potential value of flexibility of rules for borrowers to allow sales that may avert foreclosure.
+Cities and counties can use some Federal funds, including HUD’s HOME Investment Partnership and
+Community Development Block Grant
+program funds, to fund down payment and closing cost assistance programs. Cities and counties can also use locally generated funds, either on their own, or to supplement Federal funds.
+Eligibility
+Down payment and closing cost assistance programs are often targeted to low and moderate income homebuyers. Programs frequently target first-time homebuyers, which is often defined as those who have not owned a home for the previous 3 years, though not all programs have this requirement. Programs can also be targeted to buyers with certain occupations, commonly public servants. Some Housing Finance Agencies and other government entities also target down payment assistance programs for veterans and active service members.
+Programs may also place limits on the home purchases, for example by limiting the sales price, requiring the home to be a single-family unit, requiring the loan to meet certain requirements (such as a fixed-price loan) or requiring the home to be in a particular target area, such as a target reinvestment area or a
+resource-rich
+area. Many programs couple financial assistance with homeownership education and counseling.
+The primary mortgage lender may have underwriting limits which include down payment or closing cost assistance in the calculation, such as a limit on the combined loan-to-value ratio or the back-end debt to income ratio. In these cases, the maximum amount of assistance allowed could be limited.
+Examples
+metroDPA
+is a geographically-targeted program sponsored by the City and County of
+Denver, CO
+which offers loans to homebuyers earning up to $150,000 to help cover the cost of a down payment, closing costs, or prepaid interest/principal reduction as eligible. No payments are required, and 1/36th of the principal balance is forgiven each month for three years until the entire balance is forgiven. The loan amount is determined as a percentage of the primary mortgage. Through the metroDPA Social Equity program, residents or descendants of residents of Denver neighborhoods that were redlined between 1938 and 2000 are eligible for $15,000-$25,000 of down payment assistance.
+The District of Columbia
+Housing Finance Agency Down Payment Assistance Loan
+provides a no-interest, non-amortizing loan that becomes due when a borrower sells, transfers, or refinances the home, or stops occupying the home as their primary residence within the first five-years after purchase. Borrowers must have low or moderate incomes, meet minimum underwriting requirements and purchase a home within DC. However, the loan is available to both residents and non-residents of DC, and both first-time and repeat homebuyers. The down payment assistance totals 3 or 3.5 percent of the loan amount depending on the loan, but there is no dollar amount limit to the assistance.
+Virginia’s
+Department of Housing and Community Development’s down payment assistance program
+is only available to borrowers at or below 80 percent of the
+Area Median Income
+. This assistance comes in the form of a grant that only requires the homebuyer continue to reside in the home as their primary residence. Eligible homebuyers can receive up to 10-15 percent of the home price in down payment assistance, as well as $2,500 towards closing costs.
+The Cuyahoga County
+Down Payment Assistance Program
+provides down payment assistance of 10 percent of the purchase price, up to $14,900. The assistance is in the form of a deferred loan, partially forgiven after 10 years. Borrowers must have low or moderate incomes, cannot have owned a home within the last three years, and must purchase a home in particular cities and counties, among other program requirements.
+Related resources
+HUD’s
+HOME Investment Partnerships Program
+and
+Community Development Block Grant Program
+websites provide information about HUD programs which are often used to fund local down payment assistance programs. Program limits, such as income requirements, can be found here.
+HUD lists state and local homeownership programs on their website. HUD links to state and local programs on
+state-specific webpages
+, under “homeownership assistance”. For example,
+California’s site
+describes local programs. In general, these pages provide contact information for state and local programs, including down payment and closing cost assistance programs. The pages vary from state to state.
+The FDIC offers a
+Down Payment and Closing Cost Assistance Guide
+to State Housing Finance Agencies covering the basic details of a down payment assistance program, as well as several considerations for program design and institutional partnership.

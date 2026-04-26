@@ -1,0 +1,89 @@
+Title: Small balance home mortgages
+Source: https://www.localhousingsolutions.org/housing-policy-library/small-balance-home-mortgages/
+
+Most small-balance home sales are financed without a mortgage. In 2015 just over one-quarter of homes sold for $70,000 or less were financed with a mortgage compared with nearly four-fifths of homes sold for more than this amount.
+[3]
+Pockets of the country (such as Memphis, Cleveland, Detroit, and many rural areas) have significant numbers of properties below $100,000 and even $50,000. The lack of conventional financing options imposes a significant barrier to lower-income households purchasing naturally occurring affordable housing and has important implications for communities where these properties are prevalent. While there are alternatives to conventional mortgage lending, such as
+land contracts
+and lease-purchase loans, these have fewer protections for borrowers than traditional mortgages. Instead, some communities and their partners have developed or are exploring a range of approaches to improve access to small-balance mortgage loans.
+The federal government, large national banking institutions, small local financial institutions, local communities, and nonprofits can all play an important role in improving access to small-dollar mortgages. This brief discusses options for addressing this problem by increasing the ability of households to finance low-balance mortgages. These include strategic use of the Community Reinvestment Act (CRA) to encourage banks to originate low-dollar mortgages,
+[4]
+leveraging local banking relationships for the same purpose, streamlining the underwriting process to reduce mortgage origination costs, and creating new mortgage products, such as the MicroMortgage Marketplace (discussed below).
+Approach
+While the mortgage institutions operated or backed by the federal government all serve the small-dollar mortgage market to a degree, their role in this market is smaller than their role in the overall market. This is true for the government-sponsored enterprises (Fannie Mae and Freddie Mac), the Federal Housing Administration (FHA), and Veterans Affairs (VA). For example, FHA serves 24 percent of the overall market, but only 19 percent of the small-dollar market. The exception is in rural areas, where small-balance loans are disproportionately made by lenders working with the Rural Housing Service (RHS) of the U.S. Department of Agriculture.
+While larger lenders make some small-balance loans, particularly in collaboration with local partners, loans of this size are disproportionately originated by small community banks, credit unions, and
+community development financial institutions
+(CDFIs). Overall, over 28 percent of small-dollar loans are held in portfolio compared with 9 percent of the overall market, an indication that options for lenders to sell small-dollar loans on the secondary market are limited given their pricing.
+Some communities are actively engaged in encouraging small-dollar lending. For example, some communities are leveraging the CRA and other sources of influence to increase lending to low- and moderate-income neighborhoods in general and for small-balance mortgages in particular. (See additional detail in Examples section below.) That said, local
+community development corporations
+(CDCs) and CDFIs sometimes partner with larger banks to create loan pools for small-dollar mortgages. Examples include the MicroMortgage Marketplace, a small-dollar mortgage pilot in Louisville, KY and southern Indiana specifically designed for mortgages under $100,000, and the Home Loan Opportunity Fund in Memphis, TN, for mortgages under $50,000. (See additional detail in the Examples section below.)
+Nonprofits, communities, researchers, and financial institutions also consider process and technological improvements that could help reduce costs of originating low-dollar mortgages. For example, automated underwriting models that incorporate “cash flow data,” which include consumer payments not typically included in credit reports, such as rent and utility payments, may reduce the need for time-consuming manual reviews of pay stubs, tax returns, and other documents usually included in lenders’ underwriting procedures.
+[5]
+All of these efforts are needed to address the challenges in helping small-balance homebuyers secure mortgages.
+Eligibility
+Small-balance mortgages are sometimes targeted to specific geographic areas, such as neighborhoods or ZIP codes. Geographic targeting may also be limited by the size of the area served by the originating organization. Occasionally, mortgages are also limited to first-time homebuyers.
+[6
+]
+Standard mortgage underwriting generally requires a minimum credit score of 620, a maximum debt-to-income ratio of 43 percent, a minimum down payment of 3 percent, and, if the down payment is less than 20 percent, an additional charge for mortgage insurance.
+Coverage
+Currently, the community-based approaches that exist, or are being explored, to increase access to small-dollar mortgages are limited to a few places such as Memphis and Cleveland. Most recently, a nonprofit mortgage lender and the Homeownership Council of America have launched a pilot demonstration project, the MicroMortgage Marketplace, which will test the ability in a few communities of small-dollar mortgages to improve access to homeownership for low- and middle-income families.
+[7]
+Local role
+There are several possible roles for local communities to encourage small-dollar mortgage lending. For communities that have direct leverage with banks subject to CRA regulations as well as those benefiting from handling municipal accounts (see the Cleveland example below); they can use this leverage to include provisions for small-balance mortgages in Community Benefits Agreements and other negotiations.
+A close working relationship with the field office of the federal agency that conducts local CRA compliance reviews (OCC, FDIC, or Federal Reserve) can be helpful in working with the local banks to address may also be helpful. Communities that work with field offices to identify specific local lending problems, including a lack of small-dollar mortgages. Communities could encourage banks to form partnerships with local CDCs and CDFIs. Likewise, communities could work with state housing finance agencies to encourage them to facilitate small-balance mortgages in the state as part of their homeownership efforts.
+That said, a number of communities, researchers, foundations, affordable housing advocates, and nonprofits are advocating for a greater role for federal government institutions in serving this market. For example, Citi Foundation, the John D. and Catherine T. MacArthur Foundation, and other foundations are supporting research into the challenges of and solutions to small-dollar lending. The Urban Institute suggests reviewing FHA and Veterans Administration underwriting and lending practices for practices and rules that may be disadvantaging low- and moderate-income borrowers. They also recommend that Fannie Mae and Freddie Mac consider new partnerships and product innovations to improve access to financing for this market.
+[8]
+In addition, communities could partner with a bank and provide funding for some mortgage origination costs that would allow the lender to break even or reduce losses on small mortgage loans.
+Examples
+Pinnacle Bank partnered with The Works Inc., a nonprofit CDC with experience in mortgage loan origination, credit counseling, and loan servicing to increase access to small-dollar mortgages in
+Memphis, TN
+. Pinnacle provided $500,000 to The Works in initial funding for a pilot small-dollar mortgage pool called the Home Loan Opportunity Fund; the pool has since expanded to $2 million. The Works provides credit counseling, originates the loans, and is an ongoing resource to borrowers, who must be first-time homebuyers. Pinnacle services the loans. The maximum mortgage amount is $50,000. The mortgage loan pool was financed through Tennessee’s Community Investment Tax Credit program.
+The Frayser neighborhood of
+Memphis, TN
+, has never been a high-value property market, and suffered high foreclosures, property value declines, blight, and disinvestment in the years following the Great Recession of 2008. Steve Lockwood, Executive Director of the Frayser CDC, reported that average property values hit a low of $17,000. He recalled that during this period, although the CDC’s focus is on homeownership, the agency had to shift its focus to rental because of mortgage lenders’ refusal to originate small-dollar mortgages. Lockwood reported the issue to the local field office of the Office of the Comptroller of the Currency, which conducts CRA compliance reviews, and used this process to encourage local banks to lend in the neighborhood. Lockwood now reports that banks are eager to make small loans in Memphis.
+[9]
+The
+City of Cleveland
+and
+Cuyahoga County
+have a history of using their leverage with banks to increase financing to underserved communities in general and small-balance mortgages in particular. In 1991, Cleveland became one of the first local governments in the country to require that city funds be deposited in banks that are meeting credit needs in underserved communities.
+Cuyahoga County also uses its leverage to improve access to credit to meet local needs, including small-balance mortgages, and the county intends to use this as an opportunity to get the selected bank to improve lending practices. In addition, the county has Community Benefits Agreements with three banks, which commit the banks to specific lending and investment amounts in underserved communities. These agreements could include provisions for small-balance mortgages.
+Fahe, a nonprofit mortgage lender, and the Homeownership Council of America launched the MicroMortgage Marketplace in July 2020. The MicroMortgage Marketplace is a pilot demonstration project designed to test the ability of small-dollar mortgages to improve homeownership possibilities for low- and middle-income families. Available initially in
+Louisville, KY
+, and
+Southern Indiana
+, the MicroMortgage Marketplace’s small-dollar mortgage is intended to reduce fees and costs, simplify loan processing, offer underwriting flexibility, and support the purchase of affordable homes using a mortgage under $100,000. MicroMortgages will be underwritten, funded, and serviced by Fahe. If the demonstration is successful, the product may be expanded into more communities and be offered by CDFIs, housing authorities, and local banks. The pilot was funded by a grant from the Access Ventures Reconstruct Challenge.
+Related resources
+Where Have All the Small Loans Gone?
+, Urban Wire, Housing and Finance, the blog of the Urban Institute. April 27, 2016. Urban Institute blog post on small-balance loans that reports on the findings of an analysis of 10 MSAs where a substantial share of the housing stock is worth less than $50,000. These areas include Albuquerque, NM, Dayton, OH, Jackson, MI, Kalamazoo, MI, Rochester, NY, Scranton, PA, South Bend, IN, St. Louis, MO-IL, Stockton, CA, and Tampa, FL. Homes under $50,000 in value accounted for over 8 percent of the housing stock in most of these areas, and in several, the share of housing in this range increased between 2005 and 2014. At the same time, the share of mortgages under $50,000 in these MSAs dropped to 2.1 percent in 2014. The denial rate for applicants for these loans has also increased.
+Eisen, Ben,
+Small Mortgages Are Getting Harder to Come By
+, Wall Street Journal, updated May 9, 2019.
+Small Dollar Mortgages: A Loan Performance Analysis
+, March 2019, Urban Institute. Applicants with small-dollar mortgages are denied at higher rates than those with larger mortgages. To understand whether this is justified based on differences in creditworthiness or other dimensions of risk, this study analyzes the credit profiles of applicants for mortgages of $70,000 or less compared with those for mortgages between $70,000 and $150,000. The analysis finds that the two groups of borrowers have similar credit and risk profiles including FICO scores, loan-to-value ratios, and debt-to-income ratios. They also perform similarly to loans with higher balances, especially since the housing market bubble burst in 2008. That said, foreclosing on small-balance loans has resulted in higher loss severity than larger loans, perhaps because many costs of managing a distressed property are fixed and therefore represent a larger share of the loan size for these loans.
+Opportunity Knocks: Socially Underwriting the Small-Dollar Mortgage
+,
+St. Louis Federal Reserve, 2017. Article describing the Home Loan Opportunity Fund, a partnership between Pinnacle Financial Partners and The Works Inc., to provide small-dollar mortgages to borrowers in Memphis. (See also description above.)
+Small-Dollar Mortgages for Single-Family Residential Properties
+,
+April 2018, Urban Institute. Brief describing the need for small-dollar mortgages, their availability via various channels, challenges that contribute to the lack of small-dollar mortgage options, and potential solutions.
+MicroMortgage Marketplace Launches in Support of Small-Dollar Home Lending in Underserved Markets
+, July 21, 2020. Press release describing the MicroMortgage Marketplace. Designers hope increased access to small-dollar mortgages will improve access to affordable and sustainable homeownership for people of color, thereby helping narrow the racial homeownership and wealth gaps. (See also description above.)
+Small Mortgages Are Hard to Get, Even Where Home Prices Are Low,
+September 2020, The Pew Charitable Trusts. Brief describing planned research into strategies for addressing underwriting and other challenges to low-dollar mortgages.
+Notes
+1. The CFPB set the small loan threshold at $100,000 in 2013. This threshold has regulatory implications for lenders, and changes annually with the Consumer Price Index. The threshold was $107,747 for loans originated in 2019. (See Mortgage Bankers Association Comment on the Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z), September 16, 2019.)2. The Mortgage Bankers Association reported that average production costs per loan for independent mortgage banks and mortgage subsidiaries of chartered banks were about $8,500 in 2017, and that almost three-quarters of those expenses were unrelated to loan size. See MBA press release, “MBA News: Independent Mortgage Bank Production Profits Down in Fourth Quarter 2017,” May 23, 2018. Available at:
+https://newslink.mba.org/servicing-newslink/2018/april/servicing-newslink-tuesday-4-17-18/mba-production-volume-profits-down-in-2017-for-independent-mortgage-bankers/
+.  McCargo, Alanna, et al. “Small-dollar mortgages for single-family residential properties.”
+The Urban Institute
+(2018).4.  For example, some stakeholders have raised objections to a proposed change to the Community Reinvestment Act that would measure lender investment by dollar volume rather than the number of loans. They argue that this change would encourage lenders to make fewer large loans rather than a larger number of small-balance loans.5.  Horowitz, Alan, and Tara Roche,
+Small Mortgages Are Hard to Get, Even Where Home Prices Are Low,
+The Pew Charitable Trusts, September 2020.6. Programs offered by state housing finance agencies, which rely on federally subsidized funding, are limited to first-time homebuyers.7.  See del Rio, Gabe, “MicroMortgage Marketplace launches in support of small-dollar home lending in underserved markets,” Homeownership Council of America press release, July 21, 2020. Available at:
+https://apnews.com/f6676dde60b9e390cfdc79ed03e3a35a
+See also Shadburne, Sarah, “Access Ventures-funded lender aimed at boosting local homeownership,”
+Louisville Business First
+, July 22, 2020. Available at:
+https://www.bizjournals.com/louisville/news/2020/07/22/access-ventures-funded-lender-aimed-at-boosting-lo.html
+8.  McCargo, Alanna, et al. “Small-dollar mortgages for single-family residential properties.”
+The Urban Institute
+(2018).9.  Interview with Steve Lockwood, Executive Director of Frayser CDC, July 29, 2020.

@@ -1,7 +1,7 @@
 """Structured locality input for policy recommendations."""
 
-from dataclasses import dataclass
-from typing import Optional
+from dataclasses import dataclass, field
+from typing import Any, Dict, Optional
 
 
 @dataclass
@@ -29,6 +29,10 @@ class FullLocalityInput:
     pct_built_post_2000: Optional[float] = None
     pct_built_1980_1999: Optional[float] = None
     pct_built_pre_1980: Optional[float] = None
+    pct_built_pre_1940: Optional[float] = None
+    pct_built_1940_1959: Optional[float] = None
+    pct_built_1960_1979: Optional[float] = None
+    pct_built_since_1980: Optional[float] = None
     median_gross_rent: Optional[int] = None
     cost_burden_rate: Optional[float] = None
 
@@ -45,6 +49,15 @@ class FullLocalityInput:
     unemployment_rate: Optional[float] = None
     employment_level: Optional[int] = None
     labor_force: Optional[int] = None
+    workers_per_household: Optional[float] = None
+    population_density: Optional[float] = None
+
+    # Mel-style 4-bucket summary from ACS year-built shares (see locality_profile)
+    building_age_profile: Optional[Dict[str, Any]] = field(default=None)
+
+    wage_median: Optional[float] = None
+    wage_pct25: Optional[float] = None
+    wage_pct75: Optional[float] = None
 
     housing_dept_present: Optional[bool] = None
     building_permits_annual: Optional[int] = None

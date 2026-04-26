@@ -1,0 +1,76 @@
+Title: Tax incentives for the maintenance and rehabilitation of unsubsidized affordable rental properties
+Source: https://www.localhousingsolutions.org/housing-policy-library/tax-incentives-for-the-maintenance-and-rehabilitation-of-unsubsidized-affordable-rental-properties/
+
+Even in cases where market rents are rising, owners may be reluctant to raise rents (or unable to do so without upgrading the property). In
+soft or softening rental markets
+, owners may not be able to raise rents and maintain occupancy. Property tax relief can provide an option for the owner to maintain affordability while strengthening the building’s bottom line. Moreover, property tax relief can prevent owners from being deterred from making improvements by shielding them from higher property taxes based on the cost incurred in improving the property. Eligibility for the incentive may be contingent on an agreement to maintain affordable rents for a specified period of time or to put the property under rent regulation that slows escalation of rent levels.
+By allowing owners of older unsubsidized affordable rentals to operate profitably, these tax policies may slow the rate of growth in rents of properties located in strong rental markets by reducing the likelihood that the properties are substantially rehabilitated and repositioned to rent at much higher levels (or demolished to make way for luxury multifamily units). However, these policies alone will not stop owners from raising rents when the market conditions would allow them do so. In markets where rents are rapidly becoming less affordable or are likely to do so in the future, the locality may want to preserve these units as dedicated affordable housing, either by working with the current owner or by facilitating the transfer of the property to a mission-driven owner. In this case,
+there is an array of tools for creating and preserving dedicated affordable housing.
+In soft housing markets, property tax relief can help owners of older housing units to maintain or improve the quality of housing, which can help reduce or alleviate building and neighborhood-level distress. Providing an incentive to keep or improve a building’s state of repair while strengthening the building’s bottom line may be a useful tool in maintaining or increasing occupancy while contributing to neighborhood vitality.
+Approach
+Rental properties, like any structure or building, require proper maintenance and the periodic replacement or refurbishment of such major building systems as the plumbing, heating, and electrical, as well as structural elements like the roof, exterior walls, foundation, and windows.  All of this costs money and can be a problem to fund if the annual,
+net operating income
+of the building (basically rental income minus expenses to operate and maintain the building) is insufficient to cover the costs of the rehab or at least the annual debt service costs of the loan needed to finance the rehabilitation—even after taking into account any maintenance and operation savings made possible by the rehab.
+Tax relief can help owners preserve affordable rental units without having to significantly raise rents. Tax relief allows more of the rental income to flow to the bottom line, thus freeing up cash flow which can be used to
+improve the day-to-day operations of the building (e.g., a better level of heating), increase the money spent on maintenance (e.g., repairing broken pipes more quickly), and/or to fund rehabilitation
+. By reducing annual operating costs, such relief minimizes the need to raise rents to cover the costs of maintaining and rehabbing the property. More modest rent increases can make it possible for current tenants to stay, thereby minimizing turnover.
+Property tax incentives may be especially valuable for owners of unsubsidized affordable rental properties who want to provide a better quality product but are unable to finance the necessary rehabilitation through private debt, whether due to poor financials, a weak market, or inexperienced management. A lower property tax bill can free up capital to cover maintenance and rehabilitation costs and allow these property owners to avoid abandonment or disinvestment. Alternatively, property owners may be eligible for private financing but market rents may not be high enough to justify the size loan needed to bring the property up to minimally acceptable housing standards.  A lower property tax bill can allow these property owners to avoid taking on unreasonable debt or raising rents to offset their expenses.
+Property tax relief for owners of unsubsidized affordable rental properties can come either through
+tax abatement
+s or tax exemptions.
+Tax abatements
+reduce the total amount of tax owed. The owner’s total tax liability may be reduced by all or a portion of the difference between the pre- and post-renovation tax bills.
+Tax exemptions
+reduce the assessed value of the property, which is then used to calculate the total amount of tax owed. For example, a tax exemption program can exempt the value of the improvements for a defined period of time when calculating property tax liability.
+Here is additional information on tax abatements and exemptions
+.
+The extent to which a locality may want to provide property tax relief can vary widely. It can choose to freeze the assessed value for qualifying properties for some period of time as a way to hold the owner harmless from increases in property values due to physical improvements or simply rising property values. It can reduce a property’s tax burden based on an analysis of the property’s actual financials. It can also offset some or all of the costs of improvements through an equivalent reduction of taxes which can be spread over a number of years.
+Many owners of small unsubsidized affordable rental properties will also need technical assistance to navigate the process of claiming tax relief while making building improvements. Local jurisdictions can offer assistance either directly from the government or through technical assistance providers such as a community development finance institution (CDFI) or community development corporation (CDC) with experience in owning and managing properties serving comparable clientele. Technical assistance providers can guide property owners through the eligibility requirements and point them to additional resources which may be available to them.
+Coverage
+Tax incentives could be available for all unsubsidized rental properties now renting at affordable rents or at certain rent levels, according to a particular jurisdiction’s affordability definition. Additional considerations for deploying property tax incentives to preserve unsubsidized affordable rental units include targeting based on geographic location or the size or type of building.  Localities with softening housing market conditions may find it helpful to target specific geographies or sets of conditions that align with other revitalization programs. For mixed-income developments, guidelines should specify whether the tax benefit would be based on the whole building or on only the units that meet the affordability criteria.
+Eligibility
+Localities should establish clear guidance for the terms under which properties are eligible for tax abatements or exemptions. These should include the income level(s) that must be served to qualify for this incentive, any minimum threshold(s) for the share of units in the development that must meet affordability requirements, as well as the scope of rehabilitation work that is covered.
+Jurisdictions may want to restrict the ability of recipients to raise rents through regulatory agreements to ensure that these property owners maintain affordable rents for a specified period of time. However, landlords and property owners, particularly in areas with rising rents, may resist agreeing to government regulation and reporting requirements, especially if they limit rents or incomes. Such agreements may be less of an issue for communities that already regulate rents through rent control or rent stabilization.
+Other considerations
+Impact on the local budget
+Localities need to consider the budget impact of incentives that would impair existing tax revenues. Smaller jurisdictions and localities with soft or softening housing markets should look closely at the potential impacts of tax incentives on future tax revenues.
+Supplemental funding
+Property tax relief alone may not generate sufficient funding for necessary improvements. In order for property owners to fully fund the rehab,
+tax assistance may need to be supplemented by other subsidy programs (e.g., LIHTC, Historic Tax Credits, grants, or low-interest loans)
+.
+State legislation
+Generally, state legislation is needed to authorize property tax relief programs. Jurisdictions will need to find an approach that works within their state framework.
+Quality standard matters
+If the tax relief program requires too high a standard of renovation, the higher costs of the renovation could offset the benefit of the lower cost of capital. To help preserve affordability, governments may wish to limit the required quality standards for the rehabilitated properties to what the market would normally provide. Communities must identify the minimum standard of quality that the government would be willing to support.
+Enforcement costs
+Local jurisdictions should take into consideration the enforcement costs associated with providing a property tax relief program.
+Examples
+Tennessee’s
+constitution prohibits traditional tax abatements, but some entities, including public agencies, are authorized to own property without taxation. The
+PILOT program (payment-in-lieu-of-taxes) in Memphis
+finds a workaround that they believe is within statutory and case law. The property owner/developer transfers title of the property to a public agency, thereby removing the property taxes. The public agency then issues a lease to the developer requiring nominal rent payments. In projects with 51 or more residential units that are subject to affordable housing requirements, at least 20 percent of the residential rental units must be occupied by, or held available solely for, individuals and families of low or moderate income (defined as no more than 80 percent of the median gross income for Shelby County, Tennessee) for a duration of 10 years.
+New York City’s
+J-51 Tax Incentive program
+provides an as-of-right tax exemption and abatement for residential rehabilitation or conversion to multi-family housing. Eligible projects for this program include major capital improvements to multiple dwellings. The tax benefit is a 34-year (30 years full tax benefit and then an additional four-year phasing out of the program) or 14-year (10 years tax benefit and then an additional four-year phasing out of the program) exemption from the increase in real estate taxes resulting from the work. Affordable housing projects generally get the 34-year exemption, while other projects receive the 14-year exemption. In addition, existing real estate taxes receive an abatement of up to 8.3 percent or 12.5 percent of the cost of the work each year for up to 20 years. Upon completion, all rental units become subject to rent regulation for the duration of the benefits. In rental buildings, the landlord must also waive 50 percent of the rent increase that would otherwise be allowed under Rent Stabilization as a result of the work.
+Minneapolis
+approved
+a pilot program to help owners of unsubsidized affordable rentals keep rents affordable by lowering their ongoing costs
+. The pilot program encourages owners to take advantage of a special property tax classification offered by the Minnesota Housing Finance Agency, known as “4d status,” that provides for a 40 percent reduction in property taxes. Participating property owners are also eligible for free energy efficiency and healthy homes assessments and rebates to support improvements that could help to lower maintenance and operating costs. Property owners qualify for the reduction by agreeing to preserve a level of affordability for ten years.  At least 20 percent of the units in the property must be affordable to and occupied by households with incomes at or below 60 percent of the
+area median income
+.
+Related resources
+Preserving Naturally-Occurring Housing Affordability in Metro-Atlanta Neighborhoods
+, Aliya Bhatia and Miriam Keller (2018) – policy analysis and suggestions for the preservation of naturally-occurring affordable housing in metro Atlanta, with a brief overview of the PILOT program in Memphis, Tennessee.
+Preserving the largest and most at-risk supply of affordable housing
+, McKinsey & Company – This article provides suggestions for local, state, and federal stakeholders to protect and preserve
+naturally occurring
+affordable housing (NOAH).
+The
+NOAH Impact Fund
+, launched by the Greater Minnesota Housing Fund, is a social impact investment fund which helps preserve naturally
+occurring
+affordable housing by financing the
+acquisition
+of Class B and Class C rental housing in partnership with owner-operators who are committed to preserving the affordability of the
+property for the long term
+.

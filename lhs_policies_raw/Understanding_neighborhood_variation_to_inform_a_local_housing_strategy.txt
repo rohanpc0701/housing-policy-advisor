@@ -1,0 +1,90 @@
+Title: Understanding neighborhood variation to inform a local housing strategy
+Source: https://www.localhousingsolutions.org/housing-policy-library/understanding-neighborhood-variation-to-inform-a-local-housing-strategy/
+
+What is neighborhood analysis and why is it important?
+Neighborhood analysis is conducted by analyzing quantitative data, such as demographic trends and housing conditions, at the neighborhood level to understand policy-relevant variations between neighborhoods. Ideally, this quantitative analysis is then supplemented by input from residents to ground-truth and refine the initial findings of the analysis and get additional input on neighborhood-level factors the analysis may have missed. Neighborhood analyses can inform both the overall content of a local housing strategy as well as its implementation to ensure the locality is being responsive to variations in housing conditions across neighborhoods.
+Neighborhood analysis focuses on small geographic areas that may be defined in many ways. For example, a neighborhood might be defined as one or more census tracts or block groups, a zip code, or a school, zoning, or electoral district. By analyzing needs at this level, localities can understand how conditions, trends, and needs in one neighborhood may differ from those in another neighborhood or how one neighborhood’s conditions may influence dynamics in another neighborhood. For example, if housing costs are high and rising in one neighborhood, there may be increasing pressure on housing costs in adjacent, lower-cost neighborhoods as people move from the high cost neighborhood to seek more affordable housing.
+Neighborhood analysis not only helps localities determine the best policies to address local housing needs, but also where to strategically target those policies to advance local housing objectives. Neighborhood analysis might reveal, for example, that residents with low-incomes in one neighborhood may be at risk for displacement due to rapidly rising housing costs, and thus could benefit from policies designed to preserve affordable units, while residents with low-incomes in another neighborhood may face challenges in maintaining the quality and safety of the older homes they own, and thus could benefit from policies that support rehabilitation and weatherization.
+How does mapping help neighborhood analysis?
+Maps can be an effective tool to inform housing policy interventions because of their visual nature, which can help planning staff, elected officials, and community members see trends and patterns more readily than with tabular data. It can be helpful for localities to map neighborhood-level data for all neighborhoods in a locality in order to compare conditions across neighborhoods, which can reveal market pressures on certain neighborhoods, areas of disinvestment, and pockets of racial or ethnic segregation, among other things. The locality then can develop different policies to address conditions in different neighborhoods. As an example, the National Association of Latino Community Asset Builders (NALCAB), a network of community organizations that aims to address housing issues in US cities, uses mapping to identify neighborhoods that are experiencing or are likely to experience a significant change in character or culture where low- income residents may be at risk for displacement.
+Most localities will have geographic information system (GIS) mapping capabilities through their planning or zoning department, and neighborhood-level maps can be generated from Census data, among other sources (see the Resources section below for additional examples), as well as locally generated data. Using GIS, localities can create highly customized maps for neighborhood analysis by incorporating data from a range of sources. For example, a locality could combine Census data with data from the local transit authority and permits department to identify high-poverty neighborhoods with poor access to grocery stores.
+Maps are additionally useful for community engagement to help educate community members about neighborhood conditions they may not be aware of, to show how their neighborhood relates to the entire locality, and to draw insights from the community regarding what the maps show. A locality might, for example, show community members three side-by-side maps—one displaying median rents by neighborhood, a second displaying the race/ethnicity of households, and a third displaying school enrollment zones—to explore how neighborhood variation in access to quality schools may affect housing costs. Maps that combine two or more layers may also be helpful illustrations, though multi-layered maps can sometimes be difficult to read.
+What data to map for neighborhood analysis?
+A range of data are available that can be mapped for neighborhood analysis and are important to understanding the unique housing needs of different areas in a locality. Before beginning a neighborhood analysis process, it is useful to first consider which types of data will best help your locality 1) understand housing needs across neighborhoods, 2) identify root causes of those needs, and 3) pinpoint potential policy solutions to address the needs and include in a comprehensive local housing strategy.
+The table below lists some widely available variables to consider using to examine whether neighborhoods are experiencing changing housing market conditions or threats to housing quality and stability.
+Potential Datapoints
+Potential Uses
+Median sales prices, median rents, number of homes sold
+A static map of current values can help identify high-cost and low-cost areas that may have different housing needs. Changes over time in these indicators can be used to identify neighborhoods where residents are at risk of potential displacement and neighborhoods where increasing disinvestment poses a risk to community stability.
+Vacant buildings and vacant lots
+An indicator of chronic community disinvestment where rehabilitation efforts could be useful.
+Housing cost burden, foreclosure as a percent of owner-occupied units, and eviction filings and executions for nonpayment of rent.
+High percentages can provide an indicator of residents’ economic distress. Rising foreclosures can be a leading indicator of decreases in property values.
+Building permits for new construction and renovations
+Indicator of building activity and strength of local housing sub-market. Increases in building permits can be a leading indicator of neighborhood change that could lead to displacement.
+Location of subsidized housing units
+Concentrations of subsidized housing can contribute to concentrations of poverty. The distribution of families with housing choice vouchers can indicate residential areas that are more or less accessible to lower-income renters.
+Demographic makeup (race, ethnicity, income)
+Can identify residential segregation and areas of wealth and poverty concentration. Many localities strive to reduce segregation and concentrated poverty.
+Flood zones
+Can reveal neighborhoods at greater risk for damage from future storm events.
+In addition to these indicators, localities may also want to map school quality, proximity to transit, and number of core retail services, such as grocery stores, banks, drugstores and other retail, in each neighborhood to identify
+resource-rich
+A term to define neighborhoods that offer abundant amenities, such as access to quality schools and public libraries, streets and parks that are free from violence and provide a safe place to play, and fresh and healthy food.
+neighborhoods that may be well-suited for affordable housing investment. Opportunity Insight’s mapping tool
+“The Opportunity Atlas”
+and Enterprise Community Partners’ Opportunity360 tool may help localities examine these indicators.
+As with any analysis, the quality of neighborhood analysis partially will depend on the type and quality of data used in the mapping process. Community engagement can help identify other indicators to map, as residents, local businesses, and organizations generally have a strong understanding of their neighborhood and circumstances that may be prompting change. For example, creation of new businesses and other private investment, for which data may not be available in real time, can be strong indicators of neighborhood change and may be directly observable by the community. For more information on where to access data see the brief “Local Data Sources.”
+Classification of markets
+A useful way to understand neighborhood dynamics for policymaking is to classify neighborhoods using a combination of market indicators. For example, with some variation by city, The Reinvestment Fund (TRF)—a financial institution that completes market analyses for cities to inform housing policy—classifies neighborhoods by “market types.” Their classifications range from types A, B, and C—areas with strong real estate markets, high median home prices, and above average construction activity—to types H, I, and J—areas with high vacancy and foreclosure rates, the lowest median home prices, and typically a high percentage of subsidized rents. As mentioned above, NALCAB has also created a neighborhood classification system. Their approach assigns each census tract a “Neighborhood Trend Analysis (NTA) score.” This score is based on a number of indicators that have changed more rapidly over a given time period than the city has a whole.
+Why engage the community in neighborhood analysis?
+Informed by neighborhood analysis, a local housing strategy can foster meaningful change at the neighborhood level by developing policy interventions that are responsive to unique neighborhood conditions. Beyond conducting mapping, localities will likely want to consult residents and other community stakeholders to further understand how (and why) housing conditions and needs vary across neighborhoods and to present possible policy solutions. By involving the community in this process, localities can gather information at the level of detail required to create tailored policies. For example, data may show that a significant portion of residents are rent-burdened, but feedback from residents can clarify whether this is due to low-wages or a lack of affordable childcare which prevents full-time employment. When done well, community engagement can increase trust in local government organizations. As a result, plans that are informed by feedback from residents are more likely to be supported and are easier to implement.
+Community input can be collected in several different ways and at different levels of detail. A process for gathering community feedback on the big-picture conclusions of the neighborhood analysis can be a helpful place to start. Supplementing this feedback with feedback collected from residents across all neighborhoods (for example, during regularly scheduled neighborhood planning processes) or selected neighborhoods can help to provide more tailored feedback about the analysis’s preliminary conclusions regarding conditions in specific neighborhoods. For more guidance on community engagement, see the brief
+Engaging the community in the development of a local housing strategy
+.
+Linking neighborhood analysis to a locality’s housing strategy
+A
+local housing strategy
+formalizes the goals and policies that a city, town, or county aims to implement to address housing issues in a single comprehensive framework. In developing and implementing a local housing strategy, it is important to consider whether a single set of policies makes sense for the entire jurisdiction or whether policies should vary based on neighborhood-level variation. A neighborhood analysis can help to inform this decision and help clarify what issues are unique to specific neighborhoods and require targeted strategies and which issues cross neighborhood boundaries and would be best addressed with unified policies. For example, neighborhood analysis may show that people throughout the city struggle to pay utilities in the winter, and in response, the locality may want to have a unified policy to provide utility assistance across the city. Analysis may also show that in certain neighborhoods people need support to rehabilitate their deteriorating properties, while renters in other neighborhoods may need help avoiding displacement from rapidly rising rents. Informed by a neighborhood analysis, a local housing strategy can specify which policies are needed in the jurisdiction, identify where they are targeted, and assign responsibility to municipal agencies to support their implementation.
+Findings from a neighborhood analysis can also help inform the development of broader community development goals, such as planning for climate change, connecting residents to employment and educational opportunities, or increasing regional transit accessibility. Localities may wish to share any findings and lessons learned from the neighborhood analysis process with other departments that touch on housing or community development issues, such as transportation, education, and parks and recreation, among others.
+Examples
+In
+San Antonio, TX,
+the
+National Association for Latino Community Asset Builders (
+NALCAB) conducted an analysis of housing vulnerability using four indicators of neighborhood change: median home value/median contract rent, median household income, population 25+ years old with at least a bachelor’s degree, and number of white, non-
+Hispanic
+The word Hispanic refers to people of Spanish-speaking descent. This encompasses countries from Latin America and Spain but excludes Brazil because their national language is Portuguese. Due to its use in the Census, this term will be used when using or referencing Census data.
+residents. Recommendations from the analysis emphasize a need for continued monitoring for housing vulnerability and a focus on residents at risk for displacement in areas of the city with rapidly appreciating housing costs. These recommendations are reflected in the City’s Housing Policy Framework, its comprehensive local housing strategy. Learn more about
+the NALCAB assessment
+and
+San Antonio’s Housing Policy Framework
+.
+New Orleans, LA
+worked with The Reinvestment Fund to create a
+Market Value Analysis
+for its neighborhoods. The New Orleans Redevelopment Authority and other local government agencies has used this analysis to inform its affordable housing program design and investments in neighborhoods. Specifically, the Authority has used the Market Value Analysis to distinguish between neighborhoods in which to focus on demolishing vacant properties from those which should be rehabilitated. They have also used the analysis to identify areas where modest city actions could stimulate market-rate reinvestment and areas where deep affordable housing subsidies are needed to anchor and stimulate investment in the neighborhood housing stock.
+Related resources
+Mapping resources
+Census Data
+–
+This website has information about the population of the United States by census tract.
+CPD Maps
+–
+This mapping tool for generating reports using a variety of HUD data sources
+Affirmatively Furthering Fair Housing (AFFH) Data and Mapping Tool
+–
+This tool uses information from HUD grants to generate maps.
+PolicyMap
+–
+This tool has publically available maps which have population information by census tract and the ability to input locality-generated data with the purchase of a subscription.
+Housing Needs Assessment Tool
+– This tool from Local Housing Solutions primarily focuses on jurisdiction-wide data on housing conditions and needs, though it also includes a number of pre-specified maps that may be helpful in assessing neighborhood conditions.
+Neighborhood analysis projects
+The Reinvestment Fund
+– Market value analysis is a data-based tool to identify different types of real estate markets.
+Urban Displacement Project
+–
+This initiative from UC Berkeley is meant to generate knowledge about policy decisions for more equitable housing development.
+The Opportunity Atlas
+– Datasets and an interactive map show the nation’s census tracts and key indicators that help identify resource-rich areas.

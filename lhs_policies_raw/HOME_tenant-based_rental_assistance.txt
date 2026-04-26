@@ -1,0 +1,56 @@
+Title: HOME tenant-based rental assistance
+Source: https://www.localhousingsolutions.org/housing-policy-library/home-tenant-based-rental-assistance/
+
+Among other eligible uses, states and local jurisdictions can utilize federal HOME funds to expand the amount of tenant-based rental assistance available to low-income households. Specifically,
+HOME
+grantees may provide tenant-based rental assistance contracts of up to two years that are renewable at the jurisdiction’s discretion. Cities, towns, and counties have the authority to tailor tenant-based rental assistance through the HOME program to meet specific needs. This includes the option to limit program eligibility to specific groups, such as seniors or individuals with a disability. Localities can also provide additional types of assistance to complement tenant-based rental assistance, such as security deposits and help covering utility costs.
+In fiscal year 2025,
+Congress appropriated $1.25 billion
+to the program. Sixty percent of HOME funds are awarded directly to participating jurisdictions, which include larger localities (or consortia of smaller contiguous localities) and states. The remaining 40 percent is given to states for allocation to small cities, towns, and rural areas that do not receive an award from HUD. Because participating jurisdictions receive formula allocations each year, they will likely be better-equipped than smaller jurisdictions to administer a tenant-based rental assistance program in the long term. HOME funds are awarded by a
+formula consisting of six factors
+, including “the number of units in a jurisdiction that are substandard or unaffordable, the age of a jurisdiction’s housing, and the number of families living below the poverty line in the jurisdiction.” In fiscal year 2024, all 50 states (as well as the District of Columbia, Puerto Rico, and four insular areas) received HOME funds, with a median award of $8 million. Additionally, 632 localities and consortia received HOME grants, with a median award of $660,000.
+Approach
+Participating jurisdictions describe how they plan to administer the HOME program and other federal programs to address state or local housing needs in a Consolidated Plan and annual Action Plans submitted to HUD each year. While federal regulations establish certain parameters on HOME tenant-based rental assistance, jurisdictions that choose to offer a program need to make some decisions about program design. One key decision is whether the locality will administer the program directly or designate a partner —called a ‘subrecipient’—to handle day-to-day operations on its behalf. Subrecipients can include a local
+public housing
+agency or other public agency, or a nonprofit organization with experience administering similar programs. While tenants generally pay 30 percent of their income toward rent, jurisdictions that offer HOME tenant-based rental assistance also must establish a minimum tenant contribution (e.g., $50 per month).
+Jurisdictions offering HOME tenant-based rental assistance also need to decide if their program will provide any assistance or activities besides rent payments. For example, HOME program funds can be used to cover the cost of security deposits and utility deposits if participants lack the assets to cover these expenses. Program funds may also support homeownership through a lease-purchase option, although this approach may be challenging to implement in some high-cost markets.
+Eligibility
+Under HOME program regulations, 90 percent of households that receive HOME-funded tenant-based rental assistance must have incomes at or below 60 percent of the
+area median income
+(AMI), and the remaining 10 percent may have incomes of no more than 80 percent of AMI, subject to annual verification. Jurisdictions may
+require residents
+who receive HOME-funded tenant-based rental assistance to participate in a self-sufficiency program as a condition of assistance, as long as the assistance is not provided for relocation purposes. Jurisdictions may also establish preferences for current residents of the jurisdiction or for individuals with special needs or with disabilities, including seniors, people experiencing homelessness, or those with a specific special need or disability, such as chronic mental illness. These preferences should be clearly described in the jurisdiction’s Consolidated Plan.
+While assisted households find their own units on the private market, rented units are also subject to certain
+eligibility requirements
+established at the federal level. Rent levels must meet reasonableness standards for the unit size, as established by the participating jurisdiction based on local market conditions or
+housing choice voucher
+rent limits, and the lease agreement must comply with
+HOME program specifications
+. The unit must also meet Housing Quality Standards established under the Housing Choice Voucher program.
+Other considerations
+Matching funds
+HOME program regulations require states and local jurisdictions to match every dollar of HOME funds spent with 25 cents from nonfederal sources. The match can be provided with local or state funding,
+bond
+financing proceeds, or in-kind donations, including labor, property, or materials. Local jurisdictions must identify a source for the match before using any HOME funds.
+Management capacity
+Directly administering any of HUD’s funding, especially programs like HOME tenant-based rental assistance, which delivers services directly to qualified households, is a significant undertaking. Smaller localities or localities with limited staff capacity may need considerable help to develop the administrative capacity or the performance, financial management, and reporting practices required for this type of program. For this reason, localities concerned about capacity issues should consider regional administration alternatives or participating in technical assistance programs to develop this administrative capacity over time.
+Examples
+As outlined in its
+Fiscal Year 2024-2025 Annual Action Plan
+, the city of
+San Jose, CA
+, set aside most HOME funds for the development of new affordable apartments for extremely-low-, very-low-, and low-income households. The city allocated $2.3 million in HOME funds to assist in developing four proposals, all of which include supportive housing units for the chronically unhoused. These developments are expected to yield over 338 affordable units and 115 supportive housing units in San Jose.
+A group of eight cities in Massachusetts, led by
+Malden, MA
+, created the
+North Suburban Consortium
+(NSC) in 1991 to collectively apply for and manage HOME funds. The consortium includes the housing authorities of Arlington, Chelsea, Everett, Malden, Medford, Melrose, Revere, and Winthrop. The housing authorities apply for the funding as a collective, and the Malden Redevelopment Authority administers the funds. The
+cities create plans
+to set priorities and manage HOME funds collectively. Since its inception, the NSC has developed almost 2,000 units with HOME funds.
+Related resources
+HOME Investment Partnerships Program, HUD Exchange
+. This website is HUD’s main repository for resources related to the HOME program. It provides links to program information, reporting systems, program reports, and relevant news and announcements.
+An Overview of the HOME Investment Partnerships Program
+.  This report by the Congressional Research Service, published in 2025, provides basic details on how the HOME program is organized and funded, eligible uses of HOME funds, and program oversight.
+HOME Investment Partnerships Program
+. This resource by the National Low Income Housing Coalition includes information on HOME, including regular updates on new developments and rule changes.

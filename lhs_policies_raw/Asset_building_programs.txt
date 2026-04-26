@@ -1,0 +1,89 @@
+Title: Asset building programs
+Source: https://www.localhousingsolutions.org/housing-policy-library/asset-building-programs/
+
+This brief focuses on asset-building programs that either have homeownership as a primary goal or seek to build assets among people participating in a particular housing program and the role of these programs in expanding housing choice and facilitating economic mobility.
+Approach
+The immediate goal of asset-building programs is to help individual households reach financial stability and achieve longer-term goals, such as homeownership. But, asset-building programs may also contribute to broader community development impacts such as preventing displacement and stabilizing home values.
+Asset-building programs as a strategy for household financial stability and economic mobility
+Household assets are essential for both household financial stability and economic mobility. Assets provide protection from financial shocks, such as a temporary job loss or an unexpected health care bill or car repair expense. Households can also invest assets to help them build a better future.
+One study
+found that a household savings balance of over $250 is correlated with a 12 percent reduction in housing insecurity. Even smaller savings balances of over $100 are correlated with avoiding high-cost debt, reduced likelihood of having utilities cut off, and overall financial satisfaction.
+Similarly
+, even a small amount of money in a savings account earmarked for education increases the likelihood that a child will enroll in and complete post-secondary education.
+Asset-building programs offered by nonprofits, philanthropic organizations, financial institutions, schools, and governments throughout the country help low- and moderate-income families build a financial cushion, save for post-secondary education, achieve the credit score needed to qualify for a rental and save for a rental deposit, build savings to defray the costs of retirement, or to start or grow a small business.
+Many asset-building programs are designed to focus on homeownership as the ultimate goal, for a number of reasons. Housing has long been a primary mechanism through which households build wealth. In addition to the price appreciation that often accompanies homeownership, for many households, buying a home acts as an automatic savings strategy, as a portion of each mortgage payment goes toward increasing the owners’ home equity. Households can use the assets built through homeownership to fund retirement, as a source of capital to build a business, or to transfer wealth between generations. Homeownership can also provide protection against displacement in the event of neighborhood gentrification—because monthly mortgage payments are usually fixed, households that own their homes may be better able to withstand the rising home values that often accompany gentrification.
+As discussed below, some asset-building programs are also targeted specifically on households participating in a federal rental assistance program or living in a specific housing development. These asset-building programs, along with asset-building programs that focus on helping households achieve homeownership, are the focus of this brief.
+Asset-building programs as a housing and community development strategy
+In addition to fostering the benefits of wealth creation and homeownership for individual households, asset-building programs can contribute to a range of community development goals. The role of asset-building programs in community development
+varies by market type
+. For example, in areas experiencing neighborhood distress, asset-building programs such as Individual Development Accounts (IDAs) can help residents build wealth that they are likely to invest in their communities, which can help reverse community decline and generate growth and investment. In a market or neighborhood with low home values, homeownership may be a useful target for asset-building strategies. An asset-building program can help local residents overcome obstacles to home purchase related to credit scores and downpayment, helping to stabilize home values.
+In a neighborhood at risk of gentrification and the displacement of low-income households, asset-building programs can help renters buy property in their neighborhood and benefit from rising values. To prevent displacement, however, asset-building programs generally must be in place well before gentrification and displacement are in full swing, to give participants enough time to build enough assets to make a downpayment, and before property values begin rising out of reach.
+In high-cost markets, purchasing a home may be out of reach even for low-income households in an asset-building program focused on homeownership. In these markets, asset-building programs may wish to focus on other goals, such as building savings for emergencies, education, and retirement. Alternatively, or in addition, asset-building programs in high-cost areas can partner with shared equity homeownership programs like
+community land trusts
+,
+limited equity cooperatives
+, and
+deed-restricted homeownership programs
+to help low- and moderate-income households use the assets they have accumulated to purchase homes selling at below-market levels.
+Theoretically, asset-building programs could also increase the availability of dedicated affordable housing by freeing up space within existing developments as residents use the assets they build to move to unsubsidized housing elsewhere. In most places, there is an insufficient supply of such dedicated affordable housing resources as Housing Choice Vouchers, public housing units, and project-based Section 8. Helping families to increase their earnings and assets and transition to market rental units or homeownership can help free up spots in subsidized housing for other households.
+By helping low- and moderate-income renters access a wider range of neighborhoods, asset-building programs can also reduce segregation and facilitate access to
+resource-rich
+areas with high-performing schools, low crime rates, and good access to employment. In some markets, renters (including Housing Choice Voucher holders) may be struggling to access housing in these areas because of low credit scores and no security deposit. Asset-building programs can help them overcome both of these challenges.
+Approaches
+Asset-building programs focused on homeownership, or targeted on households in a particular housing program or development, can utilize a range of program elements, including financial coaching, homeownership education, seed deposits in a savings account, matched savings, equity-building for renters, and other strategies.
+At their most basic, asset-building programs offer financial coaching focused on improving financial skills. They typically include virtual or in-person meetings with a financial coach who helps participants establish budgets, improve their credit scores, establish a savings habit, access mainstream financial products, and develop other financial skills. Matched savings programs accelerate the process of helping individuals/households prepare for homeownership, adding to financial coaching by matching participants’ savings.
+One example of an asset-building program is an IDA, which is a savings account that offers low-income individuals matching funds for each dollar saved. Account balances typically can be used to invest in a home, business, or higher education. Some IDA programs include a homeownership education component, which is sometimes also offered as a stand-alone service. Homeownership education is designed to help participants better understand the home-buying process, determine whether homeownership is appropriate for them, access affordable mortgage products and meet downpayment requirements. Some programs also help participants search for a home.
+Another asset-building program is HUD’s Family Self-Sufficiency (FSS) program, which is available to households with a Housing Choice Voucher or living in public housing or project-based Section 8 housing, provided the housing authority or project owner has agreed to administer it. Each local FSS program is unique, but
+two primary models
+have emerged: a financial coaching model and an employment-focused model.
+In the first model, coaches provide financial coaching directly to FSS participants to help them reach targets in income and employment; credit and debt; savings; utilization of high-quality financial services; and asset development. An
+evaluation
+by Abt Associates of financial coaching FSS programs jointly administered by the nonprofit Compass Working Capital and PHAs in Cambridge and Lynn, Massachusetts, found the programs lead to gains in earnings and credit scores and reductions in credit card and delinquent debt. These programs utilize the financial coaching approach to FSS.
+In the employment-focused model, coaches focus on helping participants increase their earnings by identifying employment opportunities or gaining credentials for employment. In both approaches, clients receive a financial incentive in the form of an escrow savings account that grows as their earnings and rent payments rise. The account can be used for any purpose, including (but not limited to) higher education, small business development, homeownership, and costs associated with achieving financial goals, such as credit improvement, employment training, or car repair.
+Still another asset-building model is renter’s equity – an approach that allows renters to earn “equity” with every rent payment. The most notable example of a renter’s equity program is Cornerstone Renter’s Equity in Cincinnati, Ohio. Participating residents earn “equity credits” toward a cash payment over time by fulfilling the requirements of their lease agreement.
+A renter’s equity program is different from “lease-purchase,” in which a portion of a household’s rent is dedicated to reducing the downpayment that would be needed to purchase that same unit or another unit in the development. While well-run lease-purchase programs can serve asset-building objectives, care should be exercised in evaluating whether a particular lease-purchase model is a legitimate asset-building program or instead an opportunity to charge a higher rent without a corresponding benefit. The problem arises when lease-purchase programs rent to households who are not close to being ready to purchase a home and do not provide the renters with help overcoming obstacles to homeownership; in such cases, the extra rent ostensibly paid to reduce the downpayment on a unit is rarely used for that purpose.
+Eligibility and coverage
+While asset-building programs of various kinds are widely available across the country, financial coaching programs are more common than matched savings and other programs that help renters build equity or accumulate savings. Financial coaching programs offered free of charge are typically restricted to low- and moderate-income participants willing to commit to a specified program. They are offered by local governments, community colleges, nonprofits, employers via Employee Assistance Programs, and financial institutions.
+Matched savings programs are somewhat less common than programs offering only financial coaching, and they tend to have restrictive caps on enrollment. For example, although there are more than
+500 IDA programs in communities across the country
+, many eligible individuals cannot participate because lack of funding limits the number of accounts available. As with financial coaching programs, IDAs are generally limited to low-income individuals and families.
+Likewise, Federal FSS programs are both limited in number and have caps on enrollment. FSS programs are administered by local public housing agencies (PHAs) and private owners, but not all PHAs or private owners offer an FSS program. While HUD covers the costs of the FSS accounts for all program participants and provides funding to PHAs to help cover the costs of administering the program, program size is constrained by the limited funding available for program staff. In addition, private owners have historically not been eligible for HUD funding for FSS program staff, although this could change in the future.
+Renter’s equity programs are relatively uncommon and tend to be restricted to low-income residents of specific developments where the equity program is offered.
+Local role
+Although financial coaching programs are fairly widely available, financial and other support for asset-building programs that include matched savings or escrow savings accounts is limited. One important way local governments could increase access to these kinds of asset-building programs is by dedicating funding for them. For example, in some localities, property owners have the option of paying a fee in lieu of building affordable housing under an inclusionary housing requirement. A portion of these fees could be dedicated to
+IDAs or other asset-building programs
+.
+Local communities could also partner with foundations, employers, and public leaders to increase the number of matched savings accounts available. For example, local communities could partner with employers to help them make asset-building programs available to their employees; one approach would be to create a turn-key program employers that could offer as an employee benefit.
+Localities and local funders could also partner with PHAs and private owners of project-based Section 8 to optimize the use of FSS. Since there is no limit to the number of FSS escrow accounts that HUD will fund, funding for program staff to allow PHAs or private owners to start or expand the size of an FSS program has the added advantage of leveraging additional HUD funding for FSS escrow accounts. Localities could also partner with other local governments across the country to advocate for expanding the resources available for FSS programs at the federal level.
+Examples
+Homewise
+is a New Mexico CDFI working with people interested in homeownership throughout the state. Homewise offers financial education and coaching designed to raise potential homebuyers’ financial profiles and prepare them for homeownership. Financial coaches work with clients to create and execute a financial action plan that can include increasing credit scores, decreasing monthly debt, and increasing savings. Once participants are ready for homeownership, Homewise offers access to the Homewise Mortgage and downpayment assistance to low- and moderate-income homebuyers. The downpayment assistance reduces monthly mortgage payments for borrowers, who otherwise would have to pay mortgage insurance.
+Compass Working Capital Family Self Sufficiency (FSS) program.
+Compass
+is a nonprofit organization that has developed an asset-building model for FSS focused on financial coaching that it administers in partnership with PHAs and private owners of project-based Section 8 housing. The Compass FSS programs serve families living in federally subsidized housing operated by Compass partners in Massachusetts, Rhode Island, Connecticut, and Pennsylvania. As with traditional FSS programs, Compass FSS participants receive an escrow account that increases in value as their earnings (and corresponding rent contributions) increase. Participants also receive
+client-driven financial coaching
+that helps them build their financial capability and savings, reduce high-interest debt, progress toward achieving employment goals, and improve their credit scores and budgeting.
+Cornerstone Renter Equity program.
+Through this
+program
+, low-income renters build wealth, develop ownership skills and help stabilize their community. Each month that residents participating in the program fulfill their lease agreement, they earn “equity credits” toward a cash payment. Participants can earn additional equity credits by attending community meetings, actively engaging in family coaching, and making a community contribution. After five years, residents are vested, and the credits can be converted to a cash payment through Cornerstone. Residents average about $3,500 in Renter Equity credits in five years.
+Related resources
+Article summarizing the research on IDAs, primarily from the American Dream Demonstration
+: “Individual Development Accounts: a Vehicle for Low-Income Asset Building and Homeownership,”
+Evidence Matters,
+Fall 2012.
+Evaluation of the Compass FSS program
+: “Evaluation of the Compass Family Self-Sufficiency (FSS) Programs Administered in Partnership with Public Housing Agencies in Lynn and Cambridge, Massachusetts,” Abt Associates, prepared for Compass Working Capital and U.S. Department of Housing and Urban Development, September 2017.
+Website describing Cornerstone Renter Equity
+: See also
+a St. Louis Federal Reserve publication describing the Cornerstone Renter Equity program and its impact
+on the Over-the-Rhine neighborhood of Cincinnati, Ohio. “A Brighter Future: Equity Program Helps Renters Build Wealth,” by Lisa J. Locke, October 2008.
+Article describing financial education and coaching offered by Homewise
+. Altomare, Laura, “Helping Women Build Assets through Successful Homeownership,”
+Green Money eJournal,
+April 2019.
+Guidance and Resources for Practitioners on Asset-Building Programs
+Report describing strategies elected officials can use to help low- and moderate-income households build assets
+: “Building Assets While Building Communities,” Walter and Elise Haas Fund, Heather McCullough, February 2006.
+“Administering an Effective Family Self-Sufficiency Program: A Guidebook Based on Evidence and Promising Practices,”
+U.S. Department of Housing and Urban Development Office of Public and Indian Housing, February 2017.

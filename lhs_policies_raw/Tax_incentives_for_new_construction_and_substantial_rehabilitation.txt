@@ -1,0 +1,56 @@
+Title: Tax incentives for new construction and substantial rehabilitation
+Source: https://www.localhousingsolutions.org/housing-policy-library/tax-incentives-for-new-construction-and-substantial-rehabilitation/
+
+Some jurisdictions stimulate new residential development by offering property
+tax abatement
+s that lower the amount of taxes owed for a specified period of time. Alternatively, property tax incentives can be structured to exempt, for some period of time, increases in the
+assessed value
+of a property that would otherwise result from new construction. Both abatements and exemptions can also be used to support the rehabilitation of older homes that have fallen into disrepair, providing a reduction in taxes or simply reducing or eliminating incremental taxes that would otherwise result from improving the property.
+This section describes some of the considerations to be weighed when creating tax incentives for new construction and substantial rehabilitation.
+Approach
+Property taxes typically form an important part of a jurisdiction’s revenue base, so cities, towns and counties should think carefully about how to design a tax abatement or exemption program that addresses local housing needs without compromising the jurisdiction’s ability to fund other priorities. While abatements and exemptions both reduce property tax liability, they do so in different ways and can be designed to achieve different goals.
+Tax abatements
+reduce the total amount of tax owed, generally for a fixed period of time, such as five or 10 years. When used as an incentive to stimulate new development, owners typically receive a discount on their tax bill for the duration of the abatement. The discount may be all or part of a particular taxing jurisdiction’s share of total property tax revenue. Alternatively, an abatement could be used to spur rehabilitation, with the tax reduction sized based on the amount of work done.
+Tax exemptions
+adjust the value of the property subject to taxation; the resulting assessed value is then used to calculate the total amount of tax owed. For example, local jurisdictions wishing to stimulate new development on vacant lots can exempt the value of any improvements on the lot (such as a new building) for a defined period of time when calculating property tax liability. Tax exemptions can also be used to provide an incentive for the rehabilitation of aging housing developments. Typically, the property continues to be assessed at the pre-renovation value for the duration of the exemption.
+For either approach, the size of the benefit and the duration for which it will be available both warrant careful consideration. The abatement or exemption may last for a single year, or it may be available for several years or even decades depending on the type of activity the city, town, or county hopes to encourage. The amount of the reduction may be the same across all years, or it may phase out over time (e.g., 50 percent abatement in year one, declining by 10 percent in each subsequent year).
+The incentive period should be long enough to provide a meaningful financial incentive; however, the length of the tax reduction also directly impacts the amount of tax revenue collected to cover other needs. The likely impact on property tax receipts in the near term and overtime should be assessed.
+In theory, a time-limited tax abatement or exemption that stimulates investments that would not otherwise happen will add to the size of the tax base at some future time when the abatement or exemption ends. It is unclear, however, how often these policies stimulate increased development that both expands the overall supply of residential housing and leads to a net positive effect on the jurisdiction’s long-term finances. In some cases, a tax abatement policy may cause investments to shift from one form to another – for example from luxury condos to rehabilitating older developments – without necessarily increasing the overall tax base. Another possibility is that an incentive will cause investment in new housing to shift from one jurisdiction to another, without increasing the overall supply of housing in the region, blunting the desired effects on housing affordability.
+As a general rule, it is safer to weigh the anticipated benefits of the abatement or exemption – particularly the increase in the overall supply of housing – against the potential for forgone revenue without relying too heavily on expectations of a net increase in tax revenue over the long-term. Tax abatements or exemptions should also be carefully tailored to create incentives for development that would not take place without the incentives. The availability of the tax incentive for new developments can also be time-limited (e.g., set to sunset after three or five years), providing an opportunity for the jurisdiction to receive taxes on the full assessed value after the incentive ends.
+Cities, towns, and counties interested in providing tax incentives to stimulate new development can review recent data on housing production in their jurisdiction and talk with developers and lenders to determine how much of a subsidy is required to have the desired impact. (Poorly calibrated tax incentives may simply increase the value of the land without stimulating new development.) The tax office can help to model the likely impact of different approaches and potential for recovering forgone revenue over the long term. Findings can then guide the development of a tax abatement or exemption policy.
+Localities with
+soft or softening housing markets
+may not find tax incentives alone to be an effective stimulus for housing development or affordable housing preservation. If area market rents are substantially lower than area construction costs, it is unlikely that a tax incentive alone will be able to fill the financing gap necessary to stimulate construction or building improvements.  Smaller localities with limited housing supply will also need to consider market conditions in other nearby or regional jurisdictions in order to determine if a tax incentive will be an effective tool in their community.
+Eligibility
+Cities, towns, and counties should establish clear guidance for the terms under which properties are eligible for tax abatements or exemptions. Eligibility may be limited to certain housing types or sizes to respond to current needs or projected household growth. For example, jurisdictions with a shortage of larger rental units for families may provide abatements for properties that include units with 3 or more bedrooms. Some jurisdictions also restrict eligibility for tax incentives to homeownership units or rental units, depending on gaps in their supply.
+Eligibility for tax incentives can also be geographically limited, in order to stimulate production in specific parts of town. The local comprehensive land use plan provides a vision for the jurisdiction’s future growth, and can be a helpful guide for determining which areas to target. Alternatively, if the goal is simply to expand the overall supply of housing in the city, there may be no geographic limitations on the availability of a tax abatement or exemption.
+Some cities, towns and counties further restrict eligibility to developments that provide a minimum share of units that are
+reserved for low- or moderate-income households
+. For example, Portland, OR provides a ten-year tax exemption for rental developments in which at least 20 percent of units are affordable to households earning 60 percent of the area median family income.
+Other considerations
+Community benefits
+Some jurisdictions require new developments seeking a tax abatement or exemption to also provide additional community benefits (beyond production of new housing units). In Washington, DC, for example, developers seeking a tax abatement must indicate the number and type of temporary and permanent jobs that will be created as a result of the development (including wages and benefits), and any commitment to hire District residents. Other benefits might include providing a certain number of affordable housing units within the development, or providing a community room or function space that will be available for use by the public.
+Examples
+To stimulate community revitalization, the City of
+Cincinnati, OH
+has a
+Residential Tax Abatement Program
+for improvements on a property, including new construction and renovation, that increases the
+property’s
+value. The abatement allows owners to pay taxes on the pre-improvement value of their property for 10-15 years. The tax abatement benefits will stay with the property throughout the abatement period and can transfer to any new property owner within the approved time period. P
+roperties that meet LEED or Living Building Challenge (LBC) standards may receive l
+onger abatement terms and/or higher maximum abatements.
+The city of
+Syracuse, NY
+provides a
+10-year exemption
+from City and School taxes. During the first seven years, the property owner receives a 100 percent exemption on the increased assessment following the new construction; the exemption amount is phased out over the remaining three years. This exemption period can be extended if the home is LEED-certified by an accredited professional.
+Related resources
+Making Sense of the District’s Tax Abatement Dollars: Nine Questions to Consider
+, DC Fiscal Policy Institute (2015) – This memo reviews nine questions for local officials to consider when determining whether to adopt a tax abatement proposal. While prepared for the DC Council, the questions are applicable to all local jurisdictions.
+A Programmatic Examination of Municipal Tax Abatements
+, State of New Jersey Office of the State Comptroller (2010) – This report takes a critical look at the ways that local jurisdictions in New Jersey use tax abatements to promote redevelopment and rehabilitation, and provides a series of best practices for municipalities to consider.
+Transforming A City One Home at a Time: Cincinnati’s Successful Residential Tax Abatement Program
+, U.S. Green Building Council (2018) – This case study profiles the City of Cincinnati’s residential property tax exemption, which was adopted to increase local economic activity by targeting commercial and large multifamily projects. Several years after adoption, the exemption was expanded to include detached homes.
+Economic Impact Analysis of Proposed 10 Year Tax Abatement Adjustments
+, City of Philadelphia (2018) – This report, prepared by Jones Lang LaSalle for the City of Philadelphia, models the likely impact of the current tax abatement program and potential modifications on development volume, jobs, and tax revenue.

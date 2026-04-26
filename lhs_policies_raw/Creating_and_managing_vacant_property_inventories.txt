@@ -1,0 +1,118 @@
+Title: Creating and managing vacant property inventories
+Source: https://www.localhousingsolutions.org/housing-policy-library/creating-and-managing-vacant-property-inventories/
+
+Approach
+Vacancies can occur under a range of economic conditions, including insufficient overall demand for the existing housing stock, foreclosure which leads to long-term lender ownership, overpriced rents along a robust commercial corridor, or land held off of the market for speculative purposes.  This brief focuses on vacant property inventories established in localities with weaker housing markets that have experienced sustained population loss and/or economic decline. While not specifically addressed here, vacant property inventories can also be used to help track and manage vacancies in tighter housing markets in response to crises that contribute to increased vacancy, such as economic recessions, global pandemics, or natural disasters.
+Vacant property inventories provide a list of vacant properties and associated characteristics, such as the date they became vacant, whether it is a commercial or residential property, and the name and contact information for the owner. Some also include the state of disrepair of the properties based on field observations or neighbor reports. In addition to providing a tool for tracking the resolution of issues that emerge at individual properties (such as maintenance problems), vacant property inventories can be used to analyze the extent to which vacant properties are concentrated in particular neighborhoods and inform decisions about how to address the problem.
+There is no single consensus definition of a vacant property. While the definition of a vacant property may vary by locality, it is typically based on at least one or more of the following factors:
+1
+a building or structure that is not occupied by its legal owner or tenants for a certain period of time (often at least 90 days);
+2
+a building or residential structure in a condition that cannot be legally reoccupied without repair or rehabilitation; or,
+an abandoned property or lot.
+3
+Some definitions of vacant property also include sites that pose a threat to public safety such as structurally unsound buildings or unused lots with trash or debris. In the remainder of this brief, we recommend steps for localities to consider throughout efforts to inventory and manage vacant properties, whether starting from scratch or updating an existing system.
+Determine the
+purpose and type of inventory
+Before developing a new vacant property inventory, or modifying an existing one, it is important to consider what type of inventory you need and how you anticipate using it. This can be helpful for determining the data needed for the inventory, government departments that will be involved in reporting data, and how properties included in the inventory will be maintained. (Note that localities can perform exterior maintenance on properties without owning them.) It is also important to identify the most important policy objectives your jurisdiction seeks to achieve through the inventory, such as stabilizing property values or ensuring public safety. Where appropriate, it can be helpful to involve key stakeholders in these determinations, which could include representatives from departments that address vacancy issues, such as code enforcement, planning, and public works. Consider questions such as:
+Will the inventory be limited to residential properties only, or will it include commercial or other property types?
+Will the inventory include properties from the entire jurisdiction or only certain areas?
+Will the inventory represent a one-time snapshot of vacancies or be continuously updated?
+Which departments will lead and support development of the inventory?
+Which departments will lead and support management of identified vacant properties, including tasks such as periodic inspections, posting or sending notices to owners, and property upkeep?
+What is the range of potential future uses for identified properties? Options include, for example, rehabilitation for dedicated affordable housing, demolition to reduce property blight, creation of new public open space, or packaging together with other properties (which may or may not be vacant) for a redevelopment project.
+With a general framework for the inventory in place, a decision will need to be made on how to fund the inventory and maintain the vacant properties. Smaller localities should consider their capacity to manage this type of new initiative and consider seeking support from neighboring municipalities, the county, or the state. Localities will also need to determine in greater detail how the inventory will be compiled and used. The following sections describe these steps.
+Funding the creation and management of vacant property inventories
+Typical costs for vacancy inventories include staff time to collect and analyze vacant property data as well as administrative and judicial costs of identifying parties responsible for ownership, enforcing ordinances, and placing and collecting liens. Typical costs for maintaining vacant properties include lawn care, debris removal, and security through the installation of fencing, lighting, or locks.  While some localities focus only on maintaining properties on which they have taken possession (for example, through a property tax foreclosure), others will do basic maintenance on private abandoned properties if the owners refuse to do so.
+A local funding source will usually be needed to fund the creation and continuous administration of a vacant property inventory list, as federal funding sources related to vacant or near-vacant property is primarily directed towards foreclosure prevention or demolition. One possible exception is that up to five percent of allocated CDBG funds may be used for planning activities that meet a national objective, which could include addressing vacant structures in low-income areas.
+While a vacant property inventory can be established without a registration ordinance (see below), the adoption of a vacant property registration ordinance and the use of liens can generate the data and revenue necessary to create the inventory and maintain the properties on the list.
+Vacant property registration ordinance
+A vacant property registration ordinance (VPRO) is a common policy tool used by localities to identify properties with lengthy tenant vacancies and establish requirements for the maintenance of those properties. VPROs require owners to register their vacant properties with the city every year, often paying a fee for each property that is registered. Registration forms generally collect information such as:
+information on the vacant property (e.g. address, tax block, date of vacancy, pending foreclosure, whether it is secured/boarded-up);
+contacts of relevant parties (e.g. owner, financial institution, and authorized agent if applicable);
+whether the property has liability insurance; and,
+whether the owner intends to restore the property to occupancy.
+VPROs also generally establish minimum quality standards for owners (whether individuals or lenders with real estate owned properties) in maintaining their vacant properties. Many VPROs increase fees for each year a property remains vacant. VPROs must include a clear definition of what constitutes a vacant property and clear instructions as to which parties are responsible for registering the property. Most ordinances require property owners to register properties after a certain period of vacancy or at a certain time each year. To ensure the widest coverage, VPROs should also require registration when a notice of default or intent to foreclose is either a) filed as a part of a state-required judicial process, or b) advertised by the mortgagee as a part of a non-judicial foreclosure.
+VPROs do not solve the problem of identifying abandoned properties, as many former owners will not likely bother to register properties they have abandoned. The only sure way to identify unregistered vacant or abandoned properties is through direct field observations based on an early warning system described below. However, VPROs can still be used as a way to levy fees on unregistered vacant properties, which can be converted into liens.
+Issuing liens to cover the costs of vacant property management
+Localities can also help recover the costs of vacant property management by issuing liens against the property, assuming the property still has some value on the market. A lien is a legal claim by the property creditor against a property owner for an unpaid amount that is owed. When an owner of a vacant property cannot be contacted or is unable or unwilling to maintain their vacant property or pay the fee associated with a vacant property registration ordinance, a municipality is authorized to place liens on the property to recover the costs of activities like collecting garbage, mowing the lawn, and securing the property. Depending on state-enabling legislation, localities may enact ordinances to prioritize liens that involve expenses from the maintenance of the vacant property to be paid off in a foreclosure before any other liens. Otherwise, the foreclosure sale may leave little proceeds beyond paying off the mortgage debt. In distressed markets, additional liens can further complicate a depressed market. Localities should fine tune property management goals around market conditions.
+Identify data sources and data collection methods for the inventory
+The inventory needs to have the right data to achieve the locality’s policy objectives, such as stabilizing neighborhoods with a lot of substandard housing or identifying properties for future demolition for a green infrastructure project. To accomplish this, an effective vacant property inventory will likely draw on multiple data sources. A primary source of data will be the registry of properties through the VPRO, if enacted, but other data can supplement the registry.  This section discusses options to build and manage a robust inventory.
+Administrative and utility data
+Localities can rely on existing administrative and utility data to identify properties that may become or already be vacant, and thus should be investigated further to determine vacancy. Some jurisdictions refer to this database as an early warning system. These include, for example, data on:
+utility shut-offs (from public utilities);
+property tax delinquency or foreclosure status (from revenue or finance departments);
+mortgage foreclosures (Circuit Court list of
+lis pendens
+notices filed by the lender); and,
+nuisance abatement reports (from code enforcement, police, and fire departments).
+Some municipalities also allow residents to report potentially vacant properties online or via a 311 system. Localities could also examine
+US Postal Service data
+on the number of properties in a census tract that have not collected mail in the past 90 days. While the USPS data cannot be used to pinpoint specific vacant properties, they may reveal localized vacancy trends.
+Field observations
+Field observations are another approach to collect data on vacant properties and build out an inventory. While resource intensive, field observations can identify vacant properties not registered or flagged in an early warning database or help confirm whether properties in the early warning database are actually vacant. Field observations could be conducted on a regular and formal basis to examine properties newly registered through a VPRO or informally, such as by having code enforcement officials, police officers, or other staff that regularly work in the field make note of potentially vacant properties they come across in the course of conducting their standard duties.
+Entering observational data into an ArcGIS, Google Earth, or other geo-tagging software using smartphones or tablets allows for easier data entry analysis.
+Mobile, Alabama used Instagram
+for staff to photograph and geocode deteriorating properties. This low-cost approach could inform an early warning database and be accomplished by paid or volunteer community members with a small amount of training. A collaboration between the City of Trenton, NJ, Rutgers University, and a community-based NGO planned and executed a comprehensive in-person inventory of vacant buildings and land using GIS mapping. For more information on this partnership and inventorying process, see the case of Trenton in the examples section below.
+Data coordination
+Some localities assign a data coordinator or task force to use a vacant property inventory to:
+identify trends in the data (e.g. growing numbers or concentrations of properties);
+flag changes to be made to inventorying procedures; and,
+prioritize properties for maintenance work.
+A data coordinator can establish and manage data sharing protocols between a department with overall responsibility for the inventory and the various key departments (code, housing, fire, public utility, courts) and financial institutions that contribute data to the inventory. Formal data sharing agreements may be necessary if data is being shared with an entity outside of the jurisdictions’ control, such as a bank, private utility company, or neighboring jurisdiction.
+In addition to or in place of a vacancy data coordinator, jurisdictions can set up task forces of staff from departments that address vacant properties. For example, the City of Providence established the Nuisance Task Force in order to identify and address nuisance properties. The task force included representatives from the City Solicitor’s Office, the Police Department, the Fire Department, the Department of Inspection and Standards, and the Rhode Island Office of the Attorney General.
+Maintaining Properties on the Inventory
+Once vacant properties are inventoried, localities will need to ensure they are maintained well enough to keep them from becoming safety risks and contributing to neighborhood decline. Ideally, the current legal owner of the vacant property would conduct the maintenance. However, when the owner is unable or unwilling to conduct the necessary maintenance, localities can do the maintenance and then seek compensation from the owner.  As mentioned above, vacant property registration ordinances can provide the legal mechanism to issue liens against properties in order to obtain repayment for maintenance associated with properties owned by lenders who fail to maintain their real-estate owned properties (acquired through mortgage foreclosures), and individual owners who fail to maintain their properties with lengthy tenant vacancies. In practice, localities may need to conduct a tax foreclosure to obtain repayment for the maintenance of unregistered vacant properties that are abandoned or whose ownership is in question, and the property will not always have sufficient value to cover the back taxes and accrued maintenance charges.  Localities will also need to maintain any properties they have taken into possession through the tax foreclosure process until its disposition.
+Regardless of the owner, there are two primary methods for maintaining vacant buildings. One way is to
+make the building appear occupied
+by mowing the lawn, keeping lights on, and removing trash and debris. Another way is to
+protect the building from being vandalized
+by putting up fences, boarding up windows, changing door locks, installing security cameras, and keeping streetlights on near the property. If a vacant building might eventually be rehabilitated, it can be a worthwhile investment to winterize the plumbing and maintain electrical connections to avoid costly repairs in the future. Maintaining vacant lots devoid of structures could involve cutting the grass, removing trash and debris, and erecting a fence around the property.
+Since vacant property maintenance can be expensive, it is important for localities to prioritize management of properties whose deterioration would likely lead to negative spillover effects for neighboring properties. Using data from the vacant property inventory, jurisdictions could prioritize the upkeep of vacant properties near high visibility corridors or schools, with high fire risks, or in underinvested neighborhoods with already low or declining property values.
+Localities may want to consider facilitating the transfer of ownership of vacant property to a land bank, which can manage and dispose of vacant properties to help achieve community development goals. Refer to the brief on
+land banks
+for more information on how a locality can work with a land bank to assist with vacant property management and disposition.
+Examples
+A collaboration between the City of
+Trenton, NJ
+, Rutgers University, and a community-based NGO planned and executed a comprehensive inventory of vacant buildings and land in the city that would not have been possible with administrative data alone. Rutgers students and community members visually inspected almost every property in the city and entered attributes associated with the vacant properties (e.g. presence of trash, weeds, unsecured property) into a smartphone GIS survey tool. Based on the inventory data, the City of Trenton was able to develop a vacant property strategy, which included five pillars:
+A vacant property registration
+ordinance
+.
+A housing condition and market study.
+A program for first-time homebuyers to purchase city-owned properties at low cost.
+A program to maintain or demolish properties adjacent to potential developments.
+A program to auction foreclosed properties. In addition, the NGO developed an
+online interactive map
+to visualize the data and allow for corrections from residents regarding the status of their property. The data and metadata from the vacant property survey are also available to
+download
+, which municipalities can use as a model for their own survey.
+The City of
+Syracuse, NY
+worked with IBM
+to identify root causes of vacancy and used
+predictive analytics
+to estimate the direct and indirect costs of a given property becoming vacant. The theoretical framework for the predictive model was informed by interviews with stakeholders such as city planners, academics, and community members. The model used data aggregated from the Code Enforcement Department, Police Department, and housing organizations, which was standardized for analysis. The predictive model allows city officials to make proactive decisions about which vacant properties to address first to help stabilize neighborhoods before vacancy rates surge.
+Illinois
+Municipal Code 5/11-31-2
+prioritizes the payoff of liens involving expenses from the maintenance of vacant property in a foreclosure before any other liens.
+Related Resources
+Guides that may be helpful to local governments to address vacant properties:
+An edited volume titled
+Tackling Vacancy and Abandonment: Strategies and Impacts after the Great Recession
+from the Center for Community Progress and the Federal Reserve Banks of Atlanta and Cleveland developed for practitioners, advocates, political leaders, and researchers looking to better understand the dynamics of vacancy and abandonment. This volume contains 12 articles by national experts in the field of neighborhood revitalization.
+Vacant Properties Toolbox
+Volume 1
+and
+Volume 2
+, Detroit Vacant Property Campaign – While tailored towards the Detroit Metro Area, these guidebooks provide strategies for community organizing, marketing, and managing vacant lots.
+Developing a Vacant Property Inventory through Productive Partnerships: A University, NGO, and Municipal Planning Collaboration in Trenton, New Jersey
+, Luke Drake, Beth Ravit, & Laura Lawson (2016) – This paper analyzes the development of an inventory of vacant buildings and land in Trenton, New Jersey that resulted from a research partnership between the Rutgers University Center for Urban Environmental Sustainability; Isles, Inc. a Trenton-based non-governmental organization; and the City of Trenton.
+Business and Professional People for the Public Interest, Chicago Metropolitan Agency for Planning, and the Chicago Metropolitan Mayors Caucus published a
+list of strategies
+related to Vacant Building Ordinances.
+1. It is important to check your local/state law to determine what specifically qualifies as a vacant or abandoned property in your jurisdiction.
+2. While vacation or second homes could fit this definition, most jurisdictions do not track these types of properties.
+3. For the purposes of the Neighborhood Stabilization Program,
+HUD
+defined homes as abandoned “if either a) mortgage, tribal leasehold, or tax payments are at least 90 days delinquent, or b) a code enforcement inspection has determined that the property is not habitable and the owner has taken no corrective actions within 90 days of notification of the deficiencies, or c) the property is subject to a court-ordered receivership or nuisance abatement related to abandonment pursuant to state or local law or otherwise meets a state definition of an abandoned home or residential property.”

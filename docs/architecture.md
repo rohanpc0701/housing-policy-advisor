@@ -6,7 +6,7 @@
 
 - Structured locality data from Census ACS, HUD USER, and BLS LAUS
 - Retrieved evidence chunks from a persisted Chroma vector store
-- Groq chat completions constrained to a strict JSON schema
+- Together chat completions (OpenAI-compatible) constrained to a strict JSON schema, with Groq fallback
 - Post-generation validation and JSON export
 
 ## Runtime Paths
@@ -27,7 +27,7 @@ Primary flow:
 3. Fetch and merge external data in `housing_policy_advisor/data/locality_profile.py`
 4. Retrieve evidence chunks from Chroma in `housing_policy_advisor/rag/retriever.py`
 5. Build the LLM prompt in `housing_policy_advisor/llm/prompts.py`
-6. Call Groq in `housing_policy_advisor/llm/groq_client.py`
+6. Call LLM provider router in `housing_policy_advisor/llm/groq_client.py` (Together default, Groq fallback)
 7. Parse JSON into typed models in `housing_policy_advisor/llm/policy_response_parser.py`
 8. Compute validation summary in `housing_policy_advisor/llm/output_validator.py`
 9. Write the final JSON payload in `housing_policy_advisor/pipeline.py`
@@ -107,11 +107,11 @@ This means retrieval is schema-light and depends heavily on corpus quality and e
 Located under `housing_policy_advisor/llm/`.
 
 - `prompts.py` assembles locality JSON and evidence chunks into a single instruction block
-- `groq_client.py` sends OpenAI-compatible chat requests to Groq
+- `groq_client.py` sends OpenAI-compatible chat requests to Together (default) or Groq (fallback)
 - `policy_response_parser.py` extracts and validates the JSON structure
 - `output_validator.py` computes aggregate validation metrics and mutates recommendation flags when needed
 
-This layer assumes the model can reliably return schema-conforming JSON, with a plain-text fallback if Groq rejects JSON mode.
+This layer assumes the model can reliably return schema-conforming JSON, with a plain-text fallback if a provider rejects JSON mode.
 
 ### Pipeline Layer
 
@@ -132,8 +132,8 @@ Defined in `housing_policy_advisor/config.py`.
 
 Main runtime settings:
 
-- API keys: `CENSUS_API_KEY`, `HUD_API_TOKEN`, `BLS_API_KEY`, `GROQ_API_KEY`
-- Groq endpoint/model: `GROQ_API_BASE`, `GROQ_MODEL`
+- API keys: `CENSUS_API_KEY`, `HUD_API_TOKEN`, `BLS_API_KEY`, `TOGETHER_API_KEY`, `GROQ_API_KEY`
+- LLM provider/model: `LLM_PROVIDER`, `TOGETHER_API_BASE`, `TOGETHER_MODEL`, `GROQ_API_BASE`, `GROQ_MODEL`
 - Retrieval store: `CHROMA_PERSIST_DIR`, `CHROMA_COLLECTION_NAME`
 - Embedding config: `EMBEDDING_MODEL`, `EMBEDDING_DIM`
 - Ingestion defaults: `CHUNK_SIZE`, `CHUNK_OVERLAP`
@@ -148,10 +148,10 @@ The system does not fail uniformly.
 
 - Missing HUD or BLS credentials degrade to partial locality profiles
 - Missing Chroma dependencies or missing Chroma collection degrade to no-evidence generation
-- Missing Groq credentials are fatal because recommendation generation always calls Groq
+- Missing configured provider credentials are fatal unless fallback provider credentials are available
 - Legacy `pdf` and `docx` rendering failures are swallowed and produce no alternate output artifacts
 
-This makes Groq the only hard dependency in the current recommendation path.
+This makes a working LLM provider key the hard dependency in the current recommendation path.
 
 ## Current Inconsistencies
 

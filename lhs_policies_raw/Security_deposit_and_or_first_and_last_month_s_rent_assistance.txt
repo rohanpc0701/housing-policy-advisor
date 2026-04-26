@@ -1,0 +1,76 @@
+Title: Security deposit and/or first and last month’s rent assistance
+Source: https://www.localhousingsolutions.org/housing-policy-library/security-deposit-and-or-first-and-last-months-rent-assistance/
+
+An inability to afford a security deposit and prepaid rent may also leave households that receive a housing choice voucher unable to use their voucher to rent a unit in their preferred neighborhood, or even to use the voucher at all. Some jurisdictions offer financial assistance to help cover these costs, as grants paid directly to the landlord or as low- or no-interest loans that the tenant must repay. In some cases, assistance also helps to cover utility start-up costs or other expenses associated with a new home. Recipients may also be eligible to receive additional supportive services and case management.
+Approach
+Public agencies and private organizations that provide security deposit and/or first and last month’s rent assistance commonly provide the assistance as a grant paid directly to the landlord. However, assistance can also be structured as a low- or no-interest loan to the tenant, payable to the sponsoring organization in installments or in full after a certain period of time. States and local jurisdictions usually fund security deposit and first/last month’s rent assistance programs with federal block grant programs such as
+Community Development Block Grant
+,
+HOME
+, or the Emergency Solutions Grant program (for people who are experiencing homelessness or at risk of experiencing homelessness). Housing trust fund proceeds and other locally-generated funds may also be used.
+In some cases, program sponsors do not provide direct assistance at all, but instead work closely with property owners to create affordable alternatives to up-front payments of the security deposit or first and last month’s rent. For example, program staff may negotiate with landlords on behalf of lessees to allow the security deposit to be paid in monthly installments along with the rent, while the organization provides a guarantee during the pay-back period (typically 6 to 12 months).
+Coverage
+Assistance can be structured to cover a variety of costs associated with beginning a new tenancy. Most commonly, programs help to pay for the security deposit and/or first and last month’s rent. While households may be able to afford one month’s rent, the combined total of these payments can create a barrier for prospective renters who have limited accumulated assets.
+Some localities may also allow renters to choose among alternatives to a traditional security deposit, such as installment plans, or they may allow for private-sector deposit alternatives, such as security deposit insurance (see “Private-Sector Alternatives to Security Deposits”).
+Other types of activities that may be covered, either in addition to or instead of security deposit and rent payments, include:
+Rental application fees
+Move-in fees
+The cost of a new lock and key
+Start-up costs or deposits for utilities
+Moving expenses
+The purchase of new furniture
+In some cases there may be additional limitations on how the assistance can be used – for example, recipients may be restricted from using funds for moves to locations outside of the awarding jurisdiction, or may need to use the assistance within a specified timeframe once it has been awarded.
+In addition to financial support, some agencies and organizations provide supportive services and case management to help households remain in good standing and avoid future rent crises or housing instability. These types of services may be particularly beneficial for families at risk of homelessness or program participants who formerly experienced chronic homelessness and are transitioning to their own home.
+Eligibility
+Eligibility for this type of program is typically limited to low-income or very low-income individuals and families who can show that they are also able to maintain rent payments after one-time assistance has been provided. Compliance with this requirement may mean demonstrating that the proposed rent level does not exceed a specified amount and/or share of household income (e.g., 30 to 50 percent, depending on the jurisdiction). Households who receive
+housing choice vouchers
+will often be able to comply with these limits. Other applicants may face greater difficulty, unless their challenges are related to a short-term situation (such as an unexpected medical bill) that has since been resolved.
+Programs may also have certain
+lease provisions
+, such as requiring a 12-month term or excluding prohibited lease terms associated with HOME or other federal programs. Applicants may need to provide a copy of the rental agreement or unit offer that indicates applicable terms and the amount owed up-front. Alternatively, localities may consider broader legislation that requires landlords to provide options to renters in lieu of a traditional security deposit.
+With limited program funds, some programs focus on or give priority to specific populations, including women fleeing domestic violence, individuals and families who are at imminent risk of homelessness or leaving homeless shelters or transitional housing (often with a referral from a service provider), or people with disabilities. Other programs provide security deposit and other forms of assistance in connection with housing mobility programs that help renters access
+resource-rich
+areas. Program eligibility may also be limited to households who are already residents of the jurisdiction. The amount of assistance available to each household on a one-time basis is usually capped, and programs may also limit the number of times that a household can receive assistance over a specified period (e.g., one time per year, up to $3,000 in assistance over a five-year period, etc.).
+Private-sector alternatives to security deposits
+Within an emerging industry of “insurtech” companies, there has been an emergence of private-sector alternatives to traditional security deposits, with the two most popular being “
+lease insurance
+” and surety bonds. Private-sector alternatives to security deposits may reduce upfront costs for tenants, but many of these financial products are relatively new and their impacts are not yet well understood. Localities are encouraged to evaluate the merits of each option based on its provision of coverage and the level of risk that tenants assume.
+For example, a rising number of companies are beginning to act as brokers for
+surety bonds
+, which provide a guarantee of the bonded party’s (i.e., the tenant) contractual obligation to their landlord in exchange for monthly non-refundable fees. Like a security deposit, surety bonds simply cover the landlord’s risk up to the value of the bond. While traditionally marketed as “deposit insurance,” surety bonds differ from insurance policies in a number of important ways. Unlike a traditional insurance premium, the monthly fees that renters pay don’t provide any protection from property damage or unpaid rent claims. Rather, a bond provider will reimburse the landlord, and
+then require that
+tenants pay the full cost
+of the claim
+. If tenants fail to repay claims, their credit score may decrease, and other landlords may reject new rental applications.
+Furthermore, most surety bonds are not regulated by landlord-tenant laws, and localities seeking alternatives to traditional security deposits should ensure that existing tenant protections extend to any new forms of insurance or payment. For example, in some states, surety bond providers allow landlords to file claims against tenants that
+exceed restrictions placed on typical security deposits
+. Furthermore, landlords may file claims for repairs that are prohibited under local rules that govern security deposits, such as the exclusion of typical “wear-and-tear.” Some bond providers require tenants to agree to an arbitration clause and waive their right to join any future class action suits.
+Examples
+Washington, DC
+’s
+Emergency Rental Assistance Program
+(ERAP) is sponsored by the Department of Human Services and managed by private non-profit and philanthropic organizations. ERAP provides assistance with security deposits and first month’s rent for new renters, as well as help paying rental arrears and court fees for tenants facing eviction. Eligibility is limited to residents of the District of Columbia whose income is below 125 percent of the monthly federal poverty level, and households may receive assistance one time in a twelve-month period. Security deposit and first month’s rent payments are limited to $900 apiece, payable directly to the landlord.
+New York City
+’s
+HomeFirst Down Payment Assistance Program
+provides qualified homebuyers with up to $40,000 toward the down payment or closing costs on a 1-4 family home, a condominium, or a cooperative.
+Cincinnati
+’s
+“Renter’s Choice” ordinance
+requires landlords who own 25 or more units to provide tenants with a choice of alternatives to a traditional security deposit, including “rental security insurance” (a broad category that includes both traditional insurance and surety bond providers), an installment plan, or a reduced upfront security deposit. These options allow all renters to consider a wider range of apartments that were previously unaffordable because of steep security deposits.
+Atlanta
+’s “
+Renter’s Choice” ordinance
+applies to landlords who own 10 units or more and who currently require a security deposit from tenants that exceeds 60% of the unit’s monthly rent. Under the new law, these landlords must offer either a form of “rental security insurance” or a 3-month payment plan for the amount of the original security deposit. Atlanta’s law stipulates that any private-sector alternatives to a security deposit must limit the extent of tenant liability to the amount required by the security deposit.
+Related resources
+The National Low Income Housing Coalition
+Database of City and State Funded Rental Housing Programs
+includes rental assistance programs.
+In addition to offering its own mortgage insurance programs, the
+U.S. Department of Housing and Urban Development
+provides the public with a useful database of local homebuying programs for all states and Puerto Rico.
+Local examples
+Montclair Township First Months Rental Assistance Program
+– Low- and very low-income households leasing up in deed-restricted properties in Montclair, New Jersey, can receive a grant to pay for up to the first three months’ rent to help with the costs of moving to a new rental unit.
+Rental Security Deposit Program
+, City of Virginia Beach – This memo provides a detailed description of a security deposit assistance program provided by the Virginia Beach Department of Housing and Neighborhood Preservation, including eligible households, program conditions, and requirements for properties that may be rented.

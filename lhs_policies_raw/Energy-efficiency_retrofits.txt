@@ -1,0 +1,65 @@
+Title: Energy-efficiency retrofits
+Source: https://www.localhousingsolutions.org/housing-policy-library/energy-efficiency-retrofits/
+
+These upgrades and modifications are intended to lower utility bills, reduce greenhouse gas emissions, and improve building performance. Support may come in the form of grants or rebates, low-interest rate loans, or interest rate buy-downs, where the jurisdiction provides a subsidy to reduce rates on loans originated by private lenders. Localities can also offer low cost or free energy audits. Some localities work with utility companies to offer energy audits or retrofits and also partner with these companies to provide “on bill” repayment options that facilitate repayment.
+This section describes some of the considerations for localities interested in developing an energy-efficiency retrofit program.
+Approach
+Modifications to existing buildings can improve energy-efficiency and significantly lower overall energy use. Potential savings may be particularly significant in older structures that were not built to modern
+energy-efficiency standards
+. Many incentive and financing programs have been developed by local governments and utility companies to encourage energy-efficiency retrofit projects in existing buildings. Some programs focus on homeownership, while others focus on multifamily property owners, including properties that serve low- and moderate-income households.
+Some local programs provide energy-efficiency advice or testing to help building owners plan for improvements. Most programs direct residents to approved inspectors. The inspections (often called an energy audit) typically examine a building’s heating and cooling systems, assess the building envelope for leaks, and look for other opportunities to address inefficiencies, for example, plumbing, lighting, and appliances. Localities can provide free or reduced cost energy audits to encourage homeowners to learn about energy-efficient improvements and the likely savings that will result.
+Some community programs provide cash rebates for qualified projects. These programs repay owners a portion of the cost for materials and installation. Common qualified projects include: upgrading to energy-efficient heating and cooling systems or higher-rated insulation, roof repair, or installation of solar panels and solar hot water heaters. Smaller projects, like programmable thermostats and energy-efficient lightbulbs swaps, can also qualify for rebates. The amount of the rebate is set by the program and residents may be limited to claiming a certain overall amount each year. Utility companies also have developed similar rebate programs which can sometimes be combined with government rebates.
+For higher cost projects, some municipalities offer low-cost financing options for qualified projects. Like the rebate programs, these programs typically limit the financing to particular upgrades and may be very specific about which projects qualify. Financing can be low or no-interest with loan terms that range for 5 to 20 years. For larger loan amounts the lender may put a lien on the property.
+There are also a number of private sector lending options for financing energy-efficient retrofits. Localities wishing to promote energy-efficiency may want to educate homeowners and multifamily property owners about local financing options. For example, Fannie Mae’s
+HomeStyle Energy Mortgage
+is offered by many lenders across the country and can be used to finance many kinds of projects including
+weatherization
+and renewable energy. Freddie Mac also offers a
+mortgage
+product that covers the cost of energy conservation improvements.
+PACE
+(property assessed clean energy) loans provide another potential source of financing for energy improvement projects. These loans are funded by private sector lenders, but paid back through increased local property taxes. While popular, the loans are also controversial. Generally, the loans are not underwritten based on the consumer’s ability to repay the loan, as repayment is tied to the property and not the borrower. Residential PACE programs may be used to finance energy efficiency retrofits as well as financing conversion to renewable energy sources such as solar. This debt structure can also create other complications. For example, Fannie Mae and Freddie Mac will not purchase a mortgage if the property has a PACE loan due to concerns that the PACE loan takes precedence over the first mortgage in the event of foreclosure.
+Some localities work with utility companies to implement “on-bill” financing programs to facilitate repayment of loans for energy-efficient retrofits. With on-bill financing, the company completing the retrofits receives an upfront payment from the program sponsor. Property owners then pay back that amount through monthly or annual installments on an existing utility bill. In many cases, the cost savings resulting from the improvements are equal to or greater than the added expense of the installment payment, resulting in a utility bill that is the same or lower than it would have been without the payments. Once the energy-efficient improvements have been paid for, the owner(s) and/or resident(s) benefit from lower utility bills.
+Among other issues, administrators of these programs need to determine how the loan will be repaid if a home is sold (e.g., will the remaining payments be the responsibility of the next homebuyer or due in full upon the sale). Smaller or low capacity localities should consider their administrative capacity for oversight of these types of programs, and consider potential regional or state partnerships to reduce the administrative burden of an energy efficiency retrofit program.
+Eligibility
+Energy-efficiency retrofit programs vary in their determinations of which homeowners and projects can qualify for assistance. Some programs are targeted to commercial buildings, others to single-family homeowners or to owners of multifamily developments. Some programs place restrictions on participants’ incomes, limiting eligibility to low- or moderate-income households, although many do not have any such income limits.
+Most programs specify the types of projects that qualify for assistance, although terms and details vary. For example, some programs simply list the types of activities that may be supported while others are more detailed; for example, specifying a minimum energy-efficiency rating for materials like air conditioners and insulation. Programs may also stipulate qualifications for contractors who can work on projects receiving funding. For example, some jurisdictions maintain a list of local contractors or contractors who have been approved by the city because of their certifications or experience.
+In addition to government programs, many utility companies offer rebate programs or free or low cost energy inspections. These programs are often limited to utility customers.
+Examples
+Oklahoma City’s
+Green Home Loan Program
+provides low interest rate (3% fixed) loans of up to $15,000 for energy-efficiency retrofit projects. Homeowners can install new energy-efficient windows or doors, add insulation, and improve heating and cooling systems, among other options. The loans are available to homeowners within the city limits who have annual incomes below $100,000.
+Boulder, Colorado’s
+Energy Smart
+program provides energy-efficiency advice, rebates for retrofit projects, and financing through local lenders to help businesses and homeowners finance energy-efficiency retrofits. Eligible projects include insulation, heating and cooling systems, and windows, and the program does not have income restrictions.
+The
+City and County of Honolulu’s
+Solar Loan Program
+provides financing for low-income homeowners interested in installing solar hot water heaters and photovoltaic systems. The loans can be used by owners of single-family homes and condominiums. The loans carry 0% interest, have either 10- or 20-year terms, and are secured by a lien for amounts over $10,000. The Department of Community Services manages the Solar Loan Program.
+Finally,
+Seattle’s
+HomeWise program
+offers free weatherization services to low-income homeowners and owners of rental properties. These weatherization efforts include energy audits, insulation, pipe wrapping, air sealing, furnace repair, and enhanced ventilation.
+Related resources
+The
+Clean Energy Financing Programs guide
+, developed by the EPA, provides an overview of funding mechanisms for renewable energy at the local level. The guide includes a Microsoft Excel decision tool that helps decision-makers find the best option for their community.
+The Department of Energy’s
+State and Local Solutions Center
+provides examples of local energy-efficiency programs including energy-efficiency retrofit programs. They also maintain a
+searchable list
+of local programs for energy-efficiency.
+The C40 Cities Climate Leadership Group
+published a report
+that features a methodology and toolkit for cities to quantify the benefits of building retrofits.
+PACENation
+promotes PACE loan programs across the country. Their website includes a
+map
+identifying states and localities where PACE loans are offered. This
+article
+raises concerns about PACE loans, which are discussed in more detail in a
+brief
+written by the National Consumer Law Center.
+The federal
+Weatherization Assistance Program
+provides weatherization and energy-efficiency upgrades for low-income homeowners and renters. The programs are administered by the states and different states have different standards and processes. Generally, once approved for the program, locally-based and professionally trained crews complete an energy audit and make changes to improve energy-efficiency. The crews then complete the work which averages over $4,000 per unit and yields an average annual savings of nearly $300 per unit.

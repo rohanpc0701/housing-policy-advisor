@@ -1,0 +1,64 @@
+Title: Enforcement of fair housing laws
+Source: https://www.localhousingsolutions.org/housing-policy-library/enforcement-of-fair-housing-laws/
+
+Among other things, enforcement requires having a clear process through which community members can file complaints if they believe they have been victims of housing discrimination, a mechanism to investigate complaints, and a commitment to following through and obtaining legal remedies when warranted. Robust enforcement also involves proactive measures to ensure real estate professionals and other stakeholders are acting in compliance with fair housing laws. For example, some cities, towns, and counties conduct periodic testing to compare how landlords respond to two otherwise identical applicants when one is a member of a racial or ethnic minority group, has a disability, or has other protected characteristics.
+This section describes some of the considerations for cities, towns and counties interested in developing a fair housing law enforcement program.
+Approach
+The Fair Housing Act of 1968, a key federal civil rights law, prohibits
+discrimination
+on the basis of any of seven protected characteristics: race, color, religion, sex, disability, familial status, or national origin. Housing discrimination may be blatant and easy to identify, such as when an owner refuses to rent to anyone who is African American, or more subtle, such as when an owner adopts a policy that has a disproportionate (or disparate) impact on members of a protected class but has no legitimate business justification. For example, a requirement that applicants for an apartment work full-time may have a disparate impact on persons with disabilities. Local enforcement helps identify violations of the law, punish and correct such violations, and deter future infractions.
+The federal Fair Housing Act establishes a baseline set of rules, but many states and localities have also passed fair housing laws that are similar to or even more expansive than the federal law. For example, some state and local laws prohibit discrimination on the basis of sexual orientation or gender identity. Some laws also prohibit discrimination on the basis of
+source of income
+, as refusing to rent to a Section 8 voucher holder. Even when a state or local fair housing law is not more expansive than the federal law, it can still be helpful in providing a basis for enforcement efforts by state or local officials that help to promote fair housing.
+When states or localities have a fair housing law that HUD deems to be “substantially equivalent” to federal fair housing law, the agencies charged with enforcing these laws may request certification from HUD. HUD directs complaints that it receives to these certified agencies and these groups can also be eligible for federal funding for enforcement efforts under the Federal Fair Housing Assistance Program (FHAP). In order to be certified, local or state agencies must enforce a fair housing law with substantive protections equal to or greater than the federal Fair Housing Act and follow certain minimum procedural standards. These include providing rights, procedures, remedies, and the availability of judicial review. Agencies must, for example, comply with rules establishing procedures and timelines for investigating complaints within 100 days and, when investigations exceed 100 days, provide a written statement explaining the reasons. HUD certification lasts five years.
+Another beneficial practice is for local agencies or nonprofits to engage in testing to investigate possible discrimination. For example, two different people – one from a protected class and the other not – might inquire about renting an apartment to test if potential renters face housing discrimination. Testing is often done in partnership with private non-profit fair housing organizations. Tests are often done to follow up on a specific claim. Alternatively, a wider program of proactive, systematic testing can identify where discrimination may be present even in the absence of a specific claim. If discrimination is found, it can provide evidence that forms the basis for an enforcement action or suit against a specific property owner or a large scale suit involving HUD, the Consumer Financial Protection Bureau or the Department of Justice.
+Some property owners, real estate agents and other participants in the process of buying or renting housing aren’t aware of which actions violate the Fair Housing Act. To reduce the incidence of discrimination, many local fair housing organizations
+provide education
+to real estate professionals and the general public about fair housing laws. While some fair housing organizations receive HUD funding through the Fair Housing Initiatives Program (FHIP), many do not, and even those that do often require additional funds to effectively implement their fair housing work. Local governments can help advance fair housing efforts by providing funding to these organizations.
+The Fair Housing Act also includes a requirement that HUD affirmatively further fair housing. To execute this responsibility, HUD requires local jurisdictions receiving certain HUD funds to prepare Assessments of Fair Housing (AFH) that document levels of segregation and disparities in access to key opportunity factors and document the factors that contribute to these and other fair housing issues. The AFH process can provide a useful vehicle for identifying and addressing larger systemic problems that may be contributing to segregation and/or having a disparate impact on members of a protected class.
+Eligibility
+As mentioned above, federal law prohibits housing discrimination on the basis of race, color, religion, sex, disability, familial status, or national origin. State and local laws are often more expansive, and may add sexual orientation, gender identity, or source of income to the list of protected classes. As a result, individuals who are eligible to file fair housing complaints must be members of one (or more) of these groups.
+Fair housing laws prohibit such actions as refusing to rent a home on the grounds of a protected characteristic, or refusing to make reasonable accommodations to allow persons with disabilities to use and enjoy their homes. Prohibited activities also include offering unfavorable terms or conditions in a real estate transaction such as in a mortgage. As a result, landlords, real estate agents, and mortgage lenders are most often the defendants accused of fair housing discrimination. After the subprime lending era, many banks faced fair housing suits due to their lending practices.
+HUD enforces federal fair housing laws and certifies localities to provide enforcement. State and local laws include specific enforcement mechanisms, which may or may not be identical to federal rules. Claims can result in lawsuits which can be brought in local, state or federal courts depending upon the case.
+Examples
+Alexandria, VA
+conducts fair housing testing annually using paired testers to proactively identify housing discrimination in rental, housing sales and mortgage lending. The city’s
+2021 Fair Housing Testing report
+provides information about the testing program and its results.
+In
+Seattle, WA
+local
+ordinances
+include political ideology and gender identity as protected classes, in addition to those protected by state and federal fair housing laws. An
+ordinance passed in 2017
+extended protection to recently incarcerated individuals beginning in 2019. Seattle contracted with the Northwest Fair Housing Alliance to conduct
+fair housing testing
+in 2015 which resulted in 23 charges of housing discrimination against rental property owners. The office also developed its
+own fair housing testing program
+in 2017, which released a
+report
+in 2018.
+Pittsburgh, PA
+created an online submission where those who believe they have been victims of housing discrimination can begin the process of making a claim. The simple and thorough form allows residents to easily share information the office needs to begin an investigation.
+Related resources
+Details of the
+federal fair housing complaint process
+can be found on the HUD website. Along with detailed information about the certification process for obtaining
+Substantially Equivalent Certification
+for fair housing enforcement. Information about the
+Fair Housing Assistance Program
+, which provides funding for fair housing enforcement efforts is also available on HUD’s website.
+HUD provides more detailed information about
+fair housing for LGBT communities
+. Federal law includes “sex” as a protected class, but state and local laws may offer more specific protections for LGBT communities. The website gives information on which states have such laws and on under which circumstances federal laws may apply.
+HUD created
+tools and resources
+, including a data mapping tool, to help localities analyze fair housing. The tools help cities and townships assess local housing segregation and must be used when the cities and towns complete an Assessment of Fair Housing as related to the Affirmatively Furthering Fair Housing (AFFH) rule.
+The National Fair Housing Alliance provides support to local fair housing programs and offers a
+look up tool
+to identify community fair housing organizations across the country. This non-profit also releases an
+annual report on fair housing
+.
+This
+article
+provides an overview of fair housing enforcement, along with profiles of two non-profit fair housing organizations. The examples give information about the organizations and their testing programs. The article also includes references to additional sources of information about fair housing enforcement.

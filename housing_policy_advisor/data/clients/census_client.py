@@ -84,6 +84,44 @@ def _get_row(
     return dict(zip(headers, row))
 
 
+def _fetch_land_area_sq_miles(
+    state_fips: str,
+    county_fips: str,
+    api_key: Optional[str] = None,
+) -> Optional[float]:
+    """
+    Land area in square miles from Census Geography Information.
+    ``2020/geoinfo`` provides ``AREALAND_SQMI`` for county and county-equivalent
+    areas (including Virginia independent cities) via ``for=county:XXX`` — same
+    3-digit FIPS the ACS client uses. ``2020/dec/pl`` does not expose ALAND* variables.
+    """
+    try:
+        params: Dict[str, Any] = {
+            "get": "AREALAND_SQMI",
+            "for": f"county:{county_fips}",
+            "in": f"state:{state_fips}",
+        }
+        if api_key:
+            params["key"] = api_key
+        with httpx.Client() as client:
+            r = client.get("https://api.census.gov/data/2020/geoinfo", params=params, timeout=30.0)
+            r.raise_for_status()
+            data = r.json()
+        if not isinstance(data, list) or len(data) < 2:
+            return None
+        row = dict(zip(data[0], data[1]))
+        raw = row.get("AREALAND_SQMI")
+        if raw is None or raw == "":
+            return None
+        v = _clean_float(raw)
+        if v is None or v <= 0:
+            return None
+        return v
+    except Exception as e:
+        logger.warning("Land area fetch failed: %s", e)
+        return None
+
+
 def fetch_acs_county_data(
     state_fips: str,
     county_fips: str,
@@ -141,6 +179,12 @@ def fetch_acs_county_data(
         "B25070_008E",
         "B25070_009E",
         "B25070_010E",
+        # B08202 workers per household
+        "B08202_001E",
+        "B08202_002E",
+        "B08202_003E",
+        "B08202_004E",
+        "B08202_005E",
     ]
 
     with httpx.Client() as client:
@@ -200,22 +244,21 @@ def fetch_acs_county_data(
         out["pct_mobile_home"] = (mobile or 0) / b24_tot
 
     # Year built (B25034) — 2022 ACS5: 002=2020+, 003=2010–2019, 004=2000–2009, 005=1990–1999,
-    # 006=1980–1989, 007=1970–1979, … 011=1939 or earlier
+    # 006=1980–1989, 007=1970–1979, 008=1960–1969, 009=1950–1959, 010=1940–1949, 011=1939-
     y_tot = _clean_int(row.get("B25034_001E"))
     y_2020p = _clean_int(row.get("B25034_002E"))
     y_2010_2019 = _clean_int(row.get("B25034_003E"))
     y_2000_2009 = _clean_int(row.get("B25034_004E"))
     y_1990_1999 = _clean_int(row.get("B25034_005E"))
     y_1980_1989 = _clean_int(row.get("B25034_006E"))
-    y_pre_1980 = sum(
-        x or 0
-        for x in (
-            _clean_int(row.get("B25034_007E")),
-            _clean_int(row.get("B25034_008E")),
-            _clean_int(row.get("B25034_009E")),
-            _clean_int(row.get("B25034_010E")),
-            _clean_int(row.get("B25034_011E")),
-        )
+    y_1970_1979 = _clean_int(row.get("B25034_007E"))
+    y_1960_1969 = _clean_int(row.get("B25034_008E"))
+    y_1950_1959 = _clean_int(row.get("B25034_009E"))
+    y_1940_1949 = _clean_int(row.get("B25034_010E"))
+    y_pre_1940 = _clean_int(row.get("B25034_011E"))
+    y_pre_1980 = (
+        (y_1970_1979 or 0) + (y_1960_1969 or 0) + (y_1950_1959 or 0)
+        + (y_1940_1949 or 0) + (y_pre_1940 or 0)
     )
 
     if y_tot and y_tot > 0:
@@ -224,6 +267,10 @@ def fetch_acs_county_data(
         out["pct_built_post_2000"] = post_2000 / y_tot
         out["pct_built_1980_1999"] = y80_99 / y_tot
         out["pct_built_pre_1980"] = y_pre_1980 / y_tot
+        out["pct_built_pre_1940"] = (y_pre_1940 or 0) / y_tot
+        out["pct_built_1940_1959"] = ((y_1940_1949 or 0) + (y_1950_1959 or 0)) / y_tot
+        out["pct_built_1960_1979"] = ((y_1960_1969 or 0) + (y_1970_1979 or 0)) / y_tot
+        out["pct_built_since_1980"] = (y80_99 + post_2000) / y_tot
 
     out["median_gross_rent"] = _clean_int(row.get("B25064_001E"))
 
@@ -237,6 +284,15 @@ def fetch_acs_county_data(
         burden_n = (b70_30_35 or 0) + (b70_35_40 or 0) + (b70_40_50 or 0) + (b70_50p or 0)
         out["cost_burden_rate"] = burden_n / b70_tot
 
+    # Workers per household (B08202) — 3+ workers treated as 3 for mean approximation
+    wph_tot = _clean_int(row.get("B08202_001E"))
+    wph_1 = _clean_int(row.get("B08202_003E"))
+    wph_2 = _clean_int(row.get("B08202_004E"))
+    wph_3p = _clean_int(row.get("B08202_005E"))
+    if wph_tot and wph_tot > 0:
+        total_workers = (wph_1 or 0) * 1 + (wph_2 or 0) * 2 + (wph_3p or 0) * 3
+        out["workers_per_household"] = total_workers / wph_tot
+
     # CAGR 2017→2022 (5 years) for population and households
     if row_2017:
         pop17 = _clean_int(row_2017.get("B01003_001E"))
@@ -245,5 +301,9 @@ def fetch_acs_county_data(
             out["avg_annual_population_rate_of_change"] = (pop / pop17) ** (1.0 / 5.0) - 1.0
         if hh and hh17 and hh17 > 0 and hh > 0:
             out["avg_annual_household_rate_of_change"] = (hh / hh17) ** (1.0 / 5.0) - 1.0
+
+    land_sq_miles = _fetch_land_area_sq_miles(state_fips, county_fips, api_key)
+    if land_sq_miles and land_sq_miles > 0 and pop:
+        out["population_density"] = pop / land_sq_miles
 
     return out

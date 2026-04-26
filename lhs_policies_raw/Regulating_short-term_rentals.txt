@@ -1,0 +1,118 @@
+Title: Regulating short-term rentals
+Source: https://www.localhousingsolutions.org/housing-policy-library/regulating-short-term-rentals/
+
+Critics are often concerned that the relative profitability will encourage landlords to convert long-term rentals to short-term rentals, reducing the overall long-term rental stock and contributing to rising rents for remaining units. They also worry that short-term rentals may be correlated with or may cause increases in rents. However, homeowners—and even renters in some cases—may benefit from the income provided by short-term rentals. As a result, efforts to regulate short-term rentals can be controversial. In addition, regulating these rentals in popular vacation hubs may be challenging due to the need to balance income from tourism with other resident interests.
+In this brief, we discuss the effect of short-term rentals on local housing markets and different approaches to regulating them, including policies that use the revenue raised from short-term rentals to invest in affordable housing.
+About short-term rentals
+Short-term rentals may be managed by small-scale operators, such as a homeowner who rents out a single
+accessory dwelling unit
+. However, the short-term rental market is professionalized in some areas, attracting
+larger-scale investors and professional management companies
+. STRs typically fall  into one of three categories, which can be important for localities considering if and how to regulate them:
+Hosted partial-home short-term rentals, in which a homeowner rents a portion of their home, such as a spare bedroom or accessory dwelling unit, and shares the property with the short-term renters.
+Unhosted owner-occupied short-term rentals, in which a homeowner rents their home to tenants while away from home periodically, such as during a vacation.
+Dedicated or “investor-owned” short-term rentals, in which homes are used primarily or exclusively as short-term rental properties year-round.
+Effects of short-term rentals on neighborhoods, the economy, and property values
+The impact of short-term rentals on neighborhoods and local economies is debated and contested, and varies across housing markets.
+Research shows
+that STRs incentivize residential renovation investment and business growth, but that the investment is
+primarily driven
+by commercial hosts and units that are “well suited” for short-term rentals like accessory dwelling units.
+However, residents do not always look favorably upon this increased investment and business growth—especially when driven by commercial investors. STRs are
+disruptive to the traditional lodging sector
+, as the profitability and ease of STRs give them an advantage to compete against hotels. Indeed, research confirms that while the presence of Airbnb in U.S. cities does increase jobs, it comes at the expense of employment levels and
+wages at low-end hotels
+. Along with their impact on hotels, a
+study of the New Orleans, LA, short-term rental market
+found that while short-term rentals led to around $100 million in annual revenue, they also removed long-term rental units from the market, especially in older and low-income neighborhoods.
+Additionally, by introducing new forms of commercial activity and visitors with no stake in preserving or improving neighborhood quality, critics worry that neighborhoods with STRs are increasingly susceptible to
+noise
+, disruptions, trash, and crime.
+Research on the Airbnb market in New York City
+found that a doubling of Airbnb locations was associated with a 6-11 percent increase in property values. While the study did not conclusively determine why property values may rise, the authors suggested it may be due to 1) new revenue streams and the reduced costs of owning property for Airbnb hosts lead to a greater demand for properties from investors; 2) tourist spending in areas with a concentration of Airbnb units supports improved neighborhood amenities, goods, and services; and 3)
+tourists increase demand for commercial space in a neighborhood.
+Impacts on housing affordability
+Several studies have found evidence that short-term rentals may contribute to rising rents.
+In Boston, MA, researchers found that an
+increase in short-term rentals
+contributed to higher asking rents for long-term rentals and a reduction in the number of available long-term rentals. A
+nationwide study
+confirmed this trend, finding that a one percent increase in short-term rental listings within a ZIP Code led to a .018 percent increase in rents and a decrease in the supply of long-term rentals in the same area.
+Other studies have shown that the impact of short-term rentals on housing affordability varies by neighborhood. A
+2018 study
+found that increases in long-term rental prices are likely to be most acute in culturally desirable and internationally recognized neighborhoods where conversion from long-term to short-term rentals is profitable. Rent increases may not occur in some areas where profits from long-term rental prices would still outpace the profitability of a short-term rental, making conversion a less attractive option for owners. Jurisdictions should consider this uneven distribution when designing and implementing short-term rental regulations.
+Regulatory approaches
+Localities are increasingly regulating short-term rentals. The fluid nature of short-term rental markets—which involve multiple hosts independently deciding whether and when to host a rental through dozens of online platforms—has caused some cities to turn to
+software solutions to assist in identifying illegal short-term rentals
+.
+Those interested in regulating STRs will likely want to consider a range of policy options. Among the key regulatory tools available to localities are:
+Monitoring of short-term rentals
+: Localities may require short-term rentals to register or acquire permits, which may include measures to protect the safety of tenants and mitigate potential disturbances for neighbors.
+Prohibiting certain types of short-term rentals
+: Localities might ban dedicated short-term rentals or operators of multiple dedicated short-term rentals in a specific area.
+Fees or taxes on short-term rental operators
+: For example, a tax that increases with the number of days a unit is rented may discourage converting “mom and pop” short-term rental units to year-round Airbnbs or “Airbnb hotels.” Many jurisdictions also use revenue from short-term rental regulations to help fund affordable housing and homelessness initiatives, which we explore below.
+Caps on the number of short-term rentals
+: Localities may choose to restrict the total number of permitted units in specific neighborhoods, zoning districts, or the locality as a whole.
+Limits on the frequency of rentals
+: Localities may limit the number of nights a property can be rented as a short-term rental.
+Restrictions on tenants
+: Localities may consider limiting the number of tenants staying in a short-term rental.
+Examples
+Below, we briefly describe how various localities regulate short-term rentals, including small and large cities and localities with a large tourism sector.
+In 2024,
+New York Governor
+Kathy Hochul signed
+S885C
+/
+A4130C
+, which established a short-term rental registry and required hosts and booking platforms to register their properties and report data on bookings, occupancy, and taxes. The law also mandates that STR operators, or booking platforms on their behalf, collect and remit sales and occupancy taxes, matching the tax obligations of hotels.
+New Orleans, LA
+, bans short-term rentals in the French Quarter, limits operators to one STR permit, outlaws corporate entities from being STR owners, and requires Vrbo and Airbnb to make sure their listings in New Orleans have city-issued STR permits.
+Since 2024,
+Jackson, WY
+, has limited STR operators to hosting a maximum of three separate stays per calendar year and required operators to notify neighbors within 200 feet.
+In 2024,
+Lexington, KY
+, updated its rules to allow the city to deny conditional use permits for unhosted STRs in residential neighborhoods if two percent of the homes within 1,000 feet are STRs or if there is an existing STR within 600 feet, with some exceptions.
+In
+Philadelphia, PA
+, all hosts must obtain a “Limited Lodging Operator” license and pay fees to the city if they intend to rent their unit for any number of nights. The city’s licensing regulations previously exempted hosts who rented out their units for less than 90 nights a year, but the City Council adopted more restrictive regulations in 2021 that apply to all STRs after a rise in nuisance complaints.
+In 2024,
+Portland, ME’s
+City Council adopted new regulations that changed the citywide cap on STR units from 400 units to 1.5 percent of the rental stock, or roughly 290 units. The city also limits the STR share of each multifamily building and prohibits STRs in non-owner-occupied single-family homes.
+Wilmington, NC
+, adopted regulations in 2019 that required property owners to register each short-term rental with the city. However, registration requirements were struck down in
+Schroeder v. City of Wilmington
+(2022) because of a state statute prohibiting rental registrations.
+Shroeder
+only
+applied to registration
+, and did not directly preempt restrictions on whole-house lodging, including limitations on specific zoning districts, parking requirements, prohibition on variances, or operation limits and requirements.
+In the college town of
+Tuscaloosa, AL
+, new rules regulating short-term rentals adopted in 2019 limited the number of districts in which owners can rent out their property, maintaining short-term rental permissions in districts close to the University of Alabama campus. Residents outside of the district can petition the zoning board for a special use variance to rent out their properties legally.
+Examples of localities redirecting revenue generated from short-term rentals to affordable housing
+Some localities use revenues raised by their regulation to help fund affordable housing. The following localities have adopted such policies or are exploring the idea:
+St. Louis, MI
+: In 2025, voters approved a new three percent fee on STRs, with half the proceeds going to an affordable housing fund and the rest to other housing initiatives.
+Portland, OR
+: In 2018, the City Council adopted an ordinance to collect a $4/night fee on booking agents and “transient lodging intermediaries.” Revenue from the hosting fee goes to supporting affordable housing and homelessness initiatives in the Portland area.
+Seattle, WA
+: In 2017, the City Council voted to impose taxes on operators of short-term rentals, starting in 2019. These taxes added $14 per night for entire homes and $8 for rooms. The revenue supports community development projects and affordable housing creation.
+Related resources
+The resources in this section may be helpful to localities seeking to understand existing research, available policy options, and how other localities have attempted to regulate short-term rentals.
+The design and effects of short-term rental regulation
+. This journal article developed a way to study and classify short-term rental regulation and examined the relationship between each type of regulation and different socioeconomic indicators.
+The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb
+. This paper found that
+a one percent increase in Airbnb listings led to a 0.018 percent increase in rents and a 0.026 percent increase in house prices.
+The Effects of Short-Term Rental Regulation: Insights from Chicago
+.
+This study presented a novel analysis of local regulation of Chicago’s STR market. It estimated that regulation led to a 16.4 percent decline in the total number of active listings, driven primarily by regulators’ ability to receive detailed data feeds on STR listings directly from booking platforms.
+Short-term rentals and the housing market: Quasi-experimental evidence from Airbnb in Los Angeles
+. This research study used quasi-experimental evidence from LA to estimate that ordinances reduced rents by two percent.
+Regulating Short-Term Rentals: A Guidebook for Equitable Policy
+. This resource encourages localities to clearly define short-term rentals as distinct from hotels, establish a registry and occupancy tax for the units, and cap the number of nights a unit can be rented, among other policies.
+Short-Term Rental Regulations: A Guide for Local Governments
+. This guide recommends best practices for localities to develop and implement short-term rental regulations. It includes strategies for engaging diverse stakeholders in the development process, applying a racial equity lens to the policy itself, and ensuring that localities can effectively enforce regulations.

@@ -1,0 +1,60 @@
+Title: Tax abatements or exemptions
+Source: https://www.localhousingsolutions.org/housing-policy-library/tax-abatements-or-exemptions/
+
+Property
+tax abatements
+directly reduce the amount of taxes owed for a specified period, and can be offered as an incentive to encourage the construction or rehabilitation of buildings that include a share of or all affordable units. Property tax exemptions reduce the property’s
+assessed value
+or rate of taxation, thereby resulting in a lower tax bill. Exemptions are commonly offered to encourage rental property owners to make upgrades that improve the condition of lower-cost units. The increased value resulting from the upgrades is excluded from property tax calculations for a defined period. Some cities, towns, and counties offer tax abatements or exemptions to owners who participate in project-based rental assistance and other housing subsidy programs. Some cities, towns, and counties also offer tax exemptions or other forms of
+property tax relief
+to income-qualified homeowners, senior residents, persons with disabilities, and/or veterans.
+This section describes some of the considerations to be weighed when creating a tax abatement or exemption program.
+Approach
+A tax incentive can be a powerful tool, and cities, towns, and counties should think carefully about how to design a tax abatement or exemption program that addresses local housing needs without compromising the jurisdiction’s ability to fund other priorities. As noted above, while abatements and exemptions both reduce property tax liability, they do so in different ways and can be designed to achieve different goals.
+Tax abatements
+reduce the total amount of tax owed. Some local jurisdictions offer tax abatements to encourage rehabilitation of existing affordable housing developments. In this scenario, the owner’s total tax liability may be reduced by all or a portion of the difference between the pre- and post-renovation tax bills. Tax abatements can also be used as an incentive to stimulate new development; owners simply receive a discount on their tax bill.
+Tax exemptions
+adjust the value of the property, which is then used to calculate the total amount of tax owed. For example, cities, towns, and counties wishing to stimulate rehabilitation of aging affordable housing developments—or in specific neighborhoods—can exempt the value of the improvements for a defined period of time when calculating property tax liability. To encourage mixed-income developments, local jurisdictions can provide a full or partial tax exemption on the portion of the property that will be used for affordable housing.
+For either approach, the size of the benefit and the duration for which it will be available both warrant careful consideration. The abatement or exemption may last for a single year, or it may be available for several years or even decades depending on the type of activity the city hopes to encourage. The incentive period should be long enough to provide a meaningful financial incentive to developers; however, the length of the tax reduction also directly impacts the amount of tax revenue collected by the city or county to cover other needs. The likely impact to property tax receipts in the near term and over time should be assessed.
+Cities, towns, and counties interested in providing tax incentives for affordable housing can review recent data on the housing needs in their jurisdiction to determine where needs are greatest, and work closely with the tax office to model the likely impact of different approaches. Findings can then guide the development of a tax abatement or exemption policy.
+Coverage
+Tax abatements and exemptions are flexible tools that can be designed to foster certain types of activities. Depending on local goals, cities, towns, and counties can provide incentives for new development, preservation of existing affordable housing, renovations to upgrade a building’s condition, participation in affordable housing assistance programs, or retention of homeownership. Cities, towns, and counties will need to specify which type(s) of activities or owners are covered by their tax abatement or exemption programs.
+Guidelines should also specify how the tax benefit is calculated at mixed-income developments. When some units are affordable and others are rented at market rates, tax exemptions or abatements may apply to all units in the development or only to those that meet affordability criteria.
+Eligibility
+Cities, towns, and counties should establish clear guidance for the terms under which properties are eligible for tax abatements or exemptions. These should include the income level(s) that must be served to qualify for this incentive, as well as any minimum threshold(s) for the share of units in the development that must meet affordability requirements. Guidelines should also specify any requirements related to how long the units must remain affordable.
+Some cities, towns, and counties require property owners or managers to submit documentation verifying that residents of the affordable units meet income and other eligibility requirements—either at occupancy for new construction, or for the duration of the abatement or exemption.
+In some cases, tax incentives will be offered as a cost offset for a local
+inclusionary zoning
+program and the requirements for that program will determine eligibility. When offered as a standalone incentive, however, cities, towns, and counties will need to determine the affordability thresholds most likely to address local housing needs.
+Eligibility for tax incentives can also be limited to specific parts of town—whether the goal is to stimulate creation of new affordable units in amenity-rich areas, to upgrade the quality of affordable housing in
+soft housing market
+neighborhoods, or to preserve the existing affordable housing stock in gentrifying neighborhoods. Alternatively, if the goal is simply to expand the supply of affordable housing, there may be no geographic limitations on the availability of a tax abatement or exemption.
+Other considerations
+Program monitoring
+Property tax revenue is used to address a wide range of city, town, and county needs, and reductions in tax revenue could have impacts on other important activities. Cities, towns, and counties, particularly those with soft housing markets, should consider close monitoring of the amount of foregone tax revenue to ensure there are no unintended negative effects on other programs or local activities.
+Program administration
+The complexity of administering a tax abatement or exemption program can be challenging for small and mid-sized cities with smaller finance departments and fewer resources for advanced electronic record keeping. Program design can help accommodate these challenges. Simplified eligibility criteria can cut down on documentation required for review, as well as make the program less onerous for owners and developers. A defined application window (once every 3-5 years for example) can ensure that recipients are “batched” such that benefits begin and end during the same tax year, thereby simplifying administration.
+Examples
+Washington, DC
+provides
+a property tax abatement
+equivalent to 75 percent of the difference between the property tax owed before and after development. To be eligible, at least five percent of the units in the development must be reserved for low-income households, and an additional 10 percent of units must be reserved for households earning up to 60 percent of the
+area
+median income
+. The tax abatement is good for ten years, while the affordability requirements apply for at least 20 years, with a $10,000 penalty per year for each unit that does not meet income set-aside requirements during the final 10 years. See here for more details.
+Provincetown, MA
+allows multifamily property owners to claim
+a tax exemption for any portion of the property used for affordable housing purposes
+. The exemption is calculated by multiplying the amount of tax ordinarily due by the percentage of floor area set aside for affordable housing purposes. The exemption is granted on a year-to-year basis for units serving households up to 80 percent of the area median income, and the Board of Assessor reviews tenants’ income information to confirm eligibility. Because the exemption is granted on a year-to-year basis, there is no long-term affordability requirement.
+Portland, OR’s
+Multiple-Unit Limited Tax Exemption Program, requires that at least 20 percent of rental units be affordable to households earning 60 percent of the area median family income (MFI)—or 80 percent of MFI in higher-cost areas—for the ten-year term of the exemption.
+The Class S incentive
+in
+Cook County, IL
+provides a property tax exemption for multifamily rental housing that is subject to a project-based
+Section 8
+contract. The exemption is available for a five-year period (the required duration of the contract), with an option to renew with continued participation in the Section 8 program under a Mark Up To Market Option or contract renewal. At least 20 percent of the units in the property must be Section 8 units, and these units are assessed at a lower rate than ordinarily applies to multifamily properties.
+Related resources
+Case studies
+Property Tax Exemptions Promote Affordable Rental and Homeownership Housing in Seattle
+, Regulatory Barriers Clearinghouse archives— Brief write-up describes the details of a property tax exemption in Seattle, WA, including affordability requirements, terms of the exemption, and activities targeted by the incentive.

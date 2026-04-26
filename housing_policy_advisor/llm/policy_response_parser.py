@@ -78,6 +78,9 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
     if not isinstance(flags, list):
         raise ValueError("validation_flags must be a list")
 
+    state_raw = item.get("state_of_implementation")
+    state_of_implementation = str(state_raw).strip() if state_raw not in (None, "null", "") else None
+
     return PolicyRecommendation(
         rank=int(item["rank"]),
         policy_name=str(item["policy_name"]),
@@ -87,6 +90,7 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
         implementation_timeline=str(item["implementation_timeline"]),
         resource_requirements=str(item["resource_requirements"]),
         risks=str(item["risks"]),
+        state_of_implementation=state_of_implementation,
         validation_flags=[str(x) for x in flags],
     )
 
@@ -106,6 +110,7 @@ def policy_json_schema_instructions() -> str:
       "implementation_timeline": "<string>",
       "resource_requirements": "Low" | "Medium" | "High",
       "risks": "<string>",
+      "state_of_implementation": "<state name or null>",
       "validation_flags": []
     }
   ],

@@ -1,0 +1,96 @@
+Title: Use of publicly owned property for affordable housing
+Source: https://www.localhousingsolutions.org/housing-policy-library/use-of-publicly-owned-property-for-affordable-housing/
+
+Even in strong markets with little or no undeveloped land capable of supporting residential development, the local government may own properties that include buildings that are vacant, underutilized, or no longer useful for their original purpose. These properties (or development rights on these properties) could be made available at no cost or at a reduced cost to developers that commit to specific affordability requirements. Additionally, these properties can be redeveloped in a way that combines a governmental use, such as a school or a community center, with affordable housing.
+This policy tool can be used effectively in all communities and is particularly important in those where vacant land appropriate for residential use is scarce.
+For more insights on how local and state governments can develop this land, read the NYU Furman Center and Lincoln Institute of Land Policy’s brief,
+Using Public Land for Affordable Housing
+.
+Approach
+High land costs can make it difficult to create new affordable housing for low- or moderate-income households, particularly in high-value, amenity-rich locations. Local jurisdictions can help to overcome this obstacle by identifying public property that can be repurposed for residential use and making it available to developers who commit to creating and maintaining ongoing affordability. Development opportunities may be found on surplus or underutilized publicly owned land, through the redevelopment of vacant municipal buildings, on the same lot, or even within public buildings still actively used for other purposes. The property may be offered at fair market value, at a discount, or at no cost.
+To set the stage for the use of publicly owned property to create additional affordable homes, some communities adopt a policy that requires public agencies to first make surplus or underutilized public land or buildings available to developers who commit to creating affordable or mixed-income housing. After a designated period, such as 60 or 90 days, if no buyers have purchased the property for affordable housing, it can be opened up for sale or lease for other purposes. In some cases, states have already taken this step. In California, for example, the Surplus Land Act requires public entities to give first priority to organizations that will create residential developments where at least 25 percent of the units are affordable to low-income households. Where this is the case, cities may be able to adopt stronger affordability requirements in accordance with local goals.
+Rather than adopting a policy, local jurisdictions can also build consideration for affordable housing into the disposition process for surplus land and buildings. Under this approach, local jurisdictions consider each site on a case-by-case basis when determining whether to prioritize it for affordable housing or another purpose. These decisions should be based on clear criteria for what makes a site a good candidate for affordable housing – for example, proximity to high-performing schools, jobs, public transit, and other services and amenities – as well as characteristics that might make development for this purpose especially undesirable or difficult. Housing staff may determine that contaminated sites, those with steep grades, those located within or near a wetland, and parcels situated in areas of concentrated poverty are poor candidates for affordable housing and prioritize their use for other purposes.
+Beyond identifying and prioritizing surplus properties to create affordable housing, cities should consider other opportunities for new residential development on publicly owned land. This approach may include looking at existing sites that will continue to be used for their current purpose but could be developed more intensively. Examples include low-density buildings where additional floors could be added or surface parking lots adjacent to public buildings that could be redeveloped as housing that includes structured parking for both the residents and the adjacent public building, as well as new public projects where affordable housing units could be incorporated. For example, some cities have successfully developed affordable housing on top of fire stations or public libraries. Others co-locate affordable housing and healthcare facilities, a strategy that may be particularly helpful for units targeting high-needs populations.
+Once available sites have been identified, the department of housing typically issues a request for proposals (RFP). The RFP should clearly state approximate or anticipated density and unit count; affordability expectations, including the income level(s) to be served and the required duration of the affordability period; preferences for serving special populations, such as seniors, families, and formerly homeless individuals; and any other terms under which the property or development rights are offered.
+In some cases, cities give affordable housing developers priority access at a fair market price without additional incentives or discounts. This approach helps non-profit and mission-driven developers avoid competition with for-profit developers who can bid up the price. Still, in many high-cost cities, that may not be enough to make affordable housing economically viable, particularly if the housing is targeted for very low-income families. To overcome this challenge, many cities offer surplus or underutilized property at a discounted price or with access to low-cost financing when used for affordable housing, allowing the swift development of high-quality affordable housing units with less initial financial burden.
+Where a site has been determined inappropriate for residential use, or where the city prioritizes receiving fair market value for a parcel of land or is required to do so by local or state law, there are still opportunities to support affordable housing. City policy can stipulate that a share of the proceeds from the sale of any publicly owned land that will be redeveloped for non-residential purposes be used to support affordable housing activities.
+Coverage
+Ideally, all public agencies with a real estate portfolio will participate in efforts to find opportunities for residential development by identifying surplus or vacant land and buildings, or properties still in use that could be used more intensively. In some communities, the school district is the largest public landholder; in others, the transit agency may hold a large amount of property as a staging ground while a new station or transit line is built. As community needs change or projects are completed, these agencies should be active participants in identifying land and buildings that are no longer needed or where affordable housing could be added.
+As a starting point, cities can create and maintain a surplus land inventory with key attributes of available parcels, making it easier to quickly identify sites that might be good candidates for affordable housing. Periodic audits of each city department can help uncover parcels that can be added to the inventory, which may be available to the public or reserved for internal use only. Local jurisdictions are encouraged to go beyond assessments of surplus land to look creatively at additional locations that could be repurposed for residential development, such as surface parking lots and low-density community centers in an area where densities have increased. Communities can also facilitate the identification of available sites by convening regular interagency meetings. The department of housing, community development, or another agency may lead these meetings.
+Eligibility
+Cities that create a program encouraging the use of publicly owned land for affordable housing development will need to determine if eligibility is limited to non-profit organizations or open to all developers who agree to commit to affordability requirements. Cities may also require project sponsors to demonstrate a track record of successful development and management of affordable or mixed-income housing. In addition to eligibility requirements for the developer, the policy will need to specify requirements for eligible developments – with respect to housing type, the affordability level served, and the duration of affordability required. Eligibility may also be contingent on a commitment to deliver the proposed project within a set timeframe, such as five years. See related briefs:
+Balancing increases in affordable housing in resource-rich areas with investments in low-income neighborhoods
+;
+Determining the duration of required affordability for dedicated affordable housing
+;
+Setting income eligibility levels for local housing programs
+.
+Other considerations
+Conveying property interests
+Clarifying property interests is crucial when deciding what rights to public land will be transferred to a developer. Conveying ownership interests through a sale gives the developer full control and collateral with higher value that it can leverage for investment, but ultimately transfers public ownership and oversight. Ground leases and other non-ownership arrangements, on the other hand, preserve some public control of the land, though they may limit financing options for the developer.
+Streamlined approvals
+In some communities, developers building affordable housing on land that was once publicly owned are automatically eligible for an
+expedited permitting process
+. Access to a streamlined process helps reduce development costs further and shorten the timeline within which homes can be delivered.
+Effects on revenue
+In some localities, the revenue proceeds from the sale of public property may be included in budget projections or allocated toward other projects. To effectively develop an affordable housing strategy using publicly owned land, it is important to collaborate with other agencies and stakeholders to understand the short and long-term impacts of a sales process that may reduce or eliminate sources of anticipated revenue.
+Examples
+Montgomery County, MD,
+has since the 1980s actively supported the development of mixed-income housing on county-owned land.
+Legislation passed in 2013 (Bill 37-12)
+requires the county to evaluate the feasibility of including a “significant amount” of affordable housing in proposed capital improvement projects, including an assessment of the site’s proximity to public transit and other community services. Projects covered by the legislation as targets for co-location of affordable housing include public facilities such as libraries, recreation centers, and transit stations. In 2016, for example, a new mixed-use, mixed-income development with affordable senior housing opened adjacent to a new county library.
+Ordinance 12394
+, passed by
+King County, WA,
+in 1996, requires any surplus parcels deemed appropriate for residential development to be sold or leased for affordable housing development. The county’s Facilities Management division maintains a property inventory of all county-owned sites, including the department that has jurisdiction over the land, the estimated value, and potential uses. Departments are required to provide status reports on all sites on an annual basis; properties that are designated as “surplus” are then subject to further inquiries to determine whether they should be transferred to another department or be considered for affordable housing. Factors considered when determining viability for affordable housing development include the site’s natural features, the underlying zoning designation, and existing linkages to utilities.
+Washington, DC’s
+Disposition of District Land for Affordable Housing Amendment Act
+requires developers of multifamily housing built on surplus city-owned land to reserve at least 20 to 30 percent of units for low-income households. The specific share of affordable units required is determined on a case-by-case basis, based on the development’s proximity to public transit service. Parcels within one-half mile of a Metrorail station or one-quarter mile of a streetcar line or high-traffic bus route are subject to the 30 percent requirement; outside these areas, 20 percent of units must meet eligibility requirements. The Act applies to rental housing and homeownership units. For rental units, the focus is on low-income and very low-income households, whose incomes range between 30 and 50 percent of the
+area median income
+(AMI) and equal to or less than 30 percent of AMI, respectively. Homeownership units target moderate-income households (with incomes between 50 and 80 percent of AMI) and low-income households.
+Related resources
+Implementation
+Using Public Land for Affordable Housing, NYU Furman Center and Lincoln Institute of Land Policy (November 2025) – This report provides an overview of policy options for local and state governments considering using public land to develop affordable housing.
+Public Benefit from Publicly Owned Parcels: Effective Practices in Affordable Housing Development
+,
+Enterprise Community Partners (June 2017)
+– This research offers best practices principles for the use of publicly owned land at different types of sites, including small sites, suburban areas, infill development, and large or master-planned sites.
+Public Land & Affordable Housing in the Washington DC Region: Best Practices and Recommendations
+, Urban Land Institute and National Housing Conference (February 2015) – This report uses case studies of three recent affordable housing developments in Washington, DC as a lens to identify eight key promising practices for developing publicly owned land for affordable housing. The report also describes several local programs that prioritize the use of publicly owned land for affordable housing.
+Examples
+Federal
+Clark County Community Housing Office, Nevada – Clark County has partnered with the federal Bureau of Land Management (BLM) on two projects. BLM has conveyed land to the county for both rental and homeownership units. The county plans to
+ground lease the rental units
+to a developer and use a
+community land trust model
+for the homeownership units, ensuring stability and long-term land stewardship for income-eligible households.
+State
+New Hampshire Housing Finance Authority, Conway, New Hampshire – The State Department of Transportation conveyed land to the Housing Finance Authority, which structured a
+competitive bidding process
+for sale to a private developer. The developer will build 105 affordable multifamily rental units.
+Massachusetts Division of Capital Asset Management and Maintenance, Mattapan, Massachusetts – The state conveyed parcels from the
+former Boston State Hospital campus
+for development into both homeownership and multifamily rental units.
+Local
+Atlanta Urban Development Corporation, Atlanta, Georgia – Some municipal land will be
+ground leased long-term
+for affordable multifamily rental housing. Other sites will be developed through
+partnerships with a third party
+to create single-family homeownership units without conveying any property interest.
+Escambia County Housing Finance Authority and City of Pensacola Community Redevelopment Authority, Pensacola, Florida – The city has
+donated parcels
+to Habitat for Humanity’s community land trust to develop affordable homeownership units. The county’s Housing Finance Authority also
+issued an RFP
+to sell land to a private developer for affordable rentals.
+City of Charlotte Housing & Neighborhood Services, Charlotte, North Carolina – The city
+issued an RFP
+for the development of multifamily rental housing with affordable set-asides on three parcels. The request strongly favors a long-term ground lease structure and encourages “shared” or “community” ownership models.
+Additional resources
+Downtown Land Disposition Strategy
+, HR&A Advisors (July 2017) – Prepared for the City of Raleigh, North Carolina, this report describes the results of a stakeholder engagement process focused on public land use and details consideration for the use of specific sites. While affordable housing is only one of the uses contemplated, this report provides insights into the public engagement process and characteristics to consider when determining whether a site is appropriate for residential use.
+Leveraging Public Land for Affordable Housing in Northern Virginia: A Primer
+, Northern Virginia Affordable Housing Alliance (2014) – While focused on how jurisdictions in Northern Virginia can use surplus public land to create more affordable housing, this report includes guidance on key issues that are likely to be useful to all communities. The report contains examples of developments in the region.
+Prioritizing Public Lands for Affordable Housing and Other Public Benefits
+, Family Housing Fund (September 2018) – This report provides model ordinances and best practices for delivering affordable housing on public land. The report outlines the current state and local ordinances regulating surplus land and provides a model for writing an ordinance.
+How Using Public Land Can Help Address Housing Shortages
+, Urban Institute (December 2019) – This article outlines significant steps Washington State took to address housing shortages. In 2018, the Washington state legislature enacted a bill allowing cities to bypass fair-market value regulations by enabling municipalities to sell or lease land for a low cost. In response, the Seattle City Council passed a resolution requiring city agencies to prioritize affordable housing when disposing of public land. The City of Seattle also partners with public agencies to develop affordable housing through land transfers. In 2019, the city acquired smaller-scale parcels from Seattle City Light for homeownership opportunities.

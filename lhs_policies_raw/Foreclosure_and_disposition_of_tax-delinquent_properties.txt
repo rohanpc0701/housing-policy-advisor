@@ -1,0 +1,151 @@
+Title: Foreclosure and disposition of tax-delinquent properties
+Source: https://www.localhousingsolutions.org/housing-policy-library/foreclosure-and-disposition-of-tax-delinquent-properties/
+
+This brief discusses the range of available options and encourages localities to develop a strategic approach to advance local priorities. The brief includes information on the mechanics of tax foreclosure, best practices for using the disposition of tax-delinquent properties to achieve community goals, strategies for reducing the likelihood of tax delinquency, and alternatives to tax foreclosure for vacant property.
+Approach
+Properties are referred to as tax-delinquent when property owners do not pay the full amount of state or local property taxes assessed against the property. Different legal options are available in jurisdictions for dealing with tax delinquency. Generally, local governments may take an initial step toward tax foreclosure by either placing liens on the tax-delinquent property or going through a series of legal steps to acquire its tax deed.
+1
+One of the following outcomes usually follows for properties with tax liens: a) the owner pays back taxes and keeps the property, b) a tax lien sale is held and the right to foreclose on the lien is transferred to the lien purchaser, or c) the lien is transferred to the municipality or another entity such as a land bank. In cases where localities acquire the tax deed, the tax-delinquent property itself can be sold.
+Following the United States’ Supreme Court decision in
+Tyler v. Hennepin County
+, any surplus proceeds after the sale or auction of a property during a tax foreclosure process must be returned to the former property owner. Surplus proceeds are generally defined as any amount above the dollar value of the foreclosed liens and other authorized costs (usually interest and the costs associated with the auction).
+During an auction process, the minimum or starting bid is generally the total taxes owed plus interest, as well as costs associated with the auction. For a tax deed sale, some states immediately transfer the deed to the winning bidder. In contrast, other states offer a redemption period during which the original owner can repay their tax debt plus interest to the deed purchaser to retain the property.
+A strategic approach to the disposition of tax-delinquent properties may also provide alternative pathways for a property in light of the jurisdiction’s needs. While tax foreclosures and auctions may generate much-needed tax revenue, it is important to also consider other possible goals that can be advanced through the disposition of tax-delinquent properties. For example, in neighborhoods with high vacancies and comparatively low home sale prices, tax-delinquent properties can be repurposed to advance community development goals. At the same time, in areas where the housing market is strong, tax foreclosure can provide a means for localities to increase the affordable housing stock. Another option is to prioritize keeping residents in their homes. This is especially important when tax delinquency is widespread rather than isolated, such as during a recession or in lower-income neighborhoods. In such circumstances, tax abatement or relief programs can stabilize neighborhoods and keep long-time residents in their homes.
+Mechanics of tax foreclosure
+The tax foreclosure process varies from state to state, and localities interested in adopting or modifying a tax foreclosure process should ensure they have the authority to make the changes they seek. Tax foreclosure can operate through a judicial or non-judicial process, with both options available in some jurisdictions. Under a judicial proceeding (in rem foreclosure), municipalities must file a lawsuit to place a lien or acquire the deed to a property with unpaid taxes after a specific period of time where payment is delinquent, usually two to three years. The court case could result in a settlement, such as an agreement on a payment plan for the tax arrears. Alternatively, the property owner might pay off the taxes with interest and penalties, or the property could end up being foreclosed. Once foreclosed, the municipality can take possession of the property or sell it at an auction as long as surplus proceeds are returned to the original owner.
+Non-judicial foreclosures enable localities to place liens on a property without a court filing. Once proper notice is given to the property owner, the lien can be sold at an auction, in which case the municipality immediately collects the sale price of the lien. The lien purchaser is then owed the value of the delinquent taxes, plus annual interest. If the original property owner does not pay back the lien purchaser within a certain period of time, usually two years, the lien purchaser has the right to enforce their lien and gain ownership of the property.
+A local government can take five main actions for properties with tax debt:
+2
+Do nothing
+and allow the property tax debt to increase over time
+as penalties and interest are added to the taxes owed. As the tax debt grows, the property owner has less incentive to maintain the property and pay off back taxes, the tax-delinquent property becomes increasingly risky for potential private buyers to acquire, and the local government loses tax revenue.
+Sell tax deeds or liens to the highest bidder,
+usually private investors or developers, allowing local governments to receive tax revenue immediately. A tax deed purchaser gains title to the property and may try to rehab and resell it. The purchaser receives the right to repay the lien or to foreclose on the property, absent payment, in the future. Since tax lien investors want to maximize profits, they will likely invest the bare minimum to maintain the property and allow subsequent taxes to go unpaid; in some cases, they may wait years before enforcing their liens. Once they foreclose, they may upgrade and resell the property or demolish and rebuild.
+Convey tax liens to an entity controlled by the municipality or a land bank.
+Rather than conduct a public tax lien auction, counties or cities can decide to directly transfer tax liens on a property to a municipal authority or land bank. These entities may also be transferred tax liens that remain unsold after public auctions. It may be useful for land banks to have these liens in their possession since they can then either acquire properties by foreclosing on their tax liens or receive the revenue from interest and penalties to pay off the initial loan and fund other land bank operations.
+Foreclose on the property and transfer title to a municipal authority, land bank, community land trust (CLT), or community development corporation (CDC).
+This can occur during a judicial foreclosure where the county or city gains title to the property and elects not to conduct a public sale. To achieve community development goals, the municipality can convert the property for public use or convey it to a land bank, CLT, or CDC.
+Use tax abatement and relief programs
+to
+reduce the current tax burden and the need to place further tax liens on the property in the future
+.
+Using a tax foreclosure system to achieve community goals
+The ideal tax foreclosure system efficiently and equitably collects tax revenue needed to pay for government services while promoting community stabilization and property maintenance. This is a balancing act: selling tax liens to private purchasers will enable a locality to recoup revenue in the short term, but will cede control over the fate of the properties if the lien purchaser gains title. Municipalities can leverage tax-delinquent properties to advance housing and community development goals only before the disposition of these properties. To leverage tax-delinquent properties for these purposes, localities need to consider what goals they want to achieve through the tax foreclosure process and put procedures in place to achieve them. Ideally, each tax-delinquent property would be screened before a foreclosure sale to determine the appropriate method of disposition.
+Neighborhood housing conditions and the property’s occupancy status are two primary factors that can help determine the proper strategy for tax-delinquent properties. The following table outlines the relationship between these conditions, tax foreclosure strategies, and potential outcomes for the property by the strategy:
+Property and Neighborhood Characteristics
+Tax Foreclosure Strategy
+Potential Outcomes
+Vacant property
+Sell the lien or deed to the highest bidder
+Property lien or deed doesn’t sell, and property is conveyed to the municipality.
+Convey property to land bank, CLT, or CDC
+Property is demolished and/or converted into affordable housing, community space, a community garden or public building.
+Occupied property in a lower-cost neighborhood with sufficient affordable housing
+Sell the lien or deed to the highest bidder
+Lien purchaser does not enforce lien in hopes that taxes will be paid back with interest. If not paid back, the purchaser gains title, rehabs the property, and attempts to sell it.
+Convey property to land bank, CLT, or CDC
+Land bank packages this parcel along with adjacent parcels for larger-scale development (including by a CDC), such as multifamily or retail/commercial development.
+With a CLT model, the CLT pays off the lien (unless it is forgiven), receives a deed to the property, and enters into a long-term ground lease with the original owner, who can now remain in the home with a leasehold interest.
+Tax abatement or deferral
+Owners are able to maintain ownership; the municipality prevents a potential vacancy.
+Occupied property in a higher-cost neighborhood without sufficient affordable housing
+Sell the lien or deed to the highest bidder
+In this market, it is more likely that a developer gains title to the property and repositions it to a use that prioritizes market-rate housing.
+Convey property to land bank, CLT, or CDC
+With a CLT model, the CLT pays off the lien (unless it is forgiven), receives a deed to the property, and enters into a long-term ground lease with the original owner, who can now remain in the home with a leasehold interest.
+With a land bank or CDC model, the land bank or CDC sells or develops the property (sometimes in partnership with a developer), who commits to affordable housing production.
+Tax abatement or deferral
+Owners are able to maintain homeownership; the municipality prevents displacement.
+Local roles and policy alignment
+Local responsibility for enforcing the collection of property taxes and overseeing the tax foreclosure process varies throughout the country. Sometimes collection and enforcement fall solely on either the county or the city; other times, counties and cities work together. Counties and cities must try to align their policies and priorities for dealing with tax delinquent properties so that conflicts don’t arise when making decisions on specific properties. For example, the Genesee County Land Bank works with the City of Flint to determine the best disposition strategy for each property it might acquire in Flint. The Board of Directors of the Land Bank includes members from the City of Flint to ensure representation and policy alignment. More information on this partnership and the Genesee County Land Bank is presented in the examples section below.
+Other tax foreclosure practices
+The literature on tax foreclosure points to a number of practices that result in more efficient tax foreclosure systems. Some of these approaches may require legislative changes to state and local property tax enforcement and sale policies. Practices include:
+Establishing
+expedited judicial foreclosure proceedings
+for tax delinquent properties with code violations to rapidly deal with properties that may pose greater costs to the community. Most legislation stipulates that the property be vacant in order to use an expedited tax foreclosure.
+Allowing for bulk petitions
+that process many properties in one hearing to increase efficiency in jurisdictions that follow the judicial foreclosure process.
+Allowing for the sale of tax delinquent property for less than the statutory minimum bid
+,
+which is usually the total amount of all delinquent taxes, plus penalties and interest. Since the market value of some nuisance properties may be lower than the minimum bid, eliminating this floor price could incentivize investors or developers to purchase and rehabilitate the property. Another approach to dealing with vacant and tax delinquent property, vacant property receivership, is described later in this brief.
+Enabling localities to have more discretion in managing tax delinquent properties.
+In Michigan, for example, a series of laws eliminated the automatic requirement for a public auction. Instead, they transferred foreclosed properties to the local governments, who could choose whether to sell them at a public auction, retain them for public use, or convey them to a land bank for management and disposition.
+Granting land banks “super-bid” powers
+to
+acquire tax delinquent properties before auction. This helps ensure that the community’s needs, such as affordable housing or open space, are met.
+Creating plans to establish priorities in the disposition of tax foreclosed properties.
+For example, Albany County, New York, has discretion to sell and convey all properties acquired through the in rem tax foreclosure process. The governing body approves sales and conveyances of the tax district, based on which option will result in the most benefit to the community. The
+county’s disposition plan
+lays out a preferential order for these sales and conveyances. The top three priorities are: 1) returning the property to the county for public use; 2) selling it back to previous owners who demonstrate financial hardship; and 3) selling it to the owners of adjacent properties.
+Taking steps to ensure that properties undergoing tax foreclosure are maintained
+during the process and don’t contribute to neighborhood property value decline or safety risks. This can be done using code enforcement for occupied properties, and through vacant property registration ordinances for those vacant properties. For more information, refer to our brief on
+creating and managing vacant property inventories
+.
+Ensuring the equitable treatment of residents in the tax foreclosure system.
+It is important to periodically review tax foreclosure data to see if certain categories of residents are foreclosed upon and displaced more often than others. Tax foreclosures can disproportionately impact racial and ethnic minorities, seniors, people with disabilities, and low-income homeowners. Among other steps to address disparities, localities should examine whether property tax assessments are regressive or consider providing exemptions or other adjustments for certain types of property owners, particularly for lower-value properties.
+Keeping homeowners in their homes
+Localities can use property tax abatement or deferral programs to keep homeowners with delinquent taxes in their homes. These programs are structured in a way that allows property owners who meet certain income eligibility requirements to reduce the amount of their property tax delinquency and create a deferred repayment plan for back taxes. An example of these programs, as implemented in Detroit, is discussed below.
+Property tax exemption and relief programs can also be used to reduce the likelihood of a homeowner becoming delinquent on their taxes to begin with, helping to address racial or ethnic disparities in foreclosure rates. State or local governments may provide property tax exemptions to eligible homeowners. For example, in Washington State, property taxes can be lowered for owners with limited incomes over 61 or unable to work due to disability. Alternatively,
+property tax relief programs
+cap the amount of property tax that homeowners must pay as a share of their income. In some cases, property tax relief programs are administered by the state, particularly when the credit is issued through the state income tax. Local governments should publicize and leverage these programs to avoid tax delinquency and foreclosures in applicable situations. In some states, localities can also provide property tax relief directly.
+Localities can also take proactive steps to ensure tenants are not displaced or otherwise impacted when addressing tax delinquency. Tenants typically have no control over the payment of property taxes, yet they bear the consequences when a property enters foreclosure. Policies aimed at recovering delinquent taxes should recognize tenants as key stakeholders and incorporate protections that prioritize housing stability. These may include advance notice requirements, rights of first refusal for tenants or nonprofit organizations, or opportunities for land acquisition by an entity that will maintain long-term stability. Embedding these protections in the tax enforcement process can ensure that localities recover revenue without accelerating displacement.
+Alternatives to tax foreclosure for vacant and abandoned property
+Tax foreclosure can be a slow and administratively costly process. Vacant property receivership is an alternative mechanism to return vacant properties to productive use without going through the tax foreclosure process. Vacant property receivership allows a municipality or a qualified non-profit entity to be a court-appointed receiver of the vacant property without actually taking title. Criteria for properties to be eligible for receivership vary, but could include an owner’s failure to comply with a notice to rehabilitate or demolish due to code violations. Once appointed, the receiver can borrow and spend money to rehabilitate the property. If the owner does not regain rights to the property by paying back the receiver, the court can order the property sold and the proceeds distributed back to the receiver for expenses incurred. Under the right circumstances, receivership policies can be used to accomplish some of the same objectives as tax foreclosure, such as rehabilitating properties and returning them to the tax rolls.
+Read more about vacant property receivership policy and implementation
+.
+Examples
+Genesee County, Michigan
+uses their tax foreclosure process to feed properties into their land bank to advance community goals, such as preventing the decline of neighborhood property values or increasing green spaces. The County Treasurer acquires and transfers tax foreclosed properties to the
+Genesee County Land Bank
+(the Land Bank). This includes properties unsold at auctions and those that are candidates for demolition, public use, or use in a side lot or other land bank program. From 2004 to 2015, the Genesee County Land Bank acquired over 14,000 parcels of tax foreclosed property through this process, including fifty percent of all vacant lots in the City of Flint. To manage these properties, the Genesee County Land Bank established a database of each tax foreclosed property it might acquire in Flint. The Land Bank evaluates these properties to assess their condition and potential for reuse. Based on this evaluation, they determine which disposition strategy to use for each property, such as demolition, rehabilitation, placement in the side lot program, conversion to green space, or another use. This proactive process helps the Land Bank keep its wide array of property management and construction contractors informed about potential projects in the pipeline.
+The
+Tax Title Program
+in
+Multnomah County, Oregon,
+facilitates the sale of properties that have been foreclosed due to unpaid property taxes, including properties within the City of Portland. The program prioritizes a set of “foreclosure avoidance” options, including referrals to other agencies for assistance grants. The county also administers a senior and disabled deferral program for eligible homeowners, which allows eligible property owners to borrow to pay property taxes at a defined interest rate. The owner can submit a claim form if a foreclosure tax sale occurs and there are surplus proceeds.
+The
+City of Detroit’s
+tax foreclosure crisis
+reached its peak in 2015, when nearly 25,000 properties went up for auction, including more than 6,400 owner-occupied homes. Since then, the city has increased its efforts to reduce tax foreclosures by expanding its programs, including the
+Homeowners Property Exemption (HOPE
+), formerly the Homeowners Property Tax Assistance Program; Pay As You Stay (PAYS); and the
+Detroit Tax Relief Fund
+. HOPE offers property tax exemptions of 100 percent, 75 percent, 50 percent, and 25 percent based on income and the number of household members. The PAYS program allows HOPE-eligible homeowners to create a tax payment plan that (1) eliminates all interest, penalties, and fees on taxes owed; (2) caps the tax balance at no more than 10 percent of the home’s taxable value; and (3) allows taxes to be paid back over three years with 0 percent interest. Finally, the Gilbert Family Foundation and Rocket Community Fund have financed the Detroit Tax Relief Fund in collaboration with the city, which can pay off any remaining tax balances for HOPE- and PAYS-eligible households. The city reported that it approved 30 percent more tax exemptions in 2019 than in 2018 and that tax foreclosures of occupied properties have been reduced by more than 94 percent since 2015.
+Related resources
+Implementation resources and state/local examples
+Albany County’s
+Disposition Plan for Real Property Acquired Through the “In Rem” Delinquent Tax Lien Foreclosure Process
+lays out a preferential order for sales and conveyances. Sales are approved and confirmed by a majority vote of the tax district’s governing body based on what will best benefit the community as a result of the disposition.
+Cayuga County’s
+Policy and Procedures for the Sale and Disposition of Real Property Acquired Through the Tax Foreclosure
+includes procedures for addressing requests to purchase properties from various entities, including the previous owner, other owners, and multiple parties. It also provides sample timelines for tax delinquent, lien, and foreclosure notices to owners of residential, agricultural, commercial, or vacant parcels.
+Michigan’s Office of the Wayne County Treasurer provides example regulations for tax foreclosure auctions conducted online in its
+Terms and Conditions of Sale for Tax Foreclosed Property Auction Internet Bidding
+.
+Sources used in drafting the brief
+Abolish the Tax Lien Coalition. (2023).
+Leaving the speculators in the rearview mirror: Preserving housing with municipal arrears through off-ramps from the speculation superhighway
+.
+Alexander, F. (2015).
+Land banks and land banking
+(2nd ed.)
+. Center for Community Progress.
+Alexander, F. & Powell, L. (2011).
+Neighborhood stabilization: Legal strategies for vacant and abandoned properties
+. IMLA Mid-Year Conference.
+Kirtner, E. (2016).
+Interrupting the blight cycle: Managing the future of properties in tax foreclosure sales through pre- and post-sale initiatives
+.
+Western Reserve Law Review
+, 17(4).
+Rao, J. (2012).
+The other foreclosure crisis: Property tax lien sales
+. National Consumer Law Center.
+Simmons, J. (2018).
+Going…going…gone: Tax lien auctions, hidden costs, and missed opportunities for the City of Poughkeepsie
+. SUNY New Paltz.
+Footnotes
+According to the National Tax Lien Association (NTLA), 36 states and 2,500 jurisdictions allow tax lien sales, and 31 states allow tax deed sales. Several states use a combination of the two.
+↑
+Statewide legislation, or the absence of such laws, may limit the options available to localities for each strategy. Adapted from Frank Alexander, Land Banks and Land Banking: 2nd Edition, Center for Community Progress, 2015.
+↑

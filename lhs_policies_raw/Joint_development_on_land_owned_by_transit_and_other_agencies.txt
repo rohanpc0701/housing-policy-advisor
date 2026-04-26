@@ -1,0 +1,76 @@
+Title: Joint development on land owned by transit and other agencies
+Source: https://www.localhousingsolutions.org/housing-policy-library/joint-development-on-land-owned-by-transit-and-other-agencies/
+
+Joint development
+enables public transit agencies to sell or lease land around existing or planned public transportation stations to private developers for residential and other uses, including the development of affordable housing. The inclusion of an affordable housing component in joint development located in transit-adjacent areas can help to ensure equitable access to public transportation for households at all income levels, as well as mitigate gentrification or displacement concerns that may arise when new transit systems and stations are planned and constructed.
+School districts are another potential partner. Particularly in areas where housing costs are too high for teachers to afford, school districts may make land available for new development that includes affordable housing for district personnel. Other potential partners with land that could be used to develop affordable housing include hospitals, parking authorities, and police and fire departments. Housing departments can work in conjunction with other local or state agencies to identify opportunities to develop affordable housing, encourage partnerships, and provide technical assistance in developing joint development guidelines and securing financing.
+Approach
+Many local and state agencies and departments have land that could be used to create affordable housing opportunities for low-income individuals and families.  Through joint development, these partners can make land available for affordable housing projects that help to advance these agencies’ goals. For example, transit agencies own or have development rights to a considerable amount of land, are involved in real estate development whenever a new transit station or right-of-way is developed, and rely on transit-dependent households to keep up ridership numbers.  Joint development of transit agency owned land by private partners committed to providing dedicated affordable housing can help expand the supply of affordable housing while also potentially increasing ridership by facilitating access to transit by low- and moderate-income households.
+Local housing departments can play a role by encouraging partnerships with a variety of local agencies and by offering technical assistance to agencies that do not have housing expertise.  Housing departments can also make funding or financing available to facilitate the development of housing developed through the joint development process.
+The term “joint development” is well recognized in the transit context, where the practice is relatively common and formal rules have been established.  Other agencies can also undertake joint development. For example, local school districts may also be able to identify or set aside land for the development of affordable housing, including as part of an
+employer-assisted housing
+program aimed at providing lower-cost housing to help recruit and retain local teachers.
+When making
+publicly-owned land
+available for housing development, some local agencies sell their land to private developers who agree to provide affordable housing. By offering well-located land at a discount, local jurisdictions can help to make affordable housing projects economically feasible. The agency may discount the land cost in order to incentivize the development of affordable housing. For example, projects which promise to develop 20 percent of their units as affordable may get a 20 percent discount in land value. Alternatively, local or state agencies can maintain ownership of the underlying land and provide a long-term ground lease (typically 99 years) to a developer.
+In localities with strong housing markets, joint development with the property of other public agencies may present opportunities to grow the total housing stock, including affordable housing, with minimal subsidies, as well located new market-rate housing or mixed-use development may effectively cross-subsidize affordable development. In localities with
+soft or softening housing markets
+, joint development, including the property of other public agencies, may create synergistic economic revitalization opportunities, including affordable housing. Similarly, smaller localities may find new affordable housing opportunities by working with regional transportation or school entities to create joint development opportunities on agency land.
+Joint development with transit agencies
+Because of the strong relationship between housing cost, location, and transportation, partnerships between housing agencies and public transit providers hold particular promise. Low-income families may be unable to afford the cost of private vehicle ownership and depend on reliable public transportation to access employment opportunities and essential services; in turn, transit-dependent households help to sustain ridership. However, proximity to fixed transit service in particular (e.g., commuter rail or light rail stations) often increases the market value of properties, pricing out low-income households even well in advance of a new station opening.
+The Federal Transit Administration’s (FTA)
+Joint Development policy
+describes approaches for incorporating residential and other uses on FTA-funded property located near or adjacent to a transit station.  Projects that meet FTA’s definition of Joint Development qualify as an eligible capital project under federal transportation funding rules.  FTA also provides an incentive through the New Starts component of its Capital Investment Grant program for transit agencies to locate new or expanded public transit stations (a) proximate to dedicated affordable housing and in (b) communities that have concrete plans to preserve and expand affordable housing near the planned stations.  These rules provide a financial incentive for transit agencies to partner with cities, towns, and counties to ensure there is a strong local housing strategy in place.
+Since 2007, an agreement between the Federal Transit Administration and HUD has established the parameters for joint development projects in which local and state transit agencies provide land or other assistance for affordable housing development. While joint development is not limited to housing or affordable housing, many transit agencies have written plans or policies that guide their development activity and can include in these policies a stated preference for joint development proposals that include affordable housing units. Transit agencies can also incorporate explicitly stated preferences or requirements for affordable housing into individual RFPs for the development of the station area.
+For information on other ways to preserve and create affordable housing near transit stations, see the related brief
+Expanding access to public transit
+.
+Eligibility
+Eligibility requirements will depend in part on the nature of the agreement between the agency that owns or has development rights to a property and the developer. Where development of affordable housing is part of a public
+employer-assisted housing
+program, such as with a school district, beneficiaries may be required to commit to a specified term of service (e.g., to work as a local teacher for 5 years) in order to be eligible for assistance.
+Some local jurisdictions require the inclusion of affordable units in any residential development that benefits from publicly-owned land. The FTA defines affordable housing, for Joint Development purposes, as dedicated rental units affordable to household with incomes below 60 percent of the
+area median income
+Region's median household income, calculated by the Department of Housing and Urban Development. Often abbreviated as AMI.
+or ownership units affordable to households with incomes below 100 percent of the area median. Landholders, like a transit agency or school district, may have their own written policies laying out affordable housing goals. In other cases, incorporating affordable units is determined on a project-by-project basis or designated as a priority in a competitive RFP. For example, the
+Los Angeles Metro Joint Development
+policy gives priority to developments that provide deep affordability for very low-income and extremely low-income residents. For competitive programs, preferences may have the same effect as requirements.
+Examples
+In 2022, the
+Los Angeles County
+Metropolitan Transportation Authority (Metro) Joint Development program has a strong focus on creating affordable housing units near transit stations. Metro’s housing affordability goals are described in its
+Joint Development Program Policy
+, and include setting aside 35 percent of all housing units in the joint development portfolio for households earning at or below 60 percent of the area median income. (This threshold applies to joint development projects in which Metro maintains ownership of the land, and does not apply to surplus land that Metro sells for development.) When considering joint development proposals, Metro gives priority to projects that offer even deeper affordability to serve very low- and extremely low-income households. To help make affordable projects financially feasible, the agency discounts ground leases by up to 30 percent of the fair market, depending on the share of affordable units in the project and subject to FTA approval.
+More information is available at the
+Joint Development program webpage
+.
+It’s also worth noting that, in 2022, Metro’s Board
+updated its Joint Development Policy
+to prioritize building 100 percent income-restricted housing on unused Metro-owned land. In situations where that’s not possible, the updated policies require at least 25 percent of units built on Metro-owned land be set aside for households earning less than 80 percent of the area median income.
+Also in
+Los Angeles
+, the city’s Unified School District (LAUSD)
+collaborated with a nonprofit developer to build housing for 90 families
+on a 3.5-acre underutilized site on the north side of a high school campus. Through an
+amendment to the city’s Consolidated Plan
+, the developers gave priority for units to LAUSD employees working within a three-mile radius. The apartments were available to residents making between 30 and 60 percent of the area median income ($16,541 to $49,800 at the time). In 2021, the district’s superintendent
+launched a renewed push
+to build on the success of that project, and build more affordable housing so teachers, staff and families could live in the communities they serve.
+In northern California, the
+Santa Clara
+Unified School District worked with a developer to build affordable housing for local teachers on school-district-owned land. Casa del Maestro created 70 apartment units. The district
+promotes
+the project when attracting new teachers. The project is also
+credited
+with helping the district retain teachers in the high cost area.
+Related resources
+Making Affordable Housing at Transit a Reality: Best Practices in Transit Agency Joint Development
+, FRESC and Enterprise Community Partners – This report summarizes best practices and outcomes from the joint development activities of transit agencies in 24 U.S. cities. The report describes a variety of approaches to conducting joint development to promote housing affordability.
+The FTA does not support joint development directly, but some grant programs can be used for joint development projects.
+FTA-assisted joint development
+projects must follow FTA
+rules and policies
+. While not a discrete program of the FTA, joint development provides capital assistance from a number of FTA programs for initiatives taking place concurrent with the development of an FTA-assisted project (such as a transit center or fixed guideway) or as stand-alone development at an existing facility. FTA allows projects to provide a lower return to the transit authority if affordable housing is part of the joint development project.
+Guide to Joint Development for Public Transportation Agencies – this
+presentation
+builds off of a study by the Transportation Research Board, which surveys the successful use of joint development in North American transit systems. It explores the range of projects pursued, the diversity of transit agencies that participate, and the outcomes generated.

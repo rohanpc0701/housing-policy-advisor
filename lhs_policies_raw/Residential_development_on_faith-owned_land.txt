@@ -1,0 +1,168 @@
+Title: Residential development on faith-owned land
+Source: https://www.localhousingsolutions.org/housing-policy-library/residential-development-on-faith-owned-land/
+
+State and local governments can support religious organizations and increase the supply of affordable and market-rate housing in their jurisdictions by streamlining review processes, adjusting zoning to reform height, parking, and density requirements, and creating programs that provide capital and technical assistance for FBOs. In return, these organizations could agree to comply with affordability requirements on new development.
+Approach
+Attempts to facilitate residential development on land owned by FBOs generally fall into three categories: land use changes, process streamlining, and development assistance programs. In recent years, land use changes and process streamlining efforts for FBOs have largely been enacted through state laws that mandate local compliance with reforms. In contrast, programs that provide FBOs with the technical assistance and capital required for development are typically offered at the municipal or regional level. Additionally, policymakers often set affordability requirements for new developments to be eligible for these benefits.
+Land use reforms generally aim to help FBOs overcome local zoning barriers. These reforms allow religious organizations to develop eligible projects on lots otherwise not zoned for residential use. This can happen either through state-level mandates or local zoning changes. Some reforms also incentivize development by
+increasing allowable or required density
+, including raising height limits,
+eliminating parking requirements
+, and adjusting floor area ratio (FAR) standards. Burdensome and complex approval and permitting processes also limit FBOs’ ability to engage in residential development successfully. This challenge is heightened by the fact that FBOs typically lack the expertise necessary to navigate these intricate procedures. States have attempted to respond to this challenge by mandating localities to institute by-right approval processes and eliminate or limit environmental reviews and public hearings for eligible projects. In recent years,
+California
+,
+Oregon
+,
+Washington
+, and
+Maryland
+have all passed laws that mandate local compliance with zoning and approval process reforms for eligible FBO development.
+Local governments have also taken up an important role in facilitating development on faith-owned lands by creating development assistance programs for FBOs. These programs typically convene a cohort of experts, policymakers, and practitioners and provide FBOs with knowledge-sharing opportunities, technical workshops, peer mentorship and coaching, connections to subject matter experts, and access to capital. In the past decade, municipal development assistance programs for FBOs have emerged in
+San Antonio
+, TX,
+Atlanta
+, GA, and
+Nashville
+, TN, along with some state and regional programs, including programs run by the
+Local Initiatives Support Corporation
+in the San Francisco
+Bay Area
+and
+New York State
+.
+Coverage
+Policies that encourage housing development for FBOs generally apply to any land owned by a religious organization, regardless of whether it is zoned for residential use. However, these policies often include exceptions for specific types of FBO-owned land, which may be excluded for health, environmental, or economic reasons.
+Maryland
+and
+California
+, for example, exclude parcels located in or near industrial zones and oil or gas facilities. Oregon’s exclusions are the most extensive, including exceptions in
+SB 8
+(2021) for properties within floodplains, on steep slopes, or not adequately served by water, sewer, storm water, or street infrastructure. Some state laws wholly exclude small and rural communities, which may help balance development goals with environmental concerns and local pushback.
+Some reforms extend beyond faith-based organizations to include nonprofits and publicly owned land. For example,
+Maryland’s
+increased density requirements for local jurisdictions apply to nonprofits generally, while
+California law
+applies to both FBOs and institutions of higher education. Additionally,
+Oregon
+has applied these reforms to certain publicly-owned lands. While extending reforms beyond FBOs represents an opportunity to further increase the housing supply, policymakers should consider the need to balance residential development with the supply of services such as schools, hospitals, and public transportation which are needed to support new residents.
+Affordability requirements
+Most laws or programs aimed at facilitating housing development on land owned by FBOs include some form of affordability requirement that must be met for projects to qualify for land use reforms, including
+density bonuses
+that allow higher-density developments by-right. These requirements specify the share of housing in new developments that must be affordable, the income levels that determine affordability, and the duration of time that affordability must be maintained for a project to be eligible for benefits.
+Affordability requirements differ greatly across jurisdictions. In
+Seattle
+, WA, all housing developed under the city’s land use changes developed in response to Washington State’s Substitute House Bill 1377 must remain affordable for at least 50 years for households earning no more than 60 percent of the area median income (AMI). In
+California
+, projects eligible for the streamlined approval process must set aside at least 80 percent of the total units as affordable housing for lower-income households, with a 20 percent allowance for units affordable to moderate-income households and a five percent allowance for staff.
+Land use reforms
+Land use restrictions represent a significant barrier to housing development on faith-owned land. For eligible projects that meet specified affordability requirements, states and localities might consider:
+Allowing for residential development
+. Local zoning designation can present a challenge for FBOs seeking to build new housing. State-level policy changes can solve this issue by overriding local zoning to mandate that localities allow religious organizations to develop housing on lands otherwise not zoned for residential use. Often, state mandates do not require local governments to amend their zoning code but instead merely require that localities allow FBOs to bypass existing zoning restrictions. In some instances, such as in
+Portland
+, OR, municipal governments have enacted city-level zoning changes for specific FBO-owned sites.
+Increased height and density.
+State laws can make qualifying projects eligible for density and height increases, and mandate that localities approve projects up to or at these new standards. These density and height changes generally increase development profitability as production costs per unit typically decrease with increased volume, making projects more appealing to investors and developers. Most of these reforms are tailored so that specific density or height increases depend on the original zoning of the lot. For example, in
+Maryland
+, qualifying projects in areas zoned for single-family use are now entitled to include middle housing (defined as duplexes, triplexes, quadplexes, cottage clusters, or townhouses), while areas zoned for multifamily use can now include mixed-use development and must have density that is at least 30 percent higher than the typical density of that zone. In
+Oregon
+, the density of the residential property with the greatest density in a contiguous tract of properties applies to the entire development. In
+Seattle
+, eligible developments in zones with current height limits of 85 and 95 feet can now be constructed up to 145 feet.
+Limiting parking requirements.
+Reforms might also alter parking requirements to allow for FBOs to build on areas currently used for parking. For example,
+Portland
+, OR, updated its zoning code to enable FBOs in residential zones to repurpose up to 50 percent of their parking area for an affordable housing project. State laws might also reduce parking requirements on new developments. In
+California
+, for example, local governments cannot impose any parking requirement on eligible developments within a half-mile walking distance of public transit or within one block of a car share vehicle.
+Process streamlining
+Lengthy, complex approval and review systems can be particularly burdensome for religious organizations that often lack the experience and capacity to navigate these processes. To make this easier, many states have mandated that local governments permit eligible projects by-right rather than go through traditional, discretionary approval processes. By-right review processes are ministerial and condition approval on a pre-determined set of objective standards, eliminating lengthy public hearings and on-site visits.
+California
+, for example, permits FBOs and institutions of higher education to build housing by-right on land they own, regardless of whether the land is zoned for residential use, and allows FBOs to bypass discretionary review processes under the California Environmental Quality Act (CEQA).
+Maryland
+bans local jurisdictions (with some exceptions for state mandates) from requiring more than two public hearings for qualifying projects. Maryland’s law also prohibits local jurisdictions from imposing any “unreasonable limitation[s] or requirement[s] on a qualified project,” which is generally considered anything that results in a “de facto denial of the project because it made the qualified project financially nonviable.” You can
+read more about methods to streamline the permitting process
+for new housing.
+Development assistance programs
+Development assistance programs typically convene a cohort of experts, practitioners, and policymakers to provide faith-based organizations with technical assistance, mentorship, and access to capital. While some initiatives are supported by
+national charities
+or funded at the state and regional level, these programs are generally carried out at the municipal level.
+For example, Atlanta’s
+Faith-Based Development Initiative
+facilitates visioning and planning sessions, technical workshops, peer mentoring and coaching, and connections to subject matter experts. The initiative aims to build 2,000 units on church-owned property by 2030. In San Antonio, the
+Mission-Oriented Development
+program helps FBOs find architects, designers, or consultants and assists them with financing tools, legal documents, and land use and zoning questions.
+These programs typically provide FBOs with access to capital in two main ways: by connecting religious organizations to investors or by providing funding directly to FBOs in the program. Programs that provide funding directly to FBOs generally use funds from their city budget, including city-level economic development authorities, and federal grants. In Nashville, for example, the Faith-Based
+Development Institute
+was formed using $500,000 of a $5 million grant from the White House and the U.S. Department of Housing and Urban Development (HUD). The institute’s goal is to provide the financing necessary for FBOs in the program to develop deeply affordable, permanently supportive housing. Atlanta’s
+Faith-based Development Initiative
+, on the other hand, used funding from Atlanta’s affordable housing trust fund and partnered with
+Invest Atlanta
+, the city’s economic development authority, to administer and facilitate the Faith-Based Initiative Micro Loan Program. This $500,000 forgivable loan program aims to assist FBOs with pre-development work, including site due diligence, appraisal, survey, and architectural renderings.
+Project feasibility
+While it makes sense that projects receiving public benefits should serve the public interest, such as by providing affordable housing, extreme affordability requirements can push projects beyond financial feasibility. It’s also important to consider that some of these projects will be undertaken precisely because
+the FBO is undergoing financial strain. To design thoughtful, effective reforms, policymakers should:
+Carefully tailor the balance of costs and benefits
+of the reforms to ensure that development is financially feasible but not unduly profitable.
+Include mechanisms that enable FBOs to prove that affordability requirements are not financially feasible
+in their market, allowing them to secure a variance on the affordability requirement.
+Adaptive reuse approaches that allow FBOs to repurpose vacant or underused land for both housing and religious or community-based development may further increase project feasibility. This strategy has the potential to facilitate development that is in line with the values of the FBO and improve project feasibility by generating public support for new projects.
+Ownership structures
+Typically, policymakers define FBO-owned land eligible for benefits as parcels owned by a religious corporation, either directly or indirectly, at the time of the law’s effective date. Policies should be clear about the eligibility of parcels owned by an FBO that are not currently used for religious purposes.
+If an FBO owned the land when the law or program was established, there are several acceptable ownership structures the FBO can pursue for developing their parcel. Many of these paths include selling, mortgaging, or leasing their property for multiple years. The FBO may choose to sell all rights to the property to a residential developer, use a ground lease structure to retain ownership, or transfer ownership to another nonprofit entity they control. Often, this means that the religious organization is simply providing the property that housing is built on rather than building it themselves.
+While FBOs typically maintain their status and access to benefits during the development processes, even if controlled by another organization, property classification often becomes complicated once development is complete. Many parcels that have undergone this transformation still fall under the ownership—directly or indirectly—of a larger religious corporation, even if they are not currently being used for religious purposes. Conversely, some parcels will still be used post-development, at least partially, for a religious purpose, but might not be fully owned by a religious organization.
+Geographic variation, state overreach, and community feedback
+In some instances, state-level policy that aims to facilitate housing development on faith-owned land is met with local backlash. In New York, for example, the proposed
+Faith-Based Affordable Housing Act
+was met with substantial opposition in Rockland County. Local leaders and residents expressed concerns that the law imposed a one-size-fits-all housing policy that disregarded and overrode local zoning and review processes.
+State-level policies could be customized to address geographic variation and local needs. For example, Oregon’s
+SB 8
+(2021) and
+HB 2008
+(2021) include exceptions for areas outside of an urban growth boundary, and
+California’s SB 4
+(2023) only applies to properties in “an urbanized area or urban cluster.” Exemptions like these can help balance new development with environmental concerns and local opposition.
+States might also consider implementing facilitation strategies that explicitly aim to preserve local autonomy and discretion in review processes while still attempting to increase development. In Maryland, for example, instead of instituting by-right approval for all projects,
+HB 538
+(2024) bans localities from imposing “unreasonable” limitations on qualified projects. The bill aims to preserve the flexibility of jurisdictions to apply their own requirements as long as those do not reduce housing or unit affordability.
+Examples
+Oregon’s
+SB 8
+(2021) requires that local governments approve applications for the development of affordable housing by FBOs at the greater of any local density bonus for affordable housing, or a 200 percent increase for property with an existing density of eight or fewer units per acre, a 150 percent increase for a property between nine and 16 units per acre, or a 125 percent increase for a property with 17 or more units per acre.
+HB 2008
+(2021) expands local property tax exemptions for religious organizations and public bodies developing affordable housing. It applies the density of the residential property with the greatest density in a contiguous tract of properties to the entire development for eligible projects. Both laws include exemptions for properties located outside an urban growth boundary.
+Atlanta’s
+Faith-Based Development Initiative
+acts as a pipeline for community-based organizations looking to develop affordable housing. It connects FBOs with information and subject matter experts, facilitates visioning and planning sessions, and coordinates technical workshops and peer mentoring. In 2024, with the help of
+Enterprise Community Partners
+, Invest Atlanta administered and completed the first five closings tied to the
+Faith-Based Initiative Micro Loan Program
+, which provided $500,000 in forgivable loans to eligible faith-based organizations.
+In
+Maryland
+,
+HB 538
+(2024) required local jurisdictions to allow for increased density and streamlined local processes for qualified projects. Qualified projects must consist of new construction or substantial renovation. The land for these projects must be either wholly owned by a nonprofit organization or have improvements owned by an entity controlled by a nonprofit organization. Additionally, at least 25 percent of the units in the project must be deed-restricted to remain affordable for households earning 60 percent of AMI for at least 40 years. The density change allows projects in areas zoned for single-use to include duplexes, triplexes, quadplexes, cottage clusters, and townhouses. In addition, in areas zoned for multifamily residential use, developments can be mixed-use and may exceed typical density by 30 percent. HB 538 also bans local jurisdictions from requiring more than two public hearings or imposing any “unreasonable” limitations or requirements on these projects.
+Nashville
+received a $5 million grant from the White House and U.S. Department of Housing and Urban Development (HUD), at least $500,000 of which was allocated to form the
+Faith Based Development Institute.
+This program will partner congregations with developers while empowering congregations to get approvals and support within their own governance structure. It will also use a portion of the funding to finance the development of deeply affordable, permanent supportive housing.
+In
+California
+,
+SB 4
+(2023) permits faith-based and higher education institutions to build housing by-right on land they own, regardless of whether it is zoned for residential use. It creates comprehensive guidelines for establishing eligible projects, including mandating that a project be in an urbanized area or urban cluster and be deed-restricted. Additionally, these projects cannot be within 3,200 ft of an oil or gas facility and must not be adjoined to a site where more than one-third of the square footage has light industrial use, among other limitations. Eligible projects must dedicate at least 80 percent of their total units as affordable housing to lower-income households, with a 20 percent allowance for units affordable to moderate-income households and a five percent allowance for staff. The law applies a ministerial review process to these projects, which exempts them from discretionary processes under the California Environmental Quality Act.
+Related resources
+Building Homes on Faith-Based Owned Land: State-led Approaches to Increasing Housing Supply
+. This policy brief by the NYU Furman Center, published in 2025, uses a proposed New York State bill to explore design choices for facilitating the building of homes on faith-owned land. It also reviews and compares legislation from California, Maryland, Oregon, and Washington.
+Working with Faith-Based Organizations on Affordable Housing Development
+. This guide by the Local Initiatives Support Corporation uses case studies to help develop a framework for working with FBOs on developing affordable housing.
+Mapping the Potential and Identifying the Barriers to Faith-Based Housing Development
+. Published by the Terner Center in 2020, this report maps the potential of faith-based housing development and identifies possible barriers, including land use regulations, financing challenges, and capacity constraints.
+Director’s Report, Affordable Housing on Religious Organization Property
+. This 2021 report from the Seattle Office of Housing and the Seattle Office of Planning and Community Development details Seattle’s strategy for developing affordable housing on FBO-owned land.
+Housing Expansion and Affordability Act (HB 538) Frequently Asked Questions
+. This 2025 document from the Maryland Department of Housing and Community Development answers frequently asked questions about their Housing Expansion and Affordability Act. It includes a section on its provisions for affordable housing on nonprofit-owned land as a “qualified” project under the law.
+Religious Organizations as Affordable Housing Providers: Virginia SB 233 and Recent Legislation from Other States
+. This 2024 presentation from the Virginia Housing Commission compares the details of a Virginia bill to other state-level laws on affordable housing on FBO-owned lands.
+Harnessing Faith-Owned Land for Innovative Housing Solutions: A Policy Solution White Paper
+. A 2024 guide by the Partnership for the Bay’s Future for local governments that wish to support affordable housing development on faith-owned land. It highlights the role of innovative solutions such as factory-built cottages and professional supportive services, provides a framework for coordinating and integrating stakeholder resources, and considers regulatory barriers to development.

@@ -1,0 +1,78 @@
+Title: Subsidized home mortgages
+Source: https://www.localhousingsolutions.org/housing-policy-library/subsidized-home-mortgages/
+
+These programs offer relaxed underwriting requirements and lower borrowing costs compared to what the private market might otherwise offer for borrowers with similar credit characteristics. The favorable terms increase access to homeownership for many families who might not otherwise qualify. The mortgages are often offered by state and local housing finance agencies, redevelopment agencies or other local government agencies, in conjunction with approved private lenders. Eligibility is typically limited to first-time homebuyers who meet income and home purchase price criteria and intend to use the home as a primary residence; however, some jurisdictions relax these requirements for specific populations, such as veterans, teachers, or borrowers in other targeted categories.
+This section describes some of the considerations for cities, towns, and counties interested in developing a subsidized mortgage program.
+Approach
+Many supports for low-income homeownership are in place at the state and federal levels. Accordingly, in considering whether to establish a subsidized mortgage program, cities, towns and counties are encouraged to first review existing affordable homeownership products offered locally to determine whether there are specific gaps that need to be filled. In addition to subsidized mortgages, cities, towns and counties interested in promoting homeownership should also consider the relative costs and benefits of other types of homeownership programs, including:
+downpayment assistance programs
+,
+shared appreciation loans
+, and
+community land trusts
+.
+Subsidized mortgages through housing finance agencies
+Many state and local housing finance agencies (HFAs) (and less commonly, other local agencies) provide or facilitate access to mortgage products targeted to low- and moderate-income or first-time homebuyers. In some cases, HFAs promote products sponsored by the secondary market (see next section). HFAs may also offer “soft second” mortgages to bridge the gap between the price of a home and the maximum amount the homebuyer can borrow. Payment on these loans is generally deferred until resale, and in some cases, the balance is forgiven over time. HFAs may develop other types of subsidized mortgage products and homeownership programs, and borrowers typically work with participating commercial lenders to obtain these loans. The HFA either buys the loan from the lender or provides some form of credit enhancement that helps to minimize the lender’s risk of losses if the homebuyer defaults.
+These products may combine subsidized interest rates and
+downpayment assistance
+, or borrowers who receive subsidized mortgages may be automatically eligible to receive downpayment assistance through the HFA or the local housing and community development department. When providing large amounts of downpayment assistance, many localities include an equity sharing feature, which requires the borrower to pay back the downpayment assistance together with a portion of home price appreciation through a
+shared appreciation loan
+or mortgage.
+State and local HFAs and local redevelopment authorities tap a variety of sources to fund their programs, including issuing tax-exempt
+bond
+s which offer lower cost of financing. Local governments may also fund these programs through a range of other sources, including the HOME Investment Partnership program and local program funds. As an alternative to offering their own subsidized mortgage programs, localities can work with their state HFA, and/or with local commercial lenders, to connect borrowers to existing subsidized or other affordable mortgage programs.
+Mortgage credit certificates
+Many state HFAs and some large cities also manage Mortgage Credit Certificate programs. Mortgage Credit Certificate programs provide a Federal tax credit that borrowers can use to offset a portion of mortgage interest paid over the course of the year. The tax credit amount varies by state, but typically is between 20 percent and 40 percent of the total amount the borrower paid in mortgage interest, with a maximum value of $2,000 per year. For example, if a borrower paid $5,000 in mortgage interest during the year and had a 20 percent Mortgage Credit Certificate, the borrower could receive a $1,000 federal tax credit.
+Borrowers can adjust their federal income tax withholdings in order to realize the benefits of the tax savings from a mortgage credit certificate on an ongoing basis, and lenders may account for this savings in determining how much the family can afford to borrow. The tax credit is available as long as the borrower continues to pay mortgage interest and live in the home. Borrowers are, however, limited in their ability to take advantage of the mortgage interest deduction except for those mortgage interest payments that exceed the amount of the credit.
+HFAs can convert part of their authority to issue tax-exempt bonds into Mortgage Credit Certificates, typically at a four-to-one ratio. For example, $4 million in bond authority can be converted to $1 million in Mortgage Credit Certificate authority. The amount of total bond authority available for tax-exempt bonds and other uses of private activity bonds varies by state and is determined annually by the IRS. Local jurisdictions can support the Mortgage Credit Certificate program by advocating for HFAs to convert bond authority to Mortgage Credit Certificates in order to support affordable homeownership. Bond authority is also used by states to support the financing of affordable multifamily housing, to support the financing of mortgages for first-time homebuyers, and for many non-housing purposes. States that are utilizing the maximum amount of available bond authority may have to make difficult choices among the housing uses or between these and other non-housing uses of bond authority.
+Subsidized mortgages supported by the secondary mortgage market
+In addition to HFA products, commercial lenders offer a number of other mortgage products aimed at increasing access to affordable homeownership. Some of these products are created by national secondary market actors, such as FHA-insured loans, Freddie Mac’s
+Home Possible
+mortgage and
+HomeReady
+mortgage and loan programs available through the twelve Federal Home Loan Banks. The secondary market sponsors purchase these loans, accepting a somewhat lower rate of return in order to increase access to homeownership, which is part of the missions of these taxpayer-supported organizations. By purchasing these mortgages, the secondary market sponsors can also spur lenders to make loans that might otherwise be outside what their normal credit policy would allow.
+Some non-profit and commercial lenders also have developed affordable mortgage products without secondary market support. Lenders generally hold these loans on their own books. As a result, the terms and requirements can vary based on the community needs or opportunities a particular lender wants to address.
+Eligibility
+Eligibility requirements for state and local subsidized mortgages vary. Most programs limit borrowers’ household income to no more than 80 or 100 percent of
+area median income
+, and require borrowers to be first-time homebuyers (often defined as having not owned a home in the previous three years). Some programs limit eligibility to specific target populations, such as veterans or teachers. These requirements may be combined with geographic targeting that requires homes to be located in particular areas. For example, a program for teachers may require borrowers to teach and purchase a home within specified school districts.
+To qualify for a Mortgage Credit Certificate, borrowers must meet general income and sales price eligibility criteria. Specific limits vary by locality, but states typically target the credits to low and moderate income families buying modestly priced homes. Mortgage Credit Certificates are often only available to first-time homebuyers, though states may waive that limitation for homes purchased in particular areas. Finally, borrowers must have Federal tax liability in order to claim the credit.
+Examples
+The
+Community Acquisition and Rehabilitation Loan Program (CARL)
+provides acquisition/rehab financing which is credit enhanced by the Urban Redevelopment Authority of
+Pittsburgh
+. The credit enhancement (a 15% guarantee) means that borrowers do not need to purchase mortgage insurance, which provides substantial savings. To be eligible for the program borrowers must meet underwriting requirements and agree to live in a home that they purchase and renovate within a targeted redevelopment area.
+Invest
+Atlanta
+’s
+HOME Atlanta 4.0 and HFA Preferred
+loans are partnered with a forgivable 5% grant that can be used for downpayment or closing costs. To qualify for the loans, Atlanta homebuyers must meet underwriting and income guidelines, and purchase a home which meets the program’s sales price limit. This program is managed by Atlanta’s Development Authority Invest Atlanta.
+The
+Orange County
+Housing Finance Authority
+combines downpayment assistance and low-cost mortgages to assist first-time homebuyers. To qualify, buyers must meet income and purchase price limits, complete a homebuyer education course, pass underwriting criteria, and purchase homes in designated areas in central Florida. Borrowers qualify for the loans through local lenders. The local housing finance authority purchases loans that meet their requirements to facilitate lending.
+The
+Teachers Mortgage Assistance Program
+, a program of the
+Connecticut
+Housing Finance Authority, offers below-market interest rate loans primarily to first-time homebuyer teachers who either purchase a home in a target school district or teach a target subject. Repeat homebuyers can also qualify if they purchase in targeted districts. Teachers must also meet income eligibility criteria. The purchased home cannot exceed program sales price limits and must meet other program criteria. Interest rates vary, generally approximately 1 to 2 percentage points below prevailing rates. The Connecticut Housing Finance Authority has similar programs for members of the
+military
+and
+police
+.
+Related resources
+FDIC Affordable Mortgage Lending Guide
+provides information about the programs offered by State Housing Finance agencies and also includes detailed program information about Mortgage Credit Certificates.
+The
+IRS website
+provides information explaining mortgage interest credits
+that can be claimed if issued qualified
+Mortgage Credit Certificates. The site also includes the relevant form taxpayers need to claim the credit and links to relevant definitions related to the program.
+The
+National Council of State Housing Finance Agencies
+provides information about Housing Finance Agencies throughout the country, including a map and listing of all state agencies. The site also has information about typical HFA programs, including
+a page of FAQs about Mortgage Credit Certificates
+. Similarly,
+the National Association of Local Housing Finance Agencies
+brings together local organizations which offer products similar to those offered by state HFAs, but focus on smaller localities.

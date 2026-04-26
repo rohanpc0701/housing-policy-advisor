@@ -1,0 +1,78 @@
+Title: Property tax relief for income-qualified homeowners
+Source: https://www.localhousingsolutions.org/housing-policy-library/property-tax-relief-for-income-qualified-homeowners/
+
+In changing neighborhoods with rapidly rising property values, long-time homeowners, including those who own their home outright, may face displacement or tax foreclosure due to rising property tax bills. In the case of rental units, rising taxes can also lead landlords to raise rents, again potentially displacing older adults and other households with limited means.
+A tool used in a number of jurisdictions for mitigating these effects on those with limited incomes is the property tax “circuit breaker,” which caps the amount of property tax that homeowners have to pay as a share of their income, much like the electric circuit breaker which provides protection against overloading an electrical system.
+[3]
+Some jurisdictions also provide relief to lower-income renters by treating some portion of their rent as attributable to property taxes and then providing an income tax credit to offset the imputed “overload.” In addition to basing the benefit on income, eligibility for circuit breakers can also be restricted to specific populations such as seniors, persons with disabilities, and/or veterans.
+To provide property tax exemptions localities generally require specific state authorization and in many cases the state also administers and funds these programs. State involvement can also facilitate the determination of the taxpayer’s income, particularly if the state has an income tax. In some cases, localities have some flexibility to adjust eligibility criteria and the amount of the tax relief, but this may also mean that the locality has to pick up some or all of the tab.
+Approach
+In its simplest form, a circuit breaker reduces property taxes in excess of a threshold percentage of a taxpayer’s income. Property taxes in excess of that percentage of income are fully or partially refunded. The reason for providing less than full relief is to ensure that all taxpayers feel the impact of rising taxes and so are not immune, and thereby unconcerned about the level of government expenditures.
+To provide the most relief to those with the lowest incomes a circuit breaker program can include step-ups in the “overload” threshold at higher income levels. This ratcheting-up of the threshold as incomes rise is done incrementally so that eligible taxpayers (see discussion below) do not experience a loss in benefits as their incomes rise. However, they will not see any increase in their benefits once the share of their income going to property taxes falls below a stepped-up threshold. For example, Maryland uses four threshold percentages: the circuit breaker benefit offsets any property tax liability above 0 percent of income for the first $8,000 of income, above 4 percent for the next $4,000 of income, above 6.5 percent for the next $4,000 of income, and above 9 percent for income of $16,001–$60,000.
+[4]
+Income eligibility may also be capped but doing so is often redundant as property taxes tend to consume a smaller and smaller share of income as incomes rise.
+Another approach to providing more relief to lower income taxpayers than to higher income ones is to vary homestead exemptions by income. Homestead exemptions work by sheltering a certain amount of a home’s value from tax. By varying that amount based on income, homestead exemptions become what are called sliding scale circuit breakers, with a lower income taxpayer receiving a larger benefit than a higher income taxpayer owning a property of equal valued. The extent of the relief is based solely on a taxpayer’s income, and not on the share of their income going for property taxes. As a result, sliding-scale circuit breakers provide the same percentage property tax cut for all taxpayers at a given income level regardless of the actual burden of the property tax as measured as a share of income. Income caps or assessment caps can also be used to further focus relief on those with lower incomes or lower valued properties (and also to limit the cost of the program).
+The circuit breaker credit/rebate can be processed in three different ways:
+A refundable income tax credit. The property tax credit is included as part of filing a state or local income tax. This approach simplifies the process of applying for the credit and makes it easy for the government to process the claim as part of processing income taxes, although it means that the taxpayer generally has to pay its property taxes in full in advance of receiving the income tax credit.
+A direct rebate check. This process requires a separate application and refund process in which a check is issued once income eligibility has been determined.
+As part of the property tax bill itself. The previous year’s income is used to calculate the amount of the property tax reduction.
+Coverage
+Circuit breakers can be designed to provide relief to both low-income homeowners (directly liable for local property taxes) and low-income renters (using a set formula to convert rent payments into a property tax equivalent).
+Eligibility
+To ensure the benefits are going to those most in need and to limit program costs, circuit breakers often come with income limits to qualify for the program as well as caps on the maximum benefit. These income caps can also vary across population groups, with a higher level of benefits based on such criteria as age (i.e., seniors), disability, and military service (i.e., veterans). Capping eligibility is a way to limit program cost but it can also limit the program’s impact depending on how low the limits are set. In other cases, income limits may have little effect if the “overload” percentage is set higher than is common for higher income taxpayers to be paying.
+Other considerations
+A few other considerations to keep in mind are:
+To receive circuit breaker benefits generally requires an application. Outreach and education are essential to make sure taxpayers are aware of the program and how to apply.
+Generally, these programs are administered by the state, particularly when the credit is issued through the state income tax.
+Localities may be required to cover the cost of the tax benefits, particularly if they offer greater benefits or benefits to more population sub-groups than an existing state program alone does.
+Year to year variations in the benefit levels for low income taxpayers may undermine the value of the program in helping them manage their finances.
+In the case of homestead exemptions of fixed dollar amounts, failure to adjust these amounts to account for inflation will reduce their value over time
+Examples
+Boston, MA
+provides property tax relief
+for low- to moderate-income homeowners ages 65 or older. The tax credit is set to equal the amount paid for property taxes above 10 percent of the homeowner’s income, up to a maximum credit. The credit is administered through the state income tax and is refundable.
+Connecticut
+funds a “circuit breaker”
+property tax relief program for qualified elderly and disabled homeowners
+that provides a property tax credit based on the participant’s income and marital status. The maximum amount of the credit is capped. Eligibility is determined based on application to the local Assessor’s Office which then determines and includes the level of relief when calculating the property tax bill. The state reimburses the locality for the lost revenue. The state also allows towns to provide
+property tax relief specifically for seniors
+. Localities, at their own cost, can freeze the property taxes for homeowners if they or their spouses are age 70 or older and meet the circuit breaker program’s income limits. Localities, again at their own cost, and subject to certain restrictions, can provide tax relief without income criteria for seniors age 65 and older.
+In 2010,
+Virginia
+amended its constitution
+to permit localities to establish their own income or financial worth limitations for purposes of granting property tax relief for homeowners not less than 65 years of age or with disabilities.
+Related resources
+Circuit Breakers
+Property Tax Circuit Breakers in 2019
+, Institute on Taxation and Economic Policy (2019)
+The Property Tax Circuit Breaker: An Introduction and Survey of Current Programs
+, Center on Budget and Policy Priorities (2007)
+Property Tax Relief: The Case for Circuit Breakers
+, Lincoln Institute of Land Policy (2010)
+Property Tax Circuit Breakers: Fair and Cost-Effective Relief For Taxpayers
+, Lincoln Institute of Land Policy (2009)
+Homestead Exemptions
+How do States Spell Relief? A National Study of Homestead Exemptions & Property Tax Credits
+, Lincoln Institute of Land Policy (2015)
+Property Tax Homestead Exemptions
+, Institute on Taxation and Economic Policy (2011)
+Property Tax Exemptions More Generally
+Property Tax Assessment Limits: Lessons from Thirty Years of Experience
+, Lincoln Institute of Land Policy (2008)
+Property Tax Relief: Why Virginia Should Adopt A State-Funded Income-Targeted Approach
+, Weldon Cooper Center for Public Service, University of Virginia (2008)
+Significant Features of the Property Tax
+, Lincoln Institute of Land Policy and George Washington Institute of Public Policy (See
+also
+)
+50-State Property Tax Comparison Study
+, Lincoln Institute of Land Policy and Minnesota Center for Fiscal Excellence (2016)
+Not covered in this brief are ways to reduce the relative tax burden on residential properties such as by taxing different types of property at different effective tax rates, providing a homestead exemption based simply on a percent of a property’s value, or capping the rate at which a locality can grow its property tax revenue. Unless the state picks up the tab from non-PT revenue, reducing the property tax burden on one type of property necessarily raises the burden on the other types.
+A primary concern about property taxes is that, because they are based on property values, they can, in effect, impose a higher effective tax burden on those with lower incomes than on those with higher incomes. A
+2018 analysis
+by the Institute on Taxation and Economic Policy (ITEP) found that nationwide, the lowest-income twenty percent of Americans paid 4.2 percent of their income in property taxes, compared to 3.0 percent of income for middle-income taxpayers and 1.7 percent of income for the wealthiest 1 percent of Americans. Home values are a higher percentage of income for low-income families than for the wealthy. Economists now treat it as a tax on capital and so view it as progressive. See Kenyon, Daphne A.,
+The Property Tax-School Dilemma, Policy Focus Report, Lincoln Institute of Land Policy (2007)
+p. 35-36.
+In 2019, 18 states and DC offered property tax circuit breaker programs. Another 13 states provide property tax credits to some low-income families based on their income without taking into account the share of income going to property taxes. See ITEP, “
+Property Tax Circuit Breakers in 2019
+,” Policy Brief, September 2019, p.1.

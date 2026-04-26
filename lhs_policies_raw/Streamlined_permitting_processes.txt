@@ -1,0 +1,91 @@
+Title: Streamlined permitting processes
+Source: https://www.localhousingsolutions.org/housing-policy-library/streamlined-permitting-processes/
+
+To help streamline the process, cities, towns, and counties can initiate a comprehensive review of all steps in the development approval process to identify the factors that most significantly suppress new residential construction and redevelopment. With a clearer picture of the obstacles, local leaders can then begin to assess whether they can be reduced or eliminated to stimulate development activity and moderate the price pressure on the existing housing stock.
+While streamlining the development approval process is unlikely to result in an immediate increase in the housing supply, improvements in the regulatory environment can make cities more attractive to for-profit developers and non-profit developers of affordable housing, helping to increase the housing supply over the long term and moderate price increases. This section describes key considerations for communities that are considering updating their permitting process.
+Collecting input
+A key first step in streamlining the development approval process is to identify where inefficiencies, delays, and duplicative or conflicting requirements currently exist, ideally through outreach and consultation with those most familiar with the process—developers, permitting staff, and other stakeholders. Cities, towns, and counties can use several methods to collect input, including:
+Convene a series of roundtable meetings
+These facilitated sessions with invited guests typically focus on a specific topic or phase of the development approval process. Communities should seek to include a diverse array of stakeholders – including both nonprofit and for-profit developers and smaller and larger developers – in order to hear from developers with different levels of experience who are engaged in a range of project types as well as interested members of the public. To promote transparency and accountability, some local jurisdictions publish minutes or notes from these meetings online.
+Host public forums
+Public forums provide an opportunity for all community members to express their views on the development approval process. Speakers can sign up in advance or at the door; interested parties may also be able to submit a written statement in addition to, or instead of testifying at a public forum. Communities should strive to host forums at different times and in different parts of town to facilitate attendance.
+Surveys and customer satisfaction forms
+Similar to public forums, online surveys are open to all community members and provide an opportunity to collect data on the stakeholder experience that can be easily analyzed. The format may include both structured response questions that focus on different facets of the development approval process and opportunities to submit open-ended comments.
+In addition to inviting input from members of the development community and the public, local leadership should also solicit comments from planning and permitting staff. Staff members are likely to have unique insights into their departments’ operations, interactions with other departments, and opportunities to improve current practices. Cities, towns, and counties can distribute questionnaires for staff to complete and submit anonymously, and/or provide other venues to provide input. Communities may also wish to consider creating an interagency working group to steer the development and implementation of recommendations to streamline the permitting process.
+Coverage
+Permitting offices are responsible for many levels of review and approval—from
+building permit
+s to approvals for rezoning, variances, and other land use amendments. In addition, a variety of other offices are often involved in the development approval process, both at the local and state levels, focused on planning, public works, utilities, and environmental review, among other functions. Efforts to create a streamlined process may include some or all of these offices and functions, and implementation of approaches may require an overhaul of the entire process or isolated changes to specific phases of review. For example, permit applications for relatively minor projects may not require an especially long time to process, but may make up a large volume of permitting requests. The time required to get through this backlog can slow down the approvals process for all applicants. To address this challenge, some cities, towns, and counties streamline requirements specifically for minor project approvals. During the input collection process, communities should gain a better understanding of where bottlenecks occur and which area(s) should be the primary focus of streamlining efforts. In larger localities or in localities with significant dedicated capacity to permitting and discretionary development approvals, it may be helpful to engage expertise in operations management to help identify redundancies or the root cause of bottlenecks. Smaller localities may have limited capacity dedicated to this work but may still be able to identify inefficiencies or unnecessary processing complications.
+Approach
+Based on input collected from community members and staff, local jurisdictions can take a variety of steps to resolve conflicting or duplicative requirements and streamline and expedite the development approval process. Specific activities may include:
+Establish regular cross-agency meetings
+Cities, towns, or counties that don’t already convene regular meetings of agency leads involved in the development approval process may wish to do so. These meetings create an opportunity to troubleshoot challenges and resolve points of conflict as they arise. They also provide a natural venue to discuss consolidating requirements where there is overlap across agencies—for example, allowing a single public hearing to satisfy public hearing requirements for three separate departments. Consolidation can be implemented for environmental reviews or impact statements and similar types of reports.
+Create a “one-stop shop”
+A one-stop permitting shop brings together in one place representatives from all agencies and departments involved in the permitting process. The co-location of all government agencies can make it faster and easier for clients to get the answers they need, and for staff to work together to resolve problems.
+Offer or require pre-application meetings
+Some jurisdictions require or allow pre-application meetings, particularly for large or complicated projects, in which developers meet with department staff to review their project and identify potential issues or clarify misunderstandings to prevent unnecessary delays.
+Create special review teams
+Applications for small residential projects may be both less complex and more common than applications for large commercial developments. Cities and counties can create a special review team focused exclusively on these and other simple project types. Establishing an exclusive dedicated review channel with specialized staff can help applicants move through the regulatory process more quickly and at a more predictable pace.
+Allow concurrent review
+Where the process calls for review by several departments or agencies, communities can allow it to take place concurrently rather than sequentially to shorten the timeline.
+Allow self-certification
+To shorten the review time for certain tasks, local jurisdictions can permit licensed professionals to prepare and “self-certify” plans, verifying that they are compliant with the
+building code
+or other standards and
+ordinance
+s. Self-certification eliminates one step in the regulatory review process, and also shortens the queue for other applicants. To be eligible for self-certification engineers and architects must have professional certifications and often must complete training with the planning or zoning department. Eligibility may also be limited to certain project types or sizes.
+Promote ongoing dialogue
+Ongoing dialogue between customers and department/government/regulatory staff allows the community to remain responsive to problems, develop a shared understanding of rules, and ensure the system responds in a timely manner to emerging needs.
+Regardless of the approach or combination of approaches used, local jurisdictions should consider also creating a strategy to measure progress, track results, and ensure accountability after recommendations have been adopted for implementation. As noted above, this may include collecting performance data, publishing regular progress reports, and/or reviewing the results of customer satisfaction surveys. To the extent these systems also provide project-level data about where applications are in the pipeline, they also help to
+increase predictability in the regulatory process
+. Local jurisdictions may wish to consider reviewing their current technology/information systems to see if upgrades are needed. Cities, towns, and counties with outdated systems may want to invest in new technology to improve operations and interdepartmental communication and cooperation.
+Other considerations
+In addition to, or as an alternative to, streamlining the development process more generally, some jurisdictions make special provisions for
+expediting the review of projects that achieve specific public goals
+, including providing dedicated affordable housing.
+In addition to streamlining and speeding up the development approval process, communities should also seek opportunities to
+promote predictability
+and reduce risk and uncertainty for developers. Conflicting guidance, overlapping requirements, and inconsistencies in decision-making and interpretation of rules and regulations cause further delays and frustration that may result in developers not pursuing needed development projects or choosing to pursue projects in other regions.
+Examples
+In January 2012,
+Montgomery
+County
+, Maryland
+launched a cross-agency initiative to streamline the development process
+, involving the Department of Permitting Services, Fire and Rescue Services, and the Planning Board. The County hosted forums and roundtable discussions with over 70 stakeholders to help identify bottlenecks, duplicative review requirements, and inconsistencies in building permit processes. In 2013, recommendations put forward through these channels were then incorporated into a
+Draft Housing Policy
+for the County Council.
+California
+has unveiled a series of programs and policies to streamline the building approval process, including
+SB-35
+, passed in 2017. That law fast-tracks the approval process for developers in cities that have fallen behind on their
+state housing goals
+. Projects that qualify for SB-35 must feature a minimum level of below-market housing and union wages for construction workers. Those that do qualify must be approved in 60 days if the development contains less than 150 units of housing, and 90 days if it includes over 150 units.
+Cities have implemented their own initiatives as well.
+San José
+, California offers multiple points of entry to secure a building permit. Simple projects are eligible for an online application process; through the city’s website, clients can apply for and download a permit, schedule an inspection, and search for a variety of permit and property information, including permit history and plan review status. Over-the-counter service is also available for projects with minor structural changes, and allows developers with accurate plans to receive a permit in one visit. For more complex projects, the city offers a plan review service with express or enhanced express options available for a fee.
+Learn more about San Jose’s permitting processes.
+Also in California,
+Sacramento’s
+city officials have taken steps to expedite the housing project approval process. The Community Development Department’s Building Division offers an Over the Counter (OTC) Plan Review for both residential and commercial projects meeting qualifying criteria. See the
+program’s page
+for more details.
+Redwood City
+offers appointments
+for plan reviews for minor residential remodels and improvement projects for commercial tenants. Developers can also use the online portal for larger housing projects, to ensure agency-specific issues are addressed when they’re ready to submit plans for permits. Separately, Redwood offers
+online permit tracking and digital submissions
+to streamline the process.
+Related resources
+Program design
+A Best Practices Model for Streamlined Local Permitting
+, The Massachusetts Association of Regional Planning Agencies (November 2007) – This guidebook describes a variety of approaches that can be used to streamline the permitting process, including benefits and challenges for each approach and sample content, references, and examples where appropriate.
+Development Process Efficiency: Cutting Through the Red Tape
+, National Association of Home Builders (November 2015) – This comprehensive report lists a variety of strategies being implemented in jurisdictions across the country to increase efficiency in the approvals process.
+Local examples
+Development and Permitting Process Improvement Study
+, Zucker Systems (December 2005) – This study was prepared for the City of Lincoln, NE and provides a series of recommendations for streamlining the development process. The appendices include materials that may be informative for communities collecting input on their approvals process, including an employee questionnaire and segmented sample customer service surveys for different types of applications.
+Housing Development Strategies Slide Decks, City of Portland – The City of Portland published two presentations –
+one in 2015
+and
+another in 2017
+– outlining potential strategies to streamline the development process.

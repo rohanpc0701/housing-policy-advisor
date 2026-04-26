@@ -1,0 +1,37 @@
+Title: Activation of housing finance agency reserves
+Source: https://www.localhousingsolutions.org/housing-policy-library/activation-of-housing-finance-agency-reserves/
+
+HFAs generate income through a variety of activities; this income is used to fund program operations as well as to build reserves that strengthen the HFA’s financial position and improve its bond rating. In the course of their operations, some HFAs earn revenue sufficient to achieve these goals and build up reserves that exceed what is needed to maintain a strong enough bond rating to be able to borrow at favorable rates. Even if designated as a reserve, these additional funds and future net income may be vulnerable to being tapped by the state or a city to fill budget gaps unrelated to housing. To meet important affordable housing needs and avoid having these funds diverted to non-housing uses, some HFAs decide that, once adequate reserve levels have been established, any additional funds are to be used to directly fund state and local affordable housing activities.
+This section describes some of the key considerations in allocating excess reserve funds for affordable housing activities.
+Approach
+Local and state HFAs will want to carefully assess their financial health before committing any reserve funds to program activities. To calculate the amount of reserves available for spending on affordable housing programs, HFAs should account for current liabilities and bonding restrictions, as well as planned spending on operating and capital expenses and contingencies. Other considerations include whether the HFA is responsible for preserving a required minimum reserve balance and the balance required to maintain a strong bond rating needed to issue bonds in its own name and not fully backed by third-party letters of credit or other credit enhancements. Ideally, the amount left in reserve is sufficient to meet these obligations while freeing up as much as possible for affordable housing activities.
+Once an HFA has determined the amount of reserve funds available, it will need to decide how those funds will be used. Reserve funds can be used to bolster a program that is meeting an urgent or emerging need, or to fund a new or pilot program for which there is not an existing budget line item. HFAs may also apply reserve funds towards a new or existing housing trust fund. In this case, the trust fund guidelines will govern how funds are used. In addition, excess reserves may be lent out at low rates to generate additional revenue for funding local housing programs. For example, New York’s Housing Development Corporation (HDC) uses its excess reserves to issue 1 percent loans for affordable housing activities.
+Feasibility
+HFAs need to maintain a baseline level of reserves for a variety of reasons, including to maintain a high-quality bond rating and to cover unanticipated costs. Before drawing down a portion of reserves to fund affordable housing activities, state or local HFA officers should confirm that the remaining amount will be adequate to achieve these goals. HFAs need to be careful not to free up reserves that could jeopardize their ability to function or to be able to borrow at favorable rates.
+The local role
+In communities that have a local HFA, the local role in determining whether and how to use reserve funds is clear. In communities without a local HFA, local governments can work with the state HFA and state government to support the prudent use of state HFA reserves for affordable housing activities. Local officials can advocate for the use of reserve funds to meet affordable housing needs, with leadership at the state HFA and, if necessary, at the state legislature. These efforts may include providing examples of how reserve funds have been used effectively in other states, identifying specific unfunded needs that could be addressed when reserve funds exceed the amount needed for other purposes, and proposing specific program designs for effectively using those funds.
+Smaller localities without an HFA may benefit from coordinating regionally to advocate for the use of reserve funds to address regional affordable housing needs. Localities with
+softening housing markets
+or legacy cities experiencing population shrinkage should work aggressively with their local or State HFA to monitor and plan for the HFA’s ongoing financial health.
+Examples
+In 2009, the
+North Dakota
+legislature directed the Housing Finance Agency to establish a pilot program to encourage private investment in housing development in the state’s difficult to develop areas. In response, the North Dakota Housing Finance Agency created the Rural Housing Investment Incentive Pilot Program. Through the program, the HFA provided a dollar-for-dollar match on eligible investments in new construction, up to the lesser of (1) the gap between the cost of construction and the appraised value, or (2) 20 percent of the cost of construction. The pilot initially included seven projects, and the HFA allocated $400,000 from its reserve to provide funding.
+For more information on the North Dakota pilot program,
+click here
+.
+The
+Wisconsin Housing and Economic Development Authority
+(WHEDA) is an independent authority whose program funds come primarily from proceeds from taxable and tax-exempt bonds and excess reserve funds. A state statute requires WHEDA to issue a plan for any unencumbered funds in the general reserve (i.e., funds that have not been set aside for use in any housing or economic development program, WHEDA operations, or other purposes). The plan, called “
+Dividends for Wisconsin
+,” must specify how surplus reserve funds will be allocated to single- and multifamily housing programs and economic development programs, and is subject to review and approval by the Governor and Legislature. The unencumbered reserve funds have been used to support a range of activities including a multifamily housing revolving loan program and a property tax deferral loan program for low- and moderate-income senior homeowners.
+For more information on the Wisconsin Housing and Economic Development Authority,
+click here
+.
+Related resources
+Program design
+Increasing the Availability of Affordable Homes: A Handbook of High-Impact State and Local Solutions
+, Center for Housing Policy (2006) – This compendium of state and local housing policy tools includes a section on the use of HFA reserves for affordable homes, as well as an example of a development supported with reserve funds.
+Local example
+The HUD Note Sale: HUD and NYC HDC Partner to Preserve Distressed Properties
+, New York City Housing Development Corporation – This memo describes a preservation transaction in which the NYC Housing Development Corporation (HDC) used unrestricted corporate reserves to purchase from HUD mortgage notes for a portfolio of ten distressed affordable housing properties in the City. Following the purchase, HDC worked with the City’s Department of Housing Preservation and Development to refinance and renovate the properties, and transfer them to new ownership if needed.

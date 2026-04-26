@@ -1,0 +1,73 @@
+Title: Streamlined environmental review processes
+Source: https://www.localhousingsolutions.org/housing-policy-library/streamlined-environmental-review-processes/
+
+In some places the environmental review process can take several years—deterring new development by lengthening the timeline and raising costs. The extended timeline may be the result of legitimate environmental issues. However, in some cases the process is prolonged by duplicative or conflicting requirements, inconsistencies in the level of review required, other procedural inefficiencies, and extended litigation. Streamlining these processes can help cities, towns, and counties avoid undue delays and uncertainty in the development timeline—both of which may deter developers looking for a site for a new project—while providing a comparable level of protection for the environment. While environmental review requirements are in most places determined by state law, cities, towns, and counties are typically responsible for implementing the environmental review law locally. Those jurisdictions seeking to increase the supply of housing may wish to assess what steps they can take at the local level and what changes can be made at the state level to streamline the process.
+Approach
+A key first step for improving the environmental review process is to develop a better understanding of the challenges: What steps are involved in the typical environmental review process? How long does it typically take to complete the process? How does this process compare with that of neighboring jurisdictions or states? Many local officials will already be aware of these challenges in cities, towns, and counties where environmental review is a lengthy process, and analysis of data from the relevant department and/or agency can supplement and clarify anecdotal reports. In addition to data analysis, local staff should consider holding a series of roundtables or public forums with stakeholder groups – including builders and developers as well as representatives from environmental and conservation organizations. Current staff involved in the environmental review process can also provide useful insights, particularly with respect to coordination between agencies or departments and the adequacy of staffing levels and training opportunities.
+With a better understanding of the obstacles to a streamlined environmental review process, local jurisdictions can begin to identify appropriate responses. Policy and/or process changes will vary based on local conditions and requirements, but potential actions may include:
+establishing categorical exemptions
+preparing a “planned action” Environmental Impact Statement (EIS)
+creating a cooperative agreement or unified environmental review process
+implementing web-based tracking and timelines
+strengthening staff coordination and training
+Establishing categorical exemptions
+Certain development activities have a minimal effect on the environment, both on an individual and cumulative basis. These activities typically involve very limited changes to site conditions, such as maintenance or repair involving minimal changes to an existing structure As a result, states and local jurisdictions may wish to exempt them from certain types of review, or allow them to complete lower levels of review. Alternatively, state and local jurisdictions can establish categorical exemptions for certain public service entities, such as transportation departments, power companies, and water authorities, to carry out their routine activities that would otherwise trigger an environmental assessment.
+Preparing a “planned action” Environmental Impact Statement (EIS)
+To facilitate housing development in a well-defined district, some states and local jurisdictions prepare a district-wide environmental impact statement or review and then allow that review to apply to all proposed projects within district boundaries. This process does not necessarily replace additional review at the project level; however, by “front-loading” the review process, a planned action EIS allows for greater predictability in the review process and an expedited approach to reviewing the impact of individual developments.
+Creating a cooperative agreement or unified environmental review process
+With the possible exception of very small projects, most development proposals will require multiple layers of review, often from different agencies or departments. Cooperative agreements and unified processes make it possible for studies completed for one agency to satisfy requirements for all agencies that are part of the agreement or partnership. With such agreements, applicants may be able to avoid having to complete the same (or virtually the same) study multiple times for submission to different agencies and departments – a process that can be expensive and time-consuming. Many jurisdictions designate a “lead agency.”
+Implementing web-based tracking and timelines
+As with other permitting and review processes, environmental review has many phases that build on one another. Delays at one stage of review influence the timeline for the rest of the project. To help keep the process on track, some cities, towns, and counties create web-based trackers that allow developers and agency staff to see where various applications and studies are in the review process and to identify delays at certain phases. When linked to published timelines for review, trackers can help to promote accountability and may provide the basis for projects to be expedited if they have sat in the queue for too long.
+Strengthening staff coordination and training
+Local jurisdictions may wish to convene regular meetings of an interagency and/or regional work group of representatives from departments involved in the environmental review process. This group can develop solutions to ongoing problems and emerging issues and work to ensure overall coordination among all parties in the process. Local jurisdictions can also strive to ensure that the departments and agencies responsible for environmental review are adequately staffed and given access to appropriate training opportunities.
+Smaller localities may not have their own environmental regulations in addition to state regulations. Jurisdictions with significant environmental resources or hazards (such as a
+Superfund site
+) may wish to align environmental review processes with other redevelopment or revitalization initiatives in order to minimize redundant review processes.
+Federally-funded projects
+Projects that are partially or entirely financed with federal funds are required to comply with requirements of the
+National Environmental Policy Act of 1969 (NEPA)
+, including an environmental review to evaluate the potential impacts of all related activities. HUD delegates many of the responsibilities associated with this process to states and local jurisdictions, and requirements must be completed before any project funds may be committed or spent. Under NEPA, proposed activities may be characterized as: (1)
+exempt from review
+if they have no impact on the physical environment (typically administrative activities that are part of a larger project, such as inspections or the purchase of tools or insurance); (2)
+categorically excluded
+, meaning alterations to the physical environment are limited and an environmental impact statement or environmental assessment is generally not required; or (3)
+subject to full review procedures
+, including an environmental assessment and/or an environmental impact statement for larger projects or those with greater potential for impact. The requirements under NEPA are set at the federal level, but states and local jurisdictions may be able to apply some of the approaches described above to help streamline their administration of the process.
+Example
+In an effort to encourage urban infill projects, California’s Environmental Quality Act (CEQA) Guidelines, section 15183, allow certain projects to qualify for a streamlined environmental review process if they are consistent with the densities called for in a
+zoning code
+, community plan, or general plan for which an Environmental Impact Report has already been certified and meet other specified conditions. This exemption process still requires some level of environmental analysis and may require mitigation, but eligible projects can generally be completed more quickly and at lower cost.
+In
+San Diego, CA
+, the Mayor and City Council have proposed developing a checklist and guidance document to be used in connection with CEQA section 15183 to simplify use of the guidelines and ensure consistency in their application. This activity is part of a package of strategies announced in 2017 intended to increase the housing supply and improve affordability, called the “Housing SD” plan. Learn more about
+CEQA Guidelines section 15183
+, and check out
+this fact sheet on Housing SD proposals.
+Sample Ordinances
+The
+New York State Environmental Quality Review Act
+(SEQR) process can take 12 to 24 months. In response to a 2017 request for public comment, New York expanded its established categorical exemptions, known as
+Type II actions
+, that are not subject to review under SEQR. There are now 46 enumerated actions that are dictated by type of activity and/or by the size of the impacted area. A few examples include expanding broadband access on existing telephone poles, green infrastructure upgrades on a site that does not exceed 25 acres, and routine activities of educational facilities. Further, the SEQR grants agencies the authority to determine their own Type II actions to supplement the SEQR Type II exempt projects. For more information, see the
+SEQR Handbook
+.
+In October 2019, Seattle City Council passed an
+ordinance that amended
+the existing land use code to speed up environmental reviews for certain policy priorities such as upzoning neighborhoods for low-income housing. The amendment also banned appeals based on economic impacts for certain land use projects and limited the appeal process for all others to 120 days, unless both sides agree to an extension. The city received input from many different community stakeholders throughout various
+local city council meetings
+leading up to the passage, including developers, urbanist advocacy groups, and environmental organizations.
+Pursuant to the Minnesota Environmental Quality Board’s rulemaking authority, the
+Minnesota State Administrative Rules
+include categorical exclusions to the environmental review process that are uniquely tailored to the type of industry that the project is for. For example, subpart 8 has exemptions for mining projects based on the scope of the activity, subpart 12 outlines what type of residential development projects are exempted determined by the number of units to be constructed, and subpart 27 exempts recreational trails based on the type of trail user and trail location. For more information, see the
+Environmental Quality Board Citizen’s Guide handbook
+.
+Related Resources
+A Citizen’s Guide to NEPA:
+Having Your Voice Heard
+, Council on Environmental Quality Executive Office of the President (2021) – This guide provides an overview of NEPA and how it is implemented.
+Environmental Review: A Guide for Applicants Seeking HUD or USDA Rural Development Financial Assistance
+, Housing Assistance Council (2007) – This guide provides an overview of the environmental review process and procedures for projects that receive HUD or Rural Development funds. Appendices include contact information for HUD and Rural Development field officers and state offices.
+Orientation to Environmental Reviews
+, U.S. Department of Housing and Urban Development – This website provides an introduction to the various components of the environmental review process under NEPA for projects that receive federal funding.
+Environmental Review Streamlining
+, Minnesota Pollution Control Agency (2009) – This report summarizes the common challenges that slow down the environmental review process, past efforts to streamline the process, and new proposals for adoption. The report was ordered by the Minnesota legislature in 2009 and was compiled in response to public comment from various stakeholders.

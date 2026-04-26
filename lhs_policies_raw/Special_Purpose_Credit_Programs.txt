@@ -1,0 +1,96 @@
+Title: Special Purpose Credit Programs
+Source: https://www.localhousingsolutions.org/housing-policy-library/special-purpose-credit-programs/
+
+The Equal Credit Opportunity Act authorizes non-profit and for-profit organizations to design credit assistance programs, known as “Special Purpose Credit Programs” (SPCPs), that increase access to credit and offer favorable terms to economically or socially disadvantaged groups, including people of specific races or ethnicities or those living in specific neighborhoods. Although SPCPs were authorized by the federal government more than forty years ago, lenders have used them infrequently due to regulatory uncertainty. This brief provides an overview of the mechanics and eligibility requirements of SPCPs, as well as an introduction to data resources that lenders and their partners can use to assess the need for SPCPs or other interventions. It also describes how, starting in 2020, federal agencies have shown regulatory support for SPCPs and helped revive their use. Access to credit can be a significant barrier to homeownership, but other obstacles—such as high housing costs—can also  perpetuate racial disparities in housing. Cities and their partners should thus consider using SPCPs as just one part of a broader strategy to
+bridge racial homeownership gaps
+.
+Approach
+In December 2020, the Consumer Financial Protection Bureau (CFPB) issued an
+Advisory Opinion
+about SPCPs “to address regulatory uncertainty regarding regulation B,” the Equal Credit Opportunity Act’s implementing regulation. The Advisory Opinion specified the content that for-profit lenders initiating SPCPs must include in their written plans as well as “the type of research and data that may be appropriate to inform a for-profit organization’s determination that a special purpose credit program is needed to benefit a certain class of persons.” The Department of Housing and Urban Development also issued guidance clarifying that SPCPs can be designed to comport with the Fair Housing Act as well as a statement encouraging the use of SPCPs to bridge racial homeownership gaps.
+As of August 2022, both
+Fannie Mae
+and
+Freddie Mac
+have announced plans to explore the use of SPCPs. In Fannie Mae’s case, this includes testing pilot programs of three to five SPCPs for first-time homebuyers in majority-Black housing markets. In addition, in a public comment period also concluding in August 2022, the Federal Reserve Board, Federal Deposit Insurance Corporation, and Office of the Comptroller of the Currency
+solicited comments
+on how to provide more explicit guidance on SPCPs in the Community Reinvestment Act’s regulations, including whether SPCPs should be listed as “an example of a responsive credit product or program that facilitates mortgage and consumer lending targeted to low- or moderate-income borrowers” under the Act.
+The regulations governing SPCPs allow both non-profit and for-profit organizations to develop SPCPs requiring participants to possess one or more common characteristics, such as race, national origin, or sex, in response to a demonstrated need for increased access to lending among a particular group. Such considerations are normally prohibited in lending (and lenders cannot otherwise discriminate in SPCPs).
+In authorizing these requirements
+under the Equal Credit Opportunity Act, Congress created a tool that could be “specifically designed to prefer members of economically disadvantaged classes” and “to increase access to the credit market by persons previously foreclosed from it.”
+SPCPs operated by non-profit organizations or expressly authorized by federal or state law
+must operate
+“for the benefit of an economically disadvantaged class of persons.” For-profit organizations must fulfill additional requirements to establish SPCPs. A for-profit-lender must draft a
+written plan
+that identifies the group or groups that the program is designed to benefit and outlines the criteria for extending credit under the program, and must be “established and administered to extend credit to a class of persons who, under the organization’s customary standards of creditworthiness, probably would not receive such credit or would receive it on less favorable terms.” The organization can base this determination “on a broad analysis using the organization’s own research or data from outside sources, including governmental reports and studies.”
+The CFPB’s
+official interpretation of the regulations governing SPCPs
+provides two examples of how organizations might design programs to meet identified needs. First, the CFPB suggests that “a creditor might design new products to reach consumers who would not meet, or have not met, its traditional standards of creditworthiness due to such factors as credit inexperience or the use of credit sources that may not report to consumer reporting agencies.” Alternatively, “a bank could review Home Mortgage Disclosure Act data along with demographic data for its assessment area and conclude that there is a need for a special purpose credit program for low-income minority borrowers.”
+The federal Fair Housing Act also governs the use of race and other protected classes in home lending. In December 2021,
+HUD’s Office of General Counsel issued
+guidance concluding that SPCPs by for-profit institutions designed and implemented in conformity with ECOA and Regulation B generally would not violate the Fair Housing Act. In the same week,
+HUD’s Office of Fair Housing and Equal Opportunity issued a statement
+encouraging lenders to use SPCPs to reduce disparities in access to homeownership. Because of the complexities and new regulatory landscape, lenders might want to seek legal advice about how to demonstrate the need for the program. Additionally, a broad range of other tools—such as affirmative marketing to marginalized groups—might also support or supplant the functions of SPCPs.
+SPCPs offered by nonprofit or for-profit organizations may be able to fill gaps and address the needs of disadvantaged borrowers in a way that cities cannot because of restrictions on government entities’ abilities to adopt race-conscious programs. Local governments should keep in mind that programs run by government entities are subject to
+different legal standards
+that limit the explicit use of race as criteria for a benefit. Government programs that rely on race explicitly need to satisfy strict scrutiny by demonstrating that they serve the government entity’s interest in remedying its own past discrimination and are narrowly tailored to accomplish that task.
+Lenders can rely on internal data, public data, or a combination for their written justifications for SPCPs. Below are public data sources and other data resources that may help to inform decision-making concerning SPCPs:
+Local Housing Solutions’
+Housing Needs Assessment Tool
+, created in partnership with PolicyMap, aggregates US Census  data into a comprehensive report on demographics and housing needs for every jurisdiction in the country. Each report presents data, maps, and visualizations describing local demographics and measures of housing affordability, housing stock characteristics, and variations in key housing indicators by race, ethnicity, age, and income. In addition, Local Housing Solutions provides a guide to
+using local housing data
+. Lenders can also obtain
+US Census data
+directly from the US Census Bureau.
+Home Mortgage Disclosure Act (HMDA) data
+contain information  lenders must report to the Consumer Financial Protection Bureau about home mortgage loan applications. These data provide information about lending patterns and the extent to which lenders serve the housing needs of their communities and neighborhoods.
+The Urban Institute’s
+Catalog of Administrative Data Sources for Neighborhood Indicators
+details local administrative data from public and private sources that may assist analysis in the areas of housing, social services, health, and the environment, among others.
+HOLC residential security maps
+, available through the Mapping Inequality project,
+can shed light on the history of lending discrimination
+in a particular area.
+Eligibility
+Borrowers’ eligibility may be based on individual characteristics (such as the race or ethnicity of the borrower) or the characteristics of a particular neighborhood or community. Put differently, eligibility may be
+“place-based”
+or
+“people-based.”
+The San Diego Black Homebuyers program, for example, predicates eligibility on the race of individual borrowers, while Chase’s Homebuyer Grant supports prospective homeowners in particular neighborhoods. Eligibility criteria should build on a lender’s analysis of relevant data showing relevant disparities, and thus the need for an SPCP within a particular group or neighborhood. Additionally, lenders operating SPCPs that focus on specific neighborhoods may consider monitoring the race and ethnicity of participating borrowers using HMDA data to ensure that programs do not drive gentrification by disproportionately lending to non-target populations. Wealth or income limits may help to address similar concerns.
+Examples
+The
+San Diego Black Homebuyers Program
+—a joint program of the San Diego Foundation, LISC San Diego, and the Urban League of San Diego County—provides up to $40,000 in down payment or closing cost assistance. The program serves Black residents of
+San Diego
+who are first-time homebuyers and earning less than 120% of San Diego’s Area Median Income.
+An analysis demonstrating the need for an SPCP in
+Cleveland, OH,
+uses US Census and HMDA data to assess homeownership gaps, neighborhood composition, and housing affordability by race, as well as loan features, pricing, and mortgage denials.
+In February 2021,
+Chase Home Lending
+expanded
+a program
+assisting  with closing costs and down payments for home purchases in neighborhoods whose residents are primarily people of color. The program offers  up to $5,000 for homebuyers in one of 6,700 designated neighborhoods nationwide, with an additional $500 for participants who undertake a homeowner education course. In August 2022, Bank of America
+introduced its Community Affordable Loan Solution
+in five communities (Charlotte, NC; Dallas, TX; Detroit, MI; Los Angeles, CA; and Miami, FL); eligibility for the program is based on income and home location. The program relies on alternatives to traditional credit scores (such as histories of auto, rent, and utility bill payments), and waives, among other requirements, closing costs and mortgage insurance obligations.
+Related Resources
+The Consumer Financial Protection Bureau’s 2020
+Advisory Opinion
+, as well as HUD’s 2020
+Guidance Document
+and
+FHEO Statement
+, provide an introduction to the contemporary regulatory landscape.
+The
+SPCP Toolkit
+provided by the Mortgage Bankers Association and National Fair Housing Alliance, in partnership with the Homeownership Council of America, gives an overview of SPCPs; examples of SPCPs, including a
+sample analysis checklist
+; and information about program design, compliance, and monitoring for mortgage lenders.
+A
+landscape analysis
+by Abt Associates explores how policies and programs that promote affordable and sustainable homeownership opportunities, including SPCPs, can advance health equity, racial equity, and social and economic well-being.
+Cities can use LHS resources to
+understand legal frameworks that govern efforts to address racial disparities in housing
+and
+bridge racial homeownership gaps
+as a starting point for developing strategies to advance racial equity homeownership.

@@ -1,0 +1,67 @@
+Title: Transfers of development rights
+Source: https://www.localhousingsolutions.org/housing-policy-library/transfers-of-development-rights/
+
+While a TDR program can be used to preserve affordable housing, the tool is most commonly used in conservation efforts as a mechanism for the owners of environmentally sensitive areas or open spaces to offset losses imposed by preserving those areas in their current form.  The development rights are then redirected to an area that has been determined to be more appropriate for growth.
+Some cities, towns, and counties use TDRs to encourage the preservation of affordable housing developments and generate revenue to support their continued operations. In this context, the sending site—an existing affordable housing development—sells its unused development capacity to a receiving site. The sale preserves the current use of affordable housing and raises funds that can be reinvested in the development to help preserve it for the long-term. The owner of the receiving site may then build at a higher density or building height than would ordinarily be allowed by the underlying
+zoning code
+.
+TDR programs are most likely to be effective in areas where there is strong demand for additional density on potential receiving sites. In some cases, the municipality managing the TDR program plays an interim role by purchasing development rights from sending sites and holding them for a future buyer in a TDR “bank.” By maintaining a TDR bank, local jurisdictions ensure that sending sites can sell their development rights when needed, even if a buyer is not immediately available.
+TDR programs require careful planning and design. This section describes some of the key considerations involved in creating a TDR program.
+Approach
+As described above, TDR programs generally operate by allowing a sending site to transfer development credits to a receiving site. Some cities use other methods to allow the transfer of development rights. In New York City, for example, owners of adjacent lots can “merge” the lots for zoning purposes, and calculate density as an average across both sites. The owner of the underbuilt lot effectively transfers development rights, allowing the neighboring lot to be built at a higher density than ordinarily allowed.
+[1]
+One of the most important steps in implementing a TDR program is developing a transparent and streamlined method for processing TDR transactions. As part of this process, local jurisdictions will need to determine whether they should establish or encourage others to establish a TDR bank to ensure the program functions smoothly. Affordable housing owners may wish to sell development rights when there are no viable receiving sites, and developers may wish to purchase excess density at times when there are no sending sites. TDR banks help to address this mismatch and promote ongoing liquidity by buying and holding development rights as needed until there is a viable buyer. A TDR bank can be complex to administer, however, and local jurisdictions may choose to work with a local nonprofit partner that can function as a manager of the bank. King County, Washington is a prominent example of a jurisdiction with a TDR bank.
+(
+See local example in the
+Related Resources
+section below.)
+Coverage
+Depending on local affordable housing preservation goals, some cities define potential sending sites broadly, to include a diverse set of affordable developments (e.g., apartment buildings, mobile home parks, single-room occupancies, etc.) or historic buildings. Others opt to limit eligibility in order to promote preservation of affordable housing that serves a particular population (e.g., extremely low-income households) or is located in a particular part of town (e.g., affordable rentals in designated high-cost or gentrifying areas).
+Jurisdictions also identify and approve receiving sites—for example, limiting eligibility to purchase development rights to residential projects in areas where the city wishes to promote growth and where excess density can easily be accommodated. Eligible receiving zones may be established in advance of any development applications, allowing developers who purchase development rights through a TDR program to build at higher densities in these areas—perhaps up to a cap set by local
+ordinance
+– on an “as-of-right basis” (e.g., without the need for additional approvals or amendments). Alternatively, some cities, towns, and counties approve receiving sites
+on an “as-of-right basis” (e.g., without the need for additional approvals or amendments). Alternatively, some cities, towns, and counties approve receiving sites on a case-by-case basis, as developers request permission to build at higher density than would ordinarily be allowed based on their purchase of transferred development rights. This approach allows for greater flexibility, but provides less transparency and predictability in the development process. Cities, towns, and counties may also use a hybrid of the two approaches, establishing an as-of-right receiving area, but also accepting requests for using the TDRs in other areas on a case-by-case basis.
+[2]
+These sites need not be contiguous (although some jurisdictions limit their use by requiring contiguity), and may even be located on opposite sides of town.
+In addition to local programs, some communities have established regional TDR programs that allow development rights to be sold across jurisdictions. This approach is most likely to be feasible in areas that have a regional land use agency. For example, the Tahoe Regional Planning Agency, a bi-state regional environmental planning agency with jurisdiction in Nevada and California, allows for the transfer of density across state lines in the area around Lake Tahoe. Development is often spread unevenly across metropolitan areas, with some areas having higher concentrations of affordable housing than others. Regional programs help to address some of this imbalance by providing a mechanism to share resources across jurisdictions. Regional programs may also be a productive way for smaller localities or neighboring localities with very different property markets to work collaboratively to address asymmetries in the development of affordable housing regionally.
+In some cases, the neighbors of receiving sites may make due process claims, challenging the additional development capacity conferred by TDRs. This is particularly the case when the TDR results in development that does not align with the community’s comprehensive plan. Cities, towns and counties should establish formal processes for notifying neighbors of an upcoming TDR transaction and filing an objection.
+Affordability
+and targeting
+Proceeds from the sale of development rights at affordable housing developments can be reinvested in those properties, helping to cover the cost of meeting accrued capital needs and ongoing operations and ensure the properties’ viability over the long term. As a result, owners of “sending” sites (buildings that are preserved through the sale of development rights) should be expected to maintain affordability for a defined period. It is good practice for cities, towns, and counties to set standards for the duration of affordability to be maintained. Some cities, towns, and counties also require the “receiving” site to set aside a portion of the added density to serve low- or moderate-income households. Expectations for the share of units to be reserved at receiving sites, the income level(s) targeted, and the affordability period should all be clearly spelled out to ensure transparency and predictability in the development process.
+In places where development rights are particularly valuable, the proceeds may exceed the amounts needed to preserve the affordability of property on the sending site, in which cases communities will want to set limits on how the proceeds can be used. In New York City, for example, the Housing Preservation Department requires that nonprofit owners of sending sites use the proceeds to support permanent affordability, allows the owners a development fee, and requires the remainder to be used as equity in other affordable housing deals.
+Other considerations
+Interaction with other programs
+Cities, towns, and counties interested in creating a TDR program should be mindful of how TDRs might interact with other existing affordable housing programs. For example, many communities that have adopted an
+inclusionary zoning
+policy provide
+density bonus
+es
+in exchange for the inclusion of affordable units in market-rate developments. TDR program guidelines should specify the density allowances and affordability obligations for the (likely limited) subset of properties that qualify for both programs.
+Examples
+The TDR program in
+Arlington County, VA
+is structured to achieve two goals: (1) preserving the long-term affordability of historically valuable garden apartments, and (2) shifting excess density to parts of town where the County is aiming to channel development. The garden apartments are the “sending” sites, and participating owners commit to preserve the existing buildings, renovate units, and keep them as affordable for at least 30 years. Eligible receiving sites are along corridors and in neighborhoods that have been targeted for redevelopment, as well as areas that can accommodate additional height.
+Learn more about the TDR program in Arlington County, VA
+.
+King County, Washington’s
+TDR bank streamlines density transfers throughout the greater Seattle area. The TDR bank may purchase development rights from qualified sending sites at a price up to the fair market value of the land, while individual buyers and sellers can use an online TDR exchange to negotiate their own prices. In 2013, King County and the City of Seattle entered into a regional partnership that facilitates the transfer of development rights from agricultural areas in the county to three neighborhoods in downtown Seattle: South Lake Union, Denny Triangle, and the city’s Commercial Core. The city agreed to accept 800 credits, enabling the county to preserve farm and forest land. In South Lake Union, developers of residential projects above 85 feet can receive up to 40 percent of the additional density needed through the purchase of TDR credits. The remaining additional height/density can be achieved through a developer payment to the city, which is used to support affordable housing activities.
+Learn more about the TDR program in King Country, Washington.
+Related resources
+Implementation
+Smart Growth / Smart Energy Toolkit Bylaw: Transfer of Development Rights
+,
+Commonwealth of Massachusetts – While targeted at towns in Massachusetts, this model bylaw contains useful context on the purpose and potential of TDR programs, as well as language that can be incorporated into a TDR policy.
+Transfer of Development Rights Programs: Using the Market for Compensation and Preservation
+,
+Cornell University College of Architecture, Art and Planning – This brief describes key advantages and challenges for local communities seeking to implement TDR programs, as well as tips for building markets around programs.
+Program design
+Unlocking the Right to Build: Designing a More Flexible System for Transferring Development Rights
+,
+Furman Center for Real Estate & Urban Policy at New York University (March 2014) – This report reviews current TDR policies in New York City, and explores strategies for reforming the current system to increase options for transferring development rights to promote development of affordable housing.
+Transfer of Development Rights Turns 40
+,
+American Planning Association Planning & Environment Law (June 2007) – This article provides an overview of TDR programs, including factors that will impact success at the sending and receiving sites. The article includes a description of innovative TDR techniques and how they are being used in local communities.
+Local example
+Transfer of Development Rights (TDR) Case Study
+,
+Massachusetts Smart Growth/Smart Energy Toolkit – Provides case studies on the TDR program in Falmouth, MA, Montgomery County, MD, and Seattle, WA.

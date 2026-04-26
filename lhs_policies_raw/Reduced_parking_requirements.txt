@@ -1,0 +1,70 @@
+Title: Reduced parking requirements
+Source: https://www.localhousingsolutions.org/housing-policy-library/reduced-parking-requirements/
+
+Parking requirements aim to ensure that new residents have a dedicated place for their vehicles without creating negative spillover effects on public parking in the surrounding area. However, such requirements increase the cost of developing housing by increasing the land area required or because the development incurs the added expense of structured parking. A
+2020 national study of Low-Income Housing Tax Credit projects
+found that parking structures added an average of $56,000 in total development cost per unit, controlling for other project characteristics. In many cases, minimum parking requirements also go beyond what is strictly needed to ensure that residents have adequate parking. For example, a one-size-fits-all parking requirement may result in excess land dedicated to parking that might otherwise be used for housing. Parking mandates in transit-friendly neighborhoods may encourage higher rates of car ownership and driving, increasing congestion and pollution.
+Cities, towns, and counties seeking to expand the supply of housing may wish to revisit their zoning code to determine whether current minimum parking requirements can be reduced in some or all parts of town or for certain development types. By reducing off-street parking, communities can lower development costs, potentially free up land for additional units, and reduce the cost of housing for residents. Alternatively, some cities establish parking maximums, rather than minimums, to discourage the creation of excess parking spaces. However, removing parking requirements without complementary policies—such as investments in public transit, pedestrian infrastructure, and shared mobility options—may lead to greater reliance on public, street parking.
+In this section, we review a number of the factors that should be addressed in developing and implementing reduced parking requirements.
+Approach
+Cities can structure parking requirements in a variety of ways. Some jurisdictions set requirements based on the dwelling unit type—for example, a single-family home may be required to have at least one off-street parking space, a duplex may be required to provide two spaces, and so on. For multifamily buildings, the number of required parking spaces is commonly linked to the total number of units. For example, in a jurisdiction that requires 1.5 spaces per unit, a 20-unit building would need to provide 30 parking spaces. These minimums may be applied uniformly across the city or vary based on the housing location, with lower parking requirements more common in areas close to transit stations or major bus lines. (See the examples of Alexandria, VA, and New York, NY below.) Neighborhoods designated for higher-density and/or mixed-use development with access to public transit may require relatively low per-unit parking requirements compared to areas with low-density single-family homes, on the assumption that residents who can access many destinations by public transit or on foot are less likely to own cars.
+In addition to building size and location requirements, some communities establish parking standards based on the planned occupants of a building. These adjustments account for lower vehicle ownership rates among certain types of households, such as seniors and low-income households. Senior apartments, assisted-care units, and congregate care facilities are all likely to have lower parking demand than non-age-restricted developments of the same size. A zoning policy that doesn’t account for these differences and instead requires an equal number of parking spaces per bedroom would likely result in an oversupply of parking. For example, New York City eliminated off-street parking requirements for subsidized housing and senior housing located within a “transit zone” that covers parts of the city within one-half mile of the subway (
+Zones 1 and 2 of the City of Yes zoning revision
+). Other considerations may include the amount of secured bicycle parking the building provides and the availability of car-sharing vehicles.
+Local jurisdictions have several options to adjust parking requirements: (1) reduce the number of spaces required per unit on a community-wide basis (for example, by decreasing from 1.5 to 1.0 spaces per multifamily dwelling), (2) reduce the requirements in specific zoning districts or locations (such as within a quarter-mile of transit stations), (3) reduce the requirements for particular types of housing, like age-restricted senior apartments, or (4) implement a combination of these strategies.
+Some cities eliminate parking space minimums altogether
+—most commonly in the downtown or central business district, but also near transit stations and college campuses.
+Some cities, like
+San Francisco
+and
+Nashville, TN
+, have not only eliminated minimum parking requirements but have adopted parking maximums instead. Rather than stipulating a minimum number of spaces that must be provided, this approach places an upper limit on the number of parking spaces that may accompany a residential development. Replacing parking minimums with parking caps can help developers avoid having to oversupply parking just to comply with community demands.
+Other considerations
+Targeted reductions in parking requirements to promote affordability
+Some communities also
+reduce parking requirements
+for individual developments as an incentive to set aside a share of units for low and moderate-income households.
+Potential unintended consequences of parking reforms
+While reducing or eliminating parking minimums can improve housing feasibility and affordability, reforms should be paired with strategic policies to avoid unintended consequences. In locations without reliable public transit or walkable amenities, eliminating parking minimums could lead to parking shortages if demand is underestimated in car-dependent areas. In some cases, a lack of parking may deter developments that cater to families, who may need more vehicle access. To mitigate these risks, cities should keep in mind the importance of integrating parking reforms with broader transportation strategies that enhance transit access, bike infrastructure, and pedestrian connectivity.
+Final considerations
+When making revisions to parking requirements, communities should consider seeking feedback early in the process from a broad range of stakeholders, including transportation planners and engineers, representatives of the local transit authority, and for-profit and non-profit housing developers and managers. Additional analysis of local data to determine actual vehicle ownership rates by income level, age of household head, and household size, as well as proximity to and availability of public transit and actual parking utilization rates, may be helpful to inform policy development and ensure requirements reflect local circumstances. Whatever criteria are used to establish standards, zoning and planning staff should ensure that they are clearly defined in sufficient detail in order to avoid confusion or disagreements in interpretation.
+Examples
+Alexandria, VA
+, has a complex set of off-street parking requirements that vary depending on the type of development and its location within the city. Single-family detached homes and duplexes, row houses, and townhouses must have two parking spaces per unit. Multifamily buildings located within walking distance of a Metro public transit station are required to provide 0.8 spaces per bedroom, but this requirement is reduced by five percent when:
+The building is within one-quarter mile of four or more active bus routes.
+The building has a walkability index score of 80 percent or above (buildings with a score of 90 to 100 are eligible for a 10 percent reduction in parking requirements).
+Twenty percent or more of the units in the building are studio apartments.
+Outside of Metro-accessible areas, multifamily buildings must provide one parking space per bedroom. However, reductions are possible in cases where the building is near a bus rapid transit stop or four or more active bus routes, is in an area with a high walkability index score, or has a large proportion of studio apartments. In calculating the number of spaces required for multifamily buildings, Alexandria allows any development to disregard additional bedrooms after the first two. Multifamily buildings that include affordable housing are also eligible for additional flexibility in parking requirements.
+Read more about Alexandria’s parking and loading regulations.
+In 2024, New York City adopted the
+City of Yes for Housing Opportunity zoning revision
+, assigning parking requirements by population density and proximity to public transit.  In Zone 1 (the “Inner Transit Zone”), parking requirements were eliminated. In Zone 2 (the “Outer Transit Zone” or neighborhoods within 0.5 miles of a public transit station and 0.25 miles from a commuter rail), parking requirements were reduced and in some cases, erased altogether. In Zone 3 (“Beyond the Greater Transit Zone”—all outer borough neighborhoods), existing parking requirements went unchanged. Furthermore, for developments converting from non-residential zones to residential, there were no parking requirements. In all cases, the maximum number of parking spaces was no greater than two times the number of residential units.
+Austin, TX,
+approved the removal of off-street parking requirements in 2023
+; the largest American city to do so to date, following similar decisions in Buffalo, NY (2017) and Minneapolis, MN (2021).
+Related resources
+Policy design and implementation
+Consumer Expenditure Surveys
+. Tables compiled by the U.S. Department of Labor Bureau of Labor Statistics provide vehicle ownership data by household income level, housing tenure, location, age, and other factors.
+Parking Policy Playbook
+. This playbook, published by the Association of Bay Area Governments in August 2024, provides guidance around local parking policies, including case studies, policy descriptions, and sample policy language. While the playbook focuses on the Bay Area, much of the information is transferable to other contexts.
+Parking Management: Comprehensive Implementation Guide
+. Published by the Victoria Transport Policy Institute in July 2022, this guide—while not limited to residential parking requirements— provides detailed information on policies and programs that can be used to improve the efficiency of existing parking management systems. The report includes a list of potential parking requirement adjustment factors and typical adjustments (Table 12).
+Parking requirements and housing affordability
+Searching for the Right Spot: Minimum Parking Requirements and Housing Affordability in New York City
+. This NYU Furman Center report, published in 2012, examines how parking regulations affect developers’ decisions about what to build, explores the effect that parking requirements may have on housing affordability, and highlights some options for reform.
+A Continuing Role for Minimum Parking Requirements in a Dense Growing City? Evidence from New York City
+. This NYU Furman Center paper, published in 2010, found that parking requirements may inadvertently undermine New York City’s goals for transit-accessible neighborhoods.
+General resources
+The High Cost of Minimum Parking Requirements
+. Published by Emerald Insight in 2014, this journal article calculated how minimum parking requirements increased development costs and proposed legislation for maximum parking limits in city districts well served by public transit.
+Rethinking Residential Parking: Myths & Facts
+. This report by the Non-Profit Housing Association of Northern California debunked popular misconceptions about parking, such as “Affordable housing in particular needs more parking” and “People will own the same amount of cars regardless of transit services, neighborhood characteristics, and amount of parking spaces.” It includes case studies from cities in California.
+Local analysis
+Minus Minimums
+. Published in the
+Journal of American Planning Association, this paper analyzed the impact of removing minimum parking requirements in Buffalo, NY. The research evaluated the number of parking spaces in both major and mixed-use developments compared to the number of off-street parking spaces previously required.
+Parking policy: The effects of residential minimum parking requirements in Seattle
+. This article, published in 2020 by the Land Use Policy journal, evaluated the effects of a 2012 change on parking requirements in Seattle, WA. The researchers investigated the amount of parking provided in response to the new rule by neighborhood and building characteristics.
+The Metro Vancouver Apartment Parking Study
+. This technical report, published in 2012, examined local data, emerging trends, and lessons from other cities and presented findings and recommendations for multifamily apartment parking requirements in Vancouver, BC, that will likely be applicable in other communities.

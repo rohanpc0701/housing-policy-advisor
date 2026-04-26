@@ -1,0 +1,88 @@
+Title: Limited equity cooperatives
+Source: https://www.localhousingsolutions.org/housing-policy-library/limited-equity-cooperatives/
+
+When the LEC is created, initial affordability is typically achieved with some form of government assistance, including construction subsidies and low-interest financing. The price restrictions built into the resale formula limit the equity that LEC residents can gain when they sell their ownership share; it is this feature that also helps to maintain affordability, especially in strengthening housing markets. Some
+limited equity cooperatives
+allow little or no build-up of equity by homeowners, while others adopt a shared equity approach, balancing the twin goals of long-term affordability and individual wealth creation.
+While LECs are frequently found in multifamily buildings in urban areas, this tool can also be used in townhomes, single-family homes, and mobile home parks.
+Approach
+Regardless of housing type, all LECs share the same fundamental structure: a self-governing group of residents (members) who each own a share in the stock of the cooperative and pay a monthly membership fee to cover common expenses such as maintenance and reserves. The LEC may be initiated by a nonprofit sponsor, who redevelops a property and sells shares to new members, or through the conversion of an existing rental property by current tenants.
+[1]
+Within this basic structure, a variety of characteristics and program guidelines can be tailored to the goals and preferences of the LEC sponsor and/or members.
+Ongoing affordability is a primary reason for establishing an LEC, and the resale formula used to calculate the price of a share is the primary mechanism for keeping the costs of purchasing a share within reach of low- and moderate-income households into the future. Resale formulas are typically based on the initial share price at purchase, and may be adjusted by a flat interest rate (e.g., 1 to 3 percent), a rate pegged to the Consumer Price Index or another index, the change in
+area median income
+, or some other factor. The resale formula also determines the amount of equity that LEC members retain when they sell their share to the next family. When creating the LEC, founders need to design a resale formula that balances these goals. The LEC documents that establish the resale formula may also give the cooperative organization a right of first refusal when shares are available for purchase, a measure that helps to ensure resale to an eligible household at the price determined by the formula.
+The LEC documents also specify how long resale controls remain in place. In some cases, the minimum affordability period is determined by the terms of the financing used to create the cooperative. For example, some early LECs used low-interest 30- or 40-year mortgages from HUD; once the mortgage was paid off, members of the LEC could vote to convert to a market-rate cooperative and eliminate any resale restrictions.
+[2]
+Many limited equity cooperatives include permanent affordability restrictions in order to maintain long-run affordability. Permanent affordability can be facilitated by establishing the LEC in partnership with a
+community land trust
+. For additional guidance on affordability periods, see the related brief,
+Determining the duration of required affordability for dedicated affordable housing.
+LEC rules also need to specify residents’ role in management of the community. Members may be responsible for aspects of the building upkeep, or for decision-making related to the management of the building. In larger properties, residents may choose to contract some or all of these responsibilities to a professional management organization. In some cases, LECs also include the sponsor organization or representatives of other third party organizations on the board, to help ensure the board acts in the best interests of all members and safeguard the long-term affordability of the cooperative.
+[3]
+Eligibility
+Eligibility to buy into a limited equity cooperative is typically limited to households with incomes below a specified threshold at purchase, in keeping with the goal of promoting affordable homeownership. Target income levels vary by community, but there is a limit to how low incomes can be. Homeowners must have incomes high enough to qualify for a reasonably priced, fixed-rate mortgage to finance their share of the cooperative and to keep up with the monthly membership fee.
+The local role
+Local jurisdictions are not typically directly involved in the creation of LECs, but they can create programs and policies that are supportive of this form of affordable homeownership. For example:
+Public financing
+LECs are often established through the conversion of an existing apartment building. To keep share costs low, local housing departments or housing finance agencies can offer
+below-market financing
+in the form of a low- or no-interest loan or grant to offset some of the costs of purchasing the development. Construction subsidies can help cover the cost of needed renovations or rehabilitation in older buildings. Additional assistance can help to cover initial start-up costs. Depending on the income level(s) targeted by the LEC, assistance may also be needed to help individual households purchase membership shares. Some communities offer LEC share loans that help to make this form of affordable homeownership possible.
+Property tax breaks
+To ensure the long-term sustainability and affordability of LECs, some jurisdictions establish a special property tax classification that enables these properties to pay reduced property taxes. Rather than assessing taxes on the basis of the market value of the property, the
+assessed value
+of the property is based on the estimated value of the interests of the association, a pre-determined share of the estimated market value (e.g., 70 percent), or another below-market value. This method more accurately reflects the actual use of the property, and the savings enable the LEC to keep member fees low.
+Rights of first refusal
+Communities can lay the groundwork for LECs by adopting
+right of first refusal
+laws that give tenant associations and other stakeholder groups the opportunity to purchase subsidized rental properties when the owners decide to stop participating in the subsidy program. This approach will be particularly effective in communities where there is a strong nonprofit partner to work with tenant organizations interested in exercising this right.
+Support for nonprofit partners
+Strong nonprofit partners play an important role in creating LECs and providing managerial support. The local department of housing can provide financial support to qualified nonprofit organizations, or enter into a formal contract or partnership that enables the organization to provide free or low-cost technical assistance and services.
+LECs are one of several forms of shared equity homeownership. Communities considering supporting LECs may also want to consider
+community land trusts
+and
+deed-restricted homeownership
+– either in addition to LECs or in place of them. Communities should also examine
+shared appreciation mortgages
+, which are sometimes considered a form of shared equity homeownership.
+Other considerations
+Homeowner stability
+Local or national nonprofit organizations that help in the establishment of the LEC often continue to provide some level of support once the LEC is up and running. This ongoing involvement can help to keep the board of directors on track and provide guidance on building maintenance best practices and other aspects of property management. A nonprofit partner can also provide assistance or help to make connections to community supports when individual owners experience financial challenges that threaten their ability to keep up with membership fees.
+Ensuring long-term affordability
+While LECs can be a useful tool for preserving the long-term affordability of a property and fostering a sense of communal ownership and responsibility, share members often retain the right to vote to eliminate the affordability provisions, which can pose a threat to maintaining affordability over the long-term. This can be addressed by combining LECs with other affordability mechanisms, such as a
+community land trust
+or deed-restricted homeownership. Shared appreciation formulas that enable residents to build some level of wealth – in contrast to those which allow little or no equity build-up – may also help to maintain long-term affordability by reducing the frustration of share owners that could lead them to vote the LEC out of existence.
+Examples
+City First Enterprises is a nonprofit organization in
+Washington, D.C.
+that aims to create permanently affordable homeownership opportunities. The organization is part of a broader family of companies that also includes a nonprofit bank, a Community Development Financial Institution (CDFI), and a foundation. City First supports low-income tenants in rental buildings in exercising their right of first refusal under the District’s Tenant
+Opportunity to Purchase Act
+. The nonprofit helps to establish cooperatives, including LECs, while the bank provides financing for acquisition and rehab. For more information on City First,
+click here
+.
+New York City’
+s Urban Homesteading Assistance Board (UHAB) helps to organize low- and moderate-income tenants and create and manage limited equity cooperatives. UHAB provides resident trainings, technical assistance, and programming on a range of topics, from property management and meeting regulatory requirements to improving energy efficiency. The organization also provides assistance for distressed co-ops facing foreclosure or utility cut-offs. For more information on UHAB,
+click here
+.
+Other cities, from
+San Francisco
+to
+Miami
+, have also championed LECs as tools to promote housing affordability. And, most recently, the City Council in
+Pittsburgh
+passed legislation
+to explore LECs as a means to curb local affordability challenges.
+Related resources
+Research and reports:
+Community Land Trusts and Limited Equity Cooperatives: A Marriage of Affordable Homeownership Models?,
+Lincoln Institute of Land Policy (2014) – This paper examines five Community Land Trusts (CLTs) that involve LEC projects. It considers the CLTs’ motivations for pursuing LECs and appraises the characteristics of hybrid projects.
+Limited Equity Coops by Community Land Trusts: Case Studies and a Feasibility Assessment for the Hybrid Model
+, National CLT Network (February 2013) – This report focuses on the use of LECs in conjunction with community land trusts. The report features case studies from communities with land trusts and one or more LECs, and offers a table with considerations related to this hybrid approach.
+Shared Equity Homeownership: The Changing Landscape of Resale-Restricted, Owner-Occupied Housing
+, National Housing Institute (2006) – This report provides detailed and practical information about the design of shared equity housing, a broader category of affordable homeownership that includes limited equity cooperatives.
+Will Limited-Equity Cooperatives Make a Comeback?
+, Shelterforce (April 2017) – This article provides a detailed overview of the history of limited-equity cooperatives and the organizations that help form them today.
+Tools for local leaders:
+Street Level Advisors’
+Comparing Shared Equity Resale Formulas
+tool was designed to help community leaders understand the relative performance of different shared equity resale formulas. This tool features a side-by-side comparison between several models and allows the user to change these input assumptions to immediately see changes in the relative performance of each of the models in terms of both ongoing affordability and equity building for homeowners.

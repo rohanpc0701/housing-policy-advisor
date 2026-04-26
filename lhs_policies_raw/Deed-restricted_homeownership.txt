@@ -1,0 +1,83 @@
+Title: Deed-restricted homeownership
+Source: https://www.localhousingsolutions.org/housing-policy-library/deed-restricted-homeownership/
+
+De
+ed restrictions
+help to safeguard the long-term value to the community of the initial investment in affordable homeownership by limiting any subsequent sales of the home to income-eligible borrowers at an affordable price. The resale restrictions are attached to the property’s deed, and may be enforced for several decades or more, depending on state law. Buyers of deed-restricted properties are typically allowed to retain some but not all of the benefits of home price appreciation, thereby preserving ongoing affordability for the next buyer, in keeping with the terms of the restriction.
+Deed-restricted homeownership can be used to preserve long-term affordability in any community. It may be particularly valuable where large amounts of assistance are needed to bring home prices within reach of low- and moderate-income families, and where rapid increases in home prices are expected.
+This section describes some of the considerations for communities interested in developing deed-restricted homeownership.
+Deed restrictions place conditions on the deed to a property setting out certain limits or acceptable uses. The conditions, also known as covenants, “run with the land” and as a result bind current and future homeowners. Deed restrictions have been used for years by developers and condominium associations, typically to place limits on home size or aesthetic choices, for example, limiting the choices of acceptable exterior paint colors of homes within a subdivision. Local governments and non-profits have also adopted the tool as a method of preserving affordable homeownership. To do so, deed restrictions are placed on the property that limit the terms of future sales to maintain affordability for subsequent buyers.
+Deed-restricted homeownership is a form of shared equity homeownership. Other forms include
+Community Land Trusts
+and
+limited equity cooperatives
+. Shared equity homeownership is an approach to homeownership that balances the dual goals of maintaining the long-term affordability of homes to future home purchases and allowing purchasers to build wealth through homeownership. Opinions differ on whether
+shared appreciation mortgages
+should be considered a form of shared equity homeownership. For more information on shared equity and homeownership, visit the
+National Housing Institute’s Shared Equity Homeownership report
+and
+Harvard University’s Joint Center for Housing Studies report on Filling the Void Between Homeownership and Rental Housing
+.
+Deed-restricted homeownership programs preserve affordability through a variety of mechanisms. Covenants can govern:
+How the resale price is set at future sales
+. Deed restrictions typically prescribe a formula which sets a ceiling on the subsequent sales price of the home. Like the resale formulas used with
+shared appreciation mortgages
+and by
+community land trusts
+, these formulas typically balance the goals of building wealth for the homeowner and maintaining affordability for future homebuyers. As one example, the resale formula may be tied to changes in the
+area median income
+. For example, the price might be set at the original purchase price plus an increment reflecting the increase in the area median income during the owner’s tenure. For example, if the homeowners purchased the home for $200,000 and the area median income increased by 15 percent during the owner’s residence in the home, the maximum sales price would be $230,000. This approach ensures that, once the home is made affordable, the home remains generally affordable to households based on that same income standard in the future, unless interest rates change. Other resale formulas limit the percentage of any appreciation in the market value of comparable homes which the owner can realize, requiring the homeowner to sell the home for no more than the original purchase price plus a specified percentage of the appreciation, such as 25 percent.
+The pool of eligible buyers
+. Common restrictions on future buyers set limits on the household income of a future buyer, for example at or below 80 percent of the median household income.
+Acceptable uses
+. Common restrictions on use include requiring the owner to occupy the home as a primary residence and to maintain the home to certain habitability standards.
+Deed restrictions usually apply for a defined period of time, such as 30 or 45 years, after which they expire. In some programs, the clock restarts each time the home is sold, so in practice the deed restrictions tend to apply for much longer. Some states, including Maine, Massachusetts, Oregon, Rhode Island, and Vermont have authorized “perpetual” deed restrictions for subsidized owner-occupied homes.
+[1]
+Where allowed under state law, perpetual deed restrictions will be more effective at preserving long-term affordability compared to time-limited deed restrictions. See related brief,
+Determining the duration of required affordability for dedicated affordable housing.
+One advantage of deed restrictions is that they should be discovered during a routine title search. As a result, these restrictions are sometimes called “self-enforcing”. In practice, however, the restrictions may be overlooked, accidentally or purposefully. Many communities have come to realize that successful deed-restricted homeownership programs require monitoring and enforcement to ensure properties do not slip through the cracks. To ensure the protections are identified and enforced when the home is sold, some communities also file a lien, often for a nominal amount, in addition to restrictions on the deed. Liens are harder to ignore since they must be removed and paid before a home can be sold with a clear title. Regular contact with homeowners or annual registration requirements can also help make sure the units are owner-occupied and in good condition.
+It is also important to monitor that the homeowner is not falling behind with payments. Deed restrictions are subordinated to the borrower’s first mortgage, meaning the mortgage holder’s interest takes precedent. As a result, deed restrictions can be wiped out if a borrower experiences foreclosure. This provides another reason for communities to monitor and provide support to owners of homes in deed-restricted homeownership programs. This debt subordination is also a challenge in distressed markets or markets in the midst of a significant decline: localities may need to provide assistance to owners of deed-restrict homes in order give them the flexibility of a sale while protecting the long-term value of affordable homeownership.
+Deed restrictions are often used in conjunction with other policies discussed in the Housing Policy Library. For example, deed restrictions can be used to preserve the long-term affordability of units made affordable through
+inclusionary zoning
+. Some
+community land trusts
+also use deed restrictions to maintain long-term affordability. Deed restricted housing may also benefit from the application of
+tax abatements or exemptions
+.
+Eligibility
+Deed-restricted homeownership programs typically target low- and moderate-income families. Many programs require homebuyers to have incomes that are no greater than 80 percent of the area median income. This is particularly true for projects where federal funds are used. However, each program sets its own restrictions. In the high-cost Bay area city of
+Novato, CA
+, for example, homebuyers may have incomes no greater than 120 percent of the area median income. Some programs give preferences to families with other characteristics, such as those who already live or work in the community. Many programs also target first time homebuyers (typically defined as having not owned a home in the previous three years).
+Homebuyers of a deed-restricted homeownership units are often required to attend a
+homebuyer education
+course and/or participate in homeownership counseling prior to purchase, which may be offered directly or in partnership with a local non-profit organization. These supports can help prospective homebuyers determine if deed-restricted homeownership is a good option for them, learn how much of a home they can afford, and improve their credit scores (if needed) so they meet applicable underwriting requirements for a mortgage.
+Examples
+The
+Montgomery County Maryland
+Moderately Priced Dwelling Unit Program
+uses deed restrictions with a shared-equity resale formula to maintain affordable homeownership options in this high priced area. Many of the units in this program were created through the county’s Inclusionary Zoning Ordinance, which was first adopted in 1973 and has produced over 12,000 units.
+HelloHousing manages deed-restricted homeownership programs for multiple municipalities in
+California’s Bay Area
+. Each program has its own rules and restrictions. For example, the
+City of Novato’s program
+places deed-restrictions that allow sellers to receive a
+share of appreciation
+that is based on the change in area median income as well as the depreciated value of approved capital improvements.
+Related resources
+This
+HUD report
+discusses multiple shared equity homeownership programs and how they facilitate broader access to affordable housing. The report highlights San Francisco’s Below Market Rate Ownership Program which carry deed restrictions to preserve affordability for future buyers and allow for modest wealth creation for buyers.
+This
+National Housing Institute report
+includes a discussion about deed-restricted homeownership programs along with other models of shared equity homeownership. The section discusses how affordability is maintained in this model and what the regulations are surrounding this contractual constraint, while also describing the history and prevalence of deed-restricted homes.
+Grounded Solutions
+, a merger of the National Community Land Trust Network and the Cornerstone Partnership, provides technical support and resources for developing permanently affordable housing. The
+deed-restrictions section of their website
+presents many articles and tools about different aspects of deed-restricted homeownership programs. The
+sample documents library
+offers example deed covenants from many states.
+Fannie Mae developed
+this flyer
+which provides more information for lenders about making a loan when a home has resale restrictions.
+“Implementing Restrictions on Ownership”
+,” 2011.

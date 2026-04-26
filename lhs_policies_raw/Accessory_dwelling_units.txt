@@ -1,0 +1,112 @@
+Title: Accessory dwelling units
+Source: https://www.localhousingsolutions.org/housing-policy-library/accessory-dwelling-units/
+
+The number of lower-cost housing units that can be created through ADUs is limited by the suitability of existing housing and homeowners’ interest, among other things, so ADUs are unlikely to be a large share of new units. Other mechanisms for creating affordable housing remain critical.  Nevertheless, ADUs can be an important piece of the puzzle in the overall solution to the affordable housing shortage.
+Approach
+ADUs can be used to help address a range of local housing issues. Among other things, ADUs are relatively low-cost housing units that add to the diversity of housing types in many localities, increase density in single-family areas, do not require the development of additional infrastructure (such as water, sewer, and roads), and create opportunities for low and moderate-income households to live in otherwise unaffordable neighborhoods. In some cases, ADUs can be developed with little or no up-front government funding or ongoing subsidies.  Because they increase property values, ADUs generally lead to additional property tax revenues.
+The costs of constructing ADUs are typically far lower than those of new single-family or multifamily units, although new construction of detached units can cost from $100,000 to $350,000 or more. Basement, attic, or garage conversion is typically
+much less expensive
+, from roughly $30,000 to $75,000.
+[1]
+ADUs are also beneficial to the host homeowners, generating an extra source of income that may help them afford their ongoing housing costs. ADUs can also be used to accommodate caregivers, elderly parents, or adult children who otherwise would not be able to afford to live in the area.
+At the same time that ADUs create new housing units and increase density, they have minimal impacts on the character of single-family neighborhoods. While it limits somewhat homeowners’ flexibility to create ADUs, some localities require ADUs to maintain the appearance of a single-family home to mitigate neighboring residents’ concerns about the impact of ADUs on their communities.
+Potential for ADUs to Add to the Stock of Low-Cost Housing Units
+Although ADUs have become a sizable component of the overall housing stock in only a few markets (see Coverage below),
+one study suggests
+that even modest increases in the pace at which ADUs are created could create hundreds of affordable units each year within a metropolitan area.
+In many cities
+, such as Washington, D.C., Arlington, Texas, and San Jose, CA, single-family zoning occupies 70 percent or more of tax lots. Because of political challenges associated with allowing other forms of housing as of right in these districts, removing barriers to ADUs may be the most practical way to increase both the number of housing units and the diversity of housing types available. The logistics and economics of ADUs vary from one region to the next; in some markets or neighborhoods, it may be impractical to add ADUs.
+Roadmap for Localities Interested in Exploring ADUs
+Localities interested in exploring ADUs should consider first assessing the potential for ADUs to add units to the housing stock in the locality. In cases where there seems to be some potential, a second step might be to systematically identify the barriers to ADUs in the locality and develop a strategy for addressing those barriers. Common barriers include zoning restrictions and other onerous requirements; lack of familiarity on the part of homeowners with the development and permitting process; design challenges including difficulty conceptualizing how or where to accommodate an ADU on a property; lack of access to financing for ADUs; and lack of understanding of what is involved in being a landlord and how to find qualified tenants. State, local, and county jurisdictions in many parts of the country are working to implement policies and programs to help overcome these barriers.
+A number of jurisdictions have taken steps to reduce or eliminate barriers to creating ADUs, as well as encourage and even assist or subsidize homeowners to create ADUs. For example, to accommodate ADUs, some jurisdictions have eliminated restrictions such as owner-occupancy and minimum square footages to encourage ADUs. Others have encouraged ADUs by
+minimizing parking requirements
+(to zero or one space), eliminating restrictions on residency to caretakers or relatives of the owners, eliminating requirements that ADUs be restricted to large lots, allowing detached ADUs, and allowing ADUs by right rather than by special permit.
+In high-cost markets, removing zoning and permitting barriers to ADUs may be sufficient to encourage their development. In other markets, jurisdictions may need to make more concerted efforts to help homeowners create ADUs. For example, to help homeowners who are unfamiliar with the design, development, and permitting processes, some jurisdictions assist with site planning and provide free off-the-shelf plans. Some jurisdictions also establish a separate, simplified short-turnaround approval process for ADUs. Some jurisdictions in New Hampshire offer annual ADU tours to give community members a chance to see built examples of ADUs,
+inspiring some residents
+to create an ADU on their property, and offering others the opportunity to see how ADUs are compatible with the neighborhood.
+Some places provide financial assistance for homeowners to create ADUs, for example by waiving development fees for ADUs that will be restricted to low-income occupants. In Berkeley, CA, newly created ADUs are not considered new residential units for the purposes of calculating water and sewer fees. In Oregon, tax laws limit additional property taxes for homeowners with an ADU by categorizing ADUs as property improvements rather than an additional housing unit. Other jurisdictions provide subsidies for ADUs. In Boston, the Additional Dwelling Unit Loan Pilot provides low- and moderate-income homeowners interest-free loans up to $50,000 for an ADU project. Loans do not become due until the owner sells, transfers ownership, or undertakes a cash-out refinance.
+For example, a small pilot program in Multnomah County, OR,
+A Place for You
+, covers ADU construction costs for homeowners who agree to provide housing for five years to tenants transitioning out of homelessness who did not require intensive on-site services.
+Local loan programs for ADUs are relatively rare; in most places, homeowners draw on cash, home equity, loans from family and friends, and sweat equity. But such loan programs can be helpful in overcoming financing challenges.  In San Jose, California, the Silicon Valley Housing Trust ADU Program provides loans for up to $250,000 at 5 percent interest.
+The loan covers construction
+(for a period of 36 months) and then converts to a permanent 20-year conforming mortgage upon completion. Some financial institutions are offering financing solutions.
+On Cape Cod, in Massachusetts, the First Citizens’ Federal Credit Union offers an ADU loan
+, designed specifically to help homeowners add an ADU to an existing or new home.
+A few locations, such as Los Angeles, even assist homeowners in operating ADUs designated for specific types of tenants, managing tenant selection and ensuring stable rent payments, and providing a dedicated case manager to provide landlord support.
+Eligibility
+The eligibility rules for adding an ADU to an existing single-family home vary by jurisdiction, but the most effective policies allow ADUs by right and on a wide range of lot sizes. Some towns and cities prohibit the use of ADUs for short-term rentals (e.g., less than 30 days) to discourage ADUs constructed for use as vacation rentals.
+Requirements for renters eligible to occupy an ADU also vary by jurisdiction. Renters of all income ranges are typically eligible to rent ADUs; however, because they are usually small and have limited amenities (e.g., they often lack a full kitchen), they tend to be occupied by low- and moderate-income single people. The most effective ADU policies do not restrict occupancy to the homeowners’ relatives. In most cases, where localities are not providing subsidies for the creation of ADUs, there are no formal limitations on rents or the incomes of people who occupy the units.  In these cases, affordability generally flows from the smaller size of the units.  However, some towns and cities limit occupancy to low-income individuals and households to ensure that ADUs are a source of affordable housing; these limits are generally applied when the jurisdiction has provided a subsidy to facilitate the construction of the ADU.
+Coverage
+ADUs are legal in all California cities, all Oregon towns and cities with at least 2,500 people, and many other jurisdictions across the country. Several states – such as Vermont and New Hampshire – have placed limits on the ability of localities to restrict the development of ADUs. However,
+ADUs represent a sizeable share
+of the housing stock in only four cities: Seattle, WA; Portland, OR; Los Angeles, CA; and Austin, TX. Each of these cities hosts over 1,000 ADUs.
+In general, default or “by right” zoning laws in many towns and cities limit the number of housing units on a lot, effectively prohibiting ADUs. Localities that wish to expand the use of ADUs should consider reviewing their zoning and other development policies to remove or reduce barriers to the development of ADUs. In places where ADUs are technically allowed by zoning, restrictive occupancy requirements or limitations on the size or location of ADUs sometimes severely hinder a homeowner’s ability to create or rent out an existing space to be used as an ADU.
+Almost all areas that allow ADUs require that the property owner continue to live in the primary housing unit; in 2019, Oregon passed legislation requiring cities of at least 10,000 population to drop this restriction. Many municipalities limit occupancy of ADUs, requiring that ADU residents are related to or a caregiver of the property owner.
+Additionally, zoning laws often restrict the changes in appearance that can be made while installing an ADU (entrances to the ADU must be located on the side or rear of the property, external staircases may not be created to accommodate an ADU, etc.). Other deterrents can include minimum setbacks and height restrictions. Off-street parking requirements for ADUs can effectively prohibit this type of housing unit.
+Other considerations
+Some localities encourage the use of ADUs for specific purposes. The most common is for lower-income people, often below 80 percent of AMI, but other places encourage ADUs for more specific populations, such as to provide housing units for previously homeless people (Los Angeles County) and older people (City of Los Angeles).
+In many cities where housing is expensive, such as San Francisco, it is not uncommon for residents to illegally install ADUs. Illegal units are not inspected for safety or compliance with other local regulation and can result in substandard housing units. By accommodating rather than prohibiting ADUs, localities can help ensure that housing units are safe.  Some communities introduce temporary amnesty programs that allow homeowners to bring existing illegal ADUs up to code and ensure the units provide safe housing.
+Examples
+Locations that make ADUs easier to build
+California
+state lawmakers have passed
+several pieces of legislation
+designed to make it easier for homeowners to build ADUs. Among other things, California
+stipulates that ADU permits are automatically approved if no determination is made within 60 days (rather than the120 days previously allowed)
+, limits local discretion in establishing minimum and maximum unit size  or parking requirements, allows for up to one ADU and one JADU (junior ADU, which has a square footage of no more than 500 feet), and prohibits owner-occupancy requirements until 2025. In Los Angeles in 2018, the year after the law went into effect,
+20 percent of permits issued by the city
+were for ADUs.
+Los Angeles also offers a list of 20
+pre-approved ADU designs
+.
+In 2018, the city of
+Burlington, VT
+passed a similar
+series of ADU laws
+which streamlined permitting, removed parking restrictions entirely, increased the maximum ADU size, and provided additional lot coverage. Along with the legislation, the city published a white paper with further recommendations to facilitate ADU production, including design guidelines and policies for short-term rentals.
+Portland
+, OR
+was the first city in the country to allow
+two ADUs on any property
+in any configuration as of right. The city also eliminated parking requirements, allowed for detached ADUs on duplexes, and increased basement ADU maximum sizes.
+Portland, ME
+allows for two ADUs on any residential property as of right, including multifamily properties. Size limitations allow for a single ADU up to 2/3 the size of the primary dwelling unit, or two ADUs that are cumulatively equal in size to the primary dwelling. These units can be built within the primary dwelling unit, within an existing detached structure (like a garage), or in a new detached structure.
+Locations that promote ADUs for special populations
+The City of Los Angeles’
+ADU Accelerator Program pairs older adults with homeowners with ADUs available to rent
+. The program essentially manages the rental for the homeowner, handling every step of the rental process from finding a tenant to ensuring stable rent payments. Homeowners commit to the program for five years.
+The
+Los Angeles County Development Authority
+piloted a loan program in 2019 that provided three homeowners in unincorporated areas of LA County with a forgivable loan of $75,000 to construct new ADUs and $50,000 for rehabbing existing unpermitted ADUs that will house people transitioning out of homelessness for a minimum of ten years.
+In addition to the forgivable loan
+, the program also streamlined the permitting process and provided technical assistance to homeowners.
+In
+Oakland, CA
+, the
+Keys to Equity program
+uses ADUs as a tool for protecting against displacement and building wealth for the city’s residents, “
+with a focus on Black homeowners and those who have been disproportionately impacted by systemic racial and economic inequities within the housing system.”
+The program offers assistance in the construction of new units and the
+renovation
+and
+legalization of
+existing units.
+Related resources
+A Look at U.S. Efforts to Encourage ADU Production
+: As the white house makes a unified effort to promote ADUs across the country, HUD convened a panel of local experts to discuss various efforts to encourage production.
+Accessory Dwellings
+: a website with extensive resources related to ADUs, including research and policy, guides to building ADUs, and describing ADU-related initiatives and innovations.
+Accessory Dwelling Units: Lessons for Massachusetts from Around the Country
+. A report by the Joint Center for Housing Studies of Harvard University highlights approaches and barriers to successful ADU development.
+American Planning Association
+: a website with planning and zoning resources related to ADUs, as well as reports, briefing papers, case studies, articles, blog posts, online trainings, videos, statutes, guides, model ordinances, comprehensive plans, and regulations
+Compiled sections relevant to ADUs of National Association of Home Builders report,
+Diversifying Housing Options with Smaller Lots and Smaller Homes
+, 2019. Includes ordinance and code analysis by jurisdiction and case studies
+.
+Making It Happen: Scaling Accessory Dwelling Units
+. “Making it Happen” is a series of issue briefs published by Enterprise that explore recent successes in scaling affordable housing innovations by addressing regulatory and financing barriers to these innovations. The first in the series, this issue brief lays out recent progress in bringing ADU development to scale.
+The State of Zoning for Accessory Dwelling Units
+: 2018 Pioneer Institute white paper by Amy Dain evaluating current zoning for ADUs and estimating the potential impact of ADUs on housing supply in Massachusetts.
+[1] These cost estimates are from the City of Los Angeles; costs may be higher or lower in other locations.

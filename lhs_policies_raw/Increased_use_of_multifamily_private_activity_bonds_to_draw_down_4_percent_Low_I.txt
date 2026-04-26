@@ -1,0 +1,78 @@
+Title: Increased use of multifamily private activity bonds to draw down 4 percent Low Income Housing Tax Credits
+Source: https://www.localhousingsolutions.org/housing-policy-library/increased-use-of-multifamily-private-activity-bonds-to-draw-down-4-percent-low-income-housing-tax-credits/
+
+Each year, the federal government authorizes each state to issue a specified volume of tax-exempt private activity bonds.
+These bonds are used to fund private activities that have a public benefit, such as upgrades to airports, hospitals, and water treatment facilities, the construction or rehabilitation of multifamily affordable rental developments, and home mortgages for first-time homebuyers. The bond is repaid with income generated from the activities financed.
+While there are benefits to using private activity bonds for most qualifying uses, the bonds are especially valuable when used to finance qualifying affordable multifamily rental housing, as these developments automatically receive federal 4 percent Low-Income Housing Tax Credits (LIHTCs).
+Low Income Housing Tax Credits
+(LIHTCs, or tax credits). This combination of lower-cost financing (through the private activity bond) and equity (through the 4 percent LIHTC) can be a powerful way to expand the resources available for dedicated affordable rental housing. It also makes private activity bonds for affordable housing preservation or development more valuable than bonds used for other potential activities.
+Four percent LIHTCs are worth only about half as much as the competitive
+9 percent LIHTC
+, but the 4 percent tax credits are available as-of-right when the bond cap is used for affordable multifamily rental properties. The lower level of credits are most often used for projects with relatively low development costs – such as preservation projects requiring only light rehabilitation – or when there is significant additional subsidy available from government or from market-rate units in mixed income developments.
+This section provides more details on how private-activity bonds can be used for affordable rental housing, and the local role in making the most of this resource.
+Approach
+Each year, each state is given the authority to issue a specific dollar amount of private-activity bonds, which must be issued within a four-year period (including a 3-year carry-forward period for unused bond cap) before the authority expires. This bond cap can be used for a variety of purposes, and decisions about how much to allocate for affordable rental housing vary from state to state. Some states prioritize affordable rental housing, while others exclusively issue bonds for other purposes, including student loans, transportation infrastructure, or industrial development activities.
+[1]
+See the discussion of the local role for more on how cities can increase utilization of private-activity bonds for affordable rental housing.
+Eligibility
+Both the private-activity bond program and Low-Income Housing Tax Credits have their own eligibility criteria, determined by federal law, including income requirements, eligible uses, and affordability periods. For example, private-activity bonds used for affordable rental housing can only be used for construction financing or permanent loans, and at least 95 percent of net proceeds must be used to finance residential rental property.
+[1]
+Units developed with Low-Income Housing Tax Credits are subject to rent restrictions that must be maintained for at least 30 years, including an initial 15-year “compliance period” and a subsequent 15-year “extended use period”.
+[2]
+To qualify for the 4 percent credits, at least 50 percent of eligible project costs must be financed with private-activity bonds. Depending on their goals, states may choose to establish other objectives or targets for multifamily private-activity bond financing.
+Feasibility
+Factors that may influence the feasibility of using private-activity bonds to support multifamily housing and draw down 4 percent LIHTCs include:
+Strength of the demand for 9 percent LIHTCs
+Developers who are issued 4 percent LIHTCs typically need to carry more debt and find more sources of gap financing (funding to fill remaining gaps in the development budget) than developers who receive 9 percent tax credits. However, the 4 percent tax credit is limited only by the amount of bond cap that is devoted to multifamily rental housing, while 9 percent tax credits are awarded on a competitive basis and are often oversubscribed. In markets where demand for the 9 percent LIHTC exceeds supply, developers may be more interested in exploring the 4 percent LIHTC as a tool to fund the development of affordable multifamily rental housing. Consultation with local developers of affordable housing can provide useful insights into the nature of local development activity and likely demand for the combination of private-activity bond financing and 4 percent tax credits. Local officials can also look at projects that are currently being funded with 9 percent tax credits, to determine how many would have been good candidates for the 4 percent LIHTC.
+Competing uses of private-activity bonds
+As part of the process of pursuing private-activity bonds for affordable rental housing, local jurisdictions should familiarize themselves with recent bond cap allocations. States only have a limited amount of bond volume to allocate (sometimes called the bond cap), and there may be tight competition for this limited resource. With a clear understanding of how a state’s bond cap is currently distributed, it may be possible to identify alternative funding sources for current uses and strengthen the case for reserving a portion of the bond cap for affordable rental housing. The ability to
+recycle tax-exempt bonds
+that may be needed for only a few years, e.g., only during construction, has allowed some states to provide tax-exempt financing for eligible multifamily housing that does not qualify for tax credits.
+Interest rates
+Because the interest income earned by holders of private-activity bonds is generally not subject to federal income tax, the borrowing rate, or cost to developers, is typically below conventional rates. This lower borrowing cost is one reason why developers seek to obtain private-activity bond financing. When conventional rates are low, however, private-activity bonds are a less attractive means of financing a project. Adding in the longer processing time and higher transaction costs associated with bond issues, they may even be
+more
+expensive than conventional financing – and therefore less attractive to developers
+[3]
+– though the benefits of automatically qualifying for 4 percent LIHTCs (despite providing fewer resources than the 9 percent credits) may mean that private-activity bonds are still worth pursuing.
+Project viability absent gap financing
+As noted above, many projects using 4 percent LIHTCs may need significant additional government subsidies or cross-subsidies from market-rate units in mixed income developments in order to be economically viable. While cities can prioritize the use of federal, state, or local funds to help fill the financing gap, in some cases these funds may not be available at all or may not be available in amounts sufficient to assist all projects.
+The local role
+As discussed above, states choose from a variety of eligible uses when deciding how to allocate their private-activity bond allocations. Local jurisdictions can play an important role in making the case for allocating a substantial portion of the state’s limited bond cap for affordable rental housing. In some states, a portion of the issuing authority is delegated to local entities. In other cases, local officials and others advocating for more affordable housing can join forces to educate state decision-makers about the added value that accrues to bonds used for affordable rental housing, in the form of 4 percent tax credits for affordable housing preservation or development. The value of dedicating bond cap for multifamily affordable rental housing is particularly obvious in states where available bond cap has gone unused in recent years and has ultimately been relinquished. Given the 4 percent LIHTC credits leveraged by private activity bonds used for multifamily affordable rental housing, a strong case can also be made for prioritizing this use of bond cap in states where the bond cap is fully allocated each year.
+When states do choose to issue private-activity bonds for affordable rental housing, a housing finance agency (HFA) is typically the agency that issues the bonds. The HFA is in most cases a state-level agency, but some larger jurisdictions also have their own local HFA or redevelopment authority that is authorized to issue housing bonds. These agencies focus exclusively on local needs, both in terms of the allocation of resources and in helping to execute and meet the goals articulated in the city’s housing strategy. Recognizing these benefits, some cities may seek to establish their own local housing or redevelopment agency. These jurisdictions should be aware that these efforts will require a significant commitment of time, energy, and resources.
+Because 4 percent LIHTCs provide a smaller subsidy than 9 percent LIHTCs, developers using the 4 percent tax credit may need to find additional sources of gap financing. This financing frequently comes from other federal programs, including block grant programs such as
+HOME
+,
+Community Development Block Grant
+and the Federal Home Loan Bank’s Affordable Housing Program. When these resources are not available, it may be difficult or impossible to get projects to work from a financial standpoint. Cities can help fill the gap by setting aside gap financing for local projects financed with private-activity bonds and 4 percent tax credits, including giving these projects priority consideration for housing trust fund awards and HOME and CDBG funding.
+Examples
+The
+Hawaii
+Housing Finance and Development Corporation (HHFDC) supports new construction and rehabilitation of existing affordable rental housing through the Hula Mae Multi-Family Program. HHFDC issues bonds through the program, subject to the state’s allocation of private-activity bond cap, and selects projects that will benefit from this lower cost funding source. In keeping with requirements of the LIHTC program, to be eligible, projects must set aside at least 20 percent of units for tenants earning less than 50 percent of the
+area median income
+or 40 percent of units for tenants earning less than 60 percent. Affordability controls must remain in place for the longer of 15 years or the term of the bond.
+More details are provided at Hawaii’s Housing Finance and Development website.
+The
+Michigan
+State Housing Development Authority (MSHDA) has created a Gap Financing Program to support affordable projects that use private-activity bonds. Through the program, MSHDA sets aside HOME funds and provides below-market second mortgages, to be used exclusively to provide gap financing to projects financed with bonds issued by MSHDA. Funds are available for new construction,
+adaptive reuse
+, acquisition/rehabilitation, and preservation transactions, and are provided as long-term subordinate loans with interest rates ranging from 1 percent to 3 percent.
+More details are provided in the MSHDA’s Gap Financing Program report.
+Related resources
+General
+Low-Income Housing Tax Credits and Private Activity Bonds: A Guide to Affordable Housing Development
+, Samuel Dean Eyre (2004) – Prepared as a Masters Project submitted to the faculty at University of North Carolina at Chapel Hill, this paper provides a detailed overview of the LIHTC and private-activity bond programs, and extensive discussion of factors to consider when using bonds and 4 percent LIHTCs in combination.
+How to Unleash Underutilized Private Activity Bonds to Build More Affordable Rental Housing
+, Novogradac & Company (September 2016) – This brief provides a basic overview of how the private-activity bond program operates, including describing basic steps to increase utilization for the production of affordable rental housing.
+Program design
+Financing Supportive Housing with Tax-Exempt Bonds and 4 percent Low-Income Housing Tax Credits
+, Corporation for Supportive Housing (October 2007) – This report describes strategies and considerations for using private-activity bonds and 4 percent tax credits to support the development of supportive housing, as well as case studies that illustrate how these strategies have worked in practice.
+Four percent LIHTCs are one component of the Low-Income Housing Tax Credit program, which also includes 9 percent tax credits. More information on the program is available in the
+Low-Income Housing Tax Credit
+policy brief.
+1. Novogradac, Michael.
+How to Unleash Underutilized Private Activity Bonds to Build More Affordable Rental Housing.
+September 2016, Novogradac & Company.
+2. The affordability periods required by states vary, and may extend beyond 15 or 30 years. Federal law require 30 years but, after 15 years, owners of LIHTC properties may request permission from the HFA to sell the development or convert it to market rate rents at the conclusion of the compliance period. If, within one year, the HFA is unable to find a buyer who will keep rent restrictions in place for the remaining 15 year extended use period, then the owner may sell or convert the property.
+3. Eyre, Samuel Dean.
+Low-Income Housing Tax Credits and Private Activity Bonds: A Guide to Affordable Housing Development.
+2004, University of North Carolina at Chapel Hill.
