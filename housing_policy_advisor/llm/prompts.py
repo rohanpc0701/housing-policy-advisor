@@ -52,11 +52,11 @@ Retrieved evidence chunks (each labeled with its ID):
 {evidence_block}
 
 Rules (strictly enforced):
-1) policy_name MUST be the exact name of a program or policy tool as written in one of the retrieved chunks above. Do not invent or paraphrase names.
+1) policy_name MUST be the exact name of a specific program or policy tool as written in one of the retrieved chunks above. Do not use generic category names like "Rental Assistance Programs" or "Homeownership Programs" — use the specific program name from the evidence.
 2) evidence_basis MUST contain the exact chunk ID labels shown in brackets above (e.g., "gap_report_2024_p1_c0"). Cite at least one ID per recommendation whose chunk text supports the policy.
 3) Do not recommend any policy that is not supported by at least one retrieved chunk.
 4) Return ONLY valid JSON — no prose, no markdown, no commentary.
-5) Provide at least 3 recommendations ranked 1..N.
+5) Provide at least 5 recommendations ranked 1..N. More is better if evidence supports it.
 6) state_of_implementation: name a real U.S. state where this policy is actively implemented — proves legal feasibility. Use null if unknown.
 
 Output schema:

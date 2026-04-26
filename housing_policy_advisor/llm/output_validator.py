@@ -45,7 +45,7 @@ def compute_validation_summary(
 
     completeness = complete_items / len(recommendations)
     passed = (
-        len(recommendations) >= 3
+        len(recommendations) >= 5
         and clipped_grounding >= config.GROUNDING_THRESHOLD
         and avg_confidence >= config.CONFIDENCE_THRESHOLD
         and completeness >= 1.0

@@ -125,4 +125,4 @@ def policy_json_schema_instructions() -> str:
     "passed": <true|false>
   }
 }
-No markdown, no prose, minimum 3 recommendations."""
+No markdown, no prose, minimum 5 recommendations."""

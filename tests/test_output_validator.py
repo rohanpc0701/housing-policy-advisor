@@ -20,7 +20,7 @@ def test_summary_flags_low_confidence():
     assert summary.avg_confidence == 0.2
 
 
-def test_summary_requires_minimum_three_recommendations():
+def test_summary_requires_minimum_five_recommendations():
     recs = [
         PolicyRecommendation(
             rank=i + 1,
