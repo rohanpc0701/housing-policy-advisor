@@ -89,16 +89,7 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
     homeownership = locality.homeownership_rate
     governance_form = (locality.governance_form or "").lower()
 
-    # COLLEGE_TOWN: moderate population (bounded to avoid large cities), low homeownership
-    if (
-        pop is not None
-        and 15_000 < pop < 120_000
-        and homeownership is not None
-        and homeownership < 0.45
-    ):
-        return "COLLEGE_TOWN"
-
-    # URBAN_HIGH_COST: large population AND high income
+    # URBAN_HIGH_COST: large city, high income, high burden
     if (
         pop is not None
         and pop > 50_000
@@ -108,9 +99,9 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
         and burden is not None
         and burden > 0.35
     ):
-            return "URBAN_HIGH_COST"
+        return "URBAN_HIGH_COST"
 
-    # URBAN_MODERATE: large population, moderate income
+    # URBAN_MODERATE: large city, moderate income
     if (
         pop is not None
         and pop > 50_000
@@ -119,6 +110,17 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
         and income >= 45_000
     ):
         return "URBAN_MODERATE"
+
+    # COLLEGE_TOWN: moderate population (bounded), below-average homeownership.
+    # Checked after urban city profiles — county-level ACS threshold raised to 0.58
+    # because surrounding rural areas dilute the university homeownership signal.
+    if (
+        pop is not None
+        and 15_000 < pop < 120_000
+        and homeownership is not None
+        and homeownership < 0.58
+    ):
+        return "COLLEGE_TOWN"
 
     # SUBURBAN_GROWING: large non-city jurisdiction, moderate+ income
     if (
