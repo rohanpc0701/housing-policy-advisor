@@ -231,28 +231,52 @@ class PolicyAdvisor:
         if not chunks or not llm_output.strip():
             return 0.0
 
-        recommended_policies = self._extract_recommended_policy_names(llm_output)
-        if not recommended_policies:
+        try:
+            payload = json.loads(llm_output)
+        except Exception:
             return 0.0
 
-        chunk_text = " ".join(str(chunk.get("text", "")) for chunk in chunks).lower()
+        recs = payload.get("recommendations", []) if isinstance(payload, dict) else []
+        if not recs:
+            return 0.0
+
+        # Primary: evidence_basis entries reference a real retrieved chunk ID.
+        chunk_ids = {
+            str(c.get("id", "")).strip().lower().strip("[]")
+            for c in chunks
+            if c.get("id")
+        }
+        chunk_text = " ".join(str(c.get("text", "")) for c in chunks).lower()
         chunk_terms = set(self._policy_key_terms(chunk_text))
+
         backed = 0
-        for policy_name in recommended_policies:
+        for rec in recs:
+            if not isinstance(rec, dict):
+                continue
+
+            cited = {
+                str(e).strip().lower().strip("[]")
+                for e in (rec.get("evidence_basis") or [])
+                if e
+            }
+            if cited & chunk_ids:
+                backed += 1
+                continue
+
+            # Fallback: policy name keyword overlap with retrieved chunk text.
+            policy_name = str(rec.get("policy_name", "")).strip()
             canonical = self._canonical_concept_for_policy(policy_name)
             if canonical and canonical in chunk_text:
                 backed += 1
                 continue
-
-            # Fallback: key terms from policy/concept overlap with retrieved chunks.
             key_terms = self._policy_key_terms(canonical if canonical else policy_name)
             if not key_terms:
                 key_terms = self._policy_key_terms(policy_name)
             overlap = sum(1 for term in key_terms if term in chunk_terms)
-            if overlap >= 2 or (key_terms and overlap / len(key_terms) >= 0.6):
+            if key_terms and (overlap >= 2 or (len(key_terms) >= 3 and overlap / len(key_terms) >= 0.5)):
                 backed += 1
 
-        return backed / len(recommended_policies)
+        return backed / len(recs)
 
     def generate(self, locality_input: FullLocalityInput) -> PolicyRecommendationsResult:
         locality_json = asdict(locality_input)

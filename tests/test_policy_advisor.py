@@ -90,3 +90,39 @@ def test_distance_to_confidence():
     assert adv._distance_to_confidence(0.0) == pytest.approx(1.0)
     assert adv._distance_to_confidence(1.0) == pytest.approx(0.5)
     assert adv._distance_to_confidence(9.0) == pytest.approx(0.1)
+
+
+def test_grounding_score_chunk_id_primary():
+    """Recommendation citing a real chunk ID scores as backed."""
+    import json
+    adv = PolicyAdvisor()
+    chunks = [{"id": "adu_brief_p1_c0", "text": "accessory dwelling unit policy", "metadata": {}, "distance": 0.2}]
+    llm_output = json.dumps({
+        "recommendations": [
+            {"policy_name": "ADU Program", "evidence_basis": ["adu_brief_p1_c0"]},
+            {"policy_name": "Invented Policy", "evidence_basis": ["nonexistent_id"]},
+        ]
+    })
+    score = adv._compute_grounding_score(chunks, llm_output)
+    assert score == pytest.approx(0.5)
+
+
+def test_grounding_score_keyword_fallback():
+    """Recommendation with no chunk ID match falls back to keyword overlap."""
+    import json
+    adv = PolicyAdvisor()
+    chunks = [{"id": "c1", "text": "community land trust permanently affordable homeownership", "metadata": {}, "distance": 0.1}]
+    llm_output = json.dumps({
+        "recommendations": [
+            {"policy_name": "Community Land Trust", "evidence_basis": ["unknown_id"]},
+        ]
+    })
+    score = adv._compute_grounding_score(chunks, llm_output)
+    assert score == pytest.approx(1.0)
+
+
+def test_grounding_score_empty_chunks():
+    import json
+    adv = PolicyAdvisor()
+    score = adv._compute_grounding_score([], json.dumps({"recommendations": [{"policy_name": "X", "evidence_basis": []}]}))
+    assert score == 0.0

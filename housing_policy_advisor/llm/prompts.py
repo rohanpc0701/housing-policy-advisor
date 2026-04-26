@@ -31,7 +31,8 @@ def policy_recommendation_prompt(
     evidence_block = "\n\n---\n\n".join(evidence_lines) if evidence_lines else "(no retrieved evidence)"
     schema = policy_json_schema_instructions()
     return f"""You are a housing policy advisor for local governments.
-Use the locality data and retrieved evidence to generate ranked policy recommendations.
+Use ONLY the retrieved evidence chunks below to generate ranked policy recommendations.
+Do not draw on training knowledge for policy names — every recommended policy must appear in the chunks.
 
 This locality has been classified as: {locality_profile}
 
@@ -41,28 +42,22 @@ Profile guidance:
 - URBAN_MODERATE: prioritize missing middle housing, land banks, workforce housing, rental registry, housing choice vouchers
 - URBAN_HIGH_COST: prioritize community land trusts, inclusionary zoning, anti-displacement, tax increment financing, opportunity to purchase
 - COLLEGE_TOWN: prioritize missing middle housing, rental regulation, density bonus, landlord recruitment, short term rental regulation
+- SUBURBAN_GROWING: prioritize transit-oriented development, ADUs in single-family zones, workforce housing, infrastructure-linked growth management
 - UNKNOWN: use your best judgment based on locality data
-
-Recommend policies appropriate for this profile. Do not default to the same policies for every locality.
-
-Do not give generic advice like "increase affordable housing supply."
-Name the specific program or policy tool from the retrieved evidence documents and explain why it fits this locality's profile.
 
 Locality data JSON:
 {locality_json}
 
-Retrieved evidence chunks with citations:
+Retrieved evidence chunks (each labeled with its ID):
 {evidence_block}
 
-Base your recommendations strictly on the policy documents provided.
-Use the exact policy names from those documents.
-
-Rules:
-1) Use only evidence-grounded claims.
-2) Keep evidence_basis entries as citation strings that reference the chunk IDs.
-3) Return ONLY valid JSON and no extra prose.
-4) Provide at least 3 recommendations ranked 1..N.
-5) For state_of_implementation: name a real U.S. state where this policy is actively used — this proves legal feasibility. Use null if unknown.
+Rules (strictly enforced):
+1) policy_name MUST be the exact name of a program or policy tool as written in one of the retrieved chunks above. Do not invent or paraphrase names.
+2) evidence_basis MUST contain the exact chunk ID labels shown in brackets above (e.g., "gap_report_2024_p1_c0"). Cite at least one ID per recommendation whose chunk text supports the policy.
+3) Do not recommend any policy that is not supported by at least one retrieved chunk.
+4) Return ONLY valid JSON — no prose, no markdown, no commentary.
+5) Provide at least 3 recommendations ranked 1..N.
+6) state_of_implementation: name a real U.S. state where this policy is actively implemented — proves legal feasibility. Use null if unknown.
 
 Output schema:
 {schema}
