@@ -260,10 +260,11 @@ def retrieve_chunks(
         out: List[Dict[str, Any]] = []
         profile = _assign_locality_profile(locality)
         pass_2_queries = _queries_for_profile(profile, locality)
+        pass_2_k = max(2, k // 4)
 
         pass_1_res = collection.query(
             query_texts=[query],
-            n_results=10,
+            n_results=k,
             include=["documents", "metadatas", "distances"],
         )
         out.extend(_format_query_results(pass_1_res, retrieval_pass="locality", query=query, profile=profile))
@@ -271,7 +272,7 @@ def retrieve_chunks(
         for policy_query in pass_2_queries:
             pass_2_res = collection.query(
                 query_texts=[policy_query],
-                n_results=2,
+                n_results=pass_2_k,
                 include=["documents", "metadatas", "distances"],
             )
             out.extend(
