@@ -29,3 +29,8 @@ chroma_db/
 # Legacy scratch code (not part of active package)
 housing_policy_advisor/past_code/
 
+# Legacy pre-refactor files and local tools (not part of active package)
+Housing LLM/
+security_agent.py
+security_agent_report.md
+

@@ -120,6 +120,16 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
     ):
         return "URBAN_MODERATE"
 
+    # SUBURBAN_GROWING: large non-city jurisdiction, moderate+ income
+    if (
+        pop is not None
+        and pop > 50_000
+        and governance_form != "city"
+        and income is not None
+        and income >= 55_000
+    ):
+        return "SUBURBAN_GROWING"
+
     # RURAL_LOW_INCOME: small population OR low income
     if (income is not None and income < 45_000) or (pop is not None and pop < 50_000):
         return "RURAL_LOW_INCOME"

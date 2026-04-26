@@ -6,7 +6,6 @@ from dataclasses import asdict, fields
 from typing import Any, Dict, Optional
 
 from housing_policy_advisor.data.clients.bls_client import fetch_laus_county_data
-from housing_policy_advisor.data.clients.bls_qcew_client import fetch_qcew_county_wages
 from housing_policy_advisor.data.clients.census_client import fetch_acs_county_data
 from housing_policy_advisor.data.clients.hud_client import fetch_hud_county_data
 from housing_policy_advisor.models.locality_input import FullLocalityInput
@@ -64,13 +63,11 @@ def build_full_input(
     census = fetch_acs_county_data(state_fips, county_fips, census_api_key)
     hud = fetch_hud_county_data(state_fips, county_fips, hud_fips=hud_fips, token=hud_token)
     bls = fetch_laus_county_data(state_fips, county_fips, bls_api_key)
-    qcew = fetch_qcew_county_wages(state_fips, county_fips)
 
     merged: Dict[str, Any] = {}
     merged.update(census)
     merged.update(hud)
     merged.update(bls)
-    merged.update(qcew)
 
     base = FullLocalityInput(
         locality_name=locality_name,
