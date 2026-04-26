@@ -66,7 +66,7 @@ class VectorDatabase:
                     md[k] = v if isinstance(v, (str, int, float, bool)) else str(v)
                 metadatas.append(md)
 
-            self.collection.add(
+            self.collection.upsert(
                 ids=ids,
                 embeddings=batch_embs,
                 documents=texts,
