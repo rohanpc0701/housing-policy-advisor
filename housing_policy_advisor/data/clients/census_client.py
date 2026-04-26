@@ -185,6 +185,8 @@ def fetch_acs_county_data(
         "B08202_003E",
         "B08202_004E",
         "B08202_005E",
+        # B20002 median earnings full-time year-round workers
+        "B20002_001E",
     ]
 
     with httpx.Client() as client:
@@ -305,5 +307,10 @@ def fetch_acs_county_data(
     land_sq_miles = _fetch_land_area_sq_miles(state_fips, county_fips, api_key)
     if land_sq_miles and land_sq_miles > 0 and pop:
         out["population_density"] = pop / land_sq_miles
+
+    # Median earnings for full-time year-round workers (individual, not household)
+    wage_med = _clean_int(row.get("B20002_001E"))
+    if wage_med:
+        out["wage_median"] = float(wage_med)
 
     return out
