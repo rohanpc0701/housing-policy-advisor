@@ -1,14 +1,16 @@
 """API keys, model config, and validation thresholds."""
 
 import os
+import logging
 from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
+logger = logging.getLogger(__name__)
 
 CENSUS_API_KEY = os.getenv("CENSUS_API_KEY")
 # Support both names; HUD_TOKEN appears in project docs and older setups.
-HUD_API_TOKEN = os.getenv("HUD_API_TOKEN") or os.getenv("HUD_TOKEN")
+HUD_API_TOKEN = os.getenv("HUD_API_TOKEN") or os.getenv("HUD_API_KEY") or os.getenv("HUD_TOKEN")
 BLS_API_KEY = os.getenv("BLS_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")
@@ -49,3 +51,20 @@ GROUNDING_THRESHOLD = 0.80
 CONFIDENCE_THRESHOLD = 0.55
 POPULATION_MATCH_TOLERANCE = 0.30
 INCOME_MATCH_TOLERANCE = 0.20
+
+
+def validate_optional_api_keys(
+    hud_api_key: str | None = HUD_API_TOKEN,
+    bls_api_key: str | None = BLS_API_KEY,
+) -> None:
+    """Log clear startup warnings when optional data-provider keys are absent."""
+    if not (hud_api_key or "").strip():
+        logger.warning(
+            "Missing HUD API key: set HUD_API_TOKEN or HUD_API_KEY "
+            "(register: https://www.huduser.gov/hudapi/public/register)."
+        )
+    if not (bls_api_key or "").strip():
+        logger.warning(
+            "Missing BLS API key: set BLS_API_KEY "
+            "(register: https://www.bls.gov/developers/api_faqs.htm)."
+        )

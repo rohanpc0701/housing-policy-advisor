@@ -8,6 +8,7 @@ from datetime import date
 from typing import Any, Dict, List
 
 from housing_policy_advisor.models.policy_output import (
+    ComparableCommunity,
     PolicyRecommendation,
     PolicyRecommendationsResult,
     ValidationSummary,
@@ -65,6 +66,7 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
         "implementation_timeline",
         "resource_requirements",
         "risks",
+        "comparable_communities",
     ]
     for k in required:
         if k not in item:
@@ -77,6 +79,10 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
     risks = item["risks"]
     if not isinstance(risks, list):
         raise ValueError("risks must be a list")
+
+    comparable_communities = item["comparable_communities"]
+    if not isinstance(comparable_communities, list):
+        raise ValueError("comparable_communities must be a list")
 
     flags = item.get("validation_flags") or []
     if not isinstance(flags, list):
@@ -94,8 +100,23 @@ def _dict_to_recommendation(item: Dict[str, Any]) -> PolicyRecommendation:
         implementation_timeline=str(item["implementation_timeline"]),
         resource_requirements=str(item["resource_requirements"]),
         risks=[str(x) for x in risks],
+        comparable_communities=[_dict_to_comparable_community(x) for x in comparable_communities],
         state_of_implementation=state_of_implementation,
         validation_flags=[str(x) for x in flags],
+    )
+
+
+def _dict_to_comparable_community(item: Any) -> ComparableCommunity:
+    if not isinstance(item, dict):
+        raise ValueError("comparable_communities entries must be objects")
+    required = ["name", "population", "median_household_income"]
+    for key in required:
+        if key not in item:
+            raise ValueError(f"Missing comparable community field: {key}")
+    return ComparableCommunity(
+        name=str(item["name"]).strip(),
+        population=int(item["population"]),
+        median_household_income=int(item["median_household_income"]),
     )
 
 
@@ -114,6 +135,13 @@ def policy_json_schema_instructions() -> str:
       "implementation_timeline": "<string>",
       "resource_requirements": "Low" | "Medium" | "High",
       "risks": ["<string>"],
+      "comparable_communities": [
+        {
+          "name": "<locality, state>",
+          "population": <integer>,
+          "median_household_income": <integer>
+        }
+      ],
       "state_of_implementation": "<state name or null>",
       "validation_flags": []
     }

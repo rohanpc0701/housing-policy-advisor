@@ -34,3 +34,7 @@ Housing LLM/
 security_agent.py
 security_agent_report.md
 
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json

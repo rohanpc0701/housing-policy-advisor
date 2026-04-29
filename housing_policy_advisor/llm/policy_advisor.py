@@ -317,5 +317,7 @@ class PolicyAdvisor:
         parsed.validation_summary = compute_validation_summary(
             parsed.recommendations,
             grounding_score=grounding_score,
+            target_population=locality_input.population_estimate,
+            target_median_household_income=locality_input.median_household_income,
         )
         return parsed

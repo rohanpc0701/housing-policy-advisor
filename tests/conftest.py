@@ -6,7 +6,11 @@ import io
 import pytest
 
 from housing_policy_advisor.models.locality_input import FullLocalityInput
-from housing_policy_advisor.models.policy_output import PolicyRecommendation, PolicyRecommendationsResult
+from housing_policy_advisor.models.policy_output import (
+    ComparableCommunity,
+    PolicyRecommendation,
+    PolicyRecommendationsResult,
+)
 
 
 @pytest.fixture()
@@ -43,6 +47,13 @@ def sample_recommendation() -> PolicyRecommendation:
         implementation_timeline="2 years",
         resource_requirements="Moderate staff capacity",
         risks=["Developer pushback"],
+        comparable_communities=[
+            ComparableCommunity(
+                name="Comparable City, VA",
+                population=95_000,
+                median_household_income=63_000,
+            )
+        ],
     )
 
 

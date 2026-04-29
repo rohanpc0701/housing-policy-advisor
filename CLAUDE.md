@@ -19,7 +19,7 @@ python3 -m housing_policy_advisor \
   --locality "Montgomery County" --state "Virginia" \
   --state-fips 51 --county-fips 121 \
   --governance-form county --state-abbr va \
-  --housing-dept-present true --building-permits-annual 250 \
+  --housing-dept-present true \
   --retrieval-k 20 --out-dir .
 
 # Build vector store from PDF corpus
@@ -37,7 +37,7 @@ python3 -m housing_policy_advisor.rag.ingest \
 - Fixed COLLEGE_TOWN profile assignment: added upper pop bound `< 120k` to prevent large-city misclassification.
 - Added SUBURBAN_GROWING profile queries (TOD, APFO, suburban infill) and wired profile assignment logic.
 - Removed dead pdf/docx output path and `output_format` parameter from pipeline + CLI.
-- Added BLS QCEW wage client — found API returns 404 for all county URLs; removed client. `wage_median` now populated from ACS `B20002_001E` (median worker earnings, full-time year-round).
+- `wage_median` is populated from ACS `B20002_001E` (median worker earnings, full-time year-round).
 - Added contract tests: CLI smoke, pipeline JSON shape, missing-API-key negative.
 - Changed `VectorDatabase.add_chunks` from `add()` to `upsert()` — safe re-ingestion of same filenames.
 - Corpus expanded: 28 PDFs ingested (academic, case studies, fed/regulatory, implementation toolkit, Minneapolis 2040 splits); collection = 6,604 chunks.
@@ -47,6 +47,28 @@ python3 -m housing_policy_advisor.rag.ingest \
 - `CONFIDENCE_THRESHOLD` lowered 0.60 → 0.55 based on live run calibration.
 - **Grounding score: 56% → 100% on Montgomery County VA live run.**
 - 82 tests passing.
+
+### Addendum (later 2026-04-26 session)
+
+- Ingestion CLI updated with `--input-dir` and before/after collection count reporting.
+- Created `data/corpus_additions/` and ingested new files:
+  - 8 PDFs processed
+  - +205 chunks
+  - collection size 6604 -> 6809
+- Added retrieval-only integration tests for corpus expansion:
+  - `tests/test_corpus_expansion.py` (3 tests, no LLM calls)
+- Added `.env.example` and startup warnings for missing optional HUD/BLS keys:
+  - config supports `HUD_API_TOKEN` or `HUD_API_KEY` (plus legacy `HUD_TOKEN`)
+  - tests added in `tests/test_config_warnings.py`
+- Verified QCEW references removed from active code/docs; LAUS path retained.
+- Replaced hardcoded `building_permits_annual` fallback with Census BPS-derived data (`timeseries/eits/bps`):
+  - known county -> integer
+  - unknown/no data -> `None`
+  - tests added in `tests/test_census_client.py`
+- Removed `--building-permits-annual 250` from docs examples (README + CLAUDE command snippets).
+- Ran `security_agent.py`:
+  - dependency audit PASS
+  - `.env` reported as present but ignored (INFO).
 
 ### Previous session (2026-04-24)
 
@@ -109,9 +131,18 @@ Six profiles assigned by `_assign_locality_profile()` in priority order:
 
 ## Priority Tasks (When No Explicit Task Given)
 
-1. Complete full 4-locality validation run (COLLEGE_TOWN, RURAL_LOW_INCOME, URBAN_MODERATE, SUBURBAN_GROWING) and document results
-2. Tune profile routing thresholds/query sets to reduce recommendation repetition across localities
-3. Add more specific program-level documents to corpus (LIHTC guides, rental assistance toolkits) to improve confidence scores for recs 3-5
+### Done
+- [x] Full 4-locality validation run — all 4 profiles pass, grounding 1.00 (Entry 021)
+- [x] BPS `building_permits_annual` fix — flat-file `co{year}a.txt` replaces broken REST endpoint
+
+### Active
+1. **Tune profile routing** — same-profile localities share identical pass-2 query sets → similar recs; add per-locality Census-metric differentiation or expand profile-specific query variety
+2. **Corpus: program-level docs** — add LIHTC allocation guides, rental assistance toolkits; recs 4-5 confidence ~0.49-0.54 due to sparse program-level evidence
+3. **URBAN_HIGH_COST profile unvalidated** — no VA locality in current test set meets all 4 thresholds; identify a suitable locality and run
+
+### Backlog
+- `wage_pct25` / `wage_pct75` always None — no county-level ACS percentile source available (known, do not fix without instruction)
+- AGENTS.md has stale entries (e.g. references deleted `rag/prompt_builder.py`) — sync with CLAUDE.md
 
 ## Constraints
 

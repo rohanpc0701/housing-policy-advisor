@@ -53,6 +53,58 @@ def _acs_url(year: int) -> str:
     return f"https://api.census.gov/data/{year}/acs/acs5"
 
 
+_BPS_URL = "https://www2.census.gov/econ/bps/County/co{year}a.txt"
+
+
+def _fetch_building_permits_annual(
+    state_fips: str,
+    county_fips: str,
+    api_key: Optional[str] = None,  # unused; retained for call-site compat
+) -> Optional[int]:
+    """
+    Fetch annual residential building permits from Census BPS county flat file.
+
+    URL: https://www2.census.gov/econ/bps/County/co{year}a.txt
+    Returns total permitted units (1u + 2u + 3-4u + 5+) or None.
+    """
+    import datetime
+    state_fips = state_fips.zfill(2)
+    county_fips = county_fips.zfill(3)
+
+    base_year = datetime.date.today().year - 1
+    for year in (base_year, base_year - 1):
+        try:
+            with httpx.Client() as client:
+                r = client.get(_BPS_URL.format(year=year), timeout=30.0)
+                r.raise_for_status()
+                raw = r.text
+        except Exception as e:
+            logger.debug("BPS building permits unavailable for %d: %s", year, e)
+            continue
+
+        for line in raw.splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            parts = [p.strip() for p in line.split(",")]
+            if len(parts) < 17:
+                continue
+            if parts[1].zfill(2) != state_fips or parts[2].zfill(3) != county_fips:
+                continue
+            try:
+                total = (
+                    int(parts[7] or 0)
+                    + int(parts[10] or 0)
+                    + int(parts[13] or 0)
+                    + int(parts[16] or 0)
+                )
+                return total
+            except (ValueError, IndexError):
+                return None
+
+    return None
+
+
 def _get_row(
     client: httpx.Client,
     year: int,
@@ -312,5 +364,11 @@ def fetch_acs_county_data(
     wage_med = _clean_int(row.get("B20002_001E"))
     if wage_med:
         out["wage_median"] = float(wage_med)
+
+    out["building_permits_annual"] = _fetch_building_permits_annual(
+        state_fips=state_fips,
+        county_fips=county_fips,
+        api_key=api_key,
+    )
 
     return out

@@ -6,6 +6,7 @@ import argparse
 import sys
 from pathlib import Path
 
+from housing_policy_advisor import config
 from housing_policy_advisor.pipeline import run_full
 
 
@@ -27,6 +28,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--retrieval-k", type=int, default=15)
     p.add_argument("--out-dir", type=Path, default=Path("."))
     args = p.parse_args(argv)
+
+    config.validate_optional_api_keys()
 
     dept_present = _bool_arg(args.housing_dept_present) if args.housing_dept_present is not None else None
     paths = run_full(

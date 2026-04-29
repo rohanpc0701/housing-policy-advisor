@@ -23,6 +23,9 @@ _MINIMAL_RESPONSE = json.dumps({
             "implementation_timeline": "2 years",
             "resource_requirements": "Moderate",
             "risks": ["Developer resistance"],
+            "comparable_communities": [
+                {"name": "City A, VA", "population": 95000, "median_household_income": 65000}
+            ],
             "validation_flags": [],
         },
         {
@@ -34,6 +37,9 @@ _MINIMAL_RESPONSE = json.dumps({
             "implementation_timeline": "1 year",
             "resource_requirements": "Low",
             "risks": ["Neighborhood opposition"],
+            "comparable_communities": [
+                {"name": "City B, VA", "population": 102000, "median_household_income": 62000}
+            ],
             "validation_flags": [],
         },
         {
@@ -45,6 +51,9 @@ _MINIMAL_RESPONSE = json.dumps({
             "implementation_timeline": "6 months",
             "resource_requirements": "Low",
             "risks": ["Revenue loss"],
+            "comparable_communities": [
+                {"name": "County C, VA", "population": 90000, "median_household_income": 60000}
+            ],
             "validation_flags": [],
         },
     ],

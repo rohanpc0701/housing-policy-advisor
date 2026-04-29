@@ -27,6 +27,14 @@ def main(argv=None):
         help="Category and directory pair, e.g. --source-dir academic=corpus/academic",
     )
     parser.add_argument(
+        "--input-dir",
+        action="append",
+        dest="input_dirs",
+        type=Path,
+        help="Directory of PDFs to ingest (auto-category from folder name). "
+        "Example: --input-dir data/corpus_additions/",
+    )
+    parser.add_argument(
         "--reset",
         action="store_true",
         help="Reset the Chroma collection before ingesting",
@@ -59,9 +67,18 @@ def main(argv=None):
     from housing_policy_advisor.rag.ingest.builder import IngestBuilder
     from housing_policy_advisor import config
 
-    # Build sources dict — fall back to DEFAULT_PDF_SOURCES if none provided
+    # Build sources dict — fall back to DEFAULT_PDF_SOURCES if none provided.
+    # --input-dir is a convenience alias for one or more plain directories.
+    sources = {}
     if args.source_dirs:
-        sources = {cat: path for cat, path in args.source_dirs}
+        sources.update({cat: path for cat, path in args.source_dirs})
+    if args.input_dirs:
+        for p in args.input_dirs:
+            category = p.name.strip() or "input"
+            sources[category] = p
+
+    if sources:
+        pass
     else:
         sources = config.DEFAULT_PDF_SOURCES
         if not sources:
@@ -69,12 +86,17 @@ def main(argv=None):
             sys.exit(1)
 
     builder = IngestBuilder(reset=args.reset)
+    before = builder.db.get_stats()["total_chunks"]
     total = builder.ingest_directories(sources, limit=args.limit, dry_run=args.dry_run)
 
     if args.dry_run:
         print(f"Dry run complete. Would have indexed {total} chunks.")
+        print(f"Total chunk count (unchanged): {before}")
     else:
+        after = builder.db.get_stats()["total_chunks"]
         print(f"Ingestion complete. {total} chunks indexed into '{config.CHROMA_COLLECTION_NAME}'.")
+        print(f"Total chunks before: {before}")
+        print(f"Total chunks after:  {after}")
 
 
 if __name__ == "__main__":

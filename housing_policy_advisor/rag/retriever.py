@@ -8,7 +8,7 @@ Requires ``chromadb`` and ``sentence-transformers``. Set ``CHROMA_PERSIST_DIR`` 
 from __future__ import annotations
 
 import logging
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, FrozenSet, List, Optional, Tuple
 
 from housing_policy_advisor import config
 from housing_policy_advisor.models.locality_input import FullLocalityInput
@@ -21,59 +21,99 @@ UNIVERSAL_POLICY_QUERIES = [
     "zoning reform housing supply",
 ]
 
-PROFILE_POLICY_QUERIES: Dict[str, List[str]] = {
+TaggedQuery = Tuple[str, FrozenSet[str]]
+
+
+PROFILE_POLICY_QUERIES: Dict[str, List[TaggedQuery]] = {
     "RURAL_LOW_INCOME": [
-        "manufactured housing mobile home rural affordable",
-        "home repair rehabilitation assistance rural low income",
-        "USDA rural housing assistance program",
-        "down payment assistance low income rural homeownership",
-        "accessory dwelling unit rural housing",
-        "housing trust fund small locality",
-        "eviction prevention rental assistance rural",
+        ("eviction prevention rental assistance rural low income", frozenset({"high_burden", "low_income"})),
+        ("home repair rehabilitation assistance aging rural low income", frozenset({"aging_housing", "low_income"})),
+        ("manufactured housing preservation rural low income", frozenset({"low_supply", "low_income"})),
+        ("rural housing trust fund low income small locality", frozenset({"high_burden", "low_supply"})),
+        ("USDA rural housing assistance program low income", frozenset({"low_income"})),
+        ("down payment assistance low income rural homeownership", frozenset({"low_income"})),
+        ("rural rental assistance housing vouchers landlord recruitment", frozenset({"high_burden"})),
+        ("homeowner rehabilitation assistance rural", frozenset({"aging_housing"})),
+        ("accessory dwelling unit rural housing", frozenset({"low_supply"})),
+        ("vacant property rehabilitation rural housing", frozenset({"high_vacancy"})),
+        ("small locality affordable housing development subsidy", frozenset({"low_supply"})),
+        ("manufactured home community infrastructure preservation", frozenset()),
+        ("housing counseling rural homeownership", frozenset()),
     ],
     "RURAL_MODERATE": [
-        "accessory dwelling unit rural",
-        "homeowner rehabilitation assistance",
-        "community land trust rural",
-        "housing trust fund small county",
-        "employer assisted housing programs",
-        "manufactured housing preservation",
+        ("homeowner rehabilitation assistance aging housing rural", frozenset({"aging_housing", "high_income"})),
+        ("accessory dwelling unit rural low supply housing", frozenset({"low_supply", "high_income"})),
+        ("community land trust rural affordability high burden", frozenset({"high_burden"})),
+        ("housing trust fund small county", frozenset({"high_burden"})),
+        ("employer assisted housing programs rural workforce", frozenset({"high_income"})),
+        ("manufactured housing preservation rural", frozenset({"low_supply"})),
+        ("rural infill housing vacant property reuse", frozenset({"high_vacancy"})),
+        ("down payment assistance moderate income rural", frozenset({"low_homeownership"})),
+        ("small county zoning reform accessory dwelling units", frozenset({"low_supply"})),
+        ("home repair tax abatement aging housing stock", frozenset({"aging_housing"})),
+        ("regional housing trust fund rural county", frozenset()),
+        ("housing counseling rural moderate income", frozenset()),
+        ("land bank rural vacant property redevelopment", frozenset()),
     ],
     "URBAN_HIGH_COST": [
-        "inclusionary zoning mandatory affordable units",
-        "community land trust permanently affordable",
-        "tax increment financing affordable housing",
-        "density bonus affordable housing development",
-        "anti displacement tenant protection",
-        "opportunity to purchase policy",
-        "housing trust fund dedicated revenue",
+        ("inclusionary zoning mandatory affordable units high cost", frozenset({"high_burden", "high_income"})),
+        ("community land trust permanently affordable high cost city", frozenset({"high_burden", "high_income"})),
+        ("tenant protection anti displacement high burden city", frozenset({"high_burden", "low_homeownership"})),
+        ("opportunity to purchase policy tenant displacement", frozenset({"high_burden", "low_homeownership"})),
+        ("tax increment financing affordable housing high income city", frozenset({"high_income"})),
+        ("housing trust fund dedicated revenue high cost", frozenset({"high_burden"})),
+        ("density bonus affordable housing development", frozenset({"low_supply"})),
+        ("transit oriented affordable housing zoning reform", frozenset({"rapid_growth"})),
+        ("single room occupancy preservation rental affordability", frozenset({"low_homeownership"})),
+        ("vacant property acquisition affordable housing city", frozenset({"high_vacancy"})),
+        ("adaptive reuse aging housing commercial conversion", frozenset({"aging_housing"})),
+        ("fee waiver affordable housing development high cost", frozenset()),
+        ("public land disposition affordable housing city", frozenset()),
     ],
     "URBAN_MODERATE": [
-        "mixed income housing development",
-        "land bank vacant property redevelopment",
-        "missing middle housing zoning reform",
-        "housing choice voucher landlord recruitment",
-        "workforce housing programs",
-        "down payment assistance moderate income",
-        "code enforcement rental registry",
+        ("land bank vacant property redevelopment moderate income city", frozenset({"high_vacancy", "low_income"})),
+        ("housing choice voucher landlord recruitment high burden city", frozenset({"high_burden", "low_homeownership"})),
+        ("code enforcement rental registry aging housing city", frozenset({"aging_housing", "low_homeownership"})),
+        ("mixed income housing development moderate income city", frozenset({"high_burden"})),
+        ("missing middle housing zoning reform urban moderate", frozenset({"low_supply"})),
+        ("workforce housing programs moderate income", frozenset({"rapid_growth"})),
+        ("down payment assistance moderate income urban", frozenset({"low_homeownership"})),
+        ("rental assistance eviction prevention city", frozenset({"high_burden"})),
+        ("infill redevelopment affordable housing urban", frozenset({"high_vacancy"})),
+        ("housing rehabilitation tax abatement older neighborhoods", frozenset({"aging_housing"})),
+        ("accessory dwelling units urban zoning reform", frozenset({"low_supply"})),
+        ("community land trust urban moderate income", frozenset()),
+        ("public land affordable housing urban", frozenset()),
     ],
     "COLLEGE_TOWN": [
-        "missing middle housing zoning density",
-        "rental regulation tenant protection",
-        "inclusionary zoning university college town",
-        "affordable rental housing young adults",
-        "short term rental regulation",
-        "density bonus multifamily housing",
-        "landlord recruitment retention voucher",
+        ("student housing partnership affordable rental rapid growth", frozenset({"rapid_growth", "high_income"})),
+        ("vacant property reuse near campus housing aging neighborhoods", frozenset({"high_vacancy", "aging_housing"})),
+        ("rental assistance tenant protection college town high burden", frozenset({"high_burden", "low_homeownership"})),
+        ("missing middle housing zoning density college town low supply", frozenset({"low_supply", "low_homeownership"})),
+        ("affordable rental housing young adults university high burden", frozenset({"high_burden", "low_homeownership"})),
+        ("inclusionary zoning university college town", frozenset({"high_income", "high_burden"})),
+        ("short term rental regulation college town rental market", frozenset({"low_homeownership"})),
+        ("density bonus multifamily housing college town", frozenset({"low_supply"})),
+        ("landlord recruitment retention voucher college town", frozenset({"high_burden"})),
+        ("accessory dwelling units college town neighborhoods", frozenset({"low_supply"})),
+        ("rental registry code enforcement college town", frozenset({"aging_housing"})),
+        ("community land trust college town affordability", frozenset()),
+        ("housing trust fund college town", frozenset()),
     ],
     "SUBURBAN_GROWING": [
-        "transit oriented development housing suburb",
-        "adequate public facilities ordinance growth management",
-        "accessory dwelling unit single family suburban zone",
-        "large lot zoning reform missing middle suburban",
-        "workforce housing fast growing county suburb",
-        "infrastructure capacity housing development impact fees",
-        "suburban infill redevelopment affordable housing",
+        ("workforce housing fast growing county suburb high income", frozenset({"rapid_growth", "high_income"})),
+        ("infrastructure capacity housing development impact fees suburban growth", frozenset({"rapid_growth", "high_income"})),
+        ("accessory dwelling unit single family suburban zone low supply", frozenset({"low_supply", "high_income"})),
+        ("large lot zoning reform missing middle suburban low supply", frozenset({"low_supply", "high_income"})),
+        ("transit oriented development housing suburb", frozenset({"rapid_growth"})),
+        ("adequate public facilities ordinance growth management", frozenset({"rapid_growth"})),
+        ("suburban infill redevelopment affordable housing", frozenset({"high_income"})),
+        ("housing trust fund dedicated revenue suburban county", frozenset({"high_burden"})),
+        ("down payment assistance suburban workforce", frozenset({"low_homeownership"})),
+        ("commercial corridor adaptive reuse suburban housing", frozenset({"high_vacancy"})),
+        ("home repair preservation aging suburban housing", frozenset({"aging_housing"})),
+        ("inclusionary zoning suburban mixed income", frozenset()),
+        ("public land affordable housing suburban county", frozenset()),
     ],
 }
 
@@ -140,27 +180,45 @@ def _assign_locality_profile(locality: FullLocalityInput) -> str:
     return "RURAL_MODERATE"
 
 
-def _profile_query_suffix(locality: FullLocalityInput) -> str:
-    parts: List[str] = []
-    if locality.median_household_income is not None:
-        rounded_income = int(round(locality.median_household_income / 1000.0) * 1000)
-        parts.append(f"median income {rounded_income}")
-    if locality.cost_burden_rate is not None:
-        burden_pct = int(round(locality.cost_burden_rate * 100))
-        parts.append(f"cost burden {burden_pct}")
-    if locality.homeownership_rate is not None:
-        homeownership_pct = int(round(locality.homeownership_rate * 100))
-        parts.append(f"homeownership rate {homeownership_pct}")
-    return " ".join(parts)
+def _compute_locality_tags(locality: FullLocalityInput, profile: str) -> FrozenSet[str]:
+    _ = profile
+    tags: set[str] = set()
+
+    if locality.cost_burden_rate is not None and locality.cost_burden_rate > 0.42:
+        tags.add("high_burden")
+
+    permits = locality.building_permits_annual
+    if permits is None or permits < 100:
+        tags.add("low_supply")
+    elif permits > 500:
+        tags.add("rapid_growth")
+
+    if locality.vacancy_rate is not None and locality.vacancy_rate > 0.08:
+        tags.add("high_vacancy")
+    if locality.homeownership_rate is not None and locality.homeownership_rate < 0.45:
+        tags.add("low_homeownership")
+    if locality.median_household_income is not None and locality.median_household_income < 45_000:
+        tags.add("low_income")
+    if locality.median_household_income is not None and locality.median_household_income > 80_000:
+        tags.add("high_income")
+    if locality.pct_built_pre_1980 is not None and locality.pct_built_pre_1980 > 0.55:
+        tags.add("aging_housing")
+
+    return frozenset(tags)
+
+
+def _select_queries(profile: str, locality: Optional[FullLocalityInput], n: int = 7) -> List[str]:
+    profile_queries = PROFILE_POLICY_QUERIES.get(profile, PROFILE_POLICY_QUERIES["RURAL_MODERATE"])
+    tags = _compute_locality_tags(locality, profile) if locality is not None else frozenset()
+    ranked = sorted(
+        enumerate(profile_queries),
+        key=lambda item: (-sum(1 for tag in item[1][1] if tag in tags), item[0]),
+    )
+    return [query for _, (query, _) in ranked[:n]]
 
 
 def _queries_for_profile(profile: str, locality: Optional[FullLocalityInput]) -> List[str]:
-    profile_queries = PROFILE_POLICY_QUERIES.get(profile, PROFILE_POLICY_QUERIES["RURAL_MODERATE"])
-    suffix = _profile_query_suffix(locality) if locality is not None else ""
-    if not suffix:
-        return UNIVERSAL_POLICY_QUERIES + profile_queries
-    profiled = [f"{query} {suffix}" for query in profile_queries]
-    return UNIVERSAL_POLICY_QUERIES + profiled
+    return UNIVERSAL_POLICY_QUERIES + _select_queries(profile, locality)
 
 
 def _embedding_function():
@@ -264,9 +322,8 @@ def retrieve_chunks(
     """
     Return top-k chunks as dicts: ``id``, ``text``, ``metadata``, ``distance`` (if present).
 
-    ``locality`` is reserved for future query expansion; currently unused.
+    ``locality`` enables profile-specific query selection when provided.
     """
-    _ = locality
     if not query.strip():
         return []
     collection = _get_collection()

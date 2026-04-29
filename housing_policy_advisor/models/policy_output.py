@@ -5,6 +5,13 @@ from typing import List, Optional
 
 
 @dataclass
+class ComparableCommunity:
+    name: str
+    population: int
+    median_household_income: int
+
+
+@dataclass
 class PolicyRecommendation:
     rank: int
     policy_name: str
@@ -14,6 +21,7 @@ class PolicyRecommendation:
     implementation_timeline: str
     resource_requirements: str
     risks: List[str]
+    comparable_communities: List[ComparableCommunity]
     state_of_implementation: Optional[str] = None
     validation_flags: List[str] = field(default_factory=list)
 

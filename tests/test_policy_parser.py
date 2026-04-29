@@ -20,6 +20,13 @@ def test_parse_policy_json_roundtrip():
                     "implementation_timeline": "1 year",
                     "resource_requirements": "Low",
                     "risks": ["Risk"],
+                    "comparable_communities": [
+                        {
+                            "name": "Comparable City, VA",
+                            "population": 95000,
+                            "median_household_income": 63000,
+                        }
+                    ],
                     "validation_flags": [],
                 }
             ],
@@ -36,12 +43,14 @@ def test_parse_policy_json_roundtrip():
     assert len(result.recommendations) == 1
     assert result.recommendations[0].policy_name == "Test policy"
     assert result.recommendations[0].risks == ["Risk"]
+    assert result.recommendations[0].comparable_communities[0].name == "Comparable City, VA"
 
 
 def test_parse_fenced_json():
     text = """```json
-{"locality": "L", "generated_date": "2026-04-16", "recommendations": [{"rank": 1, "policy_name": "P", "predicted_outcome": "O", "confidence_score": 0.6, "evidence_basis": ["e"], "implementation_timeline": "t", "resource_requirements": "Medium", "risks": ["r"], "validation_flags": []}], "validation_summary": {"grounding_score": 0.8, "avg_confidence": 0.6, "completeness": 1.0, "passed": true}}
+{"locality": "L", "generated_date": "2026-04-16", "recommendations": [{"rank": 1, "policy_name": "P", "predicted_outcome": "O", "confidence_score": 0.6, "evidence_basis": ["e"], "implementation_timeline": "t", "resource_requirements": "Medium", "risks": ["r"], "comparable_communities": [{"name": "C", "population": 10000, "median_household_income": 50000}], "validation_flags": []}], "validation_summary": {"grounding_score": 0.8, "avg_confidence": 0.6, "completeness": 1.0, "passed": true}}
 ```"""
     result = parse_policy_recommendations_json(text)
     assert result.recommendations[0].policy_name == "P"
     assert result.recommendations[0].risks == ["r"]
+    assert result.recommendations[0].comparable_communities[0].population == 10000

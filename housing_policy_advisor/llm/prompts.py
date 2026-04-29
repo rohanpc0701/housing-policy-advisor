@@ -58,6 +58,7 @@ Rules (strictly enforced):
 4) Return ONLY valid JSON — no prose, no markdown, no commentary.
 5) Provide at least 5 recommendations ranked 1..N. More is better if evidence supports it.
 6) state_of_implementation: name a real U.S. state where this policy is actively implemented — proves legal feasibility. Use null if unknown.
+7) comparable_communities: include real locality names with population and median_household_income close to the target locality.
 
 Output schema:
 {schema}

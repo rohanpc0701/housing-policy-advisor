@@ -104,7 +104,13 @@ The pipeline must produce a JSON array of `PolicyRecommendation` objects:
   "predicted_outcome": "string",
   "confidence_score": 0.75,
   "evidence_basis": ["chunk_id_1", "chunk_id_2"],
-  "comparable_communities": ["locality_a", "locality_b"],
+  "comparable_communities": [
+    {
+      "name": "locality_a",
+      "population": 100000,
+      "median_household_income": 65000
+    }
+  ],
   "implementation_timeline": "string",
   "resource_requirements": "Low | Medium | High",
   "risks": ["string"],
@@ -191,3 +197,22 @@ When no explicit task is given, work in this order:
 - Together provider integration shipped:
   - `LLM_PROVIDER` default set to `together`
   - provider/model metadata added to output JSON (`metadata.llm_provider`, `metadata.llm_model`)
+
+## Session Addendum (2026-04-26, later)
+
+- Added ingestion CLI convenience flag:
+  - `python -m housing_policy_advisor.rag.ingest --input-dir <dir>`
+  - Prints total chunk count before/after write.
+- Added corpus expansion ingestion run using `data/corpus_additions/`:
+  - 8 PDFs indexed
+  - +205 chunks
+  - Chroma total: 6604 → 6809
+- Added retrieval-only validation tests for new corpus docs:
+  - `tests/test_corpus_expansion.py` (3 tests, no LLM calls)
+- Added `.env.example` with HUD/BLS key placeholders and registration links.
+- Added startup warnings for missing HUD/BLS keys (non-fatal) + tests:
+  - `tests/test_config_warnings.py`
+- Confirmed QCEW references removed; BLS LAUS remains active.
+- Replaced manual/hardcoded permit input behavior with Census BPS-derived `building_permits_annual` in active data path.
+- Removed `--building-permits-annual 250` from docs examples to avoid stale guidance.
+- End-of-session test baseline: `84 passed`.

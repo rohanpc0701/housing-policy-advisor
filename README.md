@@ -75,7 +75,6 @@ python3 -m housing_policy_advisor \
   --governance-form county \
   --state-abbr va \
   --housing-dept-present true \
-  --building-permits-annual 250 \
   --retrieval-k 8 \
   --format json \
   --out-dir .

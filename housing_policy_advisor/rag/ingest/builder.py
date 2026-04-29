@@ -39,7 +39,7 @@ class IngestBuilder:
             dry_run: if True, process and report but don't write to Chroma
 
         Returns:
-            Total chunks added (0 on dry_run)
+            Total chunks produced. On dry_run, no chunks are written.
         """
         processor = PDFProcessor()
         chunker = TextChunker()
@@ -80,7 +80,7 @@ class IngestBuilder:
 
         if dry_run:
             logger.info("Dry run: skipping Chroma write.")
-            return 0
+            return len(all_chunks)
 
         logger.info("Generating embeddings…")
         texts = [c["text"] for c in all_chunks]

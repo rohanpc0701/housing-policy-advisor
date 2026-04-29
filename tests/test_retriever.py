@@ -6,6 +6,8 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
+from housing_policy_advisor.models.locality_input import FullLocalityInput
+
 
 def _make_query_result(ids, docs, metas, dists):
     return {
@@ -21,6 +23,25 @@ def _named(name: str):
     obj = MagicMock()
     obj.name = name
     return obj
+
+
+def _locality(**overrides):
+    values = {
+        "locality_name": "Test County",
+        "state_name": "Virginia",
+        "state_fips": "51",
+        "county_fips": "001",
+        "governance_form": "county",
+        "population_estimate": 80_000,
+        "median_household_income": 60_000,
+        "cost_burden_rate": 0.30,
+        "homeownership_rate": 0.60,
+        "vacancy_rate": 0.05,
+        "pct_built_pre_1980": 0.30,
+        "building_permits_annual": 250,
+    }
+    values.update(overrides)
+    return FullLocalityInput(**values)
 
 
 @patch("housing_policy_advisor.rag.retriever._persistent_client")
@@ -82,3 +103,65 @@ def test_retrieve_texts_only(mock_ef, mock_client):
     from housing_policy_advisor.rag.retriever import retrieve
     texts = retrieve("housing policy")
     assert texts == ["policy text"]
+
+
+def test_compute_locality_tags_strict_thresholds():
+    from housing_policy_advisor.rag.retriever import _compute_locality_tags
+
+    boundary = _locality(cost_burden_rate=0.42, building_permits_annual=None)
+    tags = _compute_locality_tags(boundary, "COLLEGE_TOWN")
+    assert "high_burden" not in tags
+    assert "low_supply" in tags
+
+    above = _locality(cost_burden_rate=0.43, building_permits_annual=501)
+    tags = _compute_locality_tags(above, "COLLEGE_TOWN")
+    assert "high_burden" in tags
+    assert "rapid_growth" in tags
+    assert "low_supply" not in tags
+
+
+def test_select_queries_differentiates_college_towns_by_metrics():
+    from housing_policy_advisor.rag.retriever import _select_queries
+
+    high_burden = _locality(
+        cost_burden_rate=0.48,
+        homeownership_rate=0.40,
+        building_permits_annual=75,
+    )
+    moderate_burden = _locality(
+        cost_burden_rate=0.30,
+        homeownership_rate=0.55,
+        building_permits_annual=400,
+    )
+
+    assert _select_queries("COLLEGE_TOWN", high_burden) != _select_queries("COLLEGE_TOWN", moderate_burden)
+
+
+def test_select_queries_differentiates_rural_low_income_by_supply():
+    from housing_policy_advisor.rag.retriever import _select_queries
+
+    supply_constrained = _locality(
+        population_estimate=30_000,
+        median_household_income=40_000,
+        building_permits_annual=None,
+    )
+    steady_supply = _locality(
+        population_estimate=30_000,
+        median_household_income=40_000,
+        building_permits_annual=400,
+    )
+
+    assert _select_queries("RURAL_LOW_INCOME", supply_constrained) != _select_queries("RURAL_LOW_INCOME", steady_supply)
+
+
+def test_queries_for_profile_keeps_universal_queries_and_removes_numeric_suffix():
+    from housing_policy_advisor.rag.retriever import UNIVERSAL_POLICY_QUERIES, _queries_for_profile
+
+    queries = _queries_for_profile(
+        "COLLEGE_TOWN",
+        _locality(cost_burden_rate=0.48, homeownership_rate=0.40, building_permits_annual=75),
+    )
+
+    assert queries[: len(UNIVERSAL_POLICY_QUERIES)] == UNIVERSAL_POLICY_QUERIES
+    assert len(queries) == len(UNIVERSAL_POLICY_QUERIES) + 7
+    assert not any("median income" in query or "cost burden 48" in query for query in queries)

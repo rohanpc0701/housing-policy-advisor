@@ -33,7 +33,7 @@ def test_ingest_dry_run(pdf_dir, tmp_path):
             {"academic": pdf_dir},
             dry_run=True,
         )
-    assert total == 0
+    assert total > 0
     mock_db_instance.add_chunks.assert_not_called()
 
 

@@ -4,12 +4,14 @@ from __future__ import annotations
 
 from unittest.mock import patch, MagicMock
 
+import httpx
 import pytest
 
 from housing_policy_advisor.data.clients.census_client import (
     _clean_int,
     _clean_float,
     _pct,
+    _fetch_building_permits_annual,
     fetch_acs_county_data,
 )
 
@@ -144,3 +146,66 @@ def test_fetch_acs_suppressed_income(fake_acs_response):
         result = fetch_acs_county_data("51", "001")
 
     assert result.get("median_household_income") is None
+
+
+_BPS_SAMPLE_TXT = (
+    "Survey,FIPS,FIPS,Region,Division,County,,1-unit,,,2-units,,,3-4 units,,,5+ units\n"
+    "Date,State,County,Code,Code,Name,Bldgs,Units,Value,Bldgs,Units,Value,Bldgs,Units,Value,Bldgs,Units,Value\n"
+    " \n"
+    "2022,51,121,3,5,Montgomery County             ,247,247,66257277,8,16,3081000,0,0,0,4,107,18392029\n"
+    "2022,51,059,3,5,Fairfax County                ,980,980,244053741,0,0,0,0,0,0,21,1007,149586961\n"
+)
+
+
+def _bps_mock_client(text: str):
+    """Return a context-manager httpx.Client mock that serves `text` for any GET."""
+    class _Resp:
+        def raise_for_status(self):
+            return None
+        @property
+        def text(self):
+            return text
+
+    class _Client:
+        def __enter__(self): return self
+        def __exit__(self, *_): return False
+        def get(self, *args, **kwargs): return _Resp()
+
+    return _Client()
+
+
+def _bps_error_client():
+    """Client that raises on GET (simulates network or HTTP error)."""
+    class _Client:
+        def __enter__(self): return self
+        def __exit__(self, *_): return False
+        def get(self, *args, **kwargs):
+            raise httpx.RequestError("connection failed")
+
+    return _Client()
+
+
+def test_fetch_building_permits_known_county_returns_int():
+    """Parses flat-file CSV and sums 1u+2u+3-4u+5+ units for matching FIPS."""
+    with patch("housing_policy_advisor.data.clients.census_client.httpx.Client",
+               return_value=_bps_mock_client(_BPS_SAMPLE_TXT)):
+        out = _fetch_building_permits_annual("51", "121")
+    # 247 (1u) + 16 (2u) + 0 (3-4u) + 107 (5+) = 370
+    assert isinstance(out, int)
+    assert out == 370
+
+
+def test_fetch_building_permits_unknown_county_returns_none():
+    """Returns None when FIPS not present in flat file."""
+    with patch("housing_policy_advisor.data.clients.census_client.httpx.Client",
+               return_value=_bps_mock_client(_BPS_SAMPLE_TXT)):
+        out = _fetch_building_permits_annual("99", "999")
+    assert out is None
+
+
+def test_fetch_building_permits_http_error_returns_none():
+    """Returns None on network / HTTP error — never raises."""
+    with patch("housing_policy_advisor.data.clients.census_client.httpx.Client",
+               return_value=_bps_error_client()):
+        out = _fetch_building_permits_annual("51", "121")
+    assert out is None
