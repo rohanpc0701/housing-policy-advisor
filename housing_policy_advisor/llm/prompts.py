@@ -5,9 +5,32 @@ from __future__ import annotations
 import json
 from typing import Any, Dict, List
 
+from housing_policy_advisor import config
 from housing_policy_advisor.llm.policy_response_parser import policy_json_schema_instructions
 
 MAX_EVIDENCE_CHARS_PER_CHUNK = 800
+
+
+def _format_comparable_guidance(locality_data: Dict[str, Any]) -> str:
+    population = locality_data.get("population_estimate")
+    income = locality_data.get("median_household_income")
+    if not population or not income:
+        return (
+            "Comparable-community constraint: use the closest available real localities by "
+            "population and median household income. Do not use large metro examples unless "
+            "the target locality is also a large metro."
+        )
+
+    pop_low = int(round(float(population) * (1 - config.POPULATION_MATCH_TOLERANCE)))
+    pop_high = int(round(float(population) * (1 + config.POPULATION_MATCH_TOLERANCE)))
+    income_low = int(round(float(income) * (1 - config.INCOME_MATCH_TOLERANCE)))
+    income_high = int(round(float(income) * (1 + config.INCOME_MATCH_TOLERANCE)))
+    return (
+        "Comparable-community constraint: every comparable_communities entry MUST have "
+        f"population between {pop_low:,} and {pop_high:,}, and median_household_income "
+        f"between {income_low:,} and {income_high:,}. Do not use large metro examples "
+        "unless they fall inside both ranges."
+    )
 
 
 def policy_recommendation_prompt(
@@ -30,6 +53,7 @@ def policy_recommendation_prompt(
 
     evidence_block = "\n\n---\n\n".join(evidence_lines) if evidence_lines else "(no retrieved evidence)"
     schema = policy_json_schema_instructions()
+    comparable_guidance = _format_comparable_guidance(locality_data)
     return f"""You are a housing policy advisor for local governments.
 Use ONLY the retrieved evidence chunks below to generate ranked policy recommendations.
 Do not draw on training knowledge for policy names — every recommended policy must appear in the chunks.
@@ -59,6 +83,7 @@ Rules (strictly enforced):
 5) Provide at least 5 recommendations ranked 1..N. More is better if evidence supports it.
 6) state_of_implementation: name a real U.S. state where this policy is actively implemented — proves legal feasibility. Use null if unknown.
 7) comparable_communities: include real locality names with population and median_household_income close to the target locality.
+8) {comparable_guidance}
 
 Output schema:
 {schema}
