@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from housing_policy_advisor.rag.ingest.chunking import TextChunker
+from housing_policy_advisor.rag.ingest.chunking import TextChunker, make_chunk_id
 
 
 @pytest.fixture()
@@ -64,3 +64,63 @@ def test_chunk_text_field_non_empty(chunker):
     chunks = chunker.chunk_pages([_page("Non-trivial content about affordable housing policy.")], category="case_studies")
     for c in chunks:
         assert c["text"].strip()
+
+
+def test_make_chunk_id_stable():
+    kwargs = {
+        "source_file": "ADU Brief.pdf",
+        "category": "implementation_toolkit",
+        "page_num": 2,
+        "chunk_index": 1,
+        "text": "Accessory dwelling unit policy text.",
+    }
+    assert make_chunk_id(**kwargs) == make_chunk_id(**kwargs)
+
+
+def test_make_chunk_id_changes_with_text():
+    first = make_chunk_id(
+        source_file="ADU Brief.pdf",
+        category="implementation_toolkit",
+        page_num=2,
+        chunk_index=1,
+        text="Accessory dwelling unit policy text.",
+    )
+    second = make_chunk_id(
+        source_file="ADU Brief.pdf",
+        category="implementation_toolkit",
+        page_num=2,
+        chunk_index=1,
+        text="Different accessory dwelling unit policy text.",
+    )
+    assert first != second
+
+
+def test_make_chunk_id_long_filename_collision_protection():
+    stem = "A" * 80
+    first = make_chunk_id(
+        source_file=f"{stem}.pdf",
+        category="classifier",
+        page_num=1,
+        chunk_index=0,
+        text="First chunk text.",
+    )
+    second = make_chunk_id(
+        source_file=f"{stem}.pdf",
+        category="classifier",
+        page_num=1,
+        chunk_index=0,
+        text="Second chunk text.",
+    )
+    assert first != second
+    assert first.startswith("classifier_")
+
+
+def test_make_chunk_id_includes_category():
+    chunk_id = make_chunk_id(
+        source_file="Density Bonus.pdf",
+        category="implementation_toolkit",
+        page_num=1,
+        chunk_index=0,
+        text="Density bonus text.",
+    )
+    assert chunk_id.startswith("implementation_toolkit_Density_Bonus_")

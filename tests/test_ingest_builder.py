@@ -73,3 +73,78 @@ def test_ingest_limit(pdf_dir, tmp_path):
             limit=0,
         )
     assert total == 0
+
+
+def _metadata_from_builder_run(tmp_path, extra_metadata):
+    from housing_policy_advisor.rag.ingest.builder import IngestBuilder
+
+    pdf_dir = tmp_path / "classifier_docs"
+    pdf_dir.mkdir()
+    (pdf_dir / "doc.pdf").write_bytes(b"%PDF-1.4")
+
+    captured = {}
+
+    with patch("housing_policy_advisor.rag.ingest.builder.VectorDatabase") as MockDB, \
+         patch("housing_policy_advisor.rag.ingest.builder.EmbeddingService") as MockEmb, \
+         patch("housing_policy_advisor.rag.ingest.builder.PDFProcessor") as MockProcessor, \
+         patch("housing_policy_advisor.rag.ingest.builder.TextChunker") as MockChunker:
+        MockProcessor.return_value.extract_text.return_value = [
+            {
+                "page_number": 1,
+                "text": "Classifier policy text.",
+                "metadata": {"source_file": "doc.pdf"},
+            }
+        ]
+
+        def chunk_pages(pages, category=None):
+            captured["metadata"] = pages[0]["metadata"].copy()
+            captured["category"] = category
+            return [
+                {
+                    "chunk_id": "chunk_1",
+                    "text": pages[0]["text"],
+                    "metadata": pages[0]["metadata"].copy(),
+                }
+            ]
+
+        MockChunker.return_value.chunk_pages.side_effect = chunk_pages
+        mock_emb_instance = MockEmb.return_value
+        mock_db_instance = MockDB.return_value
+
+        builder = IngestBuilder.__new__(IngestBuilder)
+        builder.embedder = mock_emb_instance
+        builder.db = mock_db_instance
+
+        total = builder.ingest_directories(
+            {"implementation_toolkit": pdf_dir},
+            dry_run=True,
+            extra_metadata=extra_metadata,
+        )
+
+    assert total == 1
+    mock_db_instance.add_chunks.assert_not_called()
+    return captured["metadata"]
+
+
+def test_classifier_ingest_defaults_doc_type_unknown(tmp_path):
+    metadata = _metadata_from_builder_run(tmp_path, {"policy_class": "adu"})
+
+    assert metadata["policy_class"] == "adu"
+    assert metadata["doc_type"] == "unknown"
+
+
+def test_classifier_ingest_preserves_explicit_doc_type(tmp_path):
+    metadata = _metadata_from_builder_run(
+        tmp_path,
+        {"policy_class": "density_bonus", "doc_type": "example_policy"},
+    )
+
+    assert metadata["policy_class"] == "density_bonus"
+    assert metadata["doc_type"] == "example_policy"
+
+
+def test_legacy_ingest_does_not_add_classifier_doc_type(tmp_path):
+    metadata = _metadata_from_builder_run(tmp_path, {})
+
+    assert "policy_class" not in metadata
+    assert "doc_type" not in metadata

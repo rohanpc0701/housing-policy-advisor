@@ -6,6 +6,7 @@ from typing import Dict, List, Any
 from tqdm import tqdm
 
 from housing_policy_advisor import config
+from housing_policy_advisor.models.policy_class import CLASSIFIER_INGEST_VERSION, validate_policy_class
 from .pdf_processor import PDFProcessor
 from .chunking import TextChunker
 from .embeddings import EmbeddingService
@@ -29,6 +30,7 @@ class IngestBuilder:
         sources: Dict[str, Path],
         limit: int = None,
         dry_run: bool = False,
+        extra_metadata: Dict[str, Any] | None = None,
     ) -> int:
         """
         Ingest PDFs from *sources* (mapping of category → directory).
@@ -37,12 +39,20 @@ class IngestBuilder:
             sources: e.g. {"academic": Path("corpus/academic"), ...}
             limit: max PDFs to process (useful for quick iteration)
             dry_run: if True, process and report but don't write to Chroma
+            extra_metadata: optional metadata applied to every page before chunking
 
         Returns:
             Total chunks produced. On dry_run, no chunks are written.
         """
         processor = PDFProcessor()
         chunker = TextChunker()
+        extra_metadata = extra_metadata or {}
+        if extra_metadata.get("policy_class"):
+            validate_policy_class(str(extra_metadata["policy_class"]))
+        if extra_metadata.get("policy_class") and not extra_metadata.get("doc_type"):
+            extra_metadata["doc_type"] = "unknown"
+        if extra_metadata.get("policy_class") and not extra_metadata.get("ingest_version"):
+            extra_metadata["ingest_version"] = CLASSIFIER_INGEST_VERSION
 
         all_chunks: List[Dict[str, Any]] = []
         pdf_count = 0
@@ -65,6 +75,9 @@ class IngestBuilder:
                     break
                 try:
                     pages = processor.extract_text(pdf_path)
+                    if extra_metadata:
+                        for page in pages:
+                            page["metadata"].update(extra_metadata)
                     chunks = chunker.chunk_pages(pages, category=category)
                     all_chunks.extend(chunks)
                     pdf_count += 1

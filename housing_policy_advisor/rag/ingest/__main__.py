@@ -52,6 +52,27 @@ def main(argv=None):
         help="Process PDFs but skip writing to Chroma",
     )
     parser.add_argument(
+        "--policy-class",
+        choices=("density_bonus", "adu", "affordable_dwelling_unit"),
+        default=None,
+        help="Optional classifier metadata tag for all ingested chunks",
+    )
+    parser.add_argument(
+        "--doc-type",
+        default=None,
+        help='Optional classifier document type, e.g. "example_policy", "guidebook", or "definition"',
+    )
+    parser.add_argument(
+        "--locality",
+        default=None,
+        help='Optional classifier locality tag, e.g. "fairfax" or "dc"',
+    )
+    parser.add_argument(
+        "--ingest-version",
+        default=None,
+        help="Optional classifier ingest version tag; defaults to classifier_v1 when --policy-class is used",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Enable DEBUG logging",
@@ -87,7 +108,22 @@ def main(argv=None):
 
     builder = IngestBuilder(reset=args.reset)
     before = builder.db.get_stats()["total_chunks"]
-    total = builder.ingest_directories(sources, limit=args.limit, dry_run=args.dry_run)
+    extra_metadata = {
+        key: value
+        for key, value in {
+            "policy_class": args.policy_class,
+            "doc_type": args.doc_type,
+            "locality": args.locality,
+            "ingest_version": args.ingest_version,
+        }.items()
+        if value is not None
+    }
+    total = builder.ingest_directories(
+        sources,
+        limit=args.limit,
+        dry_run=args.dry_run,
+        extra_metadata=extra_metadata,
+    )
 
     if args.dry_run:
         print(f"Dry run complete. Would have indexed {total} chunks.")

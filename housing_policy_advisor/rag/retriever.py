@@ -12,6 +12,7 @@ from typing import Any, Dict, FrozenSet, List, Optional, Tuple
 
 from housing_policy_advisor import config
 from housing_policy_advisor.models.locality_input import FullLocalityInput
+from housing_policy_advisor.models.policy_class import SUPPORTED_POLICY_CLASSES, validate_policy_class
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +23,23 @@ UNIVERSAL_POLICY_QUERIES = [
 ]
 
 TaggedQuery = Tuple[str, FrozenSet[str]]
+
+CLASS_QUERY_EXPANSIONS: Dict[str, str] = {
+    "adu": (
+        "accessory dwelling unit secondary unit garage conversion "
+        "backyard cottage detached accessory apartment by-right "
+        "owner occupancy"
+    ),
+    "affordable_dwelling_unit": (
+        "affordable dwelling unit ordinance inclusionary mandate "
+        "AMI set-aside percentage developer requirement Fairfax "
+        "below market affordable units income restricted"
+    ),
+    "density_bonus": (
+        "density bonus additional floor area height bonus zoning bonus "
+        "affordable housing set aside increased density incentive"
+    ),
+}
 
 
 PROFILE_POLICY_QUERIES: Dict[str, List[TaggedQuery]] = {
@@ -368,6 +386,49 @@ def retrieve_chunks(
         include=["documents", "metadatas", "distances"],
     )
     return _format_query_results(res, retrieval_pass="single", query=query)
+
+
+def retrieve_classifier_chunks(
+    query: str,
+    policy_class: Optional[str] = None,
+    k: int = 5,
+) -> List[Dict[str, Any]]:
+    """
+    Retrieve evidence chunks for policy classification.
+
+    Metadata filtering is primary when ``policy_class`` is provided. When no
+    class is provided, retrieval runs once per supported class and returns
+    de-duplicated evidence grouped by each chunk's metadata.
+    """
+    if not query.strip():
+        return []
+    if k <= 0:
+        raise ValueError("k must be positive")
+
+    collection = _get_collection()
+    classes = [validate_policy_class(policy_class)] if policy_class else list(SUPPORTED_POLICY_CLASSES)
+
+    out: List[Dict[str, Any]] = []
+    for klass in classes:
+        expanded_query = f"{query.strip()} {CLASS_QUERY_EXPANSIONS[klass]}"
+        res = collection.query(
+            query_texts=[expanded_query],
+            n_results=k,
+            where={"policy_class": klass},
+            include=["documents", "metadatas", "distances"],
+        )
+        out.extend(
+            _format_query_results(
+                res,
+                retrieval_pass="classifier",
+                query=expanded_query,
+                profile=klass,
+            )
+        )
+
+    merged = _dedupe_chunks(out)
+    merged.sort(key=lambda c: float("inf") if c.get("distance") is None else float(c["distance"]))
+    return merged
 
 
 def retrieve(query: str, k: int = 8, locality: Optional[FullLocalityInput] = None) -> List[str]:

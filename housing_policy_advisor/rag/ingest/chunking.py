@@ -1,4 +1,5 @@
 """Sentence-boundary aware text chunking with overlap."""
+import hashlib
 import logging
 import re
 from typing import List, Dict, Any
@@ -6,6 +7,31 @@ from typing import List, Dict, Any
 from housing_policy_advisor import config
 
 logger = logging.getLogger(__name__)
+
+
+def make_chunk_id(
+    *,
+    source_file: str,
+    category: str,
+    page_num: int,
+    chunk_index: int,
+    text: str,
+) -> str:
+    """
+    Create a stable, human-readable chunk ID with collision protection.
+
+    TODO: Legacy chunks already persisted in ChromaDB use the old ID format.
+    New ingestion uses this collision-resistant format. Do not re-ingest broad
+    legacy corpus folders during classifier work unless duplicate chunks are
+    intentionally accepted. A future full corpus rebuild should use an explicit
+    reset and this ID scheme consistently.
+    """
+    normalized_name = re.sub(r"\.[Pp][Dd][Ff]$", "", source_file)
+    normalized_name = re.sub(r"[^a-zA-Z0-9]+", "_", normalized_name).strip("_")
+    safe_filename = (normalized_name or "unknown")[:40]
+    safe_category = re.sub(r"[^a-zA-Z0-9]+", "_", category or "unknown").strip("_") or "unknown"
+    content_hash = hashlib.md5(text.encode("utf-8")).hexdigest()[:8]
+    return f"{safe_category}_{safe_filename}_{content_hash}_p{page_num}_c{chunk_index}"
 
 
 class TextChunker:
@@ -23,8 +49,8 @@ class TextChunker:
             return []
 
         page_num = metadata.get("page_number", 0)
-        source_file = metadata.get("source_file", "unknown")
-        safe_filename = source_file.replace(".pdf", "").replace(" ", "_").replace("/", "_")[:50]
+        source_file = str(metadata.get("source_file", "unknown"))
+        category = str(metadata.get("category", "unknown"))
 
         sentences = self._split_sentences(text)
         chunks: List[Dict[str, Any]] = []
@@ -41,9 +67,19 @@ class TextChunker:
                     "end_char": start_char + len(current_chunk),
                     "chunk_size": len(current_chunk),
                 })
+                chunk_text = current_chunk.strip()
+                # TODO: Existing persisted Chroma chunks use legacy IDs. Do not
+                # reset ChromaDB during classifier work; on a future intentional
+                # full corpus rebuild, use this ID scheme consistently.
                 chunks.append({
-                    "chunk_id": f"{safe_filename}_p{page_num}_c{chunk_index}",
-                    "text": current_chunk.strip(),
+                    "chunk_id": make_chunk_id(
+                        source_file=source_file,
+                        category=category,
+                        page_num=int(page_num),
+                        chunk_index=chunk_index,
+                        text=chunk_text,
+                    ),
+                    "text": chunk_text,
                     "metadata": chunk_meta,
                 })
                 overlap = self._get_overlap_text(current_chunk, self.chunk_overlap)
@@ -61,9 +97,19 @@ class TextChunker:
                 "end_char": start_char + len(current_chunk),
                 "chunk_size": len(current_chunk),
             })
+            chunk_text = current_chunk.strip()
+            # TODO: Existing persisted Chroma chunks use legacy IDs. Do not
+            # reset ChromaDB during classifier work; on a future intentional
+            # full corpus rebuild, use this ID scheme consistently.
             chunks.append({
-                "chunk_id": f"{safe_filename}_p{page_num}_c{chunk_index}",
-                "text": current_chunk.strip(),
+                "chunk_id": make_chunk_id(
+                    source_file=source_file,
+                    category=category,
+                    page_num=int(page_num),
+                    chunk_index=chunk_index,
+                    text=chunk_text,
+                ),
+                "text": chunk_text,
                 "metadata": chunk_meta,
             })
 

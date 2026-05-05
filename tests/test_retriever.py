@@ -165,3 +165,43 @@ def test_queries_for_profile_keeps_universal_queries_and_removes_numeric_suffix(
     assert queries[: len(UNIVERSAL_POLICY_QUERIES)] == UNIVERSAL_POLICY_QUERIES
     assert len(queries) == len(UNIVERSAL_POLICY_QUERIES) + 7
     assert not any("median income" in query or "cost burden 48" in query for query in queries)
+
+
+@patch("housing_policy_advisor.rag.retriever._persistent_client")
+def test_retrieve_classifier_chunks_uses_policy_class_where_filter(mock_client):
+    collection = MagicMock()
+    collection.query.return_value = _make_query_result(
+        ids=["classifier_id"],
+        docs=["Accessory dwelling units allow secondary apartments."],
+        metas=[{"source_file": "adu.pdf", "policy_class": "adu"}],
+        dists=[0.1],
+    )
+    mock_client.return_value.list_collections.return_value = [_named("housing_policy_chunks")]
+    mock_client.return_value.get_collection.return_value = collection
+
+    from housing_policy_advisor.rag.retriever import retrieve_classifier_chunks
+
+    results = retrieve_classifier_chunks("accessory dwelling unit", policy_class="adu", k=3)
+
+    assert results[0]["id"] == "classifier_id"
+    kwargs = collection.query.call_args.kwargs
+    assert kwargs["where"] == {"policy_class": "adu"}
+    assert kwargs["n_results"] == 3
+    assert "accessory dwelling unit" in kwargs["query_texts"][0]
+
+
+@patch("housing_policy_advisor.rag.retriever._persistent_client")
+def test_retrieve_classifier_chunks_without_class_queries_each_supported_class(mock_client):
+    collection = MagicMock()
+    collection.query.return_value = _make_query_result(ids=[], docs=[], metas=[], dists=[])
+    mock_client.return_value.list_collections.return_value = [_named("housing_policy_chunks")]
+    mock_client.return_value.get_collection.return_value = collection
+
+    from housing_policy_advisor.models.policy_class import SUPPORTED_POLICY_CLASSES
+    from housing_policy_advisor.rag.retriever import retrieve_classifier_chunks
+
+    retrieve_classifier_chunks("dwelling unit ordinance", k=2)
+
+    assert collection.query.call_count == len(SUPPORTED_POLICY_CLASSES)
+    where_filters = [call.kwargs["where"] for call in collection.query.call_args_list]
+    assert where_filters == [{"policy_class": klass} for klass in SUPPORTED_POLICY_CLASSES]

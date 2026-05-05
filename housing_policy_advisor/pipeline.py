@@ -11,6 +11,7 @@ from housing_policy_advisor import config
 from housing_policy_advisor.data.locality_profile import build_full_input
 from housing_policy_advisor.llm.groq_client import get_model_name, get_provider_name
 from housing_policy_advisor.llm.policy_advisor import PolicyAdvisor
+from housing_policy_advisor.formatting import format_recommendations_narrative, format_recommendations_table
 from housing_policy_advisor.models.locality_input import FullLocalityInput
 from housing_policy_advisor.models.policy_output import PolicyRecommendationsResult
 
@@ -76,8 +77,11 @@ def run_full(
     housing_dept_present: Optional[bool] = None,
     building_permits_annual: Optional[int] = None,
     retrieval_k: int = 15,
+    output_format: str = "json",
     out_dir: Optional[Path] = None,
 ) -> List[Path]:
+    if output_format not in {"json", "table", "narrative"}:
+        raise ValueError("output_format must be one of: json, table, narrative")
     out_dir = out_dir or Path(".")
     out_dir.mkdir(parents=True, exist_ok=True)
     slug = slugify_locality(locality_name, state_abbr)
@@ -102,4 +106,13 @@ def run_full(
 
     json_path = out_dir / f"policy_recommendations_{slug}.json"
     json_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    return [json_path]
+    paths = [json_path]
+    if output_format == "table":
+        table_path = out_dir / f"policy_recommendations_{slug}.txt"
+        table_path.write_text(format_recommendations_table(result), encoding="utf-8")
+        paths.append(table_path)
+    elif output_format == "narrative":
+        narrative_path = out_dir / f"policy_recommendations_{slug}.txt"
+        narrative_path.write_text(format_recommendations_narrative(result), encoding="utf-8")
+        paths.append(narrative_path)
+    return paths
