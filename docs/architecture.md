@@ -97,10 +97,10 @@ The data clients intentionally return partial dictionaries. `build_full_input()`
 Located under `housing_policy_advisor/rag/`.
 
 - `retriever.py` opens the configured Chroma collection and returns chunks with metadata and distances
-- Retrieval currently uses a generic locality-aware semantic query, not field-aware filtering
-- The `locality` parameter is accepted by retrieval but is not used yet
+- Retrieval uses a locality-context pass plus profile- and field-tag-selected policy queries
+- The `locality` input selects a profile and ranks queries using available burden, supply, vacancy, ownership, income, growth, and housing-age signals
 
-This means retrieval is schema-light and depends heavily on corpus quality and embedding relevance.
+Retrieval remains schema-light and depends heavily on corpus quality and embedding relevance; the selected profile and queries are diagnostic routing aids, not proof that a recommendation is grounded.
 
 ### LLM Layer
 
@@ -157,9 +157,7 @@ This makes a working LLM provider key the hard dependency in the current recomme
 
 These are architectural realities that affect maintenance.
 
-- The README describes CLI flags and flows that are not implemented in the current CLI
 - The code no longer has a documented non-LLM recommendation path
-- `pipeline.py` still contains a legacy output adapter for modules not present in this repository
 - `config.py` exposes validation threshold constants that the current validator does not consume
 
 ## Test Coverage Shape

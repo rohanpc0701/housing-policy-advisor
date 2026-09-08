@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 520" role="img" aria-labelledby="title desc">
+  <title id="title">Housing Policy Advisor architecture</title>
+  <desc id="desc">A locality data path and a document ingestion and retrieval path merge before structured language-model generation and grounding validation.</desc>
+  <defs>
+    <style>
+      .title { fill: #f8fafc; font: 700 22px system-ui, sans-serif; }
+      .lane { fill: #94a3b8; font: 600 13px system-ui, sans-serif; letter-spacing: 1px; }
+      .label { fill: #f8fafc; font: 600 14px system-ui, sans-serif; }
+      .detail { fill: #cbd5e1; font: 12px system-ui, sans-serif; }
+      .box { fill: #172033; stroke: #60a5fa; stroke-width: 2; rx: 12; }
+      .data { stroke: #34d399; }
+      .rag { stroke: #fbbf24; }
+      .merge { stroke: #a78bfa; }
+      .edge { fill: none; stroke: #94a3b8; stroke-width: 2.5; marker-end: url(#arrow); }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <rect width="1120" height="520" fill="#0f172a" rx="16"/>
+  <text class="title" x="560" y="42" text-anchor="middle">Housing Policy Advisor</text>
+
+  <text class="lane" x="42" y="96">LOCALITY DATA PATH</text>
+  <rect class="box data" x="40" y="116" width="180" height="78"/>
+  <text class="label" x="130" y="148" text-anchor="middle">Census · HUD · BLS</text>
+  <text class="detail" x="130" y="171" text-anchor="middle">public-data clients</text>
+
+  <rect class="box data" x="290" y="116" width="190" height="78"/>
+  <text class="label" x="385" y="148" text-anchor="middle">FullLocalityInput</text>
+  <text class="detail" x="385" y="171" text-anchor="middle">merged typed profile</text>
+  <path class="edge" d="M220 155 H290"/>
+
+  <text class="lane" x="42" y="270">EVIDENCE PATH</text>
+  <rect class="box rag" x="40" y="290" width="180" height="78"/>
+  <text class="label" x="130" y="322" text-anchor="middle">Policy PDFs</text>
+  <text class="detail" x="130" y="345" text-anchor="middle">extract · chunk · embed</text>
+
+  <rect class="box rag" x="290" y="290" width="190" height="78"/>
+  <text class="label" x="385" y="322" text-anchor="middle">ChromaDB</text>
+  <text class="detail" x="385" y="345" text-anchor="middle">persisted evidence</text>
+  <path class="edge" d="M220 329 H290"/>
+
+  <rect class="box rag" x="550" y="290" width="180" height="78"/>
+  <text class="label" x="640" y="322" text-anchor="middle">Retrieval</text>
+  <text class="detail" x="640" y="345" text-anchor="middle">locality-aware chunks</text>
+  <path class="edge" d="M480 329 H550"/>
+
+  <rect class="box merge" x="550" y="116" width="180" height="78"/>
+  <text class="label" x="640" y="148" text-anchor="middle">Prompt Context</text>
+  <text class="detail" x="640" y="171" text-anchor="middle">profile + evidence</text>
+  <path class="edge" d="M480 155 H550"/>
+  <path class="edge" d="M640 290 V194"/>
+
+  <rect class="box merge" x="800" y="116" width="270" height="78"/>
+  <text class="label" x="935" y="146" text-anchor="middle">Structured Generation</text>
+  <text class="detail" x="935" y="169" text-anchor="middle">Together default · Groq fallback</text>
+  <path class="edge" d="M730 155 H800"/>
+
+  <rect class="box merge" x="800" y="290" width="270" height="78"/>
+  <text class="label" x="935" y="320" text-anchor="middle">Parse + Grounding Validation</text>
+  <text class="detail" x="935" y="343" text-anchor="middle">typed recommendations + flags</text>
+  <path class="edge" d="M935 194 V290"/>
+
+  <rect class="box data" x="800" y="420" width="270" height="58"/>
+  <text class="label" x="935" y="455" text-anchor="middle">JSON recommendation artifact</text>
+  <path class="edge" d="M935 368 V420"/>
+
+  <text class="detail" x="640" y="397" text-anchor="middle">If retrieval is unavailable, generation continues without evidence and is flagged.</text>
+</svg>
