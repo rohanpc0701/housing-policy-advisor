@@ -4,7 +4,7 @@ An evidence-aware recommendation pipeline for local housing-policy analysis. It 
 
 `Census + HUD + BLS · ChromaDB · Structured Generation · Grounding Validation`
 
-[Architecture details](docs/architecture.md) · [Repository](https://github.com/rohanpc0701/housing-policy-advisor)
+[Architecture details](docs/architecture.md) · [Repository](https://github.com/RohanChavan0701/housing-policy-advisor)
 
 ![Housing Policy Advisor architecture](docs/architecture.svg)
 
